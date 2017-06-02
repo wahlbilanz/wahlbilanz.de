@@ -1,0 +1,3 @@
+csplit overview '/^$/' '{*}'
+
+for i in xx*; do echo $i; dir=$(\grep '==' $i | sed 's/== \([0-9-]\+\) ==/\1/'); [ -z "$dir" ] && echo "skipping $i" && continue; title=$(\grep 'Title' $i | sed 's/.*Title: //'); sitzung=$(\grep 'Sitzung des Deutschen Bundestages' $i | sed 's/> //'); datum=$(\grep '> am .* 20' $i | sed 's/> //');  mkdir -p $dir; cp $i $dir/index.html; echo "* [$title]($dir/) ($sitzung $datum)" >> index.html; done
