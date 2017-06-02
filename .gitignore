@@ -39,3 +39,7 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
+_site
+.sass-cache
+_drafts
+.ruby-version
