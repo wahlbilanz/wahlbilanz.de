@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Bundeswehreinsatz OAE
+categories:
+ - Bundeswehr
+ - Ausland
+tags:
+ - Bundeswehr
+ - Ausland
 
 ---
 

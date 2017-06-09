@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Bundeswehreinsatz in Darfur
+categories:
+ - Bundeswehr
+ - Ausland
+tags:
+ - Bundeswehr
+ - Ausland
 
 ---
 

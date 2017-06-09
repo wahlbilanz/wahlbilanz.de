@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Änderung des Abgeordnetengesetzes
+categories:
+ - Politik
+tags:
+ - Politik
 
 ---
 

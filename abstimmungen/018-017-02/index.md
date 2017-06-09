@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Militärische Ausbildungsmission in Mali
+categories:
+ - Bundeswehr
+ - Ausland
+tags:
+ - Bundeswehr
+ - Ausland
 
 ---
 

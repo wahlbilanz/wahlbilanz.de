@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Bundeswehreinsatz OAF (Türkei)
+categories:
+ - Bundeswehr
+ - Ausland
+tags:
+ - Bundeswehr
+ - Ausland
 
 ---
 

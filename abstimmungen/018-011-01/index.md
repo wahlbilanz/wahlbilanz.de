@@ -1,6 +1,14 @@
 ---
 layout: page
 title: Gentechnisch veränderte Maislinie 1507 für den Anbau in der EU
+categories:
+ - Ernährung
+ - Landwirtschaft
+ - Gentechnik
+ tags:
+ - Ernährung
+ - Landwirtschaft
+ - Gentechnik
 
 ---
 

@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Bundeswehreinsatz in Afghanistan (ISAF)
+categories:
+ - Bundeswehr
+ - Ausland
+tags:
+ - Bundeswehr
+ - Ausland
 
 ---
 
