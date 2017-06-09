@@ -10,12 +10,12 @@ title: Änderung des Zweiten Verkehrsteueränderungsgesetzes
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=459](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=459)
     * [http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html](http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html)
 * Data: 
-    * [Abstimmungsergebnis 20170324_2-data.pdf](/abstimmungsliste/20170324_2-data.pdf)
-    * [Abstimmungsergebnis 20170324_2_xls-data.csv](/abstimmungsliste/analyses/20170324_2_xls-data.csv)
+    * [Abstimmungsergebnis 20170324_2-data.pdf](/res/abstimmungsliste/20170324_2-data.pdf)
+    * [Abstimmungsergebnis 20170324_2_xls-data.csv](/res/abstimmungsliste/analyses/20170324_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/11235.pdf](http://dip21.bundestag.de/dip21/btd/18/112/1811235.pdf) ([local copy](/abstimmungsdaten/018-226-02/1811235.pdf))
-    * [Drucksache 18/11560.pdf](http://dip21.bundestag.de/dip21/btd/18/115/1811560.pdf) ([local copy](/abstimmungsdaten/018-226-02/1811560.pdf))
-    * [Drucksache 18/11643.pdf](http://dip21.bundestag.de/dip21/btd/18/116/1811643.pdf) ([local copy](/abstimmungsdaten/018-226-02/1811643.pdf))
+    * [Drucksache 18/11235.pdf](http://dip21.bundestag.de/dip21/btd/18/112/1811235.pdf) ([local copy](/res/abstimmungsdaten/018-226-02/1811235.pdf))
+    * [Drucksache 18/11560.pdf](http://dip21.bundestag.de/dip21/btd/18/115/1811560.pdf) ([local copy](/res/abstimmungsdaten/018-226-02/1811560.pdf))
+    * [Drucksache 18/11643.pdf](http://dip21.bundestag.de/dip21/btd/18/116/1811643.pdf) ([local copy](/res/abstimmungsdaten/018-226-02/1811643.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

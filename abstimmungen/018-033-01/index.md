@@ -10,10 +10,10 @@ title: Kooperationen bei Nutzung atomarer Technologien
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=262](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=262)
     * [http://www.abgeordnetenwatch.de/kuendigung_der_bilateralen_kooperationen_im_bereich_der_nutzung_atomarer_technologien-1105-601.html](http://www.abgeordnetenwatch.de/kuendigung_der_bilateralen_kooperationen_im_bereich_der_nutzung_atomarer_technologien-1105-601.html)
 * Data: 
-    * [Abstimmungsergebnis 20140508_1-data.pdf](/abstimmungsliste/20140508_1-data.pdf)
-    * [Abstimmungsergebnis 20140508_1_xls-data.csv](/abstimmungsliste/analyses/20140508_1_xls-data.csv)
+    * [Abstimmungsergebnis 20140508_1-data.pdf](/res/abstimmungsliste/20140508_1-data.pdf)
+    * [Abstimmungsergebnis 20140508_1_xls-data.csv](/res/abstimmungsliste/analyses/20140508_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01336.pdf](http://dip21.bundestag.de/dip21/btd/18/013/1801336.pdf) ([local copy](/abstimmungsdaten/018-033-01/1801336.pdf))
+    * [Drucksache 18/01336.pdf](http://dip21.bundestag.de/dip21/btd/18/013/1801336.pdf) ([local copy](/res/abstimmungsdaten/018-033-01/1801336.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

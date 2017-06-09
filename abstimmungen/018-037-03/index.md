@@ -10,12 +10,12 @@ title: RV-Leistungsverbesserungsgesetz / 3. Änderungsantrag
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=274](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=274)
     * [http://www.abgeordnetenwatch.de/rentenpaket-1105-602.html](http://www.abgeordnetenwatch.de/rentenpaket-1105-602.html)
 * Data: 
-    * [Abstimmungsergebnis 20140523_3-data.pdf](/abstimmungsliste/20140523_3-data.pdf)
-    * [Abstimmungsergebnis 20140523_3_xls-data.csv](/abstimmungsliste/analyses/20140523_3_xls-data.csv)
+    * [Abstimmungsergebnis 20140523_3-data.pdf](/res/abstimmungsliste/20140523_3-data.pdf)
+    * [Abstimmungsergebnis 20140523_3_xls-data.csv](/res/abstimmungsliste/analyses/20140523_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00909.pdf](http://dip21.bundestag.de/dip21/btd/18/009/1800909.pdf) ([local copy](/abstimmungsdaten/018-037-03/1800909.pdf))
-    * [Drucksache 18/01489.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801489.pdf) ([local copy](/abstimmungsdaten/018-037-03/1801489.pdf))
-    * [Drucksache 18/01497.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801497.pdf) ([local copy](/abstimmungsdaten/018-037-03/1801497.pdf))
+    * [Drucksache 18/00909.pdf](http://dip21.bundestag.de/dip21/btd/18/009/1800909.pdf) ([local copy](/res/abstimmungsdaten/018-037-03/1800909.pdf))
+    * [Drucksache 18/01489.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801489.pdf) ([local copy](/res/abstimmungsdaten/018-037-03/1801489.pdf))
+    * [Drucksache 18/01497.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801497.pdf) ([local copy](/res/abstimmungsdaten/018-037-03/1801497.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

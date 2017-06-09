@@ -10,11 +10,11 @@ title: Verbot von Fracking in Deutschland
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=393](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=393)
     * [http://www.abgeordnetenwatch.de/fracking_verbot-1105-790.html](http://www.abgeordnetenwatch.de/fracking_verbot-1105-790.html)
 * Data: 
-    * [Abstimmungsergebnis 20160428_2-data.pdf](/abstimmungsliste/20160428_2-data.pdf)
-    * [Abstimmungsergebnis 20160428_2_xls-data.csv](/abstimmungsliste/analyses/20160428_2_xls-data.csv)
+    * [Abstimmungsergebnis 20160428_2-data.pdf](/res/abstimmungsliste/20160428_2-data.pdf)
+    * [Abstimmungsergebnis 20160428_2_xls-data.csv](/res/abstimmungsliste/analyses/20160428_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/04810.pdf](http://dip21.bundestag.de/dip21/btd/18/048/1804810.pdf) ([local copy](/abstimmungsdaten/018-167-02/1804810.pdf))
-    * [Drucksache 18/08113.pdf](http://dip21.bundestag.de/dip21/btd/18/081/1808113.pdf) ([local copy](/abstimmungsdaten/018-167-02/1808113.pdf))
+    * [Drucksache 18/04810.pdf](http://dip21.bundestag.de/dip21/btd/18/048/1804810.pdf) ([local copy](/res/abstimmungsdaten/018-167-02/1804810.pdf))
+    * [Drucksache 18/08113.pdf](http://dip21.bundestag.de/dip21/btd/18/081/1808113.pdf) ([local copy](/res/abstimmungsdaten/018-167-02/1808113.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,11 +10,11 @@ title: Bundeswehreinsatz Operation Active Fence (Türkei)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=325](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=325)
     * [http://www.abgeordnetenwatch.de/bundeswehreinsatz_zur_luftueberwachung_in_der_tuerkei-1105-709.html](http://www.abgeordnetenwatch.de/bundeswehreinsatz_zur_luftueberwachung_in_der_tuerkei-1105-709.html)
 * Data: 
-    * [Abstimmungsergebnis 20150129_2-data.pdf](/abstimmungsliste/20150129_2-data.pdf)
-    * [Abstimmungsergebnis 20150129_2_xls-data.csv](/abstimmungsliste/analyses/20150129_2_xls-data.csv)
+    * [Abstimmungsergebnis 20150129_2-data.pdf](/res/abstimmungsliste/20150129_2-data.pdf)
+    * [Abstimmungsergebnis 20150129_2_xls-data.csv](/res/abstimmungsliste/analyses/20150129_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/03698.pdf](http://dip21.bundestag.de/dip21/btd/18/036/1803698.pdf) ([local copy](/abstimmungsdaten/018-082-02/1803698.pdf))
-    * [Drucksache 18/03859.pdf](http://dip21.bundestag.de/dip21/btd/18/038/1803859.pdf) ([local copy](/abstimmungsdaten/018-082-02/1803859.pdf))
+    * [Drucksache 18/03698.pdf](http://dip21.bundestag.de/dip21/btd/18/036/1803698.pdf) ([local copy](/res/abstimmungsdaten/018-082-02/1803698.pdf))
+    * [Drucksache 18/03859.pdf](http://dip21.bundestag.de/dip21/btd/18/038/1803859.pdf) ([local copy](/res/abstimmungsdaten/018-082-02/1803859.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

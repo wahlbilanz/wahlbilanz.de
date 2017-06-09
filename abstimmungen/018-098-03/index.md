@@ -10,11 +10,11 @@ title: Pkw-Maut
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=334](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=334)
     * [http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html](http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html)
 * Data: 
-    * [Abstimmungsergebnis 20150327_3-data.pdf](/abstimmungsliste/20150327_3-data.pdf)
-    * [Abstimmungsergebnis 20150327_3_xls-data.csv](/abstimmungsliste/analyses/20150327_3_xls-data.csv)
+    * [Abstimmungsergebnis 20150327_3-data.pdf](/res/abstimmungsliste/20150327_3-data.pdf)
+    * [Abstimmungsergebnis 20150327_3_xls-data.csv](/res/abstimmungsliste/analyses/20150327_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/03990.pdf](http://dip21.bundestag.de/dip21/btd/18/039/1803990.pdf) ([local copy](/abstimmungsdaten/018-098-03/1803990.pdf))
-    * [Drucksache 18/04455.pdf](http://dip21.bundestag.de/dip21/btd/18/044/1804455.pdf) ([local copy](/abstimmungsdaten/018-098-03/1804455.pdf))
+    * [Drucksache 18/03990.pdf](http://dip21.bundestag.de/dip21/btd/18/039/1803990.pdf) ([local copy](/res/abstimmungsdaten/018-098-03/1803990.pdf))
+    * [Drucksache 18/04455.pdf](http://dip21.bundestag.de/dip21/btd/18/044/1804455.pdf) ([local copy](/res/abstimmungsdaten/018-098-03/1804455.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,11 +10,11 @@ title: Bekämpfung der Schwarzarbeit
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=447](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=447)
     * [http://www.abgeordnetenwatch.de/bekaempfung_der_schwarzarbeit-1105-832.html](http://www.abgeordnetenwatch.de/bekaempfung_der_schwarzarbeit-1105-832.html)
 * Data: 
-    * [Abstimmungsergebnis 20161215_5-data.pdf](/abstimmungsliste/20161215_5-data.pdf)
-    * [Abstimmungsergebnis 20161215_5_xls-data.csv](/abstimmungsliste/analyses/20161215_5_xls-data.csv)
+    * [Abstimmungsergebnis 20161215_5-data.pdf](/res/abstimmungsliste/20161215_5-data.pdf)
+    * [Abstimmungsergebnis 20161215_5_xls-data.csv](/res/abstimmungsliste/analyses/20161215_5_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/09958.pdf](http://dip21.bundestag.de/dip21/btd/18/099/1809958.pdf) ([local copy](/abstimmungsdaten/018-209-05/1809958.pdf))
-    * [Drucksache 18/10655.pdf](http://dip21.bundestag.de/dip21/btd/18/106/1810655.pdf) ([local copy](/abstimmungsdaten/018-209-05/1810655.pdf))
+    * [Drucksache 18/09958.pdf](http://dip21.bundestag.de/dip21/btd/18/099/1809958.pdf) ([local copy](/res/abstimmungsdaten/018-209-05/1809958.pdf))
+    * [Drucksache 18/10655.pdf](http://dip21.bundestag.de/dip21/btd/18/106/1810655.pdf) ([local copy](/res/abstimmungsdaten/018-209-05/1810655.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

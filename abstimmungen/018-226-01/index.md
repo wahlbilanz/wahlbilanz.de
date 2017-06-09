@@ -10,12 +10,12 @@ title: Erstes Gesetz zur Änderung des Infrastrukturabgabengesetzes
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=458](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=458)
     * [http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html](http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html)
 * Data: 
-    * [Abstimmungsergebnis 20170324_1-data.pdf](/abstimmungsliste/20170324_1-data.pdf)
-    * [Abstimmungsergebnis 20170324_1_xls-data.csv](/abstimmungsliste/analyses/20170324_1_xls-data.csv)
+    * [Abstimmungsergebnis 20170324_1-data.pdf](/res/abstimmungsliste/20170324_1-data.pdf)
+    * [Abstimmungsergebnis 20170324_1_xls-data.csv](/res/abstimmungsliste/analyses/20170324_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/11237.pdf](http://dip21.bundestag.de/dip21/btd/18/112/1811237.pdf) ([local copy](/abstimmungsdaten/018-226-01/1811237.pdf))
-    * [Drucksache 18/11536.pdf](http://dip21.bundestag.de/dip21/btd/18/115/1811536.pdf) ([local copy](/abstimmungsdaten/018-226-01/1811536.pdf))
-    * [Drucksache 18/11646.pdf](http://dip21.bundestag.de/dip21/btd/18/116/1811646.pdf) ([local copy](/abstimmungsdaten/018-226-01/1811646.pdf))
+    * [Drucksache 18/11237.pdf](http://dip21.bundestag.de/dip21/btd/18/112/1811237.pdf) ([local copy](/res/abstimmungsdaten/018-226-01/1811237.pdf))
+    * [Drucksache 18/11536.pdf](http://dip21.bundestag.de/dip21/btd/18/115/1811536.pdf) ([local copy](/res/abstimmungsdaten/018-226-01/1811536.pdf))
+    * [Drucksache 18/11646.pdf](http://dip21.bundestag.de/dip21/btd/18/116/1811646.pdf) ([local copy](/res/abstimmungsdaten/018-226-01/1811646.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

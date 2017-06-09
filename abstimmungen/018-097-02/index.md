@@ -10,11 +10,11 @@ title: Nachhaltige Waldbewirtschaftung
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=331](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=331)
     * [http://www.abgeordnetenwatch.de/kooperative_holzvermarktung-1105-725.html](http://www.abgeordnetenwatch.de/kooperative_holzvermarktung-1105-725.html)
 * Data: 
-    * [Abstimmungsergebnis 20150326_2-data.pdf](/abstimmungsliste/20150326_2-data.pdf)
-    * [Abstimmungsergebnis 20150326_2_xls-data.csv](/abstimmungsliste/analyses/20150326_2_xls-data.csv)
+    * [Abstimmungsergebnis 20150326_2-data.pdf](/res/abstimmungsliste/20150326_2-data.pdf)
+    * [Abstimmungsergebnis 20150326_2_xls-data.csv](/res/abstimmungsliste/analyses/20150326_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/02876.pdf](http://dip21.bundestag.de/dip21/btd/18/028/1802876.pdf) ([local copy](/abstimmungsdaten/018-097-02/1802876.pdf))
-    * [Drucksache 18/03578.pdf](http://dip21.bundestag.de/dip21/btd/18/035/1803578.pdf) ([local copy](/abstimmungsdaten/018-097-02/1803578.pdf))
+    * [Drucksache 18/02876.pdf](http://dip21.bundestag.de/dip21/btd/18/028/1802876.pdf) ([local copy](/res/abstimmungsdaten/018-097-02/1802876.pdf))
+    * [Drucksache 18/03578.pdf](http://dip21.bundestag.de/dip21/btd/18/035/1803578.pdf) ([local copy](/res/abstimmungsdaten/018-097-02/1803578.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

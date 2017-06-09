@@ -10,11 +10,11 @@ title: Einstufung von Algerien, Marokko und Tunesien
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=399](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=399)
     * [http://www.abgeordnetenwatch.de/einstufung_von_algerien_marokko_und_tunesien_als_sichere_herkunftsstaaten-1105-793.html](http://www.abgeordnetenwatch.de/einstufung_von_algerien_marokko_und_tunesien_als_sichere_herkunftsstaaten-1105-793.html)
 * Data: 
-    * [Abstimmungsergebnis 20160513_1-data.pdf](/abstimmungsliste/20160513_1-data.pdf)
-    * [Abstimmungsergebnis 20160513_1_xls-data.csv](/abstimmungsliste/analyses/20160513_1_xls-data.csv)
+    * [Abstimmungsergebnis 20160513_1-data.pdf](/res/abstimmungsliste/20160513_1-data.pdf)
+    * [Abstimmungsergebnis 20160513_1_xls-data.csv](/res/abstimmungsliste/analyses/20160513_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/08039.pdf](http://dip21.bundestag.de/dip21/btd/18/080/1808039.pdf) ([local copy](/abstimmungsdaten/018-171-01/1808039.pdf))
-    * [Drucksache 18/08311.pdf](http://dip21.bundestag.de/dip21/btd/18/083/1808311.pdf) ([local copy](/abstimmungsdaten/018-171-01/1808311.pdf))
+    * [Drucksache 18/08039.pdf](http://dip21.bundestag.de/dip21/btd/18/080/1808039.pdf) ([local copy](/res/abstimmungsdaten/018-171-01/1808039.pdf))
+    * [Drucksache 18/08311.pdf](http://dip21.bundestag.de/dip21/btd/18/083/1808311.pdf) ([local copy](/res/abstimmungsdaten/018-171-01/1808311.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

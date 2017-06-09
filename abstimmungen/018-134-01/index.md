@@ -10,8 +10,8 @@ title: Anwendung des Stimmzettelverfahrens
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=370](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=370)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20151106_1-data.pdf](/abstimmungsliste/20151106_1-data.pdf)
-    * [Abstimmungsergebnis 20151106_1_xls-data.csv](/abstimmungsliste/analyses/20151106_1_xls-data.csv)
+    * [Abstimmungsergebnis 20151106_1-data.pdf](/res/abstimmungsliste/20151106_1-data.pdf)
+    * [Abstimmungsergebnis 20151106_1_xls-data.csv](/res/abstimmungsliste/analyses/20151106_1_xls-data.csv)
 * Preview: 
 > Deutscher Bundestag
 > 

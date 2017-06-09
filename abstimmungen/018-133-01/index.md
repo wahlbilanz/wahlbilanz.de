@@ -10,11 +10,11 @@ title: Betreuungsgeld für den Kitaausbau nutzen
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=368](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=368)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20151105_1-data.pdf](/abstimmungsliste/20151105_1-data.pdf)
-    * [Abstimmungsergebnis 20151105_1_xls-data.csv](/abstimmungsliste/analyses/20151105_1_xls-data.csv)
+    * [Abstimmungsergebnis 20151105_1-data.pdf](/res/abstimmungsliste/20151105_1-data.pdf)
+    * [Abstimmungsergebnis 20151105_1_xls-data.csv](/res/abstimmungsliste/analyses/20151105_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/06041.pdf](http://dip21.bundestag.de/dip21/btd/18/060/1806041.pdf) ([local copy](/abstimmungsdaten/018-133-01/1806041.pdf))
-    * [Drucksache 18/06200.pdf](http://dip21.bundestag.de/dip21/btd/18/062/1806200.pdf) ([local copy](/abstimmungsdaten/018-133-01/1806200.pdf))
+    * [Drucksache 18/06041.pdf](http://dip21.bundestag.de/dip21/btd/18/060/1806041.pdf) ([local copy](/res/abstimmungsdaten/018-133-01/1806041.pdf))
+    * [Drucksache 18/06200.pdf](http://dip21.bundestag.de/dip21/btd/18/062/1806200.pdf) ([local copy](/res/abstimmungsdaten/018-133-01/1806200.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,11 +10,11 @@ title: Änderung des Bundesberggesetzes zur Untersagung der Fracking-Technik
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=392](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=392)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20160428_1-data.pdf](/abstimmungsliste/20160428_1-data.pdf)
-    * [Abstimmungsergebnis 20160428_1_xls-data.csv](/abstimmungsliste/analyses/20160428_1_xls-data.csv)
+    * [Abstimmungsergebnis 20160428_1-data.pdf](/res/abstimmungsliste/20160428_1-data.pdf)
+    * [Abstimmungsergebnis 20160428_1_xls-data.csv](/res/abstimmungsliste/analyses/20160428_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/07551.pdf](http://dip21.bundestag.de/dip21/btd/18/075/1807551.pdf) ([local copy](/abstimmungsdaten/018-167-01/1807551.pdf))
-    * [Drucksache 18/08125.pdf](http://dip21.bundestag.de/dip21/btd/18/081/1808125.pdf) ([local copy](/abstimmungsdaten/018-167-01/1808125.pdf))
+    * [Drucksache 18/07551.pdf](http://dip21.bundestag.de/dip21/btd/18/075/1807551.pdf) ([local copy](/res/abstimmungsdaten/018-167-01/1807551.pdf))
+    * [Drucksache 18/08125.pdf](http://dip21.bundestag.de/dip21/btd/18/081/1808125.pdf) ([local copy](/res/abstimmungsdaten/018-167-01/1808125.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

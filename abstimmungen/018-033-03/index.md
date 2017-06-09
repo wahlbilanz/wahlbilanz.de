@@ -10,10 +10,10 @@ title: Transparenz bei Rüstungsexportentscheidungen
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=264](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=264)
     * [http://www.abgeordnetenwatch.de/transparenz_bei_ruestungsexportentscheidungen-1105-600.html](http://www.abgeordnetenwatch.de/transparenz_bei_ruestungsexportentscheidungen-1105-600.html)
 * Data: 
-    * [Abstimmungsergebnis 20140508_3-data.pdf](/abstimmungsliste/20140508_3-data.pdf)
-    * [Abstimmungsergebnis 20140508_3_xls-data.csv](/abstimmungsliste/analyses/20140508_3_xls-data.csv)
+    * [Abstimmungsergebnis 20140508_3-data.pdf](/res/abstimmungsliste/20140508_3-data.pdf)
+    * [Abstimmungsergebnis 20140508_3_xls-data.csv](/res/abstimmungsliste/analyses/20140508_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01360.pdf](http://dip21.bundestag.de/dip21/btd/18/013/1801360.pdf) ([local copy](/abstimmungsdaten/018-033-03/1801360.pdf))
+    * [Drucksache 18/01360.pdf](http://dip21.bundestag.de/dip21/btd/18/013/1801360.pdf) ([local copy](/res/abstimmungsdaten/018-033-03/1801360.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

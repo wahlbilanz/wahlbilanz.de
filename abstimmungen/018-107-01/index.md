@@ -10,11 +10,11 @@ title: Gesetz zur Tarifeinheit
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=341](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=341)
     * [http://www.abgeordnetenwatch.de/tarifeinheitsgesetz-1105-730.html](http://www.abgeordnetenwatch.de/tarifeinheitsgesetz-1105-730.html)
 * Data: 
-    * [Abstimmungsergebnis 20150522_1-data.pdf](/abstimmungsliste/20150522_1-data.pdf)
-    * [Abstimmungsergebnis 20150522_1_xls-data.csv](/abstimmungsliste/analyses/20150522_1_xls-data.csv)
+    * [Abstimmungsergebnis 20150522_1-data.pdf](/res/abstimmungsliste/20150522_1-data.pdf)
+    * [Abstimmungsergebnis 20150522_1_xls-data.csv](/res/abstimmungsliste/analyses/20150522_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/04062.pdf](http://dip21.bundestag.de/dip21/btd/18/040/1804062.pdf) ([local copy](/abstimmungsdaten/018-107-01/1804062.pdf))
-    * [Drucksache 18/04966.pdf](http://dip21.bundestag.de/dip21/btd/18/049/1804966.pdf) ([local copy](/abstimmungsdaten/018-107-01/1804966.pdf))
+    * [Drucksache 18/04062.pdf](http://dip21.bundestag.de/dip21/btd/18/040/1804062.pdf) ([local copy](/res/abstimmungsdaten/018-107-01/1804062.pdf))
+    * [Drucksache 18/04966.pdf](http://dip21.bundestag.de/dip21/btd/18/049/1804966.pdf) ([local copy](/res/abstimmungsdaten/018-107-01/1804966.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

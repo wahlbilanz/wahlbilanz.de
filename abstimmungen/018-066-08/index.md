@@ -10,11 +10,11 @@ title: Änderung des Bundesausbildungsförderungsgesetzes
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=314](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=314)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20141113_8-data.pdf](/abstimmungsliste/20141113_8-data.pdf)
-    * [Abstimmungsergebnis 20141113_8_xls-data.csv](/abstimmungsliste/analyses/20141113_8_xls-data.csv)
+    * [Abstimmungsergebnis 20141113_8-data.pdf](/res/abstimmungsliste/20141113_8-data.pdf)
+    * [Abstimmungsergebnis 20141113_8_xls-data.csv](/res/abstimmungsliste/analyses/20141113_8_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/02663.pdf](http://dip21.bundestag.de/dip21/btd/18/026/1802663.pdf) ([local copy](/abstimmungsdaten/018-066-08/1802663.pdf))
-    * [Drucksache 18/03142.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803142.pdf) ([local copy](/abstimmungsdaten/018-066-08/1803142.pdf))
+    * [Drucksache 18/02663.pdf](http://dip21.bundestag.de/dip21/btd/18/026/1802663.pdf) ([local copy](/res/abstimmungsdaten/018-066-08/1802663.pdf))
+    * [Drucksache 18/03142.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803142.pdf) ([local copy](/res/abstimmungsdaten/018-066-08/1803142.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

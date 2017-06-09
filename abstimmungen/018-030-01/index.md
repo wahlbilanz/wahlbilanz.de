@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Bundeswehreinsatz in der Zentralafrikanischen Republik (EUFOR RCA)
+categories:
+ - Bundeswehr
+ - Ausland
+tags:
+ - Bundeswehr
+ - Ausland
 
 ---
 
@@ -10,11 +16,11 @@ title: Bundeswehreinsatz in der Zentralafrikanischen Republik (EUFOR RCA)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=261](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=261)
     * [http://www.abgeordnetenwatch.de/beteiligung_der_bundeswehr_an_eufor_einsatz_zentralafrika-1105-593.html](http://www.abgeordnetenwatch.de/beteiligung_der_bundeswehr_an_eufor_einsatz_zentralafrika-1105-593.html)
 * Data: 
-    * [Abstimmungsergebnis 20140410-data.pdf](/abstimmungsliste/20140410-data.pdf)
-    * [Abstimmungsergebnis 20140410_xls-data.csv](/abstimmungsliste/analyses/20140410_xls-data.csv)
+    * [Abstimmungsergebnis 20140410-data.pdf](/res/abstimmungsliste/20140410-data.pdf)
+    * [Abstimmungsergebnis 20140410_xls-data.csv](/res/abstimmungsliste/analyses/20140410_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01081.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf) ([local copy](/abstimmungsdaten/018-030-01/1801081.pdf))
-    * [Drucksache 18/01095.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf) ([local copy](/abstimmungsdaten/018-030-01/1801095.pdf))
+    * [Drucksache 18/01081.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf) ([local copy](/res/abstimmungsdaten/018-030-01/1801081.pdf))
+    * [Drucksache 18/01095.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf) ([local copy](/res/abstimmungsdaten/018-030-01/1801095.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

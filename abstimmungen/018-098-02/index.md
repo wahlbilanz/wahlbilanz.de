@@ -10,12 +10,12 @@ title: Pkw-Maut, Änderungsantrag Bündnis 90/Die Grünen
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=333](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=333)
     * [http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html](http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html)
 * Data: 
-    * [Abstimmungsergebnis 20150327_2-data.pdf](/abstimmungsliste/20150327_2-data.pdf)
-    * [Abstimmungsergebnis 20150327_2_xls-data.csv](/abstimmungsliste/analyses/20150327_2_xls-data.csv)
+    * [Abstimmungsergebnis 20150327_2-data.pdf](/res/abstimmungsliste/20150327_2-data.pdf)
+    * [Abstimmungsergebnis 20150327_2_xls-data.csv](/res/abstimmungsliste/analyses/20150327_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/03990.pdf](http://dip21.bundestag.de/dip21/btd/18/039/1803990.pdf) ([local copy](/abstimmungsdaten/018-098-02/1803990.pdf))
-    * [Drucksache 18/04455.pdf](http://dip21.bundestag.de/dip21/btd/18/044/1804455.pdf) ([local copy](/abstimmungsdaten/018-098-02/1804455.pdf))
-    * [Drucksache 18/04485.pdf](http://dip21.bundestag.de/dip21/btd/18/044/1804485.pdf) ([local copy](/abstimmungsdaten/018-098-02/1804485.pdf))
+    * [Drucksache 18/03990.pdf](http://dip21.bundestag.de/dip21/btd/18/039/1803990.pdf) ([local copy](/res/abstimmungsdaten/018-098-02/1803990.pdf))
+    * [Drucksache 18/04455.pdf](http://dip21.bundestag.de/dip21/btd/18/044/1804455.pdf) ([local copy](/res/abstimmungsdaten/018-098-02/1804455.pdf))
+    * [Drucksache 18/04485.pdf](http://dip21.bundestag.de/dip21/btd/18/044/1804485.pdf) ([local copy](/res/abstimmungsdaten/018-098-02/1804485.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,10 +10,10 @@ title: Stabilitätshilfe zugunsten Griechenlands, Entschließungsantrag der Frak
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=353](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=353)
     * [http://www.abgeordnetenwatch.de/verhandlungsmandat_fuer_griechenland_finanzhilfen-1105-758.html](http://www.abgeordnetenwatch.de/verhandlungsmandat_fuer_griechenland_finanzhilfen-1105-758.html)
 * Data: 
-    * [Abstimmungsergebnis 20150717_2-data.pdf](/abstimmungsliste/20150717_2-data.pdf)
-    * [Abstimmungsergebnis 20150717_2_xls-data.csv](/abstimmungsliste/analyses/20150717_2_xls-data.csv)
+    * [Abstimmungsergebnis 20150717_2-data.pdf](/res/abstimmungsliste/20150717_2-data.pdf)
+    * [Abstimmungsergebnis 20150717_2_xls-data.csv](/res/abstimmungsliste/analyses/20150717_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/05590.pdf](http://dip21.bundestag.de/dip21/btd/18/055/1805590.pdf) ([local copy](/abstimmungsdaten/018-117-02/1805590.pdf))
+    * [Drucksache 18/05590.pdf](http://dip21.bundestag.de/dip21/btd/18/055/1805590.pdf) ([local copy](/res/abstimmungsdaten/018-117-02/1805590.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,13 +10,13 @@ title: Transparenz von Entgeltstrukturen 2
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=461](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=461)
     * [http://www.abgeordnetenwatch.de/einfuehrung_eines_verbandsklagerechts_im_lohngerechtigkeitsgesetz-1105-863.html](http://www.abgeordnetenwatch.de/einfuehrung_eines_verbandsklagerechts_im_lohngerechtigkeitsgesetz-1105-863.html)
 * Data: 
-    * [Abstimmungsergebnis 20170330_2-data.pdf](/abstimmungsliste/20170330_2-data.pdf)
-    * [Abstimmungsergebnis 20170330_2_xls-data.csv](/abstimmungsliste/analyses/20170330_2_xls-data.csv)
+    * [Abstimmungsergebnis 20170330_2-data.pdf](/res/abstimmungsliste/20170330_2-data.pdf)
+    * [Abstimmungsergebnis 20170330_2_xls-data.csv](/res/abstimmungsliste/analyses/20170330_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/11133.pdf](http://dip21.bundestag.de/dip21/btd/18/111/1811133.pdf) ([local copy](/abstimmungsdaten/018-228-02/1811133.pdf))
-    * [Drucksache 18/11727.pdf](http://dip21.bundestag.de/dip21/btd/18/117/1811727.pdf) ([local copy](/abstimmungsdaten/018-228-02/1811727.pdf))
-    * [Drucksache 18/11733.pdf](http://dip21.bundestag.de/dip21/btd/18/117/1811733.pdf) ([local copy](/abstimmungsdaten/018-228-02/1811733.pdf))
-    * [Drucksache 18/11757.pdf](http://dip21.bundestag.de/dip21/btd/18/117/1811757.pdf) ([local copy](/abstimmungsdaten/018-228-02/1811757.pdf))
+    * [Drucksache 18/11133.pdf](http://dip21.bundestag.de/dip21/btd/18/111/1811133.pdf) ([local copy](/res/abstimmungsdaten/018-228-02/1811133.pdf))
+    * [Drucksache 18/11727.pdf](http://dip21.bundestag.de/dip21/btd/18/117/1811727.pdf) ([local copy](/res/abstimmungsdaten/018-228-02/1811727.pdf))
+    * [Drucksache 18/11733.pdf](http://dip21.bundestag.de/dip21/btd/18/117/1811733.pdf) ([local copy](/res/abstimmungsdaten/018-228-02/1811733.pdf))
+    * [Drucksache 18/11757.pdf](http://dip21.bundestag.de/dip21/btd/18/117/1811757.pdf) ([local copy](/res/abstimmungsdaten/018-228-02/1811757.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

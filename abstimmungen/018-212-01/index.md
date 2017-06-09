@@ -10,11 +10,11 @@ title: Rentenansprüche aus DDR-Beschäftigungszeiten (Bergleute)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=448](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=448)
     * [http://www.abgeordnetenwatch.de/rentenansprueche_fuer_ddr_bergleute-1105-845.html](http://www.abgeordnetenwatch.de/rentenansprueche_fuer_ddr_bergleute-1105-845.html)
 * Data: 
-    * [Abstimmungsergebnis 20170119_1-data.pdf](/abstimmungsliste/20170119_1-data.pdf)
-    * [Abstimmungsergebnis 20170119_1_xls-data.csv](/abstimmungsliste/analyses/20170119_1_xls-data.csv)
+    * [Abstimmungsergebnis 20170119_1-data.pdf](/res/abstimmungsliste/20170119_1-data.pdf)
+    * [Abstimmungsergebnis 20170119_1_xls-data.csv](/res/abstimmungsliste/analyses/20170119_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/07903.pdf](http://dip21.bundestag.de/dip21/btd/18/079/1807903.pdf) ([local copy](/abstimmungsdaten/018-212-01/1807903.pdf))
-    * [Drucksache 18/10779.pdf](http://dip21.bundestag.de/dip21/btd/18/107/1810779.pdf) ([local copy](/abstimmungsdaten/018-212-01/1810779.pdf))
+    * [Drucksache 18/07903.pdf](http://dip21.bundestag.de/dip21/btd/18/079/1807903.pdf) ([local copy](/res/abstimmungsdaten/018-212-01/1807903.pdf))
+    * [Drucksache 18/10779.pdf](http://dip21.bundestag.de/dip21/btd/18/107/1810779.pdf) ([local copy](/res/abstimmungsdaten/018-212-01/1810779.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

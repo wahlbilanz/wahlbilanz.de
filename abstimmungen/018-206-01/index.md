@@ -10,12 +10,12 @@ title: Ermittlung von Regelbedarfen
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=433](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=433)
     * [http://www.abgeordnetenwatch.de/ermittlung_von_regelbedarfen-1105-828.html](http://www.abgeordnetenwatch.de/ermittlung_von_regelbedarfen-1105-828.html)
 * Data: 
-    * [Abstimmungsergebnis 20161201_1-data.pdf](/abstimmungsliste/20161201_1-data.pdf)
-    * [Abstimmungsergebnis 20161201_1_xls-data.csv](/abstimmungsliste/analyses/20161201_1_xls-data.csv)
+    * [Abstimmungsergebnis 20161201_1-data.pdf](/res/abstimmungsliste/20161201_1-data.pdf)
+    * [Abstimmungsergebnis 20161201_1_xls-data.csv](/res/abstimmungsliste/analyses/20161201_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/09984.pdf](http://dip21.bundestag.de/dip21/btd/18/099/1809984.pdf) ([local copy](/abstimmungsdaten/018-206-01/1809984.pdf))
-    * [Drucksache 18/10349.pdf](http://dip21.bundestag.de/dip21/btd/18/103/1810349.pdf) ([local copy](/abstimmungsdaten/018-206-01/1810349.pdf))
-    * [Drucksache 18/10519.pdf](http://dip21.bundestag.de/dip21/btd/18/105/1810519.pdf) ([local copy](/abstimmungsdaten/018-206-01/1810519.pdf))
+    * [Drucksache 18/09984.pdf](http://dip21.bundestag.de/dip21/btd/18/099/1809984.pdf) ([local copy](/res/abstimmungsdaten/018-206-01/1809984.pdf))
+    * [Drucksache 18/10349.pdf](http://dip21.bundestag.de/dip21/btd/18/103/1810349.pdf) ([local copy](/res/abstimmungsdaten/018-206-01/1810349.pdf))
+    * [Drucksache 18/10519.pdf](http://dip21.bundestag.de/dip21/btd/18/105/1810519.pdf) ([local copy](/res/abstimmungsdaten/018-206-01/1810519.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

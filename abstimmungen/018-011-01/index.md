@@ -5,11 +5,14 @@ categories:
  - Ernährung
  - Landwirtschaft
  - Gentechnik
- tags:
+ - EU
+ - Verbraucherschutz
+tags:
  - Ernährung
  - Landwirtschaft
  - Gentechnik
-
+ - EU
+ - Verbraucherschutz
 ---
 
 * Abstimmung: 018-011-01
@@ -18,11 +21,11 @@ categories:
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=251](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=251)
     * [http://www.abgeordnetenwatch.de/anbau_von_genmais_in_der_eu_verhindern-1105-548.html](http://www.abgeordnetenwatch.de/anbau_von_genmais_in_der_eu_verhindern-1105-548.html)
 * Data: 
-    * [Abstimmungsergebnis 20140130_1-data.pdf](/abstimmungsliste/20140130_1-data.pdf)
-    * [Abstimmungsergebnis 20140130_1_xls-data.csv](/abstimmungsliste/analyses/20140130_1_xls-data.csv)
+    * [Abstimmungsergebnis 20140130_1-data.pdf](/res/abstimmungsliste/20140130_1-data.pdf)
+    * [Abstimmungsergebnis 20140130_1_xls-data.csv](/res/abstimmungsliste/analyses/20140130_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00180.pdf](http://dip21.bundestag.de/dip21/btd/18/001/1800180.pdf) ([local copy](/abstimmungsdaten/018-011-01/1800180.pdf))
-    * [Drucksache 18/00397.pdf](http://dip21.bundestag.de/dip21/btd/18/003/1800397.pdf) ([local copy](/abstimmungsdaten/018-011-01/1800397.pdf))
+    * [Drucksache 18/00180.pdf](http://dip21.bundestag.de/dip21/btd/18/001/1800180.pdf) ([local copy](/res/abstimmungsdaten/018-011-01/1800180.pdf))
+    * [Drucksache 18/00397.pdf](http://dip21.bundestag.de/dip21/btd/18/003/1800397.pdf) ([local copy](/res/abstimmungsdaten/018-011-01/1800397.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

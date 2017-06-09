@@ -10,29 +10,29 @@ title: Haushaltsgesetz 2014
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=289](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=289)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20140627_7-data.pdf](/abstimmungsliste/20140627_7-data.pdf)
-    * [Abstimmungsergebnis 20140627_7_xls-data.csv](/abstimmungsliste/analyses/20140627_7_xls-data.csv)
+    * [Abstimmungsergebnis 20140627_7-data.pdf](/res/abstimmungsliste/20140627_7-data.pdf)
+    * [Abstimmungsergebnis 20140627_7_xls-data.csv](/res/abstimmungsliste/analyses/20140627_7_xls-data.csv)
 * Documents: 
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1800700.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1800702.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801002.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801005.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801006.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801007.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801008.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801009.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801010.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801011.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801012.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801016.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801017.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801019.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801020.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801021.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801022.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801023.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801024.pdf
-    * source:wahl/res/abstimmungsdaten/018-044-07/018-044-07/1801025.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1800700.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1800702.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801002.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801005.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801006.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801007.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801008.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801009.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801010.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801011.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801012.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801016.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801017.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801019.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801020.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801021.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801022.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801023.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801024.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801025.pdf
 * Preview: 
 > Deutscher Bundestag
 > 

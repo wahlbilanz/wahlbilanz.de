@@ -10,11 +10,11 @@ title: Bundeswehreinsatz in Afghanistan
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=320](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=320)
     * [http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_afghanistan-1105-704.html](http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_afghanistan-1105-704.html)
 * Data: 
-    * [Abstimmungsergebnis 20141218_1-data.pdf](/abstimmungsliste/20141218_1-data.pdf)
-    * [Abstimmungsergebnis 20141218_1_xls-data.csv](/abstimmungsliste/analyses/20141218_1_xls-data.csv)
+    * [Abstimmungsergebnis 20141218_1-data.pdf](/res/abstimmungsliste/20141218_1-data.pdf)
+    * [Abstimmungsergebnis 20141218_1_xls-data.csv](/res/abstimmungsliste/analyses/20141218_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/03246.pdf](http://dip21.bundestag.de/dip21/btd/18/032/1803246.pdf) ([local copy](/abstimmungsdaten/018-076-01/1803246.pdf))
-    * [Drucksache 18/03583.pdf](http://dip21.bundestag.de/dip21/btd/18/035/1803583.pdf) ([local copy](/abstimmungsdaten/018-076-01/1803583.pdf))
+    * [Drucksache 18/03246.pdf](http://dip21.bundestag.de/dip21/btd/18/032/1803246.pdf) ([local copy](/res/abstimmungsdaten/018-076-01/1803246.pdf))
+    * [Drucksache 18/03583.pdf](http://dip21.bundestag.de/dip21/btd/18/035/1803583.pdf) ([local copy](/res/abstimmungsdaten/018-076-01/1803583.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

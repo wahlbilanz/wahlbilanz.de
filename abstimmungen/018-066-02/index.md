@@ -10,12 +10,12 @@ title: Bund-Länder-Wissenschaftskooperation, Änderungsantrag Bündnis 90/Die G
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=308](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=308)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20141113_2-data.pdf](/abstimmungsliste/20141113_2-data.pdf)
-    * [Abstimmungsergebnis 20141113_2_xls-data.csv](/abstimmungsliste/analyses/20141113_2_xls-data.csv)
+    * [Abstimmungsergebnis 20141113_2-data.pdf](/res/abstimmungsliste/20141113_2-data.pdf)
+    * [Abstimmungsergebnis 20141113_2_xls-data.csv](/res/abstimmungsliste/analyses/20141113_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/02710.pdf](http://dip21.bundestag.de/dip21/btd/18/027/1802710.pdf) ([local copy](/abstimmungsdaten/018-066-02/1802710.pdf))
-    * [Drucksache 18/03141.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803141.pdf) ([local copy](/abstimmungsdaten/018-066-02/1803141.pdf))
-    * [Drucksache 18/03163.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803163.pdf) ([local copy](/abstimmungsdaten/018-066-02/1803163.pdf))
+    * [Drucksache 18/02710.pdf](http://dip21.bundestag.de/dip21/btd/18/027/1802710.pdf) ([local copy](/res/abstimmungsdaten/018-066-02/1802710.pdf))
+    * [Drucksache 18/03141.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803141.pdf) ([local copy](/res/abstimmungsdaten/018-066-02/1803141.pdf))
+    * [Drucksache 18/03163.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803163.pdf) ([local copy](/res/abstimmungsdaten/018-066-02/1803163.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

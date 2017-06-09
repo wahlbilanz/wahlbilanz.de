@@ -10,11 +10,11 @@ title: Bahnstreckenstilllegungen - Beschlussempfehlung
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=396](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=396)
     * [http://www.abgeordnetenwatch.de/hoehere_regionalisierungsmittel_fuer_den_bahnverkehr-1105-800.html](http://www.abgeordnetenwatch.de/hoehere_regionalisierungsmittel_fuer_den_bahnverkehr-1105-800.html)
 * Data: 
-    * [Abstimmungsergebnis 20160512_3-data.pdf](/abstimmungsliste/20160512_3-data.pdf)
-    * [Abstimmungsergebnis 20160512_3_xls-data.csv](/abstimmungsliste/analyses/20160512_3_xls-data.csv)
+    * [Abstimmungsergebnis 20160512_3-data.pdf](/res/abstimmungsliste/20160512_3-data.pdf)
+    * [Abstimmungsergebnis 20160512_3_xls-data.csv](/res/abstimmungsliste/analyses/20160512_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/08074.pdf](http://dip21.bundestag.de/dip21/btd/18/080/1808074.pdf) ([local copy](/abstimmungsdaten/018-170-03/1808074.pdf))
-    * [Drucksache 18/08362.pdf](http://dip21.bundestag.de/dip21/btd/18/083/1808362.pdf) ([local copy](/abstimmungsdaten/018-170-03/1808362.pdf))
+    * [Drucksache 18/08074.pdf](http://dip21.bundestag.de/dip21/btd/18/080/1808074.pdf) ([local copy](/res/abstimmungsdaten/018-170-03/1808074.pdf))
+    * [Drucksache 18/08362.pdf](http://dip21.bundestag.de/dip21/btd/18/083/1808362.pdf) ([local copy](/res/abstimmungsdaten/018-170-03/1808362.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

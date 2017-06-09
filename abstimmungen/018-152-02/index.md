@@ -10,11 +10,11 @@ title: Bundeswehreinsatz Kurdistan-Irak
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=383](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=383)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_nord_irak-1105-783.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_nord_irak-1105-783.html)
 * Data: 
-    * [Abstimmungsergebnis 20160128_2-data.pdf](/abstimmungsliste/20160128_2-data.pdf)
-    * [Abstimmungsergebnis 20160128_2_xls-data.csv](/abstimmungsliste/analyses/20160128_2_xls-data.csv)
+    * [Abstimmungsergebnis 20160128_2-data.pdf](/res/abstimmungsliste/20160128_2-data.pdf)
+    * [Abstimmungsergebnis 20160128_2_xls-data.csv](/res/abstimmungsliste/analyses/20160128_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/07207.pdf](http://dip21.bundestag.de/dip21/btd/18/072/1807207.pdf) ([local copy](/abstimmungsdaten/018-152-02/1807207.pdf))
-    * [Drucksache 18/07367.pdf](http://dip21.bundestag.de/dip21/btd/18/073/1807367.pdf) ([local copy](/abstimmungsdaten/018-152-02/1807367.pdf))
+    * [Drucksache 18/07207.pdf](http://dip21.bundestag.de/dip21/btd/18/072/1807207.pdf) ([local copy](/res/abstimmungsdaten/018-152-02/1807207.pdf))
+    * [Drucksache 18/07367.pdf](http://dip21.bundestag.de/dip21/btd/18/073/1807367.pdf) ([local copy](/res/abstimmungsdaten/018-152-02/1807367.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

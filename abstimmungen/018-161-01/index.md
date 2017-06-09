@@ -10,11 +10,11 @@ title: Ausbildungs- und Beratungsmissionen EUTM Somalia
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=390](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=390)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-788.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-788.html)
 * Data: 
-    * [Abstimmungsergebnis 20160317_1-data.pdf](/abstimmungsliste/20160317_1-data.pdf)
-    * [Abstimmungsergebnis 20160317_1_xls-data.csv](/abstimmungsliste/analyses/20160317_1_xls-data.csv)
+    * [Abstimmungsergebnis 20160317_1-data.pdf](/res/abstimmungsliste/20160317_1-data.pdf)
+    * [Abstimmungsergebnis 20160317_1_xls-data.csv](/res/abstimmungsliste/analyses/20160317_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/07556.pdf](http://dip21.bundestag.de/dip21/btd/18/075/1807556.pdf) ([local copy](/abstimmungsdaten/018-161-01/1807556.pdf))
-    * [Drucksache 18/07722.pdf](http://dip21.bundestag.de/dip21/btd/18/077/1807722.pdf) ([local copy](/abstimmungsdaten/018-161-01/1807722.pdf))
+    * [Drucksache 18/07556.pdf](http://dip21.bundestag.de/dip21/btd/18/075/1807556.pdf) ([local copy](/res/abstimmungsdaten/018-161-01/1807556.pdf))
+    * [Drucksache 18/07722.pdf](http://dip21.bundestag.de/dip21/btd/18/077/1807722.pdf) ([local copy](/res/abstimmungsdaten/018-161-01/1807722.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

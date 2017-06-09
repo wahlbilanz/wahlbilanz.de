@@ -10,11 +10,11 @@ title: Mieterinnen und Mieter besser schützen
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=419](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=419)
     * [http://www.abgeordnetenwatch.de/zweite_mietrechtsnovelle_vorlegen-1105-817.html](http://www.abgeordnetenwatch.de/zweite_mietrechtsnovelle_vorlegen-1105-817.html)
 * Data: 
-    * [Abstimmungsergebnis 20160929_1-data.pdf](/abstimmungsliste/20160929_1-data.pdf)
-    * [Abstimmungsergebnis 20160929_1_xls-data.csv](/abstimmungsliste/analyses/20160929_1_xls-data.csv)
+    * [Abstimmungsergebnis 20160929_1-data.pdf](/res/abstimmungsliste/20160929_1-data.pdf)
+    * [Abstimmungsergebnis 20160929_1_xls-data.csv](/res/abstimmungsliste/analyses/20160929_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/08863.pdf](http://dip21.bundestag.de/dip21/btd/18/088/1808863.pdf) ([local copy](/abstimmungsdaten/018-193-01/1808863.pdf))
-    * [Drucksache 18/09696.pdf](http://dip21.bundestag.de/dip21/btd/18/096/1809696.pdf) ([local copy](/abstimmungsdaten/018-193-01/1809696.pdf))
+    * [Drucksache 18/08863.pdf](http://dip21.bundestag.de/dip21/btd/18/088/1808863.pdf) ([local copy](/res/abstimmungsdaten/018-193-01/1808863.pdf))
+    * [Drucksache 18/09696.pdf](http://dip21.bundestag.de/dip21/btd/18/096/1809696.pdf) ([local copy](/res/abstimmungsdaten/018-193-01/1809696.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -16,10 +16,10 @@ tags:
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=247](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=247)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20131128_2-data.pdf](/abstimmungsliste/20131128_2-data.pdf)
-    * [Abstimmungsergebnis 20131128_2_xls-data.csv](/abstimmungsliste/analyses/20131128_2_xls-data.csv)
+    * [Abstimmungsergebnis 20131128_2-data.pdf](/res/abstimmungsliste/20131128_2-data.pdf)
+    * [Abstimmungsergebnis 20131128_2_xls-data.csv](/res/abstimmungsliste/analyses/20131128_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00072.pdf](http://dip21.bundestag.de/dip21/btd/18/000/1800072.pdf) ([local copy](/abstimmungsdaten/018-003-02/1800072.pdf))
+    * [Drucksache 18/00072.pdf](http://dip21.bundestag.de/dip21/btd/18/000/1800072.pdf) ([local copy](/res/abstimmungsdaten/018-003-02/1800072.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

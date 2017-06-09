@@ -10,10 +10,10 @@ title: Voreilige Neuzulassung von Glyphosat stoppen
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=388](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=388)
     * [http://www.abgeordnetenwatch.de/neuzulassung_von_glyphosat_verhindern-1105-787.html](http://www.abgeordnetenwatch.de/neuzulassung_von_glyphosat_verhindern-1105-787.html)
 * Data: 
-    * [Abstimmungsergebnis 20160225_3-data.pdf](/abstimmungsliste/20160225_3-data.pdf)
-    * [Abstimmungsergebnis 20160225_3_xls-data.csv](/abstimmungsliste/analyses/20160225_3_xls-data.csv)
+    * [Abstimmungsergebnis 20160225_3-data.pdf](/res/abstimmungsliste/20160225_3-data.pdf)
+    * [Abstimmungsergebnis 20160225_3_xls-data.csv](/res/abstimmungsliste/analyses/20160225_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/07675.pdf](http://dip21.bundestag.de/dip21/btd/18/076/1807675.pdf) ([local copy](/abstimmungsdaten/018-158-03/1807675.pdf))
+    * [Drucksache 18/07675.pdf](http://dip21.bundestag.de/dip21/btd/18/076/1807675.pdf) ([local copy](/res/abstimmungsdaten/018-158-03/1807675.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

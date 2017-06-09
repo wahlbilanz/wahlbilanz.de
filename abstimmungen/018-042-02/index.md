@@ -10,11 +10,11 @@ title: Bundeswehreinsatz in Mali (MINUSMA)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=280](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=280)
     * [http://www.abgeordnetenwatch.de/verlaengerung_der_bundeswehrbeteiligung_an_un_mission_in_mali_unterstuetzungsmission-1105-628.html](http://www.abgeordnetenwatch.de/verlaengerung_der_bundeswehrbeteiligung_an_un_mission_in_mali_unterstuetzungsmission-1105-628.html)
 * Data: 
-    * [Abstimmungsergebnis 20140625_2-data.pdf](/abstimmungsliste/20140625_2-data.pdf)
-    * [Abstimmungsergebnis 20140625_2_xls-data.csv](/abstimmungsliste/analyses/20140625_2_xls-data.csv)
+    * [Abstimmungsergebnis 20140625_2-data.pdf](/res/abstimmungsliste/20140625_2-data.pdf)
+    * [Abstimmungsergebnis 20140625_2_xls-data.csv](/res/abstimmungsliste/analyses/20140625_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01416.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801416.pdf) ([local copy](/abstimmungsdaten/018-042-02/1801416.pdf))
-    * [Drucksache 18/01811.pdf](http://dip21.bundestag.de/dip21/btd/18/018/1801811.pdf) ([local copy](/abstimmungsdaten/018-042-02/1801811.pdf))
+    * [Drucksache 18/01416.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801416.pdf) ([local copy](/res/abstimmungsdaten/018-042-02/1801416.pdf))
+    * [Drucksache 18/01811.pdf](http://dip21.bundestag.de/dip21/btd/18/018/1801811.pdf) ([local copy](/res/abstimmungsdaten/018-042-02/1801811.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

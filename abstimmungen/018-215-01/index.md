@@ -10,11 +10,11 @@ title: Bundeswehreinsatz in Mali (MINUSMA)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=452](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=452)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_mali-1105-847.html](http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_mali-1105-847.html)
 * Data: 
-    * [Abstimmungsergebnis 20170126_1-data.pdf](/abstimmungsliste/20170126_1-data.pdf)
-    * [Abstimmungsergebnis 20170126_1_xls-data.csv](/abstimmungsliste/analyses/20170126_1_xls-data.csv)
+    * [Abstimmungsergebnis 20170126_1-data.pdf](/res/abstimmungsliste/20170126_1-data.pdf)
+    * [Abstimmungsergebnis 20170126_1_xls-data.csv](/res/abstimmungsliste/analyses/20170126_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/10819.pdf](http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf) ([local copy](/abstimmungsdaten/018-215-01/1810819.pdf))
-    * [Drucksache 18/10967.pdf](http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf) ([local copy](/abstimmungsdaten/018-215-01/1810967.pdf))
+    * [Drucksache 18/10819.pdf](http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf) ([local copy](/res/abstimmungsdaten/018-215-01/1810819.pdf))
+    * [Drucksache 18/10967.pdf](http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf) ([local copy](/res/abstimmungsdaten/018-215-01/1810967.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

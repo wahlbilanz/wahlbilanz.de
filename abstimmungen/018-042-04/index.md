@@ -10,16 +10,16 @@ title: "Feststellung des Bundeshaushaltsplans hier: Wirtschaftliche Zusammenarbe
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=282](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=282)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20140625_4-data.pdf](/abstimmungsliste/20140625_4-data.pdf)
-    * [Abstimmungsergebnis 20140625_4_xls-data.csv](/abstimmungsliste/analyses/20140625_4_xls-data.csv)
+    * [Abstimmungsergebnis 20140625_4-data.pdf](/res/abstimmungsliste/20140625_4-data.pdf)
+    * [Abstimmungsergebnis 20140625_4_xls-data.csv](/res/abstimmungsliste/analyses/20140625_4_xls-data.csv)
 * Documents: 
-    * source:wahl/res/abstimmungsdaten/018-042-04/018-042-04/1800700.pdf
-    * source:wahl/res/abstimmungsdaten/018-042-04/018-042-04/1800702.pdf
-    * source:wahl/res/abstimmungsdaten/018-042-04/018-042-04/1801019.pdf
-    * source:wahl/res/abstimmungsdaten/018-042-04/018-042-04/1801023.pdf
-    * source:wahl/res/abstimmungsdaten/018-042-04/018-042-04/1801024.pdf
-    * source:wahl/res/abstimmungsdaten/018-042-04/018-042-04/1801025.pdf
-    * source:wahl/res/abstimmungsdaten/018-042-04/018-042-04/1801847.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1800700.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1800702.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1801019.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1801023.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1801024.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1801025.pdf
+    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1801847.pdf
 * Preview: 
 > Deutscher Bundestag
 > 

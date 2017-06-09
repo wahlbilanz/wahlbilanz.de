@@ -10,11 +10,11 @@ title: RV-Leistungsverbesserungsgesetz
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=278](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=278)
     * [http://www.abgeordnetenwatch.de/rentenpaket-1105-602.html](http://www.abgeordnetenwatch.de/rentenpaket-1105-602.html)
 * Data: 
-    * [Abstimmungsergebnis 20140523_4-data.pdf](/abstimmungsliste/20140523_4-data.pdf)
-    * [Abstimmungsergebnis 20140523_4_xls-data.csv](/abstimmungsliste/analyses/20140523_4_xls-data.csv)
+    * [Abstimmungsergebnis 20140523_4-data.pdf](/res/abstimmungsliste/20140523_4-data.pdf)
+    * [Abstimmungsergebnis 20140523_4_xls-data.csv](/res/abstimmungsliste/analyses/20140523_4_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00909.pdf](http://dip21.bundestag.de/dip21/btd/18/009/1800909.pdf) ([local copy](/abstimmungsdaten/018-037-04/1800909.pdf))
-    * [Drucksache 18/01489.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801489.pdf) ([local copy](/abstimmungsdaten/018-037-04/1801489.pdf))
+    * [Drucksache 18/00909.pdf](http://dip21.bundestag.de/dip21/btd/18/009/1800909.pdf) ([local copy](/res/abstimmungsdaten/018-037-04/1800909.pdf))
+    * [Drucksache 18/01489.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801489.pdf) ([local copy](/res/abstimmungsdaten/018-037-04/1801489.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

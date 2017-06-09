@@ -10,12 +10,12 @@ title: Sukzessivadoption durch Lebenspartner
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=276](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=276)
     * [http://www.abgeordnetenwatch.de/aenderungsantrag_gesetz_zur_sukzessivadoption_durch_lebenspartner-1105-619.html](http://www.abgeordnetenwatch.de/aenderungsantrag_gesetz_zur_sukzessivadoption_durch_lebenspartner-1105-619.html)
 * Data: 
-    * [Abstimmungsergebnis 20140522_2-data.pdf](/abstimmungsliste/20140522_2-data.pdf)
-    * [Abstimmungsergebnis 20140522_2_xls-data.csv](/abstimmungsliste/analyses/20140522_2_xls-data.csv)
+    * [Abstimmungsergebnis 20140522_2-data.pdf](/res/abstimmungsliste/20140522_2-data.pdf)
+    * [Abstimmungsergebnis 20140522_2_xls-data.csv](/res/abstimmungsliste/analyses/20140522_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01285.pdf](http://dip21.bundestag.de/dip21/btd/18/012/1801285.pdf) ([local copy](/abstimmungsdaten/018-036-02/1801285.pdf))
-    * [Drucksache 18/01488.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801488.pdf) ([local copy](/abstimmungsdaten/018-036-02/1801488.pdf))
-    * [Drucksache 18/01494.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801494.pdf) ([local copy](/abstimmungsdaten/018-036-02/1801494.pdf))
+    * [Drucksache 18/01285.pdf](http://dip21.bundestag.de/dip21/btd/18/012/1801285.pdf) ([local copy](/res/abstimmungsdaten/018-036-02/1801285.pdf))
+    * [Drucksache 18/01488.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801488.pdf) ([local copy](/res/abstimmungsdaten/018-036-02/1801488.pdf))
+    * [Drucksache 18/01494.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801494.pdf) ([local copy](/res/abstimmungsdaten/018-036-02/1801494.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

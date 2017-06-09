@@ -10,11 +10,11 @@ title: Bundeswehreinsatz Operation Atalanta
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=340](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=340)
     * [http://www.abgeordnetenwatch.de/verlaengerung_bundeswehreinsatz_somalia_operation_atalanta-1105-729.html](http://www.abgeordnetenwatch.de/verlaengerung_bundeswehreinsatz_somalia_operation_atalanta-1105-729.html)
 * Data: 
-    * [Abstimmungsergebnis 20150521_1-data.pdf](/abstimmungsliste/20150521_1-data.pdf)
-    * [Abstimmungsergebnis 20150521_1_xls-data.csv](/abstimmungsliste/analyses/20150521_1_xls-data.csv)
+    * [Abstimmungsergebnis 20150521_1-data.pdf](/res/abstimmungsliste/20150521_1-data.pdf)
+    * [Abstimmungsergebnis 20150521_1_xls-data.csv](/res/abstimmungsliste/analyses/20150521_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/04769.pdf](http://dip21.bundestag.de/dip21/btd/18/047/1804769.pdf) ([local copy](/abstimmungsdaten/018-106-01/1804769.pdf))
-    * [Drucksache 18/04964.pdf](http://dip21.bundestag.de/dip21/btd/18/049/1804964.pdf) ([local copy](/abstimmungsdaten/018-106-01/1804964.pdf))
+    * [Drucksache 18/04769.pdf](http://dip21.bundestag.de/dip21/btd/18/047/1804769.pdf) ([local copy](/res/abstimmungsdaten/018-106-01/1804769.pdf))
+    * [Drucksache 18/04964.pdf](http://dip21.bundestag.de/dip21/btd/18/049/1804964.pdf) ([local copy](/res/abstimmungsdaten/018-106-01/1804964.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

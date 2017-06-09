@@ -10,11 +10,11 @@ title: Bundeswehreinsatz vor Somalia (EU NAVFOR Atalanta)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=398](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=398)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-792.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-792.html)
 * Data: 
-    * [Abstimmungsergebnis 20160512_5-data.pdf](/abstimmungsliste/20160512_5-data.pdf)
-    * [Abstimmungsergebnis 20160512_5_xls-data.csv](/abstimmungsliste/analyses/20160512_5_xls-data.csv)
+    * [Abstimmungsergebnis 20160512_5-data.pdf](/res/abstimmungsliste/20160512_5-data.pdf)
+    * [Abstimmungsergebnis 20160512_5_xls-data.csv](/res/abstimmungsliste/analyses/20160512_5_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/08091.pdf](http://dip21.bundestag.de/dip21/btd/18/080/1808091.pdf) ([local copy](/abstimmungsdaten/018-170-05/1808091.pdf))
-    * [Drucksache 18/08286.pdf](http://dip21.bundestag.de/dip21/btd/18/082/1808286.pdf) ([local copy](/abstimmungsdaten/018-170-05/1808286.pdf))
+    * [Drucksache 18/08091.pdf](http://dip21.bundestag.de/dip21/btd/18/080/1808091.pdf) ([local copy](/res/abstimmungsdaten/018-170-05/1808091.pdf))
+    * [Drucksache 18/08286.pdf](http://dip21.bundestag.de/dip21/btd/18/082/1808286.pdf) ([local copy](/res/abstimmungsdaten/018-170-05/1808286.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

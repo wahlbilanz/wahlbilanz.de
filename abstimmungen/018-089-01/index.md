@@ -10,11 +10,11 @@ title: Finanzhilfen zugunsten Griechenlands
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=327](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=327)
     * [http://www.abgeordnetenwatch.de/finanzhilfen_fuer_griechenland-1105-712.html](http://www.abgeordnetenwatch.de/finanzhilfen_fuer_griechenland-1105-712.html)
 * Data: 
-    * [Abstimmungsergebnis 20150227_1-data.pdf](/abstimmungsliste/20150227_1-data.pdf)
-    * [Abstimmungsergebnis 20150227_1_xls-data.csv](/abstimmungsliste/analyses/20150227_1_xls-data.csv)
+    * [Abstimmungsergebnis 20150227_1-data.pdf](/res/abstimmungsliste/20150227_1-data.pdf)
+    * [Abstimmungsergebnis 20150227_1_xls-data.csv](/res/abstimmungsliste/analyses/20150227_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/04079.pdf](http://dip21.bundestag.de/dip21/btd/18/040/1804079.pdf) ([local copy](/abstimmungsdaten/018-089-01/1804079.pdf))
-    * [Drucksache 18/04093.pdf](http://dip21.bundestag.de/dip21/btd/18/040/1804093.pdf) ([local copy](/abstimmungsdaten/018-089-01/1804093.pdf))
+    * [Drucksache 18/04079.pdf](http://dip21.bundestag.de/dip21/btd/18/040/1804079.pdf) ([local copy](/res/abstimmungsdaten/018-089-01/1804079.pdf))
+    * [Drucksache 18/04093.pdf](http://dip21.bundestag.de/dip21/btd/18/040/1804093.pdf) ([local copy](/res/abstimmungsdaten/018-089-01/1804093.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

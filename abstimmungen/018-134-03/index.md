@@ -10,11 +10,11 @@ title: Strafbarkeit der geschäftsmäßigen Förderung der Selbsttötung
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=371](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=371)
     * [http://www.abgeordnetenwatch.de/verbot_von_geschaeftsmaessiger_sterbehilfe-1105-773.html](http://www.abgeordnetenwatch.de/verbot_von_geschaeftsmaessiger_sterbehilfe-1105-773.html)
 * Data: 
-    * [Abstimmungsergebnis 20151106_2-data.pdf](/abstimmungsliste/20151106_2-data.pdf)
-    * [Abstimmungsergebnis 20151106_2_xls-data.csv](/abstimmungsliste/analyses/20151106_2_xls-data.csv)
+    * [Abstimmungsergebnis 20151106_2-data.pdf](/res/abstimmungsliste/20151106_2-data.pdf)
+    * [Abstimmungsergebnis 20151106_2_xls-data.csv](/res/abstimmungsliste/analyses/20151106_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/05373.pdf](http://dip21.bundestag.de/dip21/btd/18/053/1805373.pdf) ([local copy](/abstimmungsdaten/018-134-03/1805373.pdf))
-    * [Drucksache 18/06573.pdf](http://dip21.bundestag.de/dip21/btd/18/065/1806573.pdf) ([local copy](/abstimmungsdaten/018-134-03/1806573.pdf))
+    * [Drucksache 18/05373.pdf](http://dip21.bundestag.de/dip21/btd/18/053/1805373.pdf) ([local copy](/res/abstimmungsdaten/018-134-03/1805373.pdf))
+    * [Drucksache 18/06573.pdf](http://dip21.bundestag.de/dip21/btd/18/065/1806573.pdf) ([local copy](/res/abstimmungsdaten/018-134-03/1806573.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

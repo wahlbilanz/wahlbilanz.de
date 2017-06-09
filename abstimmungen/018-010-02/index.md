@@ -16,11 +16,11 @@ tags:
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=249](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=249)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_anti_terror_einsatzes_im_mittelmeer_oae-1105-547.html](http://www.abgeordnetenwatch.de/verlaengerung_des_anti_terror_einsatzes_im_mittelmeer_oae-1105-547.html)
 * Data: 
-    * [Abstimmungsergebnis 20140129_2-data.pdf](/abstimmungsliste/20140129_2-data.pdf)
-    * [Abstimmungsergebnis 20140129_2_xls-data.csv](/abstimmungsliste/analyses/20140129_2_xls-data.csv)
+    * [Abstimmungsergebnis 20140129_2-data.pdf](/res/abstimmungsliste/20140129_2-data.pdf)
+    * [Abstimmungsergebnis 20140129_2_xls-data.csv](/res/abstimmungsliste/analyses/20140129_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00263.pdf](http://dip21.bundestag.de/dip21/btd/18/002/1800263.pdf) ([local copy](/abstimmungsdaten/018-010-02/1800263.pdf))
-    * [Drucksache 18/00348.pdf](http://dip21.bundestag.de/dip21/btd/18/003/1800348.pdf) ([local copy](/abstimmungsdaten/018-010-02/1800348.pdf))
+    * [Drucksache 18/00263.pdf](http://dip21.bundestag.de/dip21/btd/18/002/1800263.pdf) ([local copy](/res/abstimmungsdaten/018-010-02/1800263.pdf))
+    * [Drucksache 18/00348.pdf](http://dip21.bundestag.de/dip21/btd/18/003/1800348.pdf) ([local copy](/res/abstimmungsdaten/018-010-02/1800348.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

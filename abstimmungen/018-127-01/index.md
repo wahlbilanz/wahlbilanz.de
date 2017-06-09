@@ -10,11 +10,11 @@ title: Bundeswehreinsatz EU-Operation EUNAVFORMED
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=356](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=356)
     * [http://www.abgeordnetenwatch.de/bundeswehreinsatz_zur_bekaempfung_von_menschenschmuggel_im_mittelmeer_eunafor_med-1105-764.html](http://www.abgeordnetenwatch.de/bundeswehreinsatz_zur_bekaempfung_von_menschenschmuggel_im_mittelmeer_eunafor_med-1105-764.html)
 * Data: 
-    * [Abstimmungsergebnis 20151001_1-data.pdf](/abstimmungsliste/20151001_1-data.pdf)
-    * [Abstimmungsergebnis 20151001_1_xls-data.csv](/abstimmungsliste/analyses/20151001_1_xls-data.csv)
+    * [Abstimmungsergebnis 20151001_1-data.pdf](/res/abstimmungsliste/20151001_1-data.pdf)
+    * [Abstimmungsergebnis 20151001_1_xls-data.csv](/res/abstimmungsliste/analyses/20151001_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/06013.pdf](http://dip21.bundestag.de/dip21/btd/18/060/1806013.pdf) ([local copy](/abstimmungsdaten/018-127-01/1806013.pdf))
-    * [Drucksache 18/06189.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806189.pdf) ([local copy](/abstimmungsdaten/018-127-01/1806189.pdf))
+    * [Drucksache 18/06013.pdf](http://dip21.bundestag.de/dip21/btd/18/060/1806013.pdf) ([local copy](/res/abstimmungsdaten/018-127-01/1806013.pdf))
+    * [Drucksache 18/06189.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806189.pdf) ([local copy](/res/abstimmungsdaten/018-127-01/1806189.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

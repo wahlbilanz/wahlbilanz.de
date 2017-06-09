@@ -10,12 +10,12 @@ title: Behindertengleichstellungsrecht - Änderungsantrag
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=394](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=394)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20160512_1-data.pdf](/abstimmungsliste/20160512_1-data.pdf)
-    * [Abstimmungsergebnis 20160512_1_xls-data.csv](/abstimmungsliste/analyses/20160512_1_xls-data.csv)
+    * [Abstimmungsergebnis 20160512_1-data.pdf](/res/abstimmungsliste/20160512_1-data.pdf)
+    * [Abstimmungsergebnis 20160512_1_xls-data.csv](/res/abstimmungsliste/analyses/20160512_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/07824.pdf](http://dip21.bundestag.de/dip21/btd/18/078/1807824.pdf) ([local copy](/abstimmungsdaten/018-170-01/1807824.pdf))
-    * [Drucksache 18/08428.pdf](http://dip21.bundestag.de/dip21/btd/18/084/1808428.pdf) ([local copy](/abstimmungsdaten/018-170-01/1808428.pdf))
-    * [Drucksache 18/08432.pdf](http://dip21.bundestag.de/dip21/btd/18/084/1808432.pdf) ([local copy](/abstimmungsdaten/018-170-01/1808432.pdf))
+    * [Drucksache 18/07824.pdf](http://dip21.bundestag.de/dip21/btd/18/078/1807824.pdf) ([local copy](/res/abstimmungsdaten/018-170-01/1807824.pdf))
+    * [Drucksache 18/08428.pdf](http://dip21.bundestag.de/dip21/btd/18/084/1808428.pdf) ([local copy](/res/abstimmungsdaten/018-170-01/1808428.pdf))
+    * [Drucksache 18/08432.pdf](http://dip21.bundestag.de/dip21/btd/18/084/1808432.pdf) ([local copy](/res/abstimmungsdaten/018-170-01/1808432.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

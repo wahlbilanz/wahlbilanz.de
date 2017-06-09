@@ -16,11 +16,11 @@ tags:
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=252](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=252)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_afghanistan_einsatzes_isaf-1105-552.html](http://www.abgeordnetenwatch.de/fortsetzung_des_afghanistan_einsatzes_isaf-1105-552.html)
 * Data: 
-    * [Abstimmungsergebnis 20140220_1-data.pdf](/abstimmungsliste/20140220_1-data.pdf)
-    * [Abstimmungsergebnis 20140220_1_xls-data.csv](/abstimmungsliste/analyses/20140220_1_xls-data.csv)
+    * [Abstimmungsergebnis 20140220_1-data.pdf](/res/abstimmungsliste/20140220_1-data.pdf)
+    * [Abstimmungsergebnis 20140220_1_xls-data.csv](/res/abstimmungsliste/analyses/20140220_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00436.pdf](http://dip21.bundestag.de/dip21/btd/18/004/1800436.pdf) ([local copy](/abstimmungsdaten/018-017-01/1800436.pdf))
-    * [Drucksache 18/00602.pdf](http://dip21.bundestag.de/dip21/btd/18/006/1800602.pdf) ([local copy](/abstimmungsdaten/018-017-01/1800602.pdf))
+    * [Drucksache 18/00436.pdf](http://dip21.bundestag.de/dip21/btd/18/004/1800436.pdf) ([local copy](/res/abstimmungsdaten/018-017-01/1800436.pdf))
+    * [Drucksache 18/00602.pdf](http://dip21.bundestag.de/dip21/btd/18/006/1800602.pdf) ([local copy](/res/abstimmungsdaten/018-017-01/1800602.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

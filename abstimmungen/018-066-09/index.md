@@ -10,11 +10,11 @@ title: Bundeswehreinsatz in Südsudan (UNMISS)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=315](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=315)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_suedsudan-1105-693.html](http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_suedsudan-1105-693.html)
 * Data: 
-    * [Abstimmungsergebnis 20141113_9-data.pdf](/abstimmungsliste/20141113_9-data.pdf)
-    * [Abstimmungsergebnis 20141113_9_xls-data.csv](/abstimmungsliste/analyses/20141113_9_xls-data.csv)
+    * [Abstimmungsergebnis 20141113_9-data.pdf](/res/abstimmungsliste/20141113_9-data.pdf)
+    * [Abstimmungsergebnis 20141113_9_xls-data.csv](/res/abstimmungsliste/analyses/20141113_9_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/03005.pdf](http://dip21.bundestag.de/dip21/btd/18/030/1803005.pdf) ([local copy](/abstimmungsdaten/018-066-09/1803005.pdf))
-    * [Drucksache 18/03191.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803191.pdf) ([local copy](/abstimmungsdaten/018-066-09/1803191.pdf))
+    * [Drucksache 18/03005.pdf](http://dip21.bundestag.de/dip21/btd/18/030/1803005.pdf) ([local copy](/res/abstimmungsdaten/018-066-09/1803005.pdf))
+    * [Drucksache 18/03191.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803191.pdf) ([local copy](/res/abstimmungsdaten/018-066-09/1803191.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

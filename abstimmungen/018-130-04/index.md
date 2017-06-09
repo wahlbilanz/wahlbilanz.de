@@ -10,11 +10,11 @@ title: Asylverfahrensbeschleunigungsgesetz
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=362](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=362)
     * [http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html](http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html)
 * Data: 
-    * [Abstimmungsergebnis 20151015_4-data.pdf](/abstimmungsliste/20151015_4-data.pdf)
-    * [Abstimmungsergebnis 20151015_4_xls-data.csv](/abstimmungsliste/analyses/20151015_4_xls-data.csv)
+    * [Abstimmungsergebnis 20151015_4-data.pdf](/res/abstimmungsliste/20151015_4-data.pdf)
+    * [Abstimmungsergebnis 20151015_4_xls-data.csv](/res/abstimmungsliste/analyses/20151015_4_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/06185.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806185.pdf) ([local copy](/abstimmungsdaten/018-130-04/1806185.pdf))
-    * [Drucksache 18/06386.pdf](http://dip21.bundestag.de/dip21/btd/18/063/1806386.pdf) ([local copy](/abstimmungsdaten/018-130-04/1806386.pdf))
+    * [Drucksache 18/06185.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806185.pdf) ([local copy](/res/abstimmungsdaten/018-130-04/1806185.pdf))
+    * [Drucksache 18/06386.pdf](http://dip21.bundestag.de/dip21/btd/18/063/1806386.pdf) ([local copy](/res/abstimmungsdaten/018-130-04/1806386.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,11 +10,11 @@ title: Bundeswehreinsatz SEA GUARDIAN im Mittelmeer
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=421](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=421)
     * [http://www.abgeordnetenwatch.de/bundeswehrbeteiligung_an_nato_operation_sea_guardian-1105-815.html](http://www.abgeordnetenwatch.de/bundeswehrbeteiligung_an_nato_operation_sea_guardian-1105-815.html)
 * Data: 
-    * [Abstimmungsergebnis 20160929_3-data.pdf](/abstimmungsliste/20160929_3-data.pdf)
-    * [Abstimmungsergebnis 20160929_3_xls-data.csv](/abstimmungsliste/analyses/20160929_3_xls-data.csv)
+    * [Abstimmungsergebnis 20160929_3-data.pdf](/res/abstimmungsliste/20160929_3-data.pdf)
+    * [Abstimmungsergebnis 20160929_3_xls-data.csv](/res/abstimmungsliste/analyses/20160929_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/09632.pdf](http://dip21.bundestag.de/dip21/btd/18/096/1809632.pdf) ([local copy](/abstimmungsdaten/018-193-03/1809632.pdf))
-    * [Drucksache 18/09793.pdf](http://dip21.bundestag.de/dip21/btd/18/097/1809793.pdf) ([local copy](/abstimmungsdaten/018-193-03/1809793.pdf))
+    * [Drucksache 18/09632.pdf](http://dip21.bundestag.de/dip21/btd/18/096/1809632.pdf) ([local copy](/res/abstimmungsdaten/018-193-03/1809632.pdf))
+    * [Drucksache 18/09793.pdf](http://dip21.bundestag.de/dip21/btd/18/097/1809793.pdf) ([local copy](/res/abstimmungsdaten/018-193-03/1809793.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,14 +10,14 @@ title: Änderungsantrag der Abgeordneten Uwe Schummer, Ulla Schmidt, Kathrin Vog
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=441](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=441)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20161109_1-data.pdf](/abstimmungsliste/20161109_1-data.pdf)
-    * [Abstimmungsergebnis 20161109_1_xls-data.csv](/abstimmungsliste/analyses/20161109_1_xls-data.csv)
+    * [Abstimmungsergebnis 20161109_1-data.pdf](/res/abstimmungsliste/20161109_1-data.pdf)
+    * [Abstimmungsergebnis 20161109_1_xls-data.csv](/res/abstimmungsliste/analyses/20161109_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/08034.pdf](http://dip21.bundestag.de/dip21/btd/18/080/1808034.pdf) ([local copy](/abstimmungsdaten/018-198-01/1808034.pdf))
-    * [Drucksache 18/08333.pdf](http://dip21.bundestag.de/dip21/btd/18/083/1808333.pdf) ([local copy](/abstimmungsdaten/018-198-01/1808333.pdf))
-    * [Drucksache 18/08461.pdf](http://dip21.bundestag.de/dip21/btd/18/084/1808461.pdf) ([local copy](/abstimmungsdaten/018-198-01/1808461.pdf))
-    * [Drucksache 18/10056.pdf](http://dip21.bundestag.de/dip21/btd/18/100/1810056.pdf) ([local copy](/abstimmungsdaten/018-198-01/1810056.pdf))
-    * [Drucksache 18/10233.pdf](http://dip21.bundestag.de/dip21/btd/18/102/1810233.pdf) ([local copy](/abstimmungsdaten/018-198-01/1810233.pdf))
+    * [Drucksache 18/08034.pdf](http://dip21.bundestag.de/dip21/btd/18/080/1808034.pdf) ([local copy](/res/abstimmungsdaten/018-198-01/1808034.pdf))
+    * [Drucksache 18/08333.pdf](http://dip21.bundestag.de/dip21/btd/18/083/1808333.pdf) ([local copy](/res/abstimmungsdaten/018-198-01/1808333.pdf))
+    * [Drucksache 18/08461.pdf](http://dip21.bundestag.de/dip21/btd/18/084/1808461.pdf) ([local copy](/res/abstimmungsdaten/018-198-01/1808461.pdf))
+    * [Drucksache 18/10056.pdf](http://dip21.bundestag.de/dip21/btd/18/100/1810056.pdf) ([local copy](/res/abstimmungsdaten/018-198-01/1810056.pdf))
+    * [Drucksache 18/10233.pdf](http://dip21.bundestag.de/dip21/btd/18/102/1810233.pdf) ([local copy](/res/abstimmungsdaten/018-198-01/1810233.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

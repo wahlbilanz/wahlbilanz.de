@@ -10,10 +10,10 @@ title: Stabilitätshilfe zugunsten Griechenlands
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=355](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=355)
     * [http://www.abgeordnetenwatch.de/gewaehrung_eines_86_mrd_euro_kreditpakets_fuer_griechenland-1105-762.html](http://www.abgeordnetenwatch.de/gewaehrung_eines_86_mrd_euro_kreditpakets_fuer_griechenland-1105-762.html)
 * Data: 
-    * [Abstimmungsergebnis 20150819_1-data.pdf](/abstimmungsliste/20150819_1-data.pdf)
-    * [Abstimmungsergebnis 20150819_1_xls-data.csv](/abstimmungsliste/analyses/20150819_1_xls-data.csv)
+    * [Abstimmungsergebnis 20150819_1-data.pdf](/res/abstimmungsliste/20150819_1-data.pdf)
+    * [Abstimmungsergebnis 20150819_1_xls-data.csv](/res/abstimmungsliste/analyses/20150819_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/05780.pdf](http://dip21.bundestag.de/dip21/btd/18/057/1805780.pdf) ([local copy](/abstimmungsdaten/018-118-01/1805780.pdf))
+    * [Drucksache 18/05780.pdf](http://dip21.bundestag.de/dip21/btd/18/057/1805780.pdf) ([local copy](/res/abstimmungsdaten/018-118-01/1805780.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,11 +10,11 @@ title: Beschlussempfehlung zu "Mietpreisbremse wirkungsvoll ausgestalten"
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=455](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=455)
     * [http://www.abgeordnetenwatch.de/verbesserung_der_mietpreisbremse-1105-859.html](http://www.abgeordnetenwatch.de/verbesserung_der_mietpreisbremse-1105-859.html)
 * Data: 
-    * [Abstimmungsergebnis 20170309_2-data.pdf](/abstimmungsliste/20170309_2-data.pdf)
-    * [Abstimmungsergebnis 20170309_2_xls-data.csv](/abstimmungsliste/analyses/20170309_2_xls-data.csv)
+    * [Abstimmungsergebnis 20170309_2-data.pdf](/res/abstimmungsliste/20170309_2-data.pdf)
+    * [Abstimmungsergebnis 20170309_2_xls-data.csv](/res/abstimmungsliste/analyses/20170309_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/09123.pdf](http://dip21.bundestag.de/dip21/btd/18/091/1809123.pdf) ([local copy](/abstimmungsdaten/018-221-02/1809123.pdf))
-    * [Drucksache 18/10089.pdf](http://dip21.bundestag.de/dip21/btd/18/100/1810089.pdf) ([local copy](/abstimmungsdaten/018-221-02/1810089.pdf))
+    * [Drucksache 18/09123.pdf](http://dip21.bundestag.de/dip21/btd/18/091/1809123.pdf) ([local copy](/res/abstimmungsdaten/018-221-02/1809123.pdf))
+    * [Drucksache 18/10089.pdf](http://dip21.bundestag.de/dip21/btd/18/100/1810089.pdf) ([local copy](/res/abstimmungsdaten/018-221-02/1810089.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

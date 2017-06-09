@@ -10,10 +10,10 @@ title: Regierungserklärung zum Europäischen Rat - Entschließungsantrag
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=384](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=384)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20160217_1-data.pdf](/abstimmungsliste/20160217_1-data.pdf)
-    * [Abstimmungsergebnis 20160217_1_xls-data.csv](/abstimmungsliste/analyses/20160217_1_xls-data.csv)
+    * [Abstimmungsergebnis 20160217_1-data.pdf](/res/abstimmungsliste/20160217_1-data.pdf)
+    * [Abstimmungsergebnis 20160217_1_xls-data.csv](/res/abstimmungsliste/analyses/20160217_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/07543.pdf](http://dip21.bundestag.de/dip21/btd/18/075/1807543.pdf) ([local copy](/abstimmungsdaten/018-154-01/1807543.pdf))
+    * [Drucksache 18/07543.pdf](http://dip21.bundestag.de/dip21/btd/18/075/1807543.pdf) ([local copy](/res/abstimmungsdaten/018-154-01/1807543.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

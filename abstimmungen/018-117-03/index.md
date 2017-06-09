@@ -10,8 +10,8 @@ title: Verwendung der SMP-Mittel 2014 zur Absicherung einer Brückenfinanzierung
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=354](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=354)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20150717_3-data.pdf](/abstimmungsliste/20150717_3-data.pdf)
-    * [Abstimmungsergebnis 20150717_3_xls-data.csv](/abstimmungsliste/analyses/20150717_3_xls-data.csv)
+    * [Abstimmungsergebnis 20150717_3-data.pdf](/res/abstimmungsliste/20150717_3-data.pdf)
+    * [Abstimmungsergebnis 20150717_3_xls-data.csv](/res/abstimmungsliste/analyses/20150717_3_xls-data.csv)
 * Preview: 
 > Deutscher Bundestag
 > 

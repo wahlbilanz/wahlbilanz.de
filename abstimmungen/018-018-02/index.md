@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Erweiterung des Straftatbestandes der Abgeordnetenbestechung
+categories:
+ - Politik
+ - Strafrecht
+tags:
+ - Politik
+ - Strafrecht
 
 ---
 
@@ -10,11 +16,11 @@ title: Erweiterung des Straftatbestandes der Abgeordnetenbestechung
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=255](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=255)
     * [http://www.abgeordnetenwatch.de/gesetz_zur_strafbarkeit_von_abgeordnetenbestechung-1105-556.html](http://www.abgeordnetenwatch.de/gesetz_zur_strafbarkeit_von_abgeordnetenbestechung-1105-556.html)
 * Data: 
-    * [Abstimmungsergebnis 20140221_2-data.pdf](/abstimmungsliste/20140221_2-data.pdf)
-    * [Abstimmungsergebnis 20140221_2_xls-data.csv](/abstimmungsliste/analyses/20140221_2_xls-data.csv)
+    * [Abstimmungsergebnis 20140221_2-data.pdf](/res/abstimmungsliste/20140221_2-data.pdf)
+    * [Abstimmungsergebnis 20140221_2_xls-data.csv](/res/abstimmungsliste/analyses/20140221_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00476.pdf](http://dip21.bundestag.de/dip21/btd/18/004/1800476.pdf) ([local copy](/abstimmungsdaten/018-018-02/1800476.pdf))
-    * [Drucksache 18/00607.pdf](http://dip21.bundestag.de/dip21/btd/18/006/1800607.pdf) ([local copy](/abstimmungsdaten/018-018-02/1800607.pdf))
+    * [Drucksache 18/00476.pdf](http://dip21.bundestag.de/dip21/btd/18/004/1800476.pdf) ([local copy](/res/abstimmungsdaten/018-018-02/1800476.pdf))
+    * [Drucksache 18/00607.pdf](http://dip21.bundestag.de/dip21/btd/18/006/1800607.pdf) ([local copy](/res/abstimmungsdaten/018-018-02/1800607.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

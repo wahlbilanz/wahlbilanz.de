@@ -16,11 +16,11 @@ tags:
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=250](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=250)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_patriot_einsatzes_in_der_tuerkei-1105-546.html](http://www.abgeordnetenwatch.de/fortsetzung_des_patriot_einsatzes_in_der_tuerkei-1105-546.html)
 * Data: 
-    * [Abstimmungsergebnis 20140129_1-data.pdf](/abstimmungsliste/20140129_1-data.pdf)
-    * [Abstimmungsergebnis 20140129_1_xls-data.csv](/abstimmungsliste/analyses/20140129_1_xls-data.csv)
+    * [Abstimmungsergebnis 20140129_1-data.pdf](/res/abstimmungsliste/20140129_1-data.pdf)
+    * [Abstimmungsergebnis 20140129_1_xls-data.csv](/res/abstimmungsliste/analyses/20140129_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00262.pdf](http://dip21.bundestag.de/dip21/btd/18/002/1800262.pdf) ([local copy](/abstimmungsdaten/018-010-01/1800262.pdf))
-    * [Drucksache 18/00347.pdf](http://dip21.bundestag.de/dip21/btd/18/003/1800347.pdf) ([local copy](/abstimmungsdaten/018-010-01/1800347.pdf))
+    * [Drucksache 18/00262.pdf](http://dip21.bundestag.de/dip21/btd/18/002/1800262.pdf) ([local copy](/res/abstimmungsdaten/018-010-01/1800262.pdf))
+    * [Drucksache 18/00347.pdf](http://dip21.bundestag.de/dip21/btd/18/003/1800347.pdf) ([local copy](/res/abstimmungsdaten/018-010-01/1800347.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

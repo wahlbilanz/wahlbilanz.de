@@ -10,13 +10,13 @@ title: Änderung des Staatsangehörigkeitsgesetzes
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=294](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=294)
     * [http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html](http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html)
 * Data: 
-    * [Abstimmungsergebnis 20140703_4-data.pdf](/abstimmungsliste/20140703_4-data.pdf)
-    * [Abstimmungsergebnis 20140703_4_xls-data.csv](/abstimmungsliste/analyses/20140703_4_xls-data.csv)
+    * [Abstimmungsergebnis 20140703_4-data.pdf](/res/abstimmungsliste/20140703_4-data.pdf)
+    * [Abstimmungsergebnis 20140703_4_xls-data.csv](/res/abstimmungsliste/analyses/20140703_4_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01312.pdf](http://dip21.bundestag.de/dip21/btd/18/013/1801312.pdf) ([local copy](/abstimmungsdaten/018-046-04/1801312.pdf))
-    * [Drucksache 18/01759.pdf](http://dip21.bundestag.de/dip21/btd/18/017/1801759.pdf) ([local copy](/abstimmungsdaten/018-046-04/1801759.pdf))
-    * [Drucksache 18/01955.pdf](http://dip21.bundestag.de/dip21/btd/18/019/1801955.pdf) ([local copy](/abstimmungsdaten/018-046-04/1801955.pdf))
-    * [Drucksache 18/02005.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802005.pdf) ([local copy](/abstimmungsdaten/018-046-04/1802005.pdf))
+    * [Drucksache 18/01312.pdf](http://dip21.bundestag.de/dip21/btd/18/013/1801312.pdf) ([local copy](/res/abstimmungsdaten/018-046-04/1801312.pdf))
+    * [Drucksache 18/01759.pdf](http://dip21.bundestag.de/dip21/btd/18/017/1801759.pdf) ([local copy](/res/abstimmungsdaten/018-046-04/1801759.pdf))
+    * [Drucksache 18/01955.pdf](http://dip21.bundestag.de/dip21/btd/18/019/1801955.pdf) ([local copy](/res/abstimmungsdaten/018-046-04/1801955.pdf))
+    * [Drucksache 18/02005.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802005.pdf) ([local copy](/res/abstimmungsdaten/018-046-04/1802005.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

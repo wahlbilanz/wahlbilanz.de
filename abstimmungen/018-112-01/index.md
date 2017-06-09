@@ -10,13 +10,13 @@ title: Grundfreibetrag, Kinderfreibetrag, -geld, -zuschlag
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=342](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=342)
     * [http://www.abgeordnetenwatch.de/rueckwirkende_erhoehung_von_kinderfreibetrag_und_kindergeld-1105-746.html](http://www.abgeordnetenwatch.de/rueckwirkende_erhoehung_von_kinderfreibetrag_und_kindergeld-1105-746.html)
 * Data: 
-    * [Abstimmungsergebnis 20150618_1-data.pdf](/abstimmungsliste/20150618_1-data.pdf)
-    * [Abstimmungsergebnis 20150618_1_xls-data.csv](/abstimmungsliste/analyses/20150618_1_xls-data.csv)
+    * [Abstimmungsergebnis 20150618_1-data.pdf](/res/abstimmungsliste/20150618_1-data.pdf)
+    * [Abstimmungsergebnis 20150618_1_xls-data.csv](/res/abstimmungsliste/analyses/20150618_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/04649.pdf](http://dip21.bundestag.de/dip21/btd/18/046/1804649.pdf) ([local copy](/abstimmungsdaten/018-112-01/1804649.pdf))
-    * [Drucksache 18/05011.pdf](http://dip21.bundestag.de/dip21/btd/18/050/1805011.pdf) ([local copy](/abstimmungsdaten/018-112-01/1805011.pdf))
-    * [Drucksache 18/05244.pdf](http://dip21.bundestag.de/dip21/btd/18/052/1805244.pdf) ([local copy](/abstimmungsdaten/018-112-01/1805244.pdf))
-    * [Drucksache 18/05259.pdf](http://dip21.bundestag.de/dip21/btd/18/052/1805259.pdf) ([local copy](/abstimmungsdaten/018-112-01/1805259.pdf))
+    * [Drucksache 18/04649.pdf](http://dip21.bundestag.de/dip21/btd/18/046/1804649.pdf) ([local copy](/res/abstimmungsdaten/018-112-01/1804649.pdf))
+    * [Drucksache 18/05011.pdf](http://dip21.bundestag.de/dip21/btd/18/050/1805011.pdf) ([local copy](/res/abstimmungsdaten/018-112-01/1805011.pdf))
+    * [Drucksache 18/05244.pdf](http://dip21.bundestag.de/dip21/btd/18/052/1805244.pdf) ([local copy](/res/abstimmungsdaten/018-112-01/1805244.pdf))
+    * [Drucksache 18/05259.pdf](http://dip21.bundestag.de/dip21/btd/18/052/1805259.pdf) ([local copy](/res/abstimmungsdaten/018-112-01/1805259.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

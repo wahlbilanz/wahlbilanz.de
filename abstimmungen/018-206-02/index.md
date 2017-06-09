@@ -10,11 +10,11 @@ title: Seefischereigesetz
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=432](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=432)
     * [http://www.abgeordnetenwatch.de/drittes_gesetz_zur_aenderung_des_seefischereigesetzes-1105-827.html](http://www.abgeordnetenwatch.de/drittes_gesetz_zur_aenderung_des_seefischereigesetzes-1105-827.html)
 * Data: 
-    * [Abstimmungsergebnis 20161201_2-data.pdf](/abstimmungsliste/20161201_2-data.pdf)
-    * [Abstimmungsergebnis 20161201_2_xls-data.csv](/abstimmungsliste/analyses/20161201_2_xls-data.csv)
+    * [Abstimmungsergebnis 20161201_2-data.pdf](/res/abstimmungsliste/20161201_2-data.pdf)
+    * [Abstimmungsergebnis 20161201_2_xls-data.csv](/res/abstimmungsliste/analyses/20161201_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/09466.pdf](http://dip21.bundestag.de/dip21/btd/18/094/1809466.pdf) ([local copy](/abstimmungsdaten/018-206-02/1809466.pdf))
-    * [Drucksache 18/10496.pdf](http://dip21.bundestag.de/dip21/btd/18/104/1810496.pdf) ([local copy](/abstimmungsdaten/018-206-02/1810496.pdf))
+    * [Drucksache 18/09466.pdf](http://dip21.bundestag.de/dip21/btd/18/094/1809466.pdf) ([local copy](/res/abstimmungsdaten/018-206-02/1809466.pdf))
+    * [Drucksache 18/10496.pdf](http://dip21.bundestag.de/dip21/btd/18/104/1810496.pdf) ([local copy](/res/abstimmungsdaten/018-206-02/1810496.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

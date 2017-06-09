@@ -1,7 +1,18 @@
 ---
 layout: page
 title: EU-Honigrichtlinie (Kennzeichnung von Gen-Honig)
-
+categories:
+ - Ernährung
+ - Landwirtschaft
+ - Gentechnik
+ - EU
+ - Verbraucherschutz
+tags:
+ - Ernährung
+ - Landwirtschaft
+ - Gentechnik
+ - EU
+ - Verbraucherschutz
 ---
 
 * Abstimmung: 018-020-01
@@ -10,11 +21,11 @@ title: EU-Honigrichtlinie (Kennzeichnung von Gen-Honig)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=256](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=256)
     * [http://www.abgeordnetenwatch.de/kennzeichnungspflicht_von_gen_honig-1105-587.html](http://www.abgeordnetenwatch.de/kennzeichnungspflicht_von_gen_honig-1105-587.html)
 * Data: 
-    * [Abstimmungsergebnis 20140313_1-data.pdf](/abstimmungsliste/20140313_1-data.pdf)
-    * [Abstimmungsergebnis 20140313_1_xls-data.csv](/abstimmungsliste/analyses/20140313_1_xls-data.csv)
+    * [Abstimmungsergebnis 20140313_1-data.pdf](/res/abstimmungsliste/20140313_1-data.pdf)
+    * [Abstimmungsergebnis 20140313_1_xls-data.csv](/res/abstimmungsliste/analyses/20140313_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00578.pdf](http://dip21.bundestag.de/dip21/btd/18/005/1800578.pdf) ([local copy](/abstimmungsdaten/018-020-01/1800578.pdf))
-    * [Drucksache 18/00792.pdf](http://dip21.bundestag.de/dip21/btd/18/007/1800792.pdf) ([local copy](/abstimmungsdaten/018-020-01/1800792.pdf))
+    * [Drucksache 18/00578.pdf](http://dip21.bundestag.de/dip21/btd/18/005/1800578.pdf) ([local copy](/res/abstimmungsdaten/018-020-01/1800578.pdf))
+    * [Drucksache 18/00792.pdf](http://dip21.bundestag.de/dip21/btd/18/007/1800792.pdf) ([local copy](/res/abstimmungsdaten/018-020-01/1800792.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

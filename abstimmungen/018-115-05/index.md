@@ -10,11 +10,11 @@ title: Subventionen für Atomkraftwerke in der EU, Beschlussempfehlung zum Antra
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=350](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=350)
     * [http://www.abgeordnetenwatch.de/neubausubventionen_fuer_atomkraftwerke_in_der_eu_verhindern-1105-756.html](http://www.abgeordnetenwatch.de/neubausubventionen_fuer_atomkraftwerke_in_der_eu_verhindern-1105-756.html)
 * Data: 
-    * [Abstimmungsergebnis 20150702_5-data.pdf](/abstimmungsliste/20150702_5-data.pdf)
-    * [Abstimmungsergebnis 20150702_5_xls-data.csv](/abstimmungsliste/analyses/20150702_5_xls-data.csv)
+    * [Abstimmungsergebnis 20150702_5-data.pdf](/res/abstimmungsliste/20150702_5-data.pdf)
+    * [Abstimmungsergebnis 20150702_5_xls-data.csv](/res/abstimmungsliste/analyses/20150702_5_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/04215.pdf](http://dip21.bundestag.de/dip21/btd/18/042/1804215.pdf) ([local copy](/abstimmungsdaten/018-115-05/1804215.pdf))
-    * [Drucksache 18/05417.pdf](http://dip21.bundestag.de/dip21/btd/18/054/1805417.pdf) ([local copy](/abstimmungsdaten/018-115-05/1805417.pdf))
+    * [Drucksache 18/04215.pdf](http://dip21.bundestag.de/dip21/btd/18/042/1804215.pdf) ([local copy](/res/abstimmungsdaten/018-115-05/1804215.pdf))
+    * [Drucksache 18/05417.pdf](http://dip21.bundestag.de/dip21/btd/18/054/1805417.pdf) ([local copy](/res/abstimmungsdaten/018-115-05/1805417.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

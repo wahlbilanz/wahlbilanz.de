@@ -10,12 +10,12 @@ title: Änderung des SGB II - Rechtsvereinfachung
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=402](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=402)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20160623_3-data.pdf](/abstimmungsliste/20160623_3-data.pdf)
-    * [Abstimmungsergebnis 20160623_3_xls-data.csv](/abstimmungsliste/analyses/20160623_3_xls-data.csv)
+    * [Abstimmungsergebnis 20160623_3-data.pdf](/res/abstimmungsliste/20160623_3-data.pdf)
+    * [Abstimmungsergebnis 20160623_3_xls-data.csv](/res/abstimmungsliste/analyses/20160623_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/08041.pdf](http://dip21.bundestag.de/dip21/btd/18/080/1808041.pdf) ([local copy](/abstimmungsdaten/018-179-03/1808041.pdf))
-    * [Drucksache 18/08909.pdf](http://dip21.bundestag.de/dip21/btd/18/089/1808909.pdf) ([local copy](/abstimmungsdaten/018-179-03/1808909.pdf))
-    * [Drucksache 18/08923.pdf](http://dip21.bundestag.de/dip21/btd/18/089/1808923.pdf) ([local copy](/abstimmungsdaten/018-179-03/1808923.pdf))
+    * [Drucksache 18/08041.pdf](http://dip21.bundestag.de/dip21/btd/18/080/1808041.pdf) ([local copy](/res/abstimmungsdaten/018-179-03/1808041.pdf))
+    * [Drucksache 18/08909.pdf](http://dip21.bundestag.de/dip21/btd/18/089/1808909.pdf) ([local copy](/res/abstimmungsdaten/018-179-03/1808909.pdf))
+    * [Drucksache 18/08923.pdf](http://dip21.bundestag.de/dip21/btd/18/089/1808923.pdf) ([local copy](/res/abstimmungsdaten/018-179-03/1808923.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

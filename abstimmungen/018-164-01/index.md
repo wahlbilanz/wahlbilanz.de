@@ -10,11 +10,11 @@ title: Bekämpfung von Korruption im Gesundheitswesen
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=391](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=391)
     * [http://www.abgeordnetenwatch.de/bekaempfung_von_korruption_im_gesundheitswesen-1105-789.html](http://www.abgeordnetenwatch.de/bekaempfung_von_korruption_im_gesundheitswesen-1105-789.html)
 * Data: 
-    * [Abstimmungsergebnis 20160414_1-data.pdf](/abstimmungsliste/20160414_1-data.pdf)
-    * [Abstimmungsergebnis 20160414_1_xls-data.csv](/abstimmungsliste/analyses/20160414_1_xls-data.csv)
+    * [Abstimmungsergebnis 20160414_1-data.pdf](/res/abstimmungsliste/20160414_1-data.pdf)
+    * [Abstimmungsergebnis 20160414_1_xls-data.csv](/res/abstimmungsliste/analyses/20160414_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/06446.pdf](http://dip21.bundestag.de/dip21/btd/18/064/1806446.pdf) ([local copy](/abstimmungsdaten/018-164-01/1806446.pdf))
-    * [Drucksache 18/08106.pdf](http://dip21.bundestag.de/dip21/btd/18/081/1808106.pdf) ([local copy](/abstimmungsdaten/018-164-01/1808106.pdf))
+    * [Drucksache 18/06446.pdf](http://dip21.bundestag.de/dip21/btd/18/064/1806446.pdf) ([local copy](/res/abstimmungsdaten/018-164-01/1806446.pdf))
+    * [Drucksache 18/08106.pdf](http://dip21.bundestag.de/dip21/btd/18/081/1808106.pdf) ([local copy](/res/abstimmungsdaten/018-164-01/1808106.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

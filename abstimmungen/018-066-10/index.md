@@ -10,11 +10,11 @@ title: Bundeswehreinsatz in Dafur (UNAMID)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=316](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=316)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_darfur_unamid-1105-692.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_darfur_unamid-1105-692.html)
 * Data: 
-    * [Abstimmungsergebnis 20141113_10-data.pdf](/abstimmungsliste/20141113_10-data.pdf)
-    * [Abstimmungsergebnis 20141113_10_xls-data.csv](/abstimmungsliste/analyses/20141113_10_xls-data.csv)
+    * [Abstimmungsergebnis 20141113_10-data.pdf](/res/abstimmungsliste/20141113_10-data.pdf)
+    * [Abstimmungsergebnis 20141113_10_xls-data.csv](/res/abstimmungsliste/analyses/20141113_10_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/03006.pdf](http://dip21.bundestag.de/dip21/btd/18/030/1803006.pdf) ([local copy](/abstimmungsdaten/018-066-10/1803006.pdf))
-    * [Drucksache 18/03193.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803193.pdf) ([local copy](/abstimmungsdaten/018-066-10/1803193.pdf))
+    * [Drucksache 18/03006.pdf](http://dip21.bundestag.de/dip21/btd/18/030/1803006.pdf) ([local copy](/res/abstimmungsdaten/018-066-10/1803006.pdf))
+    * [Drucksache 18/03193.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803193.pdf) ([local copy](/res/abstimmungsdaten/018-066-10/1803193.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

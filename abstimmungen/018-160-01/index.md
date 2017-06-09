@@ -10,10 +10,10 @@ title: Regierungserklärung zum Europäischen Rat am 17./18. März 2016 - Entsch
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=389](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=389)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20160316_1-data.pdf](/abstimmungsliste/20160316_1-data.pdf)
-    * [Abstimmungsergebnis 20160316_1_xls-data.csv](/abstimmungsliste/analyses/20160316_1_xls-data.csv)
+    * [Abstimmungsergebnis 20160316_1-data.pdf](/res/abstimmungsliste/20160316_1-data.pdf)
+    * [Abstimmungsergebnis 20160316_1_xls-data.csv](/res/abstimmungsliste/analyses/20160316_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/07884.pdf](http://dip21.bundestag.de/dip21/btd/18/078/1807884.pdf) ([local copy](/abstimmungsdaten/018-160-01/1807884.pdf))
+    * [Drucksache 18/07884.pdf](http://dip21.bundestag.de/dip21/btd/18/078/1807884.pdf) ([local copy](/res/abstimmungsdaten/018-160-01/1807884.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

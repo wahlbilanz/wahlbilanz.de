@@ -10,12 +10,12 @@ title: Fracking
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=404](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=404)
     * [http://www.abgeordnetenwatch.de/fracking_neuregelung-1105-797.html](http://www.abgeordnetenwatch.de/fracking_neuregelung-1105-797.html)
 * Data: 
-    * [Abstimmungsergebnis 20160624_2-data.pdf](/abstimmungsliste/20160624_2-data.pdf)
-    * [Abstimmungsergebnis 20160624_2_xls-data.csv](/abstimmungsliste/analyses/20160624_2_xls-data.csv)
+    * [Abstimmungsergebnis 20160624_2-data.pdf](/res/abstimmungsliste/20160624_2-data.pdf)
+    * [Abstimmungsergebnis 20160624_2_xls-data.csv](/res/abstimmungsliste/analyses/20160624_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/04713.pdf](http://dip21.bundestag.de/dip21/btd/18/047/1804713.pdf) ([local copy](/abstimmungsdaten/018-180-02/1804713.pdf))
-    * [Drucksache 18/04949.pdf](http://dip21.bundestag.de/dip21/btd/18/049/1804949.pdf) ([local copy](/abstimmungsdaten/018-180-02/1804949.pdf))
-    * [Drucksache 18/08916.pdf](http://dip21.bundestag.de/dip21/btd/18/089/1808916.pdf) ([local copy](/abstimmungsdaten/018-180-02/1808916.pdf))
+    * [Drucksache 18/04713.pdf](http://dip21.bundestag.de/dip21/btd/18/047/1804713.pdf) ([local copy](/res/abstimmungsdaten/018-180-02/1804713.pdf))
+    * [Drucksache 18/04949.pdf](http://dip21.bundestag.de/dip21/btd/18/049/1804949.pdf) ([local copy](/res/abstimmungsdaten/018-180-02/1804949.pdf))
+    * [Drucksache 18/08916.pdf](http://dip21.bundestag.de/dip21/btd/18/089/1808916.pdf) ([local copy](/res/abstimmungsdaten/018-180-02/1808916.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

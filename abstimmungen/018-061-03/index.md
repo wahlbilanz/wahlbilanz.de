@@ -10,12 +10,12 @@ title: Pflegeversicherung, Entschließungsantrag Die Linkse
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=305](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=305)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20141017_3-data.pdf](/abstimmungsliste/20141017_3-data.pdf)
-    * [Abstimmungsergebnis 20141017_3_xls-data.csv](/abstimmungsliste/analyses/20141017_3_xls-data.csv)
+    * [Abstimmungsergebnis 20141017_3-data.pdf](/res/abstimmungsliste/20141017_3-data.pdf)
+    * [Abstimmungsergebnis 20141017_3_xls-data.csv](/res/abstimmungsliste/analyses/20141017_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/02379.pdf](http://dip21.bundestag.de/dip21/btd/18/023/1802379.pdf) ([local copy](/abstimmungsdaten/018-061-03/1802379.pdf))
-    * [Drucksache 18/02909.pdf](http://dip21.bundestag.de/dip21/btd/18/029/1802909.pdf) ([local copy](/abstimmungsdaten/018-061-03/1802909.pdf))
-    * [Drucksache 18/02916.pdf](http://dip21.bundestag.de/dip21/btd/18/029/1802916.pdf) ([local copy](/abstimmungsdaten/018-061-03/1802916.pdf))
+    * [Drucksache 18/02379.pdf](http://dip21.bundestag.de/dip21/btd/18/023/1802379.pdf) ([local copy](/res/abstimmungsdaten/018-061-03/1802379.pdf))
+    * [Drucksache 18/02909.pdf](http://dip21.bundestag.de/dip21/btd/18/029/1802909.pdf) ([local copy](/res/abstimmungsdaten/018-061-03/1802909.pdf))
+    * [Drucksache 18/02916.pdf](http://dip21.bundestag.de/dip21/btd/18/029/1802916.pdf) ([local copy](/res/abstimmungsdaten/018-061-03/1802916.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

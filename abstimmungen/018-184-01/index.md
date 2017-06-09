@@ -10,11 +10,11 @@ title: Erneuerbare-Energie-Gesetz
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=411](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=411)
     * [http://www.abgeordnetenwatch.de/reform_des_erneuerbare_energien_gesetzes_eeg-1105-803.html](http://www.abgeordnetenwatch.de/reform_des_erneuerbare_energien_gesetzes_eeg-1105-803.html)
 * Data: 
-    * [Abstimmungsergebnis 20160708_1-data.pdf](/abstimmungsliste/20160708_1-data.pdf)
-    * [Abstimmungsergebnis 20160708_1_xls-data.csv](/abstimmungsliste/analyses/20160708_1_xls-data.csv)
+    * [Abstimmungsergebnis 20160708_1-data.pdf](/res/abstimmungsliste/20160708_1-data.pdf)
+    * [Abstimmungsergebnis 20160708_1_xls-data.csv](/res/abstimmungsliste/analyses/20160708_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/08860.pdf](http://dip21.bundestag.de/dip21/btd/18/088/1808860.pdf) ([local copy](/abstimmungsdaten/018-184-01/1808860.pdf))
-    * [Drucksache 18/09096.pdf](http://dip21.bundestag.de/dip21/btd/18/090/1809096.pdf) ([local copy](/abstimmungsdaten/018-184-01/1809096.pdf))
+    * [Drucksache 18/08860.pdf](http://dip21.bundestag.de/dip21/btd/18/088/1808860.pdf) ([local copy](/res/abstimmungsdaten/018-184-01/1808860.pdf))
+    * [Drucksache 18/09096.pdf](http://dip21.bundestag.de/dip21/btd/18/090/1809096.pdf) ([local copy](/res/abstimmungsdaten/018-184-01/1809096.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

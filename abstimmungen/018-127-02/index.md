@@ -10,11 +10,11 @@ title: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Die Linkse
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=357](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=357)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20151001_2-data.pdf](/abstimmungsliste/20151001_2-data.pdf)
-    * [Abstimmungsergebnis 20151001_2_xls-data.csv](/abstimmungsliste/analyses/20151001_2_xls-data.csv)
+    * [Abstimmungsergebnis 20151001_2-data.pdf](/res/abstimmungsliste/20151001_2-data.pdf)
+    * [Abstimmungsergebnis 20151001_2_xls-data.csv](/res/abstimmungsliste/analyses/20151001_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01115.pdf](http://dip21.bundestag.de/dip21/btd/18/011/1801115.pdf) ([local copy](/abstimmungsdaten/018-127-02/1801115.pdf))
-    * [Drucksache 18/06128.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806128.pdf) ([local copy](/abstimmungsdaten/018-127-02/1806128.pdf))
+    * [Drucksache 18/01115.pdf](http://dip21.bundestag.de/dip21/btd/18/011/1801115.pdf) ([local copy](/res/abstimmungsdaten/018-127-02/1801115.pdf))
+    * [Drucksache 18/06128.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806128.pdf) ([local copy](/res/abstimmungsdaten/018-127-02/1806128.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

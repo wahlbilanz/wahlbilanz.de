@@ -10,12 +10,12 @@ title: Freihandelsabkommen der EU mit USA und Kanada, 1. Entschließungsantrag
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=299](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=299)
     * [http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html](http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html)
 * Data: 
-    * [Abstimmungsergebnis 20140925_2-data.pdf](/abstimmungsliste/20140925_2-data.pdf)
-    * [Abstimmungsergebnis 20140925_2_xls-data.csv](/abstimmungsliste/analyses/20140925_2_xls-data.csv)
+    * [Abstimmungsergebnis 20140925_2-data.pdf](/res/abstimmungsliste/20140925_2-data.pdf)
+    * [Abstimmungsergebnis 20140925_2_xls-data.csv](/res/abstimmungsliste/analyses/20140925_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00432.pdf](http://dip21.bundestag.de/dip21/btd/18/004/1800432.pdf) ([local copy](/abstimmungsdaten/018-054-02/1800432.pdf))
-    * [Drucksache 18/02100.pdf](http://dip21.bundestag.de/dip21/btd/18/021/1802100.pdf) ([local copy](/abstimmungsdaten/018-054-02/1802100.pdf))
-    * [Drucksache 18/02611.pdf](http://dip21.bundestag.de/dip21/btd/18/026/1802611.pdf) ([local copy](/abstimmungsdaten/018-054-02/1802611.pdf))
+    * [Drucksache 18/00432.pdf](http://dip21.bundestag.de/dip21/btd/18/004/1800432.pdf) ([local copy](/res/abstimmungsdaten/018-054-02/1800432.pdf))
+    * [Drucksache 18/02100.pdf](http://dip21.bundestag.de/dip21/btd/18/021/1802100.pdf) ([local copy](/res/abstimmungsdaten/018-054-02/1802100.pdf))
+    * [Drucksache 18/02611.pdf](http://dip21.bundestag.de/dip21/btd/18/026/1802611.pdf) ([local copy](/res/abstimmungsdaten/018-054-02/1802611.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

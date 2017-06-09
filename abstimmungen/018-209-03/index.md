@@ -10,11 +10,11 @@ title: Beschlussempfehlung Bundeswehreinsatz in Darfur (UNAMID)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=445](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=445)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_darfur-1105-831.html](http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_darfur-1105-831.html)
 * Data: 
-    * [Abstimmungsergebnis 20161215_3-data.pdf](/abstimmungsliste/20161215_3-data.pdf)
-    * [Abstimmungsergebnis 20161215_3_xls-data.csv](/abstimmungsliste/analyses/20161215_3_xls-data.csv)
+    * [Abstimmungsergebnis 20161215_3-data.pdf](/res/abstimmungsliste/20161215_3-data.pdf)
+    * [Abstimmungsergebnis 20161215_3_xls-data.csv](/res/abstimmungsliste/analyses/20161215_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/10189.pdf](http://dip21.bundestag.de/dip21/btd/18/101/1810189.pdf) ([local copy](/abstimmungsdaten/018-209-03/1810189.pdf))
-    * [Drucksache 18/10549.pdf](http://dip21.bundestag.de/dip21/btd/18/105/1810549.pdf) ([local copy](/abstimmungsdaten/018-209-03/1810549.pdf))
+    * [Drucksache 18/10189.pdf](http://dip21.bundestag.de/dip21/btd/18/101/1810189.pdf) ([local copy](/res/abstimmungsdaten/018-209-03/1810189.pdf))
+    * [Drucksache 18/10549.pdf](http://dip21.bundestag.de/dip21/btd/18/105/1810549.pdf) ([local copy](/res/abstimmungsdaten/018-209-03/1810549.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,11 +10,11 @@ title: Bundeswehreinsatz ACTIVE ENDEAVOUR (OAE)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=321](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=321)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_mittelmeer_active_endeavour-1105-708.html](http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_mittelmeer_active_endeavour-1105-708.html)
 * Data: 
-    * [Abstimmungsergebnis 20141218_2-data.pdf](/abstimmungsliste/20141218_2-data.pdf)
-    * [Abstimmungsergebnis 20141218_2_xls-data.csv](/abstimmungsliste/analyses/20141218_2_xls-data.csv)
+    * [Abstimmungsergebnis 20141218_2-data.pdf](/res/abstimmungsliste/20141218_2-data.pdf)
+    * [Abstimmungsergebnis 20141218_2_xls-data.csv](/res/abstimmungsliste/analyses/20141218_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/03247.pdf](http://dip21.bundestag.de/dip21/btd/18/032/1803247.pdf) ([local copy](/abstimmungsdaten/018-076-02/1803247.pdf))
-    * [Drucksache 18/03584.pdf](http://dip21.bundestag.de/dip21/btd/18/035/1803584.pdf) ([local copy](/abstimmungsdaten/018-076-02/1803584.pdf))
+    * [Drucksache 18/03247.pdf](http://dip21.bundestag.de/dip21/btd/18/032/1803247.pdf) ([local copy](/res/abstimmungsdaten/018-076-02/1803247.pdf))
+    * [Drucksache 18/03584.pdf](http://dip21.bundestag.de/dip21/btd/18/035/1803584.pdf) ([local copy](/res/abstimmungsdaten/018-076-02/1803584.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,11 +10,11 @@ title: Ausbildungsunterstützungeinsatz Kurdistan-Irak
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=324](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=324)
     * [http://www.abgeordnetenwatch.de/ausbildungsunterstuetzungseinsatz_kurdistan_irak-1105-711.html](http://www.abgeordnetenwatch.de/ausbildungsunterstuetzungseinsatz_kurdistan_irak-1105-711.html)
 * Data: 
-    * [Abstimmungsergebnis 20150129_1-data.pdf](/abstimmungsliste/20150129_1-data.pdf)
-    * [Abstimmungsergebnis 20150129_1_xls-data.csv](/abstimmungsliste/analyses/20150129_1_xls-data.csv)
+    * [Abstimmungsergebnis 20150129_1-data.pdf](/res/abstimmungsliste/20150129_1-data.pdf)
+    * [Abstimmungsergebnis 20150129_1_xls-data.csv](/res/abstimmungsliste/analyses/20150129_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/03561.pdf](http://dip21.bundestag.de/dip21/btd/18/035/1803561.pdf) ([local copy](/abstimmungsdaten/018-082-01/1803561.pdf))
-    * [Drucksache 18/03857.pdf](http://dip21.bundestag.de/dip21/btd/18/038/1803857.pdf) ([local copy](/abstimmungsdaten/018-082-01/1803857.pdf))
+    * [Drucksache 18/03561.pdf](http://dip21.bundestag.de/dip21/btd/18/035/1803561.pdf) ([local copy](/res/abstimmungsdaten/018-082-01/1803561.pdf))
+    * [Drucksache 18/03857.pdf](http://dip21.bundestag.de/dip21/btd/18/038/1803857.pdf) ([local copy](/res/abstimmungsdaten/018-082-01/1803857.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

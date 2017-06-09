@@ -10,10 +10,10 @@ title: Rüstungsexportkontrollgesetz
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=385](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=385)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20160218_1-data.pdf](/abstimmungsliste/20160218_1-data.pdf)
-    * [Abstimmungsergebnis 20160218_1_xls-data.csv](/abstimmungsliste/analyses/20160218_1_xls-data.csv)
+    * [Abstimmungsergebnis 20160218_1-data.pdf](/res/abstimmungsliste/20160218_1-data.pdf)
+    * [Abstimmungsergebnis 20160218_1_xls-data.csv](/res/abstimmungsliste/analyses/20160218_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/07546.pdf](http://dip21.bundestag.de/dip21/btd/18/075/1807546.pdf) ([local copy](/abstimmungsdaten/018-155-01/1807546.pdf))
+    * [Drucksache 18/07546.pdf](http://dip21.bundestag.de/dip21/btd/18/075/1807546.pdf) ([local copy](/res/abstimmungsdaten/018-155-01/1807546.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

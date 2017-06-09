@@ -10,11 +10,11 @@ title: Bundeswehreinsatz in Afghanistan (Resolute Support)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=380](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=380)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_afghanistan_einsatzes_der_bundeswehr-1105-780.html](http://www.abgeordnetenwatch.de/verlaengerung_des_afghanistan_einsatzes_der_bundeswehr-1105-780.html)
 * Data: 
-    * [Abstimmungsergebnis 20151217_1-data.pdf](/abstimmungsliste/20151217_1-data.pdf)
-    * [Abstimmungsergebnis 20151217_1_xls-data.csv](/abstimmungsliste/analyses/20151217_1_xls-data.csv)
+    * [Abstimmungsergebnis 20151217_1-data.pdf](/res/abstimmungsliste/20151217_1-data.pdf)
+    * [Abstimmungsergebnis 20151217_1_xls-data.csv](/res/abstimmungsliste/analyses/20151217_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/06743.pdf](http://dip21.bundestag.de/dip21/btd/18/067/1806743.pdf) ([local copy](/abstimmungsdaten/018-146-01/1806743.pdf))
-    * [Drucksache 18/06946.pdf](http://dip21.bundestag.de/dip21/btd/18/069/1806946.pdf) ([local copy](/abstimmungsdaten/018-146-01/1806946.pdf))
+    * [Drucksache 18/06743.pdf](http://dip21.bundestag.de/dip21/btd/18/067/1806743.pdf) ([local copy](/res/abstimmungsdaten/018-146-01/1806743.pdf))
+    * [Drucksache 18/06946.pdf](http://dip21.bundestag.de/dip21/btd/18/069/1806946.pdf) ([local copy](/res/abstimmungsdaten/018-146-01/1806946.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

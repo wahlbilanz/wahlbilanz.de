@@ -10,11 +10,11 @@ title: Änderung agrarmarktrechtlicher Bestimmungen
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=369](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=369)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20151105_2-data.pdf](/abstimmungsliste/20151105_2-data.pdf)
-    * [Abstimmungsergebnis 20151105_2_xls-data.csv](/abstimmungsliste/analyses/20151105_2_xls-data.csv)
+    * [Abstimmungsergebnis 20151105_2-data.pdf](/res/abstimmungsliste/20151105_2-data.pdf)
+    * [Abstimmungsergebnis 20151105_2_xls-data.csv](/res/abstimmungsliste/analyses/20151105_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/06160.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806160.pdf) ([local copy](/abstimmungsdaten/018-133-02/1806160.pdf))
-    * [Drucksache 18/06438.pdf](http://dip21.bundestag.de/dip21/btd/18/064/1806438.pdf) ([local copy](/abstimmungsdaten/018-133-02/1806438.pdf))
+    * [Drucksache 18/06160.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806160.pdf) ([local copy](/res/abstimmungsdaten/018-133-02/1806160.pdf))
+    * [Drucksache 18/06438.pdf](http://dip21.bundestag.de/dip21/btd/18/064/1806438.pdf) ([local copy](/res/abstimmungsdaten/018-133-02/1806438.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

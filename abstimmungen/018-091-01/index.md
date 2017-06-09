@@ -10,13 +10,13 @@ title: Dämpfung des Mietanstiegs, 1. Änderungsantrag Bündnis 90/Die Grünen
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=329](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=329)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20150305_1-data.pdf](/abstimmungsliste/20150305_1-data.pdf)
-    * [Abstimmungsergebnis 20150305_1_xls-data.csv](/abstimmungsliste/analyses/20150305_1_xls-data.csv)
+    * [Abstimmungsergebnis 20150305_1-data.pdf](/res/abstimmungsliste/20150305_1-data.pdf)
+    * [Abstimmungsergebnis 20150305_1_xls-data.csv](/res/abstimmungsliste/analyses/20150305_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/03121.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803121.pdf) ([local copy](/abstimmungsdaten/018-091-01/1803121.pdf))
-    * [Drucksache 18/03250.pdf](http://dip21.bundestag.de/dip21/btd/18/032/1803250.pdf) ([local copy](/abstimmungsdaten/018-091-01/1803250.pdf))
-    * [Drucksache 18/04220.pdf](http://dip21.bundestag.de/dip21/btd/18/042/1804220.pdf) ([local copy](/abstimmungsdaten/018-091-01/1804220.pdf))
-    * [Drucksache 18/04224.pdf](http://dip21.bundestag.de/dip21/btd/18/042/1804224.pdf) ([local copy](/abstimmungsdaten/018-091-01/1804224.pdf))
+    * [Drucksache 18/03121.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803121.pdf) ([local copy](/res/abstimmungsdaten/018-091-01/1803121.pdf))
+    * [Drucksache 18/03250.pdf](http://dip21.bundestag.de/dip21/btd/18/032/1803250.pdf) ([local copy](/res/abstimmungsdaten/018-091-01/1803250.pdf))
+    * [Drucksache 18/04220.pdf](http://dip21.bundestag.de/dip21/btd/18/042/1804220.pdf) ([local copy](/res/abstimmungsdaten/018-091-01/1804220.pdf))
+    * [Drucksache 18/04224.pdf](http://dip21.bundestag.de/dip21/btd/18/042/1804224.pdf) ([local copy](/res/abstimmungsdaten/018-091-01/1804224.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

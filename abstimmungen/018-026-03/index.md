@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Minderheitenrechte in der 18. Wahlperiode
+categories:
+ - Politik
+tags:
+ - Politik
 
 ---
 
@@ -10,11 +14,11 @@ title: Minderheitenrechte in der 18. Wahlperiode
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=257](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=257)
     * [http://www.abgeordnetenwatch.de/minderheitenrechte_im_bundestag-1105-592.html](http://www.abgeordnetenwatch.de/minderheitenrechte_im_bundestag-1105-592.html)
 * Data: 
-    * [Abstimmungsergebnis 20140403_3-data.pdf](/abstimmungsliste/20140403_3-data.pdf)
-    * [Abstimmungsergebnis 20140403_3_xls-data.csv](/abstimmungsliste/analyses/20140403_3_xls-data.csv)
+    * [Abstimmungsergebnis 20140403_3-data.pdf](/res/abstimmungsliste/20140403_3-data.pdf)
+    * [Abstimmungsergebnis 20140403_3_xls-data.csv](/res/abstimmungsliste/analyses/20140403_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00838.pdf](http://dip21.bundestag.de/dip21/btd/18/008/1800838.pdf) ([local copy](/abstimmungsdaten/018-026-03/1800838.pdf))
-    * [Drucksache 18/00997.pdf](http://dip21.bundestag.de/dip21/btd/18/009/1800997.pdf) ([local copy](/abstimmungsdaten/018-026-03/1800997.pdf))
+    * [Drucksache 18/00838.pdf](http://dip21.bundestag.de/dip21/btd/18/008/1800838.pdf) ([local copy](/res/abstimmungsdaten/018-026-03/1800838.pdf))
+    * [Drucksache 18/00997.pdf](http://dip21.bundestag.de/dip21/btd/18/009/1800997.pdf) ([local copy](/res/abstimmungsdaten/018-026-03/1800997.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

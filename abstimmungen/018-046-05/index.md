@@ -10,12 +10,12 @@ title: Aufhebung der Optionsregelung im Staatsangehörigkeitsrecht
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=295](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=295)
     * [http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html](http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html)
 * Data: 
-    * [Abstimmungsergebnis 20140703_5-data.pdf](/abstimmungsliste/20140703_5-data.pdf)
-    * [Abstimmungsergebnis 20140703_5_xls-data.csv](/abstimmungsliste/analyses/20140703_5_xls-data.csv)
+    * [Abstimmungsergebnis 20140703_5-data.pdf](/res/abstimmungsliste/20140703_5-data.pdf)
+    * [Abstimmungsergebnis 20140703_5_xls-data.csv](/res/abstimmungsliste/analyses/20140703_5_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01092.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801092.pdf) ([local copy](/abstimmungsdaten/018-046-05/1801092.pdf))
-    * [Drucksache 18/01955.pdf](http://dip21.bundestag.de/dip21/btd/18/019/1801955.pdf) ([local copy](/abstimmungsdaten/018-046-05/1801955.pdf))
-    * [Drucksache 18/02005.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802005.pdf) ([local copy](/abstimmungsdaten/018-046-05/1802005.pdf))
+    * [Drucksache 18/01092.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801092.pdf) ([local copy](/res/abstimmungsdaten/018-046-05/1801092.pdf))
+    * [Drucksache 18/01955.pdf](http://dip21.bundestag.de/dip21/btd/18/019/1801955.pdf) ([local copy](/res/abstimmungsdaten/018-046-05/1801955.pdf))
+    * [Drucksache 18/02005.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802005.pdf) ([local copy](/res/abstimmungsdaten/018-046-05/1802005.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,11 +10,11 @@ title: Bundeswehreinsatz UNMIL in Liberia
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=339](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=339)
     * [http://www.abgeordnetenwatch.de/verlaengerung_bundeswehreinsatz_liberia-1105-728.html](http://www.abgeordnetenwatch.de/verlaengerung_bundeswehreinsatz_liberia-1105-728.html)
 * Data: 
-    * [Abstimmungsergebnis 20150521_2-data.pdf](/abstimmungsliste/20150521_2-data.pdf)
-    * [Abstimmungsergebnis 20150521_2_xls-data.csv](/abstimmungsliste/analyses/20150521_2_xls-data.csv)
+    * [Abstimmungsergebnis 20150521_2-data.pdf](/res/abstimmungsliste/20150521_2-data.pdf)
+    * [Abstimmungsergebnis 20150521_2_xls-data.csv](/res/abstimmungsliste/analyses/20150521_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/04768.pdf](http://dip21.bundestag.de/dip21/btd/18/047/1804768.pdf) ([local copy](/abstimmungsdaten/018-106-02/1804768.pdf))
-    * [Drucksache 18/04965.pdf](http://dip21.bundestag.de/dip21/btd/18/049/1804965.pdf) ([local copy](/abstimmungsdaten/018-106-02/1804965.pdf))
+    * [Drucksache 18/04768.pdf](http://dip21.bundestag.de/dip21/btd/18/047/1804768.pdf) ([local copy](/res/abstimmungsdaten/018-106-02/1804768.pdf))
+    * [Drucksache 18/04965.pdf](http://dip21.bundestag.de/dip21/btd/18/049/1804965.pdf) ([local copy](/res/abstimmungsdaten/018-106-02/1804965.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

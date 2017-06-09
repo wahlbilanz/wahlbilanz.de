@@ -10,11 +10,11 @@ title: Beschlussempfehlung zu Bundeswehreinsatz in Südsudan (UNMISS)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=443](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=443)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan-1105-830.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan-1105-830.html)
 * Data: 
-    * [Abstimmungsergebnis 20161215_2-data.pdf](/abstimmungsliste/20161215_2-data.pdf)
-    * [Abstimmungsergebnis 20161215_2_xls-data.csv](/abstimmungsliste/analyses/20161215_2_xls-data.csv)
+    * [Abstimmungsergebnis 20161215_2-data.pdf](/res/abstimmungsliste/20161215_2-data.pdf)
+    * [Abstimmungsergebnis 20161215_2_xls-data.csv](/res/abstimmungsliste/analyses/20161215_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/10188.pdf](http://dip21.bundestag.de/dip21/btd/18/101/1810188.pdf) ([local copy](/abstimmungsdaten/018-209-02/1810188.pdf))
-    * [Drucksache 18/10547.pdf](http://dip21.bundestag.de/dip21/btd/18/105/1810547.pdf) ([local copy](/abstimmungsdaten/018-209-02/1810547.pdf))
+    * [Drucksache 18/10188.pdf](http://dip21.bundestag.de/dip21/btd/18/101/1810188.pdf) ([local copy](/res/abstimmungsdaten/018-209-02/1810188.pdf))
+    * [Drucksache 18/10547.pdf](http://dip21.bundestag.de/dip21/btd/18/105/1810547.pdf) ([local copy](/res/abstimmungsdaten/018-209-02/1810547.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

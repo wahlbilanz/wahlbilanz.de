@@ -10,12 +10,12 @@ title: Anpassung des Erbschaftssteuer- und Schenkungssteuergesetzes
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=403](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=403)
     * [http://www.abgeordnetenwatch.de/erbschaftssteuerreform-1105-798.html](http://www.abgeordnetenwatch.de/erbschaftssteuerreform-1105-798.html)
 * Data: 
-    * [Abstimmungsergebnis 20160624_1-data.pdf](/abstimmungsliste/20160624_1-data.pdf)
-    * [Abstimmungsergebnis 20160624_1_xls-data.csv](/abstimmungsliste/analyses/20160624_1_xls-data.csv)
+    * [Abstimmungsergebnis 20160624_1-data.pdf](/res/abstimmungsliste/20160624_1-data.pdf)
+    * [Abstimmungsergebnis 20160624_1_xls-data.csv](/res/abstimmungsliste/analyses/20160624_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/05923.pdf](http://dip21.bundestag.de/dip21/btd/18/059/1805923.pdf) ([local copy](/abstimmungsdaten/018-180-01/1805923.pdf))
-    * [Drucksache 18/06279.pdf](http://dip21.bundestag.de/dip21/btd/18/062/1806279.pdf) ([local copy](/abstimmungsdaten/018-180-01/1806279.pdf))
-    * [Drucksache 18/08911.pdf](http://dip21.bundestag.de/dip21/btd/18/089/1808911.pdf) ([local copy](/abstimmungsdaten/018-180-01/1808911.pdf))
+    * [Drucksache 18/05923.pdf](http://dip21.bundestag.de/dip21/btd/18/059/1805923.pdf) ([local copy](/res/abstimmungsdaten/018-180-01/1805923.pdf))
+    * [Drucksache 18/06279.pdf](http://dip21.bundestag.de/dip21/btd/18/062/1806279.pdf) ([local copy](/res/abstimmungsdaten/018-180-01/1806279.pdf))
+    * [Drucksache 18/08911.pdf](http://dip21.bundestag.de/dip21/btd/18/089/1808911.pdf) ([local copy](/res/abstimmungsdaten/018-180-01/1808911.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

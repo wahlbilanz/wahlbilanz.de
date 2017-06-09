@@ -10,11 +10,11 @@ title: EU-Operation Atalanta
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=266](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=266)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_gegen_piraterie_operation_atalanta-1105-616.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_gegen_piraterie_operation_atalanta-1105-616.html)
 * Data: 
-    * [Abstimmungsergebnis 20140522_1-data.pdf](/abstimmungsliste/20140522_1-data.pdf)
-    * [Abstimmungsergebnis 20140522_1_xls-data.csv](/abstimmungsliste/analyses/20140522_1_xls-data.csv)
+    * [Abstimmungsergebnis 20140522_1-data.pdf](/res/abstimmungsliste/20140522_1-data.pdf)
+    * [Abstimmungsergebnis 20140522_1_xls-data.csv](/res/abstimmungsliste/analyses/20140522_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01282.pdf](http://dip21.bundestag.de/dip21/btd/18/012/1801282.pdf) ([local copy](/abstimmungsdaten/018-036-01/1801282.pdf))
-    * [Drucksache 18/01486.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801486.pdf) ([local copy](/abstimmungsdaten/018-036-01/1801486.pdf))
+    * [Drucksache 18/01282.pdf](http://dip21.bundestag.de/dip21/btd/18/012/1801282.pdf) ([local copy](/res/abstimmungsdaten/018-036-01/1801282.pdf))
+    * [Drucksache 18/01486.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801486.pdf) ([local copy](/res/abstimmungsdaten/018-036-01/1801486.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,12 +10,12 @@ title: "Einführung beschleunigter Asylverfahren hier: Artikel 2 Nummer 4"
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=387](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=387)
     * [http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_ii-1105-786.html](http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_ii-1105-786.html)
 * Data: 
-    * [Abstimmungsergebnis 20160225_1-data.pdf](/abstimmungsliste/20160225_1-data.pdf)
-    * [Abstimmungsergebnis 20160225_1_xls-data.csv](/abstimmungsliste/analyses/20160225_1_xls-data.csv)
+    * [Abstimmungsergebnis 20160225_1-data.pdf](/res/abstimmungsliste/20160225_1-data.pdf)
+    * [Abstimmungsergebnis 20160225_1_xls-data.csv](/res/abstimmungsliste/analyses/20160225_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/07538.pdf](http://dip21.bundestag.de/dip21/btd/18/075/1807538.pdf) ([local copy](/abstimmungsdaten/018-158-01/1807538.pdf))
-    * [Drucksache 18/07645.pdf](http://dip21.bundestag.de/dip21/btd/18/076/1807645.pdf) ([local copy](/abstimmungsdaten/018-158-01/1807645.pdf))
-    * [Drucksache 18/07685.pdf](http://dip21.bundestag.de/dip21/btd/18/076/1807685.pdf) ([local copy](/abstimmungsdaten/018-158-01/1807685.pdf))
+    * [Drucksache 18/07538.pdf](http://dip21.bundestag.de/dip21/btd/18/075/1807538.pdf) ([local copy](/res/abstimmungsdaten/018-158-01/1807538.pdf))
+    * [Drucksache 18/07645.pdf](http://dip21.bundestag.de/dip21/btd/18/076/1807645.pdf) ([local copy](/res/abstimmungsdaten/018-158-01/1807645.pdf))
+    * [Drucksache 18/07685.pdf](http://dip21.bundestag.de/dip21/btd/18/076/1807685.pdf) ([local copy](/res/abstimmungsdaten/018-158-01/1807685.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

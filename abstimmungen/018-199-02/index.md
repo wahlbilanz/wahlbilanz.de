@@ -10,11 +10,11 @@ title: Bundeswehreinsatz gegen die Terrororganisation IS
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=437](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=437)
     * [http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-820.html](http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-820.html)
 * Data: 
-    * [Abstimmungsergebnis 20161110_2-data.pdf](/abstimmungsliste/20161110_2-data.pdf)
-    * [Abstimmungsergebnis 20161110_2_xls-data.csv](/abstimmungsliste/analyses/20161110_2_xls-data.csv)
+    * [Abstimmungsergebnis 20161110_2-data.pdf](/res/abstimmungsliste/20161110_2-data.pdf)
+    * [Abstimmungsergebnis 20161110_2_xls-data.csv](/res/abstimmungsliste/analyses/20161110_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/09960.pdf](http://dip21.bundestag.de/dip21/btd/18/099/1809960.pdf) ([local copy](/abstimmungsdaten/018-199-02/1809960.pdf))
-    * [Drucksache 18/10244.pdf](http://dip21.bundestag.de/dip21/btd/18/102/1810244.pdf) ([local copy](/abstimmungsdaten/018-199-02/1810244.pdf))
+    * [Drucksache 18/09960.pdf](http://dip21.bundestag.de/dip21/btd/18/099/1809960.pdf) ([local copy](/res/abstimmungsdaten/018-199-02/1809960.pdf))
+    * [Drucksache 18/10244.pdf](http://dip21.bundestag.de/dip21/btd/18/102/1810244.pdf) ([local copy](/res/abstimmungsdaten/018-199-02/1810244.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

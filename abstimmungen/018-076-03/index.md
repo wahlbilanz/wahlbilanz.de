@@ -10,12 +10,12 @@ title: Änderung des Bundesdatenschutzgesetzes, Änderungsantrag
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=322](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=322)
     * [http://www.abgeordnetenwatch.de/bundesdatenschutzgesetz-1105-707.html](http://www.abgeordnetenwatch.de/bundesdatenschutzgesetz-1105-707.html)
 * Data: 
-    * [Abstimmungsergebnis 20141218_3-data.pdf](/abstimmungsliste/20141218_3-data.pdf)
-    * [Abstimmungsergebnis 20141218_3_xls-data.csv](/abstimmungsliste/analyses/20141218_3_xls-data.csv)
+    * [Abstimmungsergebnis 20141218_3-data.pdf](/res/abstimmungsliste/20141218_3-data.pdf)
+    * [Abstimmungsergebnis 20141218_3_xls-data.csv](/res/abstimmungsliste/analyses/20141218_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/02848.pdf](http://dip21.bundestag.de/dip21/btd/18/028/1802848.pdf) ([local copy](/abstimmungsdaten/018-076-03/1802848.pdf))
-    * [Drucksache 18/03598.pdf](http://dip21.bundestag.de/dip21/btd/18/035/1803598.pdf) ([local copy](/abstimmungsdaten/018-076-03/1803598.pdf))
-    * [Drucksache 18/03601.pdf](http://dip21.bundestag.de/dip21/btd/18/036/1803601.pdf) ([local copy](/abstimmungsdaten/018-076-03/1803601.pdf))
+    * [Drucksache 18/02848.pdf](http://dip21.bundestag.de/dip21/btd/18/028/1802848.pdf) ([local copy](/res/abstimmungsdaten/018-076-03/1802848.pdf))
+    * [Drucksache 18/03598.pdf](http://dip21.bundestag.de/dip21/btd/18/035/1803598.pdf) ([local copy](/res/abstimmungsdaten/018-076-03/1803598.pdf))
+    * [Drucksache 18/03601.pdf](http://dip21.bundestag.de/dip21/btd/18/036/1803601.pdf) ([local copy](/res/abstimmungsdaten/018-076-03/1803601.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -3,8 +3,14 @@ layout: page
 title: Änderung des Abgeordnetengesetzes
 categories:
  - Politik
+ - EU
+ - Recht
+ - Rente
 tags:
  - Politik
+ - EU
+ - Recht
+ - Rente
 
 ---
 
@@ -14,11 +20,11 @@ tags:
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=254](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=254)
     * [http://www.abgeordnetenwatch.de/diaetenerhoehung-1105-557.html](http://www.abgeordnetenwatch.de/diaetenerhoehung-1105-557.html)
 * Data: 
-    * [Abstimmungsergebnis 20140221_1-data.pdf](/abstimmungsliste/20140221_1-data.pdf)
-    * [Abstimmungsergebnis 20140221_1_xls-data.csv](/abstimmungsliste/analyses/20140221_1_xls-data.csv)
+    * [Abstimmungsergebnis 20140221_1-data.pdf](/res/abstimmungsliste/20140221_1-data.pdf)
+    * [Abstimmungsergebnis 20140221_1_xls-data.csv](/res/abstimmungsliste/analyses/20140221_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00477.pdf](http://dip21.bundestag.de/dip21/btd/18/004/1800477.pdf) ([local copy](/abstimmungsdaten/018-018-01/1800477.pdf))
-    * [Drucksache 18/00619.pdf](http://dip21.bundestag.de/dip21/btd/18/006/1800619.pdf) ([local copy](/abstimmungsdaten/018-018-01/1800619.pdf))
+    * [Drucksache 18/00477.pdf](http://dip21.bundestag.de/dip21/btd/18/004/1800477.pdf) ([local copy](/res/abstimmungsdaten/018-018-01/1800477.pdf))
+    * [Drucksache 18/00619.pdf](http://dip21.bundestag.de/dip21/btd/18/006/1800619.pdf) ([local copy](/res/abstimmungsdaten/018-018-01/1800619.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

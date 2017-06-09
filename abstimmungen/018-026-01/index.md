@@ -10,11 +10,11 @@ title: Bundeswehreinsatz EUTM Somalia
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=259](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=259)
     * [http://www.abgeordnetenwatch.de/beteiligung_deutscher_streikraefte_an_ausbildungsmission_in_somalia-1105-590.html](http://www.abgeordnetenwatch.de/beteiligung_deutscher_streikraefte_an_ausbildungsmission_in_somalia-1105-590.html)
 * Data: 
-    * [Abstimmungsergebnis 20140403_1-data.pdf](/abstimmungsliste/20140403_1-data.pdf)
-    * [Abstimmungsergebnis 20140403_1_xls-data.csv](/abstimmungsliste/analyses/20140403_1_xls-data.csv)
+    * [Abstimmungsergebnis 20140403_1-data.pdf](/res/abstimmungsliste/20140403_1-data.pdf)
+    * [Abstimmungsergebnis 20140403_1_xls-data.csv](/res/abstimmungsliste/analyses/20140403_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00857.pdf](http://dip21.bundestag.de/dip21/btd/18/008/1800857.pdf) ([local copy](/abstimmungsdaten/018-026-01/1800857.pdf))
-    * [Drucksache 18/00994.pdf](http://dip21.bundestag.de/dip21/btd/18/009/1800994.pdf) ([local copy](/abstimmungsdaten/018-026-01/1800994.pdf))
+    * [Drucksache 18/00857.pdf](http://dip21.bundestag.de/dip21/btd/18/008/1800857.pdf) ([local copy](/res/abstimmungsdaten/018-026-01/1800857.pdf))
+    * [Drucksache 18/00994.pdf](http://dip21.bundestag.de/dip21/btd/18/009/1800994.pdf) ([local copy](/res/abstimmungsdaten/018-026-01/1800994.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,13 +10,13 @@ title: Beschlussempfehlung zum Etat der Bundeskanzlerin und des Bundeskanzleramt
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=435](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=435)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20161123_1-data.pdf](/abstimmungsliste/20161123_1-data.pdf)
-    * [Abstimmungsergebnis 20161123_1_xls-data.csv](/abstimmungsliste/analyses/20161123_1_xls-data.csv)
+    * [Abstimmungsergebnis 20161123_1-data.pdf](/res/abstimmungsliste/20161123_1-data.pdf)
+    * [Abstimmungsergebnis 20161123_1_xls-data.csv](/res/abstimmungsliste/analyses/20161123_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/09200.pdf](http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf) ([local copy](/abstimmungsdaten/018-202-01/1809200.pdf))
-    * [Drucksache 18/09202.pdf](http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf) ([local copy](/abstimmungsdaten/018-202-01/1809202.pdf))
-    * [Drucksache 18/09824.pdf](http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf) ([local copy](/abstimmungsdaten/018-202-01/1809824.pdf))
-    * [Drucksache 18/09825.pdf](http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf) ([local copy](/abstimmungsdaten/018-202-01/1809825.pdf))
+    * [Drucksache 18/09200.pdf](http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf) ([local copy](/res/abstimmungsdaten/018-202-01/1809200.pdf))
+    * [Drucksache 18/09202.pdf](http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf) ([local copy](/res/abstimmungsdaten/018-202-01/1809202.pdf))
+    * [Drucksache 18/09824.pdf](http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf) ([local copy](/res/abstimmungsdaten/018-202-01/1809824.pdf))
+    * [Drucksache 18/09825.pdf](http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf) ([local copy](/res/abstimmungsdaten/018-202-01/1809825.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

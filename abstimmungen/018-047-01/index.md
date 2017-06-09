@@ -10,11 +10,11 @@ title: Lebensversicherungsreformgesetz
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=298](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=298)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20140704_1-data.pdf](/abstimmungsliste/20140704_1-data.pdf)
-    * [Abstimmungsergebnis 20140704_1_xls-data.csv](/abstimmungsliste/analyses/20140704_1_xls-data.csv)
+    * [Abstimmungsergebnis 20140704_1-data.pdf](/res/abstimmungsliste/20140704_1-data.pdf)
+    * [Abstimmungsergebnis 20140704_1_xls-data.csv](/res/abstimmungsliste/analyses/20140704_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01815.pdf](http://dip21.bundestag.de/dip21/btd/18/018/1801815.pdf) ([local copy](/abstimmungsdaten/018-047-01/1801815.pdf))
-    * [Drucksache 18/02016.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802016.pdf) ([local copy](/abstimmungsdaten/018-047-01/1802016.pdf))
+    * [Drucksache 18/01815.pdf](http://dip21.bundestag.de/dip21/btd/18/018/1801815.pdf) ([local copy](/res/abstimmungsdaten/018-047-01/1801815.pdf))
+    * [Drucksache 18/02016.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802016.pdf) ([local copy](/res/abstimmungsdaten/018-047-01/1802016.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

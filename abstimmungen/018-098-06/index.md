@@ -10,11 +10,11 @@ title: Liegenschaftspolitik des Bundes, Gesetzentwurf Die Linkse
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=337](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=337)
     * [http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html](http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html)
 * Data: 
-    * [Abstimmungsergebnis 20150327_6-data.pdf](/abstimmungsliste/20150327_6-data.pdf)
-    * [Abstimmungsergebnis 20150327_6_xls-data.csv](/abstimmungsliste/analyses/20150327_6_xls-data.csv)
+    * [Abstimmungsergebnis 20150327_6-data.pdf](/res/abstimmungsliste/20150327_6-data.pdf)
+    * [Abstimmungsergebnis 20150327_6_xls-data.csv](/res/abstimmungsliste/analyses/20150327_6_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/02882.pdf](http://dip21.bundestag.de/dip21/btd/18/028/1802882.pdf) ([local copy](/abstimmungsdaten/018-098-06/1802882.pdf))
-    * [Drucksache 18/03873.pdf](http://dip21.bundestag.de/dip21/btd/18/038/1803873.pdf) ([local copy](/abstimmungsdaten/018-098-06/1803873.pdf))
+    * [Drucksache 18/02882.pdf](http://dip21.bundestag.de/dip21/btd/18/028/1802882.pdf) ([local copy](/res/abstimmungsdaten/018-098-06/1802882.pdf))
+    * [Drucksache 18/03873.pdf](http://dip21.bundestag.de/dip21/btd/18/038/1803873.pdf) ([local copy](/res/abstimmungsdaten/018-098-06/1803873.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

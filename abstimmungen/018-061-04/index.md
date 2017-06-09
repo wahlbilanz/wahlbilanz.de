@@ -10,13 +10,13 @@ title: Pflegeversicherung, Entschließungsantrag Bündnis 90/Die Grünen
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=306](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=306)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20141017_4-data.pdf](/abstimmungsliste/20141017_4-data.pdf)
-    * [Abstimmungsergebnis 20141017_4_xls-data.csv](/abstimmungsliste/analyses/20141017_4_xls-data.csv)
+    * [Abstimmungsergebnis 20141017_4-data.pdf](/res/abstimmungsliste/20141017_4-data.pdf)
+    * [Abstimmungsergebnis 20141017_4_xls-data.csv](/res/abstimmungsliste/analyses/20141017_4_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01798.pdf](http://dip21.bundestag.de/dip21/btd/18/017/1801798.pdf) ([local copy](/abstimmungsdaten/018-061-04/1801798.pdf))
-    * [Drucksache 18/02379.pdf](http://dip21.bundestag.de/dip21/btd/18/023/1802379.pdf) ([local copy](/abstimmungsdaten/018-061-04/1802379.pdf))
-    * [Drucksache 18/02909.pdf](http://dip21.bundestag.de/dip21/btd/18/029/1802909.pdf) ([local copy](/abstimmungsdaten/018-061-04/1802909.pdf))
-    * [Drucksache 18/02917.pdf](http://dip21.bundestag.de/dip21/btd/18/029/1802917.pdf) ([local copy](/abstimmungsdaten/018-061-04/1802917.pdf))
+    * [Drucksache 18/01798.pdf](http://dip21.bundestag.de/dip21/btd/18/017/1801798.pdf) ([local copy](/res/abstimmungsdaten/018-061-04/1801798.pdf))
+    * [Drucksache 18/02379.pdf](http://dip21.bundestag.de/dip21/btd/18/023/1802379.pdf) ([local copy](/res/abstimmungsdaten/018-061-04/1802379.pdf))
+    * [Drucksache 18/02909.pdf](http://dip21.bundestag.de/dip21/btd/18/029/1802909.pdf) ([local copy](/res/abstimmungsdaten/018-061-04/1802909.pdf))
+    * [Drucksache 18/02917.pdf](http://dip21.bundestag.de/dip21/btd/18/029/1802917.pdf) ([local copy](/res/abstimmungsdaten/018-061-04/1802917.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

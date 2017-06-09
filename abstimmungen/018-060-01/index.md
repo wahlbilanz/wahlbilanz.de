@@ -10,10 +10,10 @@ title: Entschließungsantrag zu der Regierungserklärung durch die Bundeskanzler
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=302](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=302)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20141016_1-data.pdf](/abstimmungsliste/20141016_1-data.pdf)
-    * [Abstimmungsergebnis 20141016_1_xls-data.csv](/abstimmungsliste/analyses/20141016_1_xls-data.csv)
+    * [Abstimmungsergebnis 20141016_1-data.pdf](/res/abstimmungsliste/20141016_1-data.pdf)
+    * [Abstimmungsergebnis 20141016_1_xls-data.csv](/res/abstimmungsliste/analyses/20141016_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/02895.pdf](http://dip21.bundestag.de/dip21/btd/18/028/1802895.pdf) ([local copy](/abstimmungsdaten/018-060-01/1802895.pdf))
+    * [Drucksache 18/02895.pdf](http://dip21.bundestag.de/dip21/btd/18/028/1802895.pdf) ([local copy](/res/abstimmungsdaten/018-060-01/1802895.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

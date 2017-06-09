@@ -10,13 +10,13 @@ title: Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2015 (Einzel
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=317](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=317)
     * [http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html](http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html)
 * Data: 
-    * [Abstimmungsergebnis 20141126_1-data.pdf](/abstimmungsliste/20141126_1-data.pdf)
-    * [Abstimmungsergebnis 20141126_1_xls-data.csv](/abstimmungsliste/analyses/20141126_1_xls-data.csv)
+    * [Abstimmungsergebnis 20141126_1-data.pdf](/res/abstimmungsliste/20141126_1-data.pdf)
+    * [Abstimmungsergebnis 20141126_1_xls-data.csv](/res/abstimmungsliste/analyses/20141126_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/02000.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802000.pdf) ([local copy](/abstimmungsdaten/018-069-01/1802000.pdf))
-    * [Drucksache 18/02002.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802002.pdf) ([local copy](/abstimmungsdaten/018-069-01/1802002.pdf))
-    * [Drucksache 18/02823.pdf](http://dip21.bundestag.de/dip21/btd/18/028/1802823.pdf) ([local copy](/abstimmungsdaten/018-069-01/1802823.pdf))
-    * [Drucksache 18/02824.pdf](http://dip21.bundestag.de/dip21/btd/18/028/1802824.pdf) ([local copy](/abstimmungsdaten/018-069-01/1802824.pdf))
+    * [Drucksache 18/02000.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802000.pdf) ([local copy](/res/abstimmungsdaten/018-069-01/1802000.pdf))
+    * [Drucksache 18/02002.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802002.pdf) ([local copy](/res/abstimmungsdaten/018-069-01/1802002.pdf))
+    * [Drucksache 18/02823.pdf](http://dip21.bundestag.de/dip21/btd/18/028/1802823.pdf) ([local copy](/res/abstimmungsdaten/018-069-01/1802823.pdf))
+    * [Drucksache 18/02824.pdf](http://dip21.bundestag.de/dip21/btd/18/028/1802824.pdf) ([local copy](/res/abstimmungsdaten/018-069-01/1802824.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

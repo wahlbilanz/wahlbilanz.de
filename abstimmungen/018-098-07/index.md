@@ -10,11 +10,11 @@ title: Liegenschaftspolitik des Bundes, Beschlussempfehlung des Haushaltsausschu
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=338](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=338)
     * [http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html](http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html)
 * Data: 
-    * [Abstimmungsergebnis 20150327_7-data.pdf](/abstimmungsliste/20150327_7-data.pdf)
-    * [Abstimmungsergebnis 20150327_7_xls-data.csv](/abstimmungsliste/analyses/20150327_7_xls-data.csv)
+    * [Abstimmungsergebnis 20150327_7-data.pdf](/res/abstimmungsliste/20150327_7-data.pdf)
+    * [Abstimmungsergebnis 20150327_7_xls-data.csv](/res/abstimmungsliste/analyses/20150327_7_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/03044.pdf](http://dip21.bundestag.de/dip21/btd/18/030/1803044.pdf) ([local copy](/abstimmungsdaten/018-098-07/1803044.pdf))
-    * [Drucksache 18/03873.pdf](http://dip21.bundestag.de/dip21/btd/18/038/1803873.pdf) ([local copy](/abstimmungsdaten/018-098-07/1803873.pdf))
+    * [Drucksache 18/03044.pdf](http://dip21.bundestag.de/dip21/btd/18/030/1803044.pdf) ([local copy](/res/abstimmungsdaten/018-098-07/1803044.pdf))
+    * [Drucksache 18/03873.pdf](http://dip21.bundestag.de/dip21/btd/18/038/1803873.pdf) ([local copy](/res/abstimmungsdaten/018-098-07/1803873.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

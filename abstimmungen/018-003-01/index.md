@@ -15,10 +15,10 @@ tags:
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=248](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=248)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan_unmiss-1105-542.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan_unmiss-1105-542.html)
 * Data: 
-    * [Abstimmungsergebnis 20131128_1-data.pdf](/abstimmungsliste/20131128_1-data.pdf)
-    * [Abstimmungsergebnis 20131128_1_xls-data.csv](/abstimmungsliste/analyses/20131128_1_xls-data.csv)
+    * [Abstimmungsergebnis 20131128_1-data.pdf](/res/abstimmungsliste/20131128_1-data.pdf)
+    * [Abstimmungsergebnis 20131128_1_xls-data.csv](/res/abstimmungsliste/analyses/20131128_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00071.pdf](http://dip21.bundestag.de/dip21/btd/18/000/1800071.pdf) ([local copy](/abstimmungsdaten/018-003-01/1800071.pdf))
+    * [Drucksache 18/00071.pdf](http://dip21.bundestag.de/dip21/btd/18/000/1800071.pdf) ([local copy](/res/abstimmungsdaten/018-003-01/1800071.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,11 +10,11 @@ title: Bundeswehreinsatz in Libanon (UNIFIL)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=281](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=281)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_libanon_einsatzes_unfil-1105-626.html](http://www.abgeordnetenwatch.de/fortsetzung_des_libanon_einsatzes_unfil-1105-626.html)
 * Data: 
-    * [Abstimmungsergebnis 20140625_3-data.pdf](/abstimmungsliste/20140625_3-data.pdf)
-    * [Abstimmungsergebnis 20140625_3_xls-data.csv](/abstimmungsliste/analyses/20140625_3_xls-data.csv)
+    * [Abstimmungsergebnis 20140625_3-data.pdf](/res/abstimmungsliste/20140625_3-data.pdf)
+    * [Abstimmungsergebnis 20140625_3_xls-data.csv](/res/abstimmungsliste/analyses/20140625_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01417.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801417.pdf) ([local copy](/abstimmungsdaten/018-042-03/1801417.pdf))
-    * [Drucksache 18/01813.pdf](http://dip21.bundestag.de/dip21/btd/18/018/1801813.pdf) ([local copy](/abstimmungsdaten/018-042-03/1801813.pdf))
+    * [Drucksache 18/01417.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801417.pdf) ([local copy](/res/abstimmungsdaten/018-042-03/1801417.pdf))
+    * [Drucksache 18/01813.pdf](http://dip21.bundestag.de/dip21/btd/18/018/1801813.pdf) ([local copy](/res/abstimmungsdaten/018-042-03/1801813.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

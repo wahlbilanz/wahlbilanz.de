@@ -10,11 +10,11 @@ title: Privatisierung von Bundesliegenschaften stoppen
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=420](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=420)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20160929_2-data.pdf](/abstimmungsliste/20160929_2-data.pdf)
-    * [Abstimmungsergebnis 20160929_2_xls-data.csv](/abstimmungsliste/analyses/20160929_2_xls-data.csv)
+    * [Abstimmungsergebnis 20160929_2-data.pdf](/res/abstimmungsliste/20160929_2-data.pdf)
+    * [Abstimmungsergebnis 20160929_2_xls-data.csv](/res/abstimmungsliste/analyses/20160929_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/04419.pdf](http://dip21.bundestag.de/dip21/btd/18/044/1804419.pdf) ([local copy](/abstimmungsdaten/018-193-02/1804419.pdf))
-    * [Drucksache 18/06686.pdf](http://dip21.bundestag.de/dip21/btd/18/066/1806686.pdf) ([local copy](/abstimmungsdaten/018-193-02/1806686.pdf))
+    * [Drucksache 18/04419.pdf](http://dip21.bundestag.de/dip21/btd/18/044/1804419.pdf) ([local copy](/res/abstimmungsdaten/018-193-02/1804419.pdf))
+    * [Drucksache 18/06686.pdf](http://dip21.bundestag.de/dip21/btd/18/066/1806686.pdf) ([local copy](/res/abstimmungsdaten/018-193-02/1806686.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

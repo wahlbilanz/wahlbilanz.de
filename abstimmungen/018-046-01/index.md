@@ -10,12 +10,12 @@ title: Einführung eines Mindestlohnes - Änderungsantrag
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=292](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=292)
     * [http://www.abgeordnetenwatch.de/flaechendeckender_mindestlohn_von_8_50_euro-1105-627.html](http://www.abgeordnetenwatch.de/flaechendeckender_mindestlohn_von_8_50_euro-1105-627.html)
 * Data: 
-    * [Abstimmungsergebnis 20140703_1-data.pdf](/abstimmungsliste/20140703_1-data.pdf)
-    * [Abstimmungsergebnis 20140703_1_xls-data.csv](/abstimmungsliste/analyses/20140703_1_xls-data.csv)
+    * [Abstimmungsergebnis 20140703_1-data.pdf](/res/abstimmungsliste/20140703_1-data.pdf)
+    * [Abstimmungsergebnis 20140703_1_xls-data.csv](/res/abstimmungsliste/analyses/20140703_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01558.pdf](http://dip21.bundestag.de/dip21/btd/18/015/1801558.pdf) ([local copy](/abstimmungsdaten/018-046-01/1801558.pdf))
-    * [Drucksache 18/02010.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802010.pdf) ([local copy](/abstimmungsdaten/018-046-01/1802010.pdf))
-    * [Drucksache 18/02019.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802019.pdf) ([local copy](/abstimmungsdaten/018-046-01/1802019.pdf))
+    * [Drucksache 18/01558.pdf](http://dip21.bundestag.de/dip21/btd/18/015/1801558.pdf) ([local copy](/res/abstimmungsdaten/018-046-01/1801558.pdf))
+    * [Drucksache 18/02010.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802010.pdf) ([local copy](/res/abstimmungsdaten/018-046-01/1802010.pdf))
+    * [Drucksache 18/02019.pdf](http://dip21.bundestag.de/dip21/btd/18/020/1802019.pdf) ([local copy](/res/abstimmungsdaten/018-046-01/1802019.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

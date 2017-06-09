@@ -10,11 +10,11 @@ title: Bundeswehreinsatz in Somalia (EUTM)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=330](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=330)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20150326_1-data.pdf](/abstimmungsliste/20150326_1-data.pdf)
-    * [Abstimmungsergebnis 20150326_1_xls-data.csv](/abstimmungsliste/analyses/20150326_1_xls-data.csv)
+    * [Abstimmungsergebnis 20150326_1-data.pdf](/res/abstimmungsliste/20150326_1-data.pdf)
+    * [Abstimmungsergebnis 20150326_1_xls-data.csv](/res/abstimmungsliste/analyses/20150326_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/04203.pdf](http://dip21.bundestag.de/dip21/btd/18/042/1804203.pdf) ([local copy](/abstimmungsdaten/018-097-01/1804203.pdf))
-    * [Drucksache 18/04447.pdf](http://dip21.bundestag.de/dip21/btd/18/044/1804447.pdf) ([local copy](/abstimmungsdaten/018-097-01/1804447.pdf))
+    * [Drucksache 18/04203.pdf](http://dip21.bundestag.de/dip21/btd/18/042/1804203.pdf) ([local copy](/res/abstimmungsdaten/018-097-01/1804203.pdf))
+    * [Drucksache 18/04447.pdf](http://dip21.bundestag.de/dip21/btd/18/044/1804447.pdf) ([local copy](/res/abstimmungsdaten/018-097-01/1804447.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

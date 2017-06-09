@@ -10,12 +10,12 @@ title: "Entschließungsantrag der Fraktion Die Linkse: Bundeswehreinsatz gegen T
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=379](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=379)
     * [http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-777.html](http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-777.html)
 * Data: 
-    * [Abstimmungsergebnis 20151204_2-data.pdf](/abstimmungsliste/20151204_2-data.pdf)
-    * [Abstimmungsergebnis 20151204_2_xls-data.csv](/abstimmungsliste/analyses/20151204_2_xls-data.csv)
+    * [Abstimmungsergebnis 20151204_2-data.pdf](/res/abstimmungsliste/20151204_2-data.pdf)
+    * [Abstimmungsergebnis 20151204_2_xls-data.csv](/res/abstimmungsliste/analyses/20151204_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/06866.pdf](http://dip21.bundestag.de/dip21/btd/18/068/1806866.pdf) ([local copy](/abstimmungsdaten/018-144-02/1806866.pdf))
-    * [Drucksache 18/06912.pdf](http://dip21.bundestag.de/dip21/btd/18/069/1806912.pdf) ([local copy](/abstimmungsdaten/018-144-02/1806912.pdf))
-    * [Drucksache 18/06918.pdf](http://dip21.bundestag.de/dip21/btd/18/069/1806918.pdf) ([local copy](/abstimmungsdaten/018-144-02/1806918.pdf))
+    * [Drucksache 18/06866.pdf](http://dip21.bundestag.de/dip21/btd/18/068/1806866.pdf) ([local copy](/res/abstimmungsdaten/018-144-02/1806866.pdf))
+    * [Drucksache 18/06912.pdf](http://dip21.bundestag.de/dip21/btd/18/069/1806912.pdf) ([local copy](/res/abstimmungsdaten/018-144-02/1806912.pdf))
+    * [Drucksache 18/06918.pdf](http://dip21.bundestag.de/dip21/btd/18/069/1806918.pdf) ([local copy](/res/abstimmungsdaten/018-144-02/1806918.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

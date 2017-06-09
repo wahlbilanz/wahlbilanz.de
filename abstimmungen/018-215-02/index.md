@@ -10,11 +10,11 @@ title: Ausbildungsunterstützung der Bundeswehr im Irak
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=453](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=453)
     * [http://www.abgeordnetenwatch.de/fortsetzung_der_ausbildungsunterstuetzung_im_irak-1105-848.html](http://www.abgeordnetenwatch.de/fortsetzung_der_ausbildungsunterstuetzung_im_irak-1105-848.html)
 * Data: 
-    * [Abstimmungsergebnis 20170126_2-data.pdf](/abstimmungsliste/20170126_2-data.pdf)
-    * [Abstimmungsergebnis 20170126_2_xls-data.csv](/abstimmungsliste/analyses/20170126_2_xls-data.csv)
+    * [Abstimmungsergebnis 20170126_2-data.pdf](/res/abstimmungsliste/20170126_2-data.pdf)
+    * [Abstimmungsergebnis 20170126_2_xls-data.csv](/res/abstimmungsliste/analyses/20170126_2_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/10820.pdf](http://dip21.bundestag.de/dip21/btd/18/108/1810820.pdf) ([local copy](/abstimmungsdaten/018-215-02/1810820.pdf))
-    * [Drucksache 18/10968.pdf](http://dip21.bundestag.de/dip21/btd/18/109/1810968.pdf) ([local copy](/abstimmungsdaten/018-215-02/1810968.pdf))
+    * [Drucksache 18/10820.pdf](http://dip21.bundestag.de/dip21/btd/18/108/1810820.pdf) ([local copy](/res/abstimmungsdaten/018-215-02/1810820.pdf))
+    * [Drucksache 18/10968.pdf](http://dip21.bundestag.de/dip21/btd/18/109/1810968.pdf) ([local copy](/res/abstimmungsdaten/018-215-02/1810968.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

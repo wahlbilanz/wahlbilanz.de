@@ -10,11 +10,11 @@ title: Bundeswehreinsatz im Kosovo (KFOR)
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=275](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=275)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_im_kosovo_kfor-1105-620.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_im_kosovo_kfor-1105-620.html)
 * Data: 
-    * [Abstimmungsergebnis 20140605_1-data.pdf](/abstimmungsliste/20140605_1-data.pdf)
-    * [Abstimmungsergebnis 20140605_1_xls-data.csv](/abstimmungsliste/analyses/20140605_1_xls-data.csv)
+    * [Abstimmungsergebnis 20140605_1-data.pdf](/res/abstimmungsliste/20140605_1-data.pdf)
+    * [Abstimmungsergebnis 20140605_1_xls-data.csv](/res/abstimmungsliste/analyses/20140605_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01415.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801415.pdf) ([local copy](/abstimmungsdaten/018-039-01/1801415.pdf))
-    * [Drucksache 18/01653.pdf](http://dip21.bundestag.de/dip21/btd/18/016/1801653.pdf) ([local copy](/abstimmungsdaten/018-039-01/1801653.pdf))
+    * [Drucksache 18/01415.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801415.pdf) ([local copy](/res/abstimmungsdaten/018-039-01/1801415.pdf))
+    * [Drucksache 18/01653.pdf](http://dip21.bundestag.de/dip21/btd/18/016/1801653.pdf) ([local copy](/res/abstimmungsdaten/018-039-01/1801653.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

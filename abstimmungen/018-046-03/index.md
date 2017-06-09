@@ -10,11 +10,11 @@ title: Befristung von Arbeitsverhältnissen
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=297](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=297)
     * [http://www.abgeordnetenwatch.de/abschaffung_der_sachgrundlosen_befristung-1105-633.html](http://www.abgeordnetenwatch.de/abschaffung_der_sachgrundlosen_befristung-1105-633.html)
 * Data: 
-    * [Abstimmungsergebnis 20140703_3-data.pdf](/abstimmungsliste/20140703_3-data.pdf)
-    * [Abstimmungsergebnis 20140703_3_xls-data.csv](/abstimmungsliste/analyses/20140703_3_xls-data.csv)
+    * [Abstimmungsergebnis 20140703_3-data.pdf](/res/abstimmungsliste/20140703_3-data.pdf)
+    * [Abstimmungsergebnis 20140703_3_xls-data.csv](/res/abstimmungsliste/analyses/20140703_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/00007.pdf](http://dip21.bundestag.de/dip21/btd/18/000/1800007.pdf) ([local copy](/abstimmungsdaten/018-046-03/1800007.pdf))
-    * [Drucksache 18/00879.pdf](http://dip21.bundestag.de/dip21/btd/18/008/1800879.pdf) ([local copy](/abstimmungsdaten/018-046-03/1800879.pdf))
+    * [Drucksache 18/00007.pdf](http://dip21.bundestag.de/dip21/btd/18/000/1800007.pdf) ([local copy](/res/abstimmungsdaten/018-046-03/1800007.pdf))
+    * [Drucksache 18/00879.pdf](http://dip21.bundestag.de/dip21/btd/18/008/1800879.pdf) ([local copy](/res/abstimmungsdaten/018-046-03/1800879.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

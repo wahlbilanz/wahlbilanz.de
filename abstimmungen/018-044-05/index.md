@@ -10,13 +10,13 @@ title: Einführung einer Länderöffnungsklausel
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=287](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=287)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20140627_5-data.pdf](/abstimmungsliste/20140627_5-data.pdf)
-    * [Abstimmungsergebnis 20140627_5_xls-data.csv](/abstimmungsliste/analyses/20140627_5_xls-data.csv)
+    * [Abstimmungsergebnis 20140627_5-data.pdf](/res/abstimmungsliste/20140627_5-data.pdf)
+    * [Abstimmungsergebnis 20140627_5_xls-data.csv](/res/abstimmungsliste/analyses/20140627_5_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01310.pdf](http://dip21.bundestag.de/dip21/btd/18/013/1801310.pdf) ([local copy](/abstimmungsdaten/018-044-05/1801310.pdf))
-    * [Drucksache 18/01580.pdf](http://dip21.bundestag.de/dip21/btd/18/015/1801580.pdf) ([local copy](/abstimmungsdaten/018-044-05/1801580.pdf))
-    * [Drucksache 18/01702.pdf](http://dip21.bundestag.de/dip21/btd/18/017/1801702.pdf) ([local copy](/abstimmungsdaten/018-044-05/1801702.pdf))
-    * [Drucksache 18/01900.pdf](http://dip21.bundestag.de/dip21/btd/18/019/1801900.pdf) ([local copy](/abstimmungsdaten/018-044-05/1801900.pdf))
+    * [Drucksache 18/01310.pdf](http://dip21.bundestag.de/dip21/btd/18/013/1801310.pdf) ([local copy](/res/abstimmungsdaten/018-044-05/1801310.pdf))
+    * [Drucksache 18/01580.pdf](http://dip21.bundestag.de/dip21/btd/18/015/1801580.pdf) ([local copy](/res/abstimmungsdaten/018-044-05/1801580.pdf))
+    * [Drucksache 18/01702.pdf](http://dip21.bundestag.de/dip21/btd/18/017/1801702.pdf) ([local copy](/res/abstimmungsdaten/018-044-05/1801702.pdf))
+    * [Drucksache 18/01900.pdf](http://dip21.bundestag.de/dip21/btd/18/019/1801900.pdf) ([local copy](/res/abstimmungsdaten/018-044-05/1801900.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

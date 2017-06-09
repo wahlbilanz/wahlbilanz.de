@@ -10,11 +10,11 @@ title: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Bündnis 90/Die Grünen
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=358](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=358)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20151001_3-data.pdf](/abstimmungsliste/20151001_3-data.pdf)
-    * [Abstimmungsergebnis 20151001_3_xls-data.csv](/abstimmungsliste/analyses/20151001_3_xls-data.csv)
+    * [Abstimmungsergebnis 20151001_3-data.pdf](/res/abstimmungsliste/20151001_3-data.pdf)
+    * [Abstimmungsergebnis 20151001_3_xls-data.csv](/res/abstimmungsliste/analyses/20151001_3_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01963.pdf](http://dip21.bundestag.de/dip21/btd/18/019/1801963.pdf) ([local copy](/abstimmungsdaten/018-127-03/1801963.pdf))
-    * [Drucksache 18/06128.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806128.pdf) ([local copy](/abstimmungsdaten/018-127-03/1806128.pdf))
+    * [Drucksache 18/01963.pdf](http://dip21.bundestag.de/dip21/btd/18/019/1801963.pdf) ([local copy](/res/abstimmungsdaten/018-127-03/1801963.pdf))
+    * [Drucksache 18/06128.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806128.pdf) ([local copy](/res/abstimmungsdaten/018-127-03/1806128.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,10 +10,10 @@ title: CETA, Antrag Die Linkse 18/9665
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=416](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=416)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20160922_1-data.pdf](/abstimmungsliste/20160922_1-data.pdf)
-    * [Abstimmungsergebnis 20160922_1_xls-data.csv](/abstimmungsliste/analyses/20160922_1_xls-data.csv)
+    * [Abstimmungsergebnis 20160922_1-data.pdf](/res/abstimmungsliste/20160922_1-data.pdf)
+    * [Abstimmungsergebnis 20160922_1_xls-data.csv](/res/abstimmungsliste/analyses/20160922_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/09665.pdf](http://dip21.bundestag.de/dip21/btd/18/096/1809665.pdf) ([local copy](/abstimmungsdaten/018-190-01/1809665.pdf))
+    * [Drucksache 18/09665.pdf](http://dip21.bundestag.de/dip21/btd/18/096/1809665.pdf) ([local copy](/res/abstimmungsdaten/018-190-01/1809665.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

@@ -10,13 +10,13 @@ title: Gesetzentwurf zur 4. Änderung arzneimittelrechtlicher und anderer Vorsch
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=436](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=436)
     * [http://www.abgeordnetenwatch.de/arzneimittelreform-1105-821.html](http://www.abgeordnetenwatch.de/arzneimittelreform-1105-821.html)
 * Data: 
-    * [Abstimmungsergebnis 20161111_1-data.pdf](/abstimmungsliste/20161111_1-data.pdf)
-    * [Abstimmungsergebnis 20161111_1_xls-data.csv](/abstimmungsliste/analyses/20161111_1_xls-data.csv)
+    * [Abstimmungsergebnis 20161111_1-data.pdf](/res/abstimmungsliste/20161111_1-data.pdf)
+    * [Abstimmungsergebnis 20161111_1_xls-data.csv](/res/abstimmungsliste/analyses/20161111_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/08034.pdf](http://dip21.bundestag.de/dip21/btd/18/080/1808034.pdf) ([local copy](/abstimmungsdaten/018-200-01/1808034.pdf))
-    * [Drucksache 18/08333.pdf](http://dip21.bundestag.de/dip21/btd/18/083/1808333.pdf) ([local copy](/abstimmungsdaten/018-200-01/1808333.pdf))
-    * [Drucksache 18/10056.pdf](http://dip21.bundestag.de/dip21/btd/18/100/1810056.pdf) ([local copy](/abstimmungsdaten/018-200-01/1810056.pdf))
-    * [Drucksache 18/10280.pdf](http://dip21.bundestag.de/dip21/btd/18/102/1810280.pdf) ([local copy](/abstimmungsdaten/018-200-01/1810280.pdf))
+    * [Drucksache 18/08034.pdf](http://dip21.bundestag.de/dip21/btd/18/080/1808034.pdf) ([local copy](/res/abstimmungsdaten/018-200-01/1808034.pdf))
+    * [Drucksache 18/08333.pdf](http://dip21.bundestag.de/dip21/btd/18/083/1808333.pdf) ([local copy](/res/abstimmungsdaten/018-200-01/1808333.pdf))
+    * [Drucksache 18/10056.pdf](http://dip21.bundestag.de/dip21/btd/18/100/1810056.pdf) ([local copy](/res/abstimmungsdaten/018-200-01/1810056.pdf))
+    * [Drucksache 18/10280.pdf](http://dip21.bundestag.de/dip21/btd/18/102/1810280.pdf) ([local copy](/res/abstimmungsdaten/018-200-01/1810280.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

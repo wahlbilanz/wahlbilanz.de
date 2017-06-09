@@ -10,12 +10,12 @@ title: Änderung des Bundesausbildungsförderungsgesetzes, 1. Änderungsantrag B
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=312](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=312)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20141113_6-data.pdf](/abstimmungsliste/20141113_6-data.pdf)
-    * [Abstimmungsergebnis 20141113_6_xls-data.csv](/abstimmungsliste/analyses/20141113_6_xls-data.csv)
+    * [Abstimmungsergebnis 20141113_6-data.pdf](/res/abstimmungsliste/20141113_6-data.pdf)
+    * [Abstimmungsergebnis 20141113_6_xls-data.csv](/res/abstimmungsliste/analyses/20141113_6_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/02663.pdf](http://dip21.bundestag.de/dip21/btd/18/026/1802663.pdf) ([local copy](/abstimmungsdaten/018-066-06/1802663.pdf))
-    * [Drucksache 18/03142.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803142.pdf) ([local copy](/abstimmungsdaten/018-066-06/1803142.pdf))
-    * [Drucksache 18/03182.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803182.pdf) ([local copy](/abstimmungsdaten/018-066-06/1803182.pdf))
+    * [Drucksache 18/02663.pdf](http://dip21.bundestag.de/dip21/btd/18/026/1802663.pdf) ([local copy](/res/abstimmungsdaten/018-066-06/1802663.pdf))
+    * [Drucksache 18/03142.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803142.pdf) ([local copy](/res/abstimmungsdaten/018-066-06/1803142.pdf))
+    * [Drucksache 18/03182.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803182.pdf) ([local copy](/res/abstimmungsdaten/018-066-06/1803182.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

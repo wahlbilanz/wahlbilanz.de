@@ -10,14 +10,14 @@ title: Etat Bundeskanzlerin und Bundeskanzleramt
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=374](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=374)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20151125_1-data.pdf](/abstimmungsliste/20151125_1-data.pdf)
-    * [Abstimmungsergebnis 20151125_1_xls-data.csv](/abstimmungsliste/analyses/20151125_1_xls-data.csv)
+    * [Abstimmungsergebnis 20151125_1-data.pdf](/res/abstimmungsliste/20151125_1-data.pdf)
+    * [Abstimmungsergebnis 20151125_1_xls-data.csv](/res/abstimmungsliste/analyses/20151125_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/05500.pdf](http://dip21.bundestag.de/dip21/btd/18/055/1805500.pdf) ([local copy](/abstimmungsdaten/018-139-01/1805500.pdf))
-    * [Drucksache 18/05502.pdf](http://dip21.bundestag.de/dip21/btd/18/055/1805502.pdf) ([local copy](/abstimmungsdaten/018-139-01/1805502.pdf))
-    * [Drucksache 18/06124.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf) ([local copy](/abstimmungsdaten/018-139-01/1806124.pdf))
-    * [Drucksache 18/06125.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806125.pdf) ([local copy](/abstimmungsdaten/018-139-01/1806125.pdf))
-    * [Drucksache 18/06126.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806126.pdf) ([local copy](/abstimmungsdaten/018-139-01/1806126.pdf))
+    * [Drucksache 18/05500.pdf](http://dip21.bundestag.de/dip21/btd/18/055/1805500.pdf) ([local copy](/res/abstimmungsdaten/018-139-01/1805500.pdf))
+    * [Drucksache 18/05502.pdf](http://dip21.bundestag.de/dip21/btd/18/055/1805502.pdf) ([local copy](/res/abstimmungsdaten/018-139-01/1805502.pdf))
+    * [Drucksache 18/06124.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf) ([local copy](/res/abstimmungsdaten/018-139-01/1806124.pdf))
+    * [Drucksache 18/06125.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806125.pdf) ([local copy](/res/abstimmungsdaten/018-139-01/1806125.pdf))
+    * [Drucksache 18/06126.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806126.pdf) ([local copy](/res/abstimmungsdaten/018-139-01/1806126.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 

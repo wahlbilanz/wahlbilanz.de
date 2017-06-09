@@ -10,11 +10,11 @@ title: Renten in Ostdeutschland
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=359](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=359)
     * 
 * Data: 
-    * [Abstimmungsergebnis 20151002_1-data.pdf](/abstimmungsliste/20151002_1-data.pdf)
-    * [Abstimmungsergebnis 20151002_1_xls-data.csv](/abstimmungsliste/analyses/20151002_1_xls-data.csv)
+    * [Abstimmungsergebnis 20151002_1-data.pdf](/res/abstimmungsliste/20151002_1-data.pdf)
+    * [Abstimmungsergebnis 20151002_1_xls-data.csv](/res/abstimmungsliste/analyses/20151002_1_xls-data.csv)
 * Documents: 
-    * [Drucksache 18/01644.pdf](http://dip21.bundestag.de/dip21/btd/18/016/1801644.pdf) ([local copy](/abstimmungsdaten/018-128-01/1801644.pdf))
-    * [Drucksache 18/05290.pdf](http://dip21.bundestag.de/dip21/btd/18/052/1805290.pdf) ([local copy](/abstimmungsdaten/018-128-01/1805290.pdf))
+    * [Drucksache 18/01644.pdf](http://dip21.bundestag.de/dip21/btd/18/016/1801644.pdf) ([local copy](/res/abstimmungsdaten/018-128-01/1801644.pdf))
+    * [Drucksache 18/05290.pdf](http://dip21.bundestag.de/dip21/btd/18/052/1805290.pdf) ([local copy](/res/abstimmungsdaten/018-128-01/1805290.pdf))
 * Preview: 
 > Deutscher Bundestag
 > 
