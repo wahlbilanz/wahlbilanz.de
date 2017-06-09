@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Categories
+title:  Kategorien
 permalink: /categories/
 sidebar: true
 ---
@@ -13,6 +13,13 @@ sidebar: true
     <article class="tag-item">
       <a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
     </article>
+    {% endfor %}
+    {% for page in site.pages %}
+			{% if page.categories contains cat_name %}
+			<article class="tag-item">
+				<a class="tag-item-title" href="{{ site.url }}{{ page.url }}">{{page.title}}</a>
+			</article>
+			{% endif %}
     {% endfor %}
   </div>
 {% endfor %}

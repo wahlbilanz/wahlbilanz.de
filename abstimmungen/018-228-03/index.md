@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Bundeswehreinsatz EUTM Somalia
+tags:
+  - abc
+categories: [hello world, code, pagecat]
 
 ---
 

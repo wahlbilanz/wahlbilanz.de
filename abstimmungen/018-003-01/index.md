@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Bundeswehreinsatz in Südsudan
+categories:
+ - Bundeswehr
+ - Ausland
+tags:
+ - Bundeswehr
+ - Ausland
 
 ---
 * Abstimmung: 018-003-01

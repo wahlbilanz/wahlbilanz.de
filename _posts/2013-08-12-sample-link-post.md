@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "Sample Link Post"
 excerpt: "Try click on the link icon."
 categories: [link post]
