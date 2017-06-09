@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Wahl Bilanz
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: Informationen zur Bundestagswahl 2017.
 url: # the base hostname & protocol for your site
 
 
@@ -14,7 +14,7 @@ url: # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Europe/Berlin
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  name: Wahl Bilanz
+  avatar: wahl-logo.png
+  job: "News, Daten, Wissenswertes"
+  bio: "Informationen zur Bundestagswahl 2017."
   email:
   disqus-shortname:
   twitter: #username
