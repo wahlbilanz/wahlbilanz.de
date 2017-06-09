@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Bundeswehreinsatz EUTM Somalia
+categories:
+ - Bundeswehr
+ - Ausland
+tags:
+ - Bundeswehr
+ - Ausland
 
 ---
 
