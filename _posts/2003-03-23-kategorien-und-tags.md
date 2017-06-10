@@ -4,12 +4,8 @@ layout: post
 published: true
 date: 2003-03-23 10:34:47 +0200
 categories:
-    - Bundeswehr
-    - Ausland
     - Todo
 tags:
-    - Bundeswehr
-    - Ausland
     - Todo
 ---
 
