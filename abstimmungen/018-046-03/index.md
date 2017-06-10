@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Befristung von Arbeitsverhältnissen"
 categories:
- - Todo
+ - Arbeit
+ - Soziales
 tags:
- - Todo
+ - Arbeit
+ - Soziales
 ---
 
 * Abstimmung: 018-046-03

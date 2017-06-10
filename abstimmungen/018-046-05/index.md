@@ -3,8 +3,10 @@ layout: page
 title: "Abstimmung: Aufhebung der Optionsregelung im Staatsangehörigkeitsrecht"
 categories:
  - Todo
+ - Inneres
 tags:
  - Todo
+ - Inneres
 ---
 
 * Abstimmung: 018-046-05

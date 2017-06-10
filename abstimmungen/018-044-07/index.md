@@ -3,8 +3,18 @@ layout: page
 title: "Abstimmung: Haushaltsgesetz 2014"
 categories:
  - Todo
+ - Finanzen
+ - Haushalt
+ - Bundesregierung
+ - Wirtschaft
+ - Entwicklung
 tags:
  - Todo
+ - Finanzen
+ - Haushalt
+ - Bundesregierung
+ - Wirtschaft
+ - Entwicklung
 ---
 
 * Abstimmung: 018-044-07

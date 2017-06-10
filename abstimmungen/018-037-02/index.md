@@ -6,11 +6,13 @@ categories:
  - Finanzen
  - Arbeit
  - Soziales
+ - Renten
 tags:
  - Rentenversicherung
  - Finanzen
  - Arbeit
  - Soziales
+ - Renten
 ---
 
 * Abstimmung: 018-037-02
