@@ -2,9 +2,15 @@
 layout: page
 title: "Abstimmung: Einführung einer Länderöffnungsklausel"
 categories:
- - Todo
+ - Energie
+ - Umwelt
+ - Naturschutz
+ - Bau
 tags:
- - Todo
+ - Energie
+ - Umwelt
+ - Naturschutz
+ - Bau
 ---
 
 * Abstimmung: 018-044-05
