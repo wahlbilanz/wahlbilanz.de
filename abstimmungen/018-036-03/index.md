@@ -2,9 +2,15 @@
 layout: page
 title: "Abstimmung: Gentechnikfreiheit im Pflanzenbau"
 categories:
- - Todo
+ - Gentechnik
+ - Ernährung
+ - Verbraucherschutz
+ - Landwirtschaft
 tags:
- - Todo
+ - Gentechnik
+ - Ernährung
+ - Verbraucherschutz
+ - Landwirtschaft
 ---
 
 * Abstimmung: 018-036-03
