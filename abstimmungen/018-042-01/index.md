@@ -4,9 +4,13 @@ title: "Abstimmung: Feststellung des Bundeshaushaltsplans hier: Bundeskanzlerin 
 categories:
  - Todo
  - Finanzen
+ - Haushalt
+ - Bundesregierung
 tags:
  - Finanzen
  - Todo
+ - Haushalt
+ - Bundesregierung
 ---
 
 * Abstimmung: 018-042-01

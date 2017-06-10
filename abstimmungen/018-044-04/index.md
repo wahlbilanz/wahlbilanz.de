@@ -1,10 +1,14 @@
 ---
 layout: page
-title: "Abstimmung: Reform des Erneuerbare-Energien-Gesetzes / Entschließungsantrag Die Linkse"
+title: "Abstimmung: Reform des Erneuerbare-Energien-Gesetzes / Entschließungsantrag Die Linke"
 categories:
- - Todo
+ - Energie
+ - Wirtschaft
+ - Nachhaltigkeit
 tags:
- - Todo
+ - Energie
+ - Wirtschaft
+ - Nachhaltigkeit
 ---
 
 * Abstimmung: 018-044-04

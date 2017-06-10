@@ -2,9 +2,15 @@
 layout: page
 title: "Abstimmung: RV-Leistungsverbesserungsgesetz / 1. Änderungsantrag"
 categories:
- - Todo
+ - Rentenversicherung
+ - Finanzen
+ - Arbeit
+ - Soziales
 tags:
- - Todo
+ - Rentenversicherung
+ - Finanzen
+ - Arbeit
+ - Soziales
 ---
 
 * Abstimmung: 018-037-01

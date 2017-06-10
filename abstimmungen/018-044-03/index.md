@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Reform des Erneuerbare-Energien-Gesetzes"
 categories:
- - Todo
+ - Energie
+ - Wirtschaft
+ - Nachhaltigkeit
 tags:
- - Todo
+ - Energie
+ - Wirtschaft
+ - Nachhaltigkeit
 ---
 
 * Abstimmung: 018-044-03
