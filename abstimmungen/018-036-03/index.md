@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Gentechnikfreiheit im Pflanzenbau"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-036-03

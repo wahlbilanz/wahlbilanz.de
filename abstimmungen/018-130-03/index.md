@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Asylverfahrensbeschleunigungsgesetz, hier: Artikel 8 und Artikel 12"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-130-03

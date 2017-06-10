@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Erneuerbare-Energie-Gesetz"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-184-01

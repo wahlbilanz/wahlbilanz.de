@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Einstufung von Algerien, Marokko und Tunesien"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-171-01

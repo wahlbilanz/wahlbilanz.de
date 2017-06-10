@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-066-08

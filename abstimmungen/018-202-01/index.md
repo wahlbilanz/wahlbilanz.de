@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Beschlussempfehlung zum Etat der Bundeskanzlerin und des Bundeskanzleramtes"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-202-01

@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Bahnstreckenstilllegungen - Beschlussempfehlung"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-170-03

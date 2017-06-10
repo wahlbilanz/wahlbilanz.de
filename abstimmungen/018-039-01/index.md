@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Bundeswehreinsatz im Kosovo (KFOR)"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-039-01

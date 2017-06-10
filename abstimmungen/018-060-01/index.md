@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Entschließungsantrag zu der Regierungserklärung durch die Bundeskanzlerin"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-060-01

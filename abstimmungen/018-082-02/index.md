@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Bundeswehreinsatz Operation Active Fence (Türkei)"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-082-02

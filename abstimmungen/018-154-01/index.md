@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Regierungserklärung zum Europäischen Rat - Entschließungsantrag"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-154-01

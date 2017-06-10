@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Bundeswehreinsatz Kurdistan-Irak"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-152-02

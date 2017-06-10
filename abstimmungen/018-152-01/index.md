@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Bundeswehreinsatz in Mali"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-152-01

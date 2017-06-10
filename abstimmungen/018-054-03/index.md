@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Freihandelsabkommen der EU mit USA und Kanada"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-054-03

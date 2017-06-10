@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Liegenschaftspolitik des Bundes, Beschlussempfehlung des Haushaltsausschusses"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-098-07

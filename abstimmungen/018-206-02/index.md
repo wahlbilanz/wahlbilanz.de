@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Seefischereigesetz"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-206-02

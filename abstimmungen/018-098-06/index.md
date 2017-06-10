@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Liegenschaftspolitik des Bundes, Gesetzentwurf Die Linkse"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-098-06

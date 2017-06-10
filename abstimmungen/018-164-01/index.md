@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Bekämpfung von Korruption im Gesundheitswesen"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-164-01

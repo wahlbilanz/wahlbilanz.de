@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Beschlussempfehlung Bundeswehreinsatz in Afghanistan"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-209-04

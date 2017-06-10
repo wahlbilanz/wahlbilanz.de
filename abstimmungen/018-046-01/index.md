@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Einführung eines Mindestlohnes - Änderungsantrag"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-046-01

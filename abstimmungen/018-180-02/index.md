@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Fracking"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-180-02

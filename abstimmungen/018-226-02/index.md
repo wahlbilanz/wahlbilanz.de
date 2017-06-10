@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Änderung des Zweiten Verkehrsteueränderungsgesetzes"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-226-02

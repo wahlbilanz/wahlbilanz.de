@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Regierungserklärung zum Europäischen Rat am 17./18. März 2016 - Entschließungsantrag"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-160-01

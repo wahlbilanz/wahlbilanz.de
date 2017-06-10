@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Bleiberecht und Aufenthaltsbeendigung, Änderungsantrag Bündnis 90/Die Grünen"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-115-01

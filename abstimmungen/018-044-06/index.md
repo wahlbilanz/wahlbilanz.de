@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Mindestabstände zwischen Windenergieanlagen / Entschließungsantrag Die Linkse"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-044-06

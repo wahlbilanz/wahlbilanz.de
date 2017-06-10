@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Änderung des Bundesberggesetzes zur Untersagung der Fracking-Technik"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-167-01

@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Ausbildungsunterstützung der Bundeswehr im Irak"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-215-02

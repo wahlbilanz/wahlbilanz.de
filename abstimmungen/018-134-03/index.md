@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Strafbarkeit der geschäftsmäßigen Förderung der Selbsttötung"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-134-03

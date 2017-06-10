@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Ausbildungsunterstützungeinsatz Kurdistan-Irak"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-082-01

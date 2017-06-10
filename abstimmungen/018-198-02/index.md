@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Änderungsantrag der Abgeordneten Hilde Mattheis und Sabine Dittmar zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-198-02

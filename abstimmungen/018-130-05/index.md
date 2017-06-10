@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Asylverfahrensbeschleunigungsgesetz, hier: Artikel 1 Nummer 15, 16 und 19"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-130-05

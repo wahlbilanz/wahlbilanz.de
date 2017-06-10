@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2015 (Einzelplan 04 - Bundeskanzlerin und Bundeskanzleramt)"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-069-01

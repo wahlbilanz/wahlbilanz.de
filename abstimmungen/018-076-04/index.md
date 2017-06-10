@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Änderung des Bundesdatenschutzgesetzes"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-076-04

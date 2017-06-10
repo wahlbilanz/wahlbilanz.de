@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Erstes Gesetz zur Änderung des Infrastrukturabgabengesetzes"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-226-01

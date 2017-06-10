@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Rentenansprüche aus DDR-Beschäftigungszeiten (Krankenschwestern)"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-212-02

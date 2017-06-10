@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Beschlussempfehlung zu Brennelementesteuer"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-199-01

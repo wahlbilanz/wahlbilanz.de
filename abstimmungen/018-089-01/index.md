@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Finanzhilfen zugunsten Griechenlands"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-089-01

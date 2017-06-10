@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Änderung des SGB II - Rechtsvereinfachung"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-179-03

@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Transparenz bei Rüstungsexportentscheidungen"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-033-03

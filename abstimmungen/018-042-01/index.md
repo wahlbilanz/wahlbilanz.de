@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Feststellung des Bundeshaushaltsplans hier: Bundeskanzlerin und Bundeskanzleramt"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-042-01

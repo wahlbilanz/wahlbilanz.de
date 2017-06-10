@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Stabilitätshilfe zugunsten Griechenlands, Entschließungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-117-02

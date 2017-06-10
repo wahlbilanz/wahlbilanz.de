@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Privatisierung von Bundesliegenschaften stoppen"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-193-02

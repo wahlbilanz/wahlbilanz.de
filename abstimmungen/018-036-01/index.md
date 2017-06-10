@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: EU-Operation Atalanta"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-036-01

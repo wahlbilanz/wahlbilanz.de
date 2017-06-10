@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Subventionen für Atomkraftwerke in der EU, Beschlussempfehlung zum Antrag Die Linkse"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-115-05

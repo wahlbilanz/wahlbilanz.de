@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Anwendung des Stimmzettelverfahrens"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-134-01

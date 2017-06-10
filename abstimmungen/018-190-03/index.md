@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: CETA, Antrag Bündnis 90/Die Grünen 18/9621"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-190-03

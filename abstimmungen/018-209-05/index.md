@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Bekämpfung der Schwarzarbeit"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-209-05

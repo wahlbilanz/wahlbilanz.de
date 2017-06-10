@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Verantwortung in der kerntechnischen Entsorgung"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-209-01

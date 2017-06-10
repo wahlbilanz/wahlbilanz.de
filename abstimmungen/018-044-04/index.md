@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Reform des Erneuerbare-Energien-Gesetzes / Entschließungsantrag Die Linkse"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-044-04

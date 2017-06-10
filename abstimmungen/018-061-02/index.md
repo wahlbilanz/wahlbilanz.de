@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Pflegeversicherung, Änderungsantrag Bündnis 90/Die Grünen"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-061-02

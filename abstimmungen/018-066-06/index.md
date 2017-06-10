@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes, 1. Änderungsantrag Bündnis 90/Die Grünen"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-066-06

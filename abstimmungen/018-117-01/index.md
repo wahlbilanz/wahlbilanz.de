@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Stabilitätshilfe zugunsten Griechenlands"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-117-01

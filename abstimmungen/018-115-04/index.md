@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Bleiberecht und Aufenthaltsbeendigung, Entschließungsantrag Die Linkse"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-115-04

@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Beschlussempfehlung zu 'Mietpreisbremse wirkungsvoll ausgestalten'"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-221-02

@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Änderung agrarmarktrechtlicher Bestimmungen"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-133-02

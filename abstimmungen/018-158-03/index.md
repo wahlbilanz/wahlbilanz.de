@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Voreilige Neuzulassung von Glyphosat stoppen"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-158-03

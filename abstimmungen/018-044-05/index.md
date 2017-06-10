@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Einführung einer Länderöffnungsklausel"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-044-05

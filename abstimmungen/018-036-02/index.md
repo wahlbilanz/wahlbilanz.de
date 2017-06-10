@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Sukzessivadoption durch Lebenspartner"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-036-02

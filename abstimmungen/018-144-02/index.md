@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Entschließungsantrag der Fraktion Die Linkse: Bundeswehreinsatz gegen Terrororganisation IS"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-144-02

@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Grundfreibetrag, Kinderfreibetrag, -geld, -zuschlag"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-112-01

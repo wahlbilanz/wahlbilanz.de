@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Bund-Länder-Wissenschaftskooperation"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-066-03

@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Pflegeversicherung, Entschließungsantrag Die Linkse"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-061-03

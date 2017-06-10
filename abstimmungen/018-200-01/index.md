@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Gesetzentwurf zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-200-01

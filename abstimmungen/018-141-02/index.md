@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Haushaltsgesetz 2016"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-141-02

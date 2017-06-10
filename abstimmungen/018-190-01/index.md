@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: CETA, Antrag Die Linkse 18/9665"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-190-01

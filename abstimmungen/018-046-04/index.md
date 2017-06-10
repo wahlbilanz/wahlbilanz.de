@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Änderung des Staatsangehörigkeitsgesetzes"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-046-04

@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Ermittlung von Regelbedarfen"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-206-01

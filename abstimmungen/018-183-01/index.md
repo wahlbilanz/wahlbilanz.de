@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Schutz der sexuellen Selbstbestimmung: Artikel 2 Absatz 3"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-183-01

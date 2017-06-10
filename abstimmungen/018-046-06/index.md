@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Angleichung der Renten in Ostdeutschland an das Westniveau"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-046-06

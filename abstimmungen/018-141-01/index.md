@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Etat Verkehr und digitale Infrastruktur"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-141-01

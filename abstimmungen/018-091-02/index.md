@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Dämpfung des Mietanstiegs, 2. Änderungsantrag Bündnis 90/Die Grünen"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-091-02

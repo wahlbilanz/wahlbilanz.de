@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Entschließungsantrag zum Europäischen Rat"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-221-01

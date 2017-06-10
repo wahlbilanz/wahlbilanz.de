@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Haushaltsgesetz 2014"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-044-07

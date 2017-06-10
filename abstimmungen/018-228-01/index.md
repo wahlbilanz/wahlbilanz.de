@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Transparenz von Entgeltstrukturen"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-228-01

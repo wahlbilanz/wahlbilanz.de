@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Pflegeversicherung, Änderungsantrag Die Linkse"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-061-01

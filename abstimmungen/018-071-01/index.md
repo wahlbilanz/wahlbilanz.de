@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Haushaltsgesetz 2015"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-071-01

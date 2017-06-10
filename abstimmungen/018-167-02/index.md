@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Verbot von Fracking in Deutschland"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-167-02

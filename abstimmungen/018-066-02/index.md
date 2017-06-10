@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Abstimmung: Bund-Länder-Wissenschaftskooperation, Änderungsantrag Bündnis 90/Die Grünen"
-
+categories:
+ - Todo
+tags:
+ - Todo
 ---
 
 * Abstimmung: 018-066-02
