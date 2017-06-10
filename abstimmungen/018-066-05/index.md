@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes, 2. Änderungsantrag Die Linkse"
+title: "Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes, 2. Änderungsantrag Die Linke"
 categories:
  - Todo
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 * Abstimmung: 018-066-05
-* Title: Änderung des Bundesausbildungsförderungsgesetzes, 2. Änderungsantrag Die Linkse
+* Title: Änderung des Bundesausbildungsförderungsgesetzes, 2. Änderungsantrag Die Linke
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=311](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=311)
     * 

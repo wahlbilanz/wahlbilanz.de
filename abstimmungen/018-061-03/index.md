@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Abstimmung: Pflegeversicherung, Entschließungsantrag Die Linkse"
+title: "Abstimmung: Pflegeversicherung, Entschließungsantrag Die Linke"
 categories:
  - Todo
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 * Abstimmung: 018-061-03
-* Title: Pflegeversicherung, Entschließungsantrag Die Linkse
+* Title: Pflegeversicherung, Entschließungsantrag Die Linke
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=305](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=305)
     * 

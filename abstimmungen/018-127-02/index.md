@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Abstimmung: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Die Linkse"
+title: "Abstimmung: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Die Linke"
 categories:
  - Todo
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 * Abstimmung: 018-127-02
-* Title: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Die Linkse
+* Title: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Die Linke
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=357](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=357)
     * 

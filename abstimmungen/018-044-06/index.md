@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Abstimmung: Mindestabstände zwischen Windenergieanlagen / Entschließungsantrag Die Linkse"
+title: "Abstimmung: Mindestabstände zwischen Windenergieanlagen / Entschließungsantrag Die Linke"
 categories:
  - Todo
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 * Abstimmung: 018-044-06
-* Title: Mindestabstände zwischen Windenergieanlagen / Entschließungsantrag Die Linkse
+* Title: Mindestabstände zwischen Windenergieanlagen / Entschließungsantrag Die Linke
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=288](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=288)
     * [http://www.abgeordnetenwatch.de/laenderoeffnungsklausel_zur_vorgabe_von_mindestabstaenden_zwischen_windenergieanlagen-1105-667.html](http://www.abgeordnetenwatch.de/laenderoeffnungsklausel_zur_vorgabe_von_mindestabstaenden_zwischen_windenergieanlagen-1105-667.html)
