@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gentechnisch veränderte Maislinie 1507 für den Anbau in der EU
+title: "Abstimmung: Gentechnisch veränderte Maislinie 1507 für den Anbau in der EU"
 categories:
  - Ernährung
  - Landwirtschaft

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Änderungsantrag der Abgeordneten Hilde Mattheis und Sabine Dittmar zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften
+title: "Abstimmung: Änderungsantrag der Abgeordneten Hilde Mattheis und Sabine Dittmar zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften"
 
 ---
 

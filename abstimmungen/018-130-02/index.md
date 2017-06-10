@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Asylverfahrensbeschleunigungsgesetz, hier: Artikel 1 Nummer 35"
+title: "Abstimmung: Asylverfahrensbeschleunigungsgesetz, hier: Artikel 1 Nummer 35"
 
 ---
 

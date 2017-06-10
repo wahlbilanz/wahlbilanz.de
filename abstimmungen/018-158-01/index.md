@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Einführung beschleunigter Asylverfahren hier: Artikel 2 Nummer 4"
+title: "Abstimmung: Einführung beschleunigter Asylverfahren hier: Artikel 2 Nummer 4"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bund-Länder-Wissenschaftskooperation
+title: "Abstimmung: Bund-Länder-Wissenschaftskooperation"
 
 ---
 

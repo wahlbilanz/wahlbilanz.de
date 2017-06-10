@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Etat Bundeskanzlerin und Bundeskanzleramt
+title: "Abstimmung: Etat Bundeskanzlerin und Bundeskanzleramt"
 
 ---
 

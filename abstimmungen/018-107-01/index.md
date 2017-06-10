@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gesetz zur Tarifeinheit
+title: "Abstimmung: Gesetz zur Tarifeinheit"
 
 ---
 

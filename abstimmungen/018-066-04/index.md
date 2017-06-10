@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Änderung des Bundesausbildungsförderungsgesetzes, 1. Änderungsantrag Die Linkse
+title: "Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes, 1. Änderungsantrag Die Linkse"
 
 ---
 

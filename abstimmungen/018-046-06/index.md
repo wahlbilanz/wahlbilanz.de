@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Angleichung der Renten in Ostdeutschland an das Westniveau
+title: "Abstimmung: Angleichung der Renten in Ostdeutschland an das Westniveau"
 
 ---
 

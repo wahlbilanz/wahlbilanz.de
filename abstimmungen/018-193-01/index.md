@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mieterinnen und Mieter besser schützen
+title: "Abstimmung: Mieterinnen und Mieter besser schützen"
 
 ---
 

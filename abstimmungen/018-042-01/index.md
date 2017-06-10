@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Feststellung des Bundeshaushaltsplans hier: Bundeskanzlerin und Bundeskanzleramt"
+title: "Abstimmung: Feststellung des Bundeshaushaltsplans hier: Bundeskanzlerin und Bundeskanzleramt"
 
 ---
 

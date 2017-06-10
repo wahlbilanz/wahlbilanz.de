@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Asylverfahrensbeschleunigungsgesetz
+title: "Abstimmung: Asylverfahrensbeschleunigungsgesetz"
 
 ---
 

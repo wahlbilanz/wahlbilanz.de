@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sukzessivadoption durch Lebenspartner
+title: "Abstimmung: Sukzessivadoption durch Lebenspartner"
 
 ---
 

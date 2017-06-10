@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ausbildungsunterstützungeinsatz Kurdistan-Irak
+title: "Abstimmung: Ausbildungsunterstützungeinsatz Kurdistan-Irak"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verbot von Fracking in Deutschland
+title: "Abstimmung: Verbot von Fracking in Deutschland"
 
 ---
 

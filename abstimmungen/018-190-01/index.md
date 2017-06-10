@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CETA, Antrag Die Linkse 18/9665
+title: "Abstimmung: CETA, Antrag Die Linkse 18/9665"
 
 ---
 

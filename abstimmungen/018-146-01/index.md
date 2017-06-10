@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz in Afghanistan (Resolute Support)
+title: "Abstimmung: Bundeswehreinsatz in Afghanistan (Resolute Support)"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beschlussempfehlung zu "Mietpreisbremse wirkungsvoll ausgestalten"
+title: "Abstimmung: Beschlussempfehlung zu 'Mietpreisbremse wirkungsvoll ausgestalten'"
 
 ---
 

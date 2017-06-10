@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Finanzhilfen zugunsten Griechenlands
+title: "Abstimmung: Finanzhilfen zugunsten Griechenlands"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Entschließungsantrag der Fraktion Die Linkse: Bundeswehreinsatz gegen Terrororganisation IS"
+title: "Abstimmung: Entschließungsantrag der Fraktion Die Linkse: Bundeswehreinsatz gegen Terrororganisation IS"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beteiligung bewaffneter deutscher Streitkräfte am maritimen Begleitschutz
+title: "Abstimmung: Beteiligung bewaffneter deutscher Streitkräfte am maritimen Begleitschutz"
 categories:
  - Bundeswehr
  - Ausland

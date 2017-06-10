@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gesetzentwurf Dämpfung des Mietanstiegs (umfassende Modernisierungen)
+title: "Abstimmung: Gesetzentwurf Dämpfung des Mietanstiegs (umfassende Modernisierungen)"
 
 ---
 

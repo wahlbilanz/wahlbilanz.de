@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beschlussempfehlung Bundeswehreinsatz in Afghanistan
+title: "Abstimmung: Beschlussempfehlung Bundeswehreinsatz in Afghanistan"
 
 ---
 

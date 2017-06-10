@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Haushaltsgesetz 2014
+title: "Abstimmung: Haushaltsgesetz 2014"
 
 ---
 

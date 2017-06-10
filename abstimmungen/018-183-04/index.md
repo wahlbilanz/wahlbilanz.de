@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz EUNAVFOR MED Operation SOPHIA
+title: "Abstimmung: Bundeswehreinsatz EUNAVFOR MED Operation SOPHIA"
 
 ---
 

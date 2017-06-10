@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bleiberecht und Aufenthaltsbeendigung, Änderungsantrag Bündnis 90/Die Grünen
+title: "Abstimmung: Bleiberecht und Aufenthaltsbeendigung, Änderungsantrag Bündnis 90/Die Grünen"
 
 ---
 

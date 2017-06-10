@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nachhaltige Waldbewirtschaftung
+title: "Abstimmung: Nachhaltige Waldbewirtschaftung"
 
 ---
 

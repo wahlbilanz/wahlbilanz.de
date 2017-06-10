@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lebensversicherungsreformgesetz
+title: "Abstimmung: Lebensversicherungsreformgesetz"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz vor Somalia (EU NAVFOR Atalanta)
+title: "Abstimmung: Bundeswehreinsatz vor Somalia (EU NAVFOR Atalanta)"
 
 ---
 

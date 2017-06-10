@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Einstufung von Algerien, Marokko und Tunesien
+title: "Abstimmung: Einstufung von Algerien, Marokko und Tunesien"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Änderung des SGB II - Rechtsvereinfachung
+title: "Abstimmung: Änderung des SGB II - Rechtsvereinfachung"
 
 ---
 

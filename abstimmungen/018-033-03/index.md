@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Transparenz bei Rüstungsexportentscheidungen
+title: "Abstimmung: Transparenz bei Rüstungsexportentscheidungen"
 
 ---
 

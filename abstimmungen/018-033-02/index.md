@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arbeitnehmer-Entsendegesetz (Fleischwirtschaft)
+title: "Abstimmung: Arbeitnehmer-Entsendegesetz (Fleischwirtschaft)"
 categories:
  - Arbeitnehmer
  - Recht

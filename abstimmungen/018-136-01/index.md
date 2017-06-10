@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz in Südsudan (UNMISS)
+title: "Abstimmung: Bundeswehreinsatz in Südsudan (UNMISS)"
 
 ---
 

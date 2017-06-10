@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gesetzentwurf zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften
+title: "Abstimmung: Gesetzentwurf zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften"
 
 ---
 

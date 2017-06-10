@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ermittlung von Regelbedarfen
+title: "Abstimmung: Ermittlung von Regelbedarfen"
 
 ---
 

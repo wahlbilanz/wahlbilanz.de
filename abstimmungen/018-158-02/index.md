@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Einführung beschleunigter Asylverfahren - Gesetzentwurf
+title: "Abstimmung: Einführung beschleunigter Asylverfahren - Gesetzentwurf"
 
 ---
 

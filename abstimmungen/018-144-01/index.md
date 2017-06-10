@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz gegen Terrororganisation IS
+title: "Abstimmung: Bundeswehreinsatz gegen Terrororganisation IS"
 
 ---
 

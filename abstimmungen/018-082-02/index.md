@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz Operation Active Fence (Türkei)
+title: "Abstimmung: Bundeswehreinsatz Operation Active Fence (Türkei)"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz SEA GUARDIAN im Mittelmeer
+title: "Abstimmung: Bundeswehreinsatz SEA GUARDIAN im Mittelmeer"
 
 ---
 

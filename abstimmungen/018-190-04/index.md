@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CETA, Antrag CDU/CSU, SPD 18/9663
+title: "Abstimmung: CETA, Antrag CDU/CSU, SPD 18/9663"
 
 ---
 

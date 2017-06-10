@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Änderung des Zweiten Verkehrsteueränderungsgesetzes
+title: "Abstimmung: Änderung des Zweiten Verkehrsteueränderungsgesetzes"
 
 ---
 

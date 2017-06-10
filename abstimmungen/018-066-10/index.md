@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz in Dafur (UNAMID)
+title: "Abstimmung: Bundeswehreinsatz in Dafur (UNAMID)"
 
 ---
 

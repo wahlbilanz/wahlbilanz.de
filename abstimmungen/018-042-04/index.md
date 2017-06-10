@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Feststellung des Bundeshaushaltsplans hier: Wirtschaftliche Zusammenarbeit und Entwicklung"
+title: "Abstimmung: Feststellung des Bundeshaushaltsplans hier: Wirtschaftliche Zusammenarbeit und Entwicklung"
 
 ---
 

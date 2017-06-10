@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bekämpfung der Schwarzarbeit
+title: "Abstimmung: Bekämpfung der Schwarzarbeit"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beschlussempfehlung zu Brennelementesteuer
+title: "Abstimmung: Beschlussempfehlung zu Brennelementesteuer"
 
 ---
 

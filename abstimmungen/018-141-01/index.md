@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Etat Verkehr und digitale Infrastruktur
+title: "Abstimmung: Etat Verkehr und digitale Infrastruktur"
 
 ---
 

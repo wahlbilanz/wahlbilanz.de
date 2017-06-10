@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Änderung des Abgeordnetengesetzes
+title: "Abstimmung: Änderung des Abgeordnetengesetzes"
 categories:
  - Politik
  - EU

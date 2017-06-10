@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Schutz der sexuellen Selbstbestimmung: Artikel 1 Nummern 6 bis 8, 10 und 11"
+title: "Abstimmung: Schutz der sexuellen Selbstbestimmung: Artikel 1 Nummern 6 bis 8, 10 und 11"
 
 ---
 

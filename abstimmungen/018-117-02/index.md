@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stabilitätshilfe zugunsten Griechenlands, Entschließungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN
+title: "Abstimmung: Stabilitätshilfe zugunsten Griechenlands, Entschließungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Voreilige Neuzulassung von Glyphosat stoppen
+title: "Abstimmung: Voreilige Neuzulassung von Glyphosat stoppen"
 
 ---
 

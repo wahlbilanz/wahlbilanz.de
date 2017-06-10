@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz in Darfur
+title: "Abstimmung: Bundeswehreinsatz in Darfur"
 categories:
  - Bundeswehr
  - Ausland

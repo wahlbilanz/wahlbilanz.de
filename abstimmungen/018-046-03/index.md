@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Befristung von Arbeitsverhältnissen
+title: "Abstimmung: Befristung von Arbeitsverhältnissen"
 
 ---
 

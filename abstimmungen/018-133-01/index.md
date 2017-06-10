@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Betreuungsgeld für den Kitaausbau nutzen
+title: "Abstimmung: Betreuungsgeld für den Kitaausbau nutzen"
 
 ---
 

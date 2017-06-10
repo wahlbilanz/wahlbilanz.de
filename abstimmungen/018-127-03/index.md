@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Bündnis 90/Die Grünen
+title: "Abstimmung: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Bündnis 90/Die Grünen"
 
 ---
 

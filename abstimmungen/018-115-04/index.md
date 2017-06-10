@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bleiberecht und Aufenthaltsbeendigung, Entschließungsantrag Die Linkse
+title: "Abstimmung: Bleiberecht und Aufenthaltsbeendigung, Entschließungsantrag Die Linkse"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Behindertengleichstellungsrecht - Änderungsantrag
+title: "Abstimmung: Behindertengleichstellungsrecht - Änderungsantrag"
 
 ---
 

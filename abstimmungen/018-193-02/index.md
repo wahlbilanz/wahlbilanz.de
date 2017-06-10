@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privatisierung von Bundesliegenschaften stoppen
+title: "Abstimmung: Privatisierung von Bundesliegenschaften stoppen"
 
 ---
 

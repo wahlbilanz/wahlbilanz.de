@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bund-Länder-Wissenschaftskooperation, Änderungsantrag Die Linkse
+title: "Abstimmung: Bund-Länder-Wissenschaftskooperation, Änderungsantrag Die Linkse"
 
 ---
 

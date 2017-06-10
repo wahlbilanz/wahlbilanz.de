@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Haushaltsgesetz 2015, Entschließungsantrag Bündnis 90/Die Grünen
+title: "Abstimmung: Haushaltsgesetz 2015, Entschließungsantrag Bündnis 90/Die Grünen"
 
 ---
 

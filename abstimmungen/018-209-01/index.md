@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verantwortung in der kerntechnischen Entsorgung
+title: "Abstimmung: Verantwortung in der kerntechnischen Entsorgung"
 
 ---
 

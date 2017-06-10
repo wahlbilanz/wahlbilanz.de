@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz Kurdistan-Irak
+title: "Abstimmung: Bundeswehreinsatz Kurdistan-Irak"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Behindertengleichstellungsrecht - Entschließungsantrag
+title: "Abstimmung: Behindertengleichstellungsrecht - Entschließungsantrag"
 
 ---
 

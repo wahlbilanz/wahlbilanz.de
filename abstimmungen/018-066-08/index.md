@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Änderung des Bundesausbildungsförderungsgesetzes
+title: "Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes"
 
 ---
 

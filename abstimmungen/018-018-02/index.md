@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Erweiterung des Straftatbestandes der Abgeordnetenbestechung
+title: "Abstimmung: Erweiterung des Straftatbestandes der Abgeordnetenbestechung"
 categories:
  - Politik
  - Strafrecht

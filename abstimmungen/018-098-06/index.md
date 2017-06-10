@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Liegenschaftspolitik des Bundes, Gesetzentwurf Die Linkse
+title: "Abstimmung: Liegenschaftspolitik des Bundes, Gesetzentwurf Die Linkse"
 
 ---
 

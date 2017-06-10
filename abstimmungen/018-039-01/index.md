@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz im Kosovo (KFOR)
+title: "Abstimmung: Bundeswehreinsatz im Kosovo (KFOR)"
 
 ---
 

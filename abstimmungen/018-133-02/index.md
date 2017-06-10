@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Änderung agrarmarktrechtlicher Bestimmungen
+title: "Abstimmung: Änderung agrarmarktrechtlicher Bestimmungen"
 
 ---
 

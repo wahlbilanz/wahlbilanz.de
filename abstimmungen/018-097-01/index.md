@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz in Somalia (EUTM)
+title: "Abstimmung: Bundeswehreinsatz in Somalia (EUTM)"
 
 ---
 

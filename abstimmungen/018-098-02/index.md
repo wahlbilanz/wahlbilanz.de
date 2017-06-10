@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pkw-Maut, Änderungsantrag Bündnis 90/Die Grünen
+title: "Abstimmung: Pkw-Maut, Änderungsantrag Bündnis 90/Die Grünen"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz OAE
+title: "Abstimmung: Bundeswehreinsatz OAE"
 categories:
  - Bundeswehr
  - Ausland

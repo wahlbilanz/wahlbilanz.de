@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beschlussempfehlung zum Etat der Bundeskanzlerin und des Bundeskanzleramtes
+title: "Abstimmung: Beschlussempfehlung zum Etat der Bundeskanzlerin und des Bundeskanzleramtes"
 
 ---
 

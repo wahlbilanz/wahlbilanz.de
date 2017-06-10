@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Änderung des Bundesberggesetzes zur Untersagung der Fracking-Technik
+title: "Abstimmung: Änderung des Bundesberggesetzes zur Untersagung der Fracking-Technik"
 
 ---
 

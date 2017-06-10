@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CETA, Antrag Bündnis 90/Die Grünen 18/9621
+title: "Abstimmung: CETA, Antrag Bündnis 90/Die Grünen 18/9621"
 
 ---
 

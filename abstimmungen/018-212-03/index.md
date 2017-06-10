@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dragoner-Areal dem Land Berlin zum Kauf anbieten
+title: "Abstimmung: Dragoner-Areal dem Land Berlin zum Kauf anbieten"
 
 ---
 

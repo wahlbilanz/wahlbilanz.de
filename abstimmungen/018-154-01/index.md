@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Regierungserklärung zum Europäischen Rat - Entschließungsantrag
+title: "Abstimmung: Regierungserklärung zum Europäischen Rat - Entschließungsantrag"
 
 ---
 

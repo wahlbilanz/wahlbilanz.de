@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Freihandelsabkommen der EU mit USA und Kanada
+title: "Abstimmung: Freihandelsabkommen der EU mit USA und Kanada"
 
 ---
 

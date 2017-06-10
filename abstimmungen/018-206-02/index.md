@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seefischereigesetz
+title: "Abstimmung: Seefischereigesetz"
 
 ---
 

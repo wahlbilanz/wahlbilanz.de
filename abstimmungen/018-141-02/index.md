@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Haushaltsgesetz 2016
+title: "Abstimmung: Haushaltsgesetz 2016"
 
 ---
 

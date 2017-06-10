@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Asylverfahrensbeschleunigungsgesetz, hier: Artikel 8 und Artikel 12"
+title: "Abstimmung: Asylverfahrensbeschleunigungsgesetz, hier: Artikel 8 und Artikel 12"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Regierungserklärung zum Europäischen Rat am 17./18. März 2016 - Entschließungsantrag
+title: "Abstimmung: Regierungserklärung zum Europäischen Rat am 17./18. März 2016 - Entschließungsantrag"
 
 ---
 

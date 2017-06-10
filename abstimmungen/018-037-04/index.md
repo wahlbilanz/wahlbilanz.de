@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV-Leistungsverbesserungsgesetz
+title: "Abstimmung: RV-Leistungsverbesserungsgesetz"
 
 ---
 

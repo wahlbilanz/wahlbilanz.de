@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Einführung eines Mindestlohnes
+title: "Abstimmung: Einführung eines Mindestlohnes"
 
 ---
 

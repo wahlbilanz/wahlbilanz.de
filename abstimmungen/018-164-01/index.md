@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bekämpfung von Korruption im Gesundheitswesen
+title: "Abstimmung: Bekämpfung von Korruption im Gesundheitswesen"
 
 ---
 

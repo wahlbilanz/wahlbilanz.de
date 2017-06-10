@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz in Libanon (UNIFIL)
+title: "Abstimmung: Bundeswehreinsatz in Libanon (UNIFIL)"
 
 ---
 

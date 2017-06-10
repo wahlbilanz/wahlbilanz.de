@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz im Mittelmeer (Operation ACTIVE ENDEAVOUR)
+title: "Abstimmung: Bundeswehreinsatz im Mittelmeer (Operation ACTIVE ENDEAVOUR)"
 
 ---
 

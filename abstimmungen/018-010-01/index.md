@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz OAF (Türkei)
+title: "Abstimmung: Bundeswehreinsatz OAF (Türkei)"
 categories:
  - Bundeswehr
  - Ausland

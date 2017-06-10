@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stabilitätshilfe zugunsten Griechenlands
+title: "Abstimmung: Stabilitätshilfe zugunsten Griechenlands"
 
 ---
 

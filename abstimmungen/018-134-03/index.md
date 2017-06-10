@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Strafbarkeit der geschäftsmäßigen Förderung der Selbsttötung
+title: "Abstimmung: Strafbarkeit der geschäftsmäßigen Förderung der Selbsttötung"
 
 ---
 

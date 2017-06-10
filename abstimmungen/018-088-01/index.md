@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz in Mali (EUTM Mali)
+title: "Abstimmung: Bundeswehreinsatz in Mali (EUTM Mali)"
 
 ---
 

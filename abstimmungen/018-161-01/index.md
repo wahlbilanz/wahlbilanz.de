@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ausbildungs- und Beratungsmissionen EUTM Somalia
+title: "Abstimmung: Ausbildungs- und Beratungsmissionen EUTM Somalia"
 
 ---
 

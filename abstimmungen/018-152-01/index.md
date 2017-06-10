@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz in Mali
+title: "Abstimmung: Bundeswehreinsatz in Mali"
 
 ---
 

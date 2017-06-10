@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Umsetzung des Aktionsprogramms Klimaschutz 2020
+title: "Abstimmung: Umsetzung des Aktionsprogramms Klimaschutz 2020"
 
 ---
 

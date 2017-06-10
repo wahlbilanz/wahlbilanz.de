@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dämpfung des Mietanstiegs, 1. Änderungsantrag Bündnis 90/Die Grünen
+title: "Abstimmung: Dämpfung des Mietanstiegs, 1. Änderungsantrag Bündnis 90/Die Grünen"
 
 ---
 

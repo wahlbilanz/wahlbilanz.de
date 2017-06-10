@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rentenansprüche aus DDR-Beschäftigungszeiten (Bergleute)
+title: "Abstimmung: Rentenansprüche aus DDR-Beschäftigungszeiten (Bergleute)"
 
 ---
 

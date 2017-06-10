@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mindestabstände zwischen Windenergieanlagen / Entschließungsantrag Die Linkse
+title: "Abstimmung: Mindestabstände zwischen Windenergieanlagen / Entschließungsantrag Die Linkse"
 
 ---
 

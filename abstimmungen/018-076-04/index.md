@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Änderung des Bundesdatenschutzgesetzes
+title: "Abstimmung: Änderung des Bundesdatenschutzgesetzes"
 
 ---
 

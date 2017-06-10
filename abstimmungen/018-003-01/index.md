@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz in Südsudan
+title: "Abstimmung: Bundeswehreinsatz in Südsudan"
 categories:
  - Bundeswehr
  - Ausland

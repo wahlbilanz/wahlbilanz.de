@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Die Linkse
+title: "Abstimmung: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Die Linkse"
 
 ---
 

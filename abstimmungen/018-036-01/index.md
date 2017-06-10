@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EU-Operation Atalanta
+title: "Abstimmung: EU-Operation Atalanta"
 
 ---
 

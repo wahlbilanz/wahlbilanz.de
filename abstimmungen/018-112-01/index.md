@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grundfreibetrag, Kinderfreibetrag, -geld, -zuschlag
+title: "Abstimmung: Grundfreibetrag, Kinderfreibetrag, -geld, -zuschlag"
 
 ---
 

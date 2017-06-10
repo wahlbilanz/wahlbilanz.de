@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anwendung des Stimmzettelverfahrens
+title: "Abstimmung: Anwendung des Stimmzettelverfahrens"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Entschließungsantrag zum Europäischen Rat
+title: "Abstimmung: Entschließungsantrag zum Europäischen Rat"
 
 ---
 

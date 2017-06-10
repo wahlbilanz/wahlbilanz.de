@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beschlussempfehlung zu Bundeswehreinsatz in Südsudan (UNMISS)
+title: "Abstimmung: Beschlussempfehlung zu Bundeswehreinsatz in Südsudan (UNMISS)"
 
 ---
 

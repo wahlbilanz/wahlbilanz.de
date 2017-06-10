@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Liegenschaftspolitik des Bundes, Beschlussempfehlung des Haushaltsausschusses
+title: "Abstimmung: Liegenschaftspolitik des Bundes, Beschlussempfehlung des Haushaltsausschusses"
 
 ---
 

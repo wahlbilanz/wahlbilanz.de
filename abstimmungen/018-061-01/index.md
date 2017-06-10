@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pflegeversicherung, Änderungsantrag Die Linkse
+title: "Abstimmung: Pflegeversicherung, Änderungsantrag Die Linkse"
 
 ---
 

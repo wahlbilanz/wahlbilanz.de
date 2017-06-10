@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz EU-Operation EUNAVFORMED
+title: "Abstimmung: Bundeswehreinsatz EU-Operation EUNAVFORMED"
 
 ---
 

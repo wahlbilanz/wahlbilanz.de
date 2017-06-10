@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pflegeversicherung, Entschließungsantrag Die Linkse
+title: "Abstimmung: Pflegeversicherung, Entschließungsantrag Die Linkse"
 
 ---
 

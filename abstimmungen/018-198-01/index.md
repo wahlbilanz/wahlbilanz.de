@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Änderungsantrag der Abgeordneten Uwe Schummer, Ulla Schmidt, Kathrin Vogler, Kordula Schulz-Asche, weiterer Abgeordneter aller Fraktionen zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften
+title: "Abstimmung: Änderungsantrag der Abgeordneten Uwe Schummer, Ulla Schmidt, Kathrin Vogler, Kordula Schulz-Asche, weiterer Abgeordneter aller Fraktionen zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften"
 
 ---
 

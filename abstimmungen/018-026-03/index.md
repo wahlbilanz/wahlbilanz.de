@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Minderheitenrechte in der 18. Wahlperiode
+title: "Abstimmung: Minderheitenrechte in der 18. Wahlperiode"
 categories:
  - Politik
 tags:

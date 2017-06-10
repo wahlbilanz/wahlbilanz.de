@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EU-Honigrichtlinie (Kennzeichnung von Gen-Honig)
+title: "Abstimmung: EU-Honigrichtlinie (Kennzeichnung von Gen-Honig)"
 categories:
  - Ernährung
  - Landwirtschaft

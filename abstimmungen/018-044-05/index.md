@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Einführung einer Länderöffnungsklausel
+title: "Abstimmung: Einführung einer Länderöffnungsklausel"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pflegeversicherung, Entschließungsantrag Bündnis 90/Die Grünen
+title: "Abstimmung: Pflegeversicherung, Entschließungsantrag Bündnis 90/Die Grünen"
 
 ---
 

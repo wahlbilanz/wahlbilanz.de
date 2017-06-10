@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reform des Erneuerbare-Energien-Gesetzes
+title: "Abstimmung: Reform des Erneuerbare-Energien-Gesetzes"
 
 ---
 

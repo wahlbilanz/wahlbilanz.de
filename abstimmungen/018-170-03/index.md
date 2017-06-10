@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bahnstreckenstilllegungen - Beschlussempfehlung
+title: "Abstimmung: Bahnstreckenstilllegungen - Beschlussempfehlung"
 
 ---
 

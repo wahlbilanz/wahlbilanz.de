@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Renten in Ostdeutschland
+title: "Abstimmung: Renten in Ostdeutschland"
 
 ---
 

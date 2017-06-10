@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anpassung des Erbschaftssteuer- und Schenkungssteuergesetzes
+title: "Abstimmung: Anpassung des Erbschaftssteuer- und Schenkungssteuergesetzes"
 
 ---
 

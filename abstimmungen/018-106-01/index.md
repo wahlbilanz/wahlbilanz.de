@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz Operation Atalanta
+title: "Abstimmung: Bundeswehreinsatz Operation Atalanta"
 
 ---
 

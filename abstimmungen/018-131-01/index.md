@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten
+title: "Abstimmung: Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten"
 
 ---
 

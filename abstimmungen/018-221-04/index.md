@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gesetzentwurf Dämpfung des Mietanstiegs (Streichung Rügepflicht / Schaffung Auskunftsrecht)
+title: "Abstimmung: Gesetzentwurf Dämpfung des Mietanstiegs (Streichung Rügepflicht / Schaffung Auskunftsrecht)"
 
 ---
 

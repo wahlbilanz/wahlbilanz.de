@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Freihandelsabkommen der EU mit USA und Kanada, 2. Entschließungsantrag
+title: "Abstimmung: Freihandelsabkommen der EU mit USA und Kanada, 2. Entschließungsantrag"
 
 ---
 

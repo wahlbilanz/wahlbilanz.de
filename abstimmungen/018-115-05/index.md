@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Subventionen für Atomkraftwerke in der EU, Beschlussempfehlung zum Antrag Die Linkse
+title: "Abstimmung: Subventionen für Atomkraftwerke in der EU, Beschlussempfehlung zum Antrag Die Linkse"
 
 ---
 

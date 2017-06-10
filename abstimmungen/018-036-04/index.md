@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gentechnikfreiheit im Pflanzenbau
+title: "Abstimmung: Gentechnikfreiheit im Pflanzenbau"
 
 ---
 

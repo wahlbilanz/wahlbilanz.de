@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Entschließungsantrag zu der Regierungserklärung durch die Bundeskanzlerin
+title: "Abstimmung: Entschließungsantrag zu der Regierungserklärung durch die Bundeskanzlerin"
 
 ---
 

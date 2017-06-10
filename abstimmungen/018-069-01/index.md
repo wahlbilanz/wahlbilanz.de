@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2015 (Einzelplan 04 - Bundeskanzlerin und Bundeskanzleramt)
+title: "Abstimmung: Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2015 (Einzelplan 04 - Bundeskanzlerin und Bundeskanzleramt)"
 
 ---
 

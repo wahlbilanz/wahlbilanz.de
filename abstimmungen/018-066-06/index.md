@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Änderung des Bundesausbildungsförderungsgesetzes, 1. Änderungsantrag Bündnis 90/Die Grünen
+title: "Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes, 1. Änderungsantrag Bündnis 90/Die Grünen"
 
 ---
 

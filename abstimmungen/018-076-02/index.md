@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz ACTIVE ENDEAVOUR (OAE)
+title: "Abstimmung: Bundeswehreinsatz ACTIVE ENDEAVOUR (OAE)"
 
 ---
 

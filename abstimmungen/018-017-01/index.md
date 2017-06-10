@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz in Afghanistan (ISAF)
+title: "Abstimmung: Bundeswehreinsatz in Afghanistan (ISAF)"
 categories:
  - Bundeswehr
  - Ausland

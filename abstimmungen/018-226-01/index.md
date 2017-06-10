@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Erstes Gesetz zur Änderung des Infrastrukturabgabengesetzes
+title: "Abstimmung: Erstes Gesetz zur Änderung des Infrastrukturabgabengesetzes"
 
 ---
 

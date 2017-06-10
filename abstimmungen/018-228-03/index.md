@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz EUTM Somalia
+title: "Abstimmung: Bundeswehreinsatz EUTM Somalia"
 tags:
   - abc
 categories: [hello world, code, pagecat]

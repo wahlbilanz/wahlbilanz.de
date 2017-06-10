@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Transparenz von Entgeltstrukturen
+title: "Abstimmung: Transparenz von Entgeltstrukturen"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pflegeversicherung, Änderungsantrag Bündnis 90/Die Grünen
+title: "Abstimmung: Pflegeversicherung, Änderungsantrag Bündnis 90/Die Grünen"
 
 ---
 

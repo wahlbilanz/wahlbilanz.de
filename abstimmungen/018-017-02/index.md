@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Militärische Ausbildungsmission in Mali
+title: "Abstimmung: Militärische Ausbildungsmission in Mali"
 categories:
  - Bundeswehr
  - Ausland

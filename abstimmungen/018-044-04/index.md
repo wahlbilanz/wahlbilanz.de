@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reform des Erneuerbare-Energien-Gesetzes / Entschließungsantrag Die Linkse
+title: "Abstimmung: Reform des Erneuerbare-Energien-Gesetzes / Entschließungsantrag Die Linkse"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Schutz der sexuellen Selbstbestimmung: Artikel 2 Absatz 3"
+title: "Abstimmung: Schutz der sexuellen Selbstbestimmung: Artikel 2 Absatz 3"
 
 ---
 

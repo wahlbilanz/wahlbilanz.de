@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz in der Zentralafrikanischen Republik (EUFOR RCA)
+title: "Abstimmung: Bundeswehreinsatz in der Zentralafrikanischen Republik (EUFOR RCA)"
 categories:
  - Bundeswehr
  - Ausland

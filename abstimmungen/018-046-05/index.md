@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aufhebung der Optionsregelung im Staatsangehörigkeitsrecht
+title: "Abstimmung: Aufhebung der Optionsregelung im Staatsangehörigkeitsrecht"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV-Leistungsverbesserungsgesetz / 2. Änderungsantrag
+title: "Abstimmung: RV-Leistungsverbesserungsgesetz / 2. Änderungsantrag"
 
 ---
 

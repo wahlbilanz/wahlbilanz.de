@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz in Mali (MINUSMA)
+title: "Abstimmung: Bundeswehreinsatz in Mali (MINUSMA)"
 
 ---
 

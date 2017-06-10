@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Änderung des Staatsangehörigkeitsgesetzes
+title: "Abstimmung: Änderung des Staatsangehörigkeitsgesetzes"
 
 ---
 

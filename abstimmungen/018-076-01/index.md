@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bundeswehreinsatz in Afghanistan
+title: "Abstimmung: Bundeswehreinsatz in Afghanistan"
 
 ---
 

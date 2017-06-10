@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fracking
+title: "Abstimmung: Fracking"
 
 ---
 

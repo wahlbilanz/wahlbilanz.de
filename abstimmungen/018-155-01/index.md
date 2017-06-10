@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rüstungsexportkontrollgesetz
+title: "Abstimmung: Rüstungsexportkontrollgesetz"
 
 ---
 

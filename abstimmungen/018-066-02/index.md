@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bund-Länder-Wissenschaftskooperation, Änderungsantrag Bündnis 90/Die Grünen
+title: "Abstimmung: Bund-Länder-Wissenschaftskooperation, Änderungsantrag Bündnis 90/Die Grünen"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ausbildungsunterstützung der Bundeswehr im Irak
+title: "Abstimmung: Ausbildungsunterstützung der Bundeswehr im Irak"
 
 ---
 
