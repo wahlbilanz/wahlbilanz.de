@@ -3,8 +3,14 @@ layout: page
 title: "Abstimmung: Sukzessivadoption durch Lebenspartner"
 categories:
  - Todo
+ - Adoptionsrechts
+ - Recht
+ - Verbraucherschutz
 tags:
  - Todo
+ - Adoptionsrechts
+ - Recht
+ - Verbraucherschutz
 ---
 
 * Abstimmung: 018-036-02

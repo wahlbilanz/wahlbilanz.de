@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Abstimmung: Bleiberecht und Aufenthaltsbeendigung, Entschließungsantrag Die Linkse"
+title: "Abstimmung: Bleiberecht und Aufenthaltsbeendigung, Entschließungsantrag Die Linke"
 categories:
  - Todo
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 * Abstimmung: 018-115-04
-* Title: Bleiberecht und Aufenthaltsbeendigung, Entschließungsantrag Die Linkse
+* Title: Bleiberecht und Aufenthaltsbeendigung, Entschließungsantrag Die Linke
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=349](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=349)
     * [http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html](http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html)

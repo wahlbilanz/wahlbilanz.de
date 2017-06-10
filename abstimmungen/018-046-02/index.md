@@ -2,9 +2,17 @@
 layout: page
 title: "Abstimmung: Einführung eines Mindestlohnes"
 categories:
- - Todo
+ - Gehalt
+ - Arbeit
+ - Soziales
+ - Mindestlohn
+ - Tarif
 tags:
- - Todo
+ - Gehalt
+ - Arbeit
+ - Soziales
+ - Mindestlohn
+ - Tarif
 ---
 
 * Abstimmung: 018-046-02

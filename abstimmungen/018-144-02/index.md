@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Abstimmung: Entschließungsantrag der Fraktion Die Linkse: Bundeswehreinsatz gegen Terrororganisation IS"
+title: "Abstimmung: Entschließungsantrag der Fraktion Die Linke: Bundeswehreinsatz gegen Terrororganisation IS"
 categories:
  - Todo
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 * Abstimmung: 018-144-02
-* Title: Entschließungsantrag der Fraktion Die Linkse: Bundeswehreinsatz gegen Terrororganisation IS
+* Title: Entschließungsantrag der Fraktion Die Linke: Bundeswehreinsatz gegen Terrororganisation IS
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=379](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=379)
     * [http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-777.html](http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-777.html)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Abstimmung: CETA, Antrag Die Linkse 18/9665"
+title: "Abstimmung: CETA, Antrag Die Linke 18/9665"
 categories:
  - Todo
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 * Abstimmung: 018-190-01
-* Title: CETA, Antrag Die Linkse 18/9665
+* Title: CETA, Antrag Die Linke 18/9665
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=416](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=416)
     * 

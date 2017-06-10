@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: EU-Operation Atalanta"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
+ - EU
 tags:
- - Todo
+ - Bundeswehr
+ - Ausland
+ - EU
 ---
 
 * Abstimmung: 018-036-01

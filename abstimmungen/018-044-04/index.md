@@ -1,14 +1,18 @@
 ---
 layout: page
-title: "Abstimmung: Reform des Erneuerbare-Energien-Gesetzes / Entschließungsantrag Die Linkse"
+title: "Abstimmung: Reform des Erneuerbare-Energien-Gesetzes / Entschließungsantrag Die Linke"
 categories:
- - Todo
+ - Energie
+ - Wirtschaft
+ - Nachhaltigkeit
 tags:
- - Todo
+ - Energie
+ - Wirtschaft
+ - Nachhaltigkeit
 ---
 
 * Abstimmung: 018-044-04
-* Title: Reform des Erneuerbare-Energien-Gesetzes / Entschließungsantrag Die Linkse
+* Title: Reform des Erneuerbare-Energien-Gesetzes / Entschließungsantrag Die Linke
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=286](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=286)
     * [http://www.abgeordnetenwatch.de/novelle_des_eeg-1105-629.html](http://www.abgeordnetenwatch.de/novelle_des_eeg-1105-629.html)
