@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Kooperationen bei Nutzung atomarer Technologien
+categories:
+ - Kernenergie
+ - EU
+tags:
+ - Kernenergie
+ - EU
 
 ---
 

@@ -1,6 +1,14 @@
 ---
 layout: page
 title: Arbeitnehmer-Entsendegesetz (Fleischwirtschaft)
+categories:
+ - Arbeitnehmer
+ - Recht
+ - Todo
+tags:
+ - Arbeitnehmer
+ - Recht
+ - Todo
 
 ---
 
