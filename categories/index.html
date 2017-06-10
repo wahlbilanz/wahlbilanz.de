@@ -4,10 +4,16 @@ title:  Kategorien
 permalink: /categories/
 sidebar: true
 ---
+
+
+
+{% assign donecats = "" %}
+
 <div class="tag-list">
 {% for cat in site.categories %}
   <div class="tag-group">
     {% capture cat_name %}{{ cat | first }}{% endcapture %}
+		{% assign donecats = donecats | append:cat_name %}
     <h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ cat_name }}</h5>
     {% for post in site.categories[cat_name] %}
     <article class="tag-item">
@@ -23,4 +29,25 @@ sidebar: true
     {% endfor %}
   </div>
 {% endfor %}
+
+
+{% for page in site.pages %}
+	{% for cat_name in page.categories %}
+		{% unless donecats contains cat_name %}
+		{% assign donecats = donecats | append:cat_name %}
+		<div class="tag-group">
+			<h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ cat_name }}</h5>
+			{% for p in site.pages %}
+				{% if p.categories contains cat_name %}
+				<article class="tag-item">
+					<a class="tag-item-title" href="{{ site.url }}{{ p.url }}">{{p.title}}</a>
+				</article>
+				{% endif %}
+			{% endfor %}
+		</div>
+		{% endunless %}
+	{% endfor %}
+{% endfor %}
+
+
 </div>
