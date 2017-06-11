@@ -2,9 +2,15 @@
 layout: page
 title: "Abstimmung: Pflegeversicherung, Entschließungsantrag Bündnis 90/Die Grünen"
 categories:
- - Todo
+ - Versicherung
+ - Gesundheit
+ - Soziales
 tags:
- - Todo
+ - Versicherung
+ - Gesundheit
+ - Soziales
+ - Pflege
+ - Demographie
 ---
 
 * Abstimmung: 018-061-04

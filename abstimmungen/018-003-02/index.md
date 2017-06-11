@@ -7,6 +7,8 @@ categories:
 tags:
  - Bundeswehr
  - Ausland
+ - Darfur
+ - UN
 
 ---
 

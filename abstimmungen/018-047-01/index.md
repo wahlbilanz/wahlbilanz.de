@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Lebensversicherungsreformgesetz"
 categories:
- - Todo
-tags:
- - Todo
+ - Finanzen
+ - Versicherung
+ tags:
+ - Finanzen
+ - Versicherung
 ---
 
 * Abstimmung: 018-047-01

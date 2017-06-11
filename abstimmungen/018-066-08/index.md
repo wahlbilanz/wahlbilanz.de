@@ -2,9 +2,20 @@
 layout: page
 title: "Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes"
 categories:
- - Todo
+ - Wissenschaft
+ - Bildung
+ - Forschung
+ - Technik
+ - Hochschulen
+ - Ausbildung
 tags:
- - Todo
+ - Wissenschaft
+ - Bildung
+ - Forschung
+ - Technik
+ - Hochschulen
+ - Ausbildung
+ - BAföG
 ---
 
 * Abstimmung: 018-066-08

@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz in Afghanistan"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - Bundeswehr
+ - Ausland
+ - Afghanistan
+ - ISAF
+ - NATO
 ---
 
 * Abstimmung: 018-076-01

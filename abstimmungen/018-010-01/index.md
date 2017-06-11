@@ -7,6 +7,9 @@ categories:
 tags:
  - Bundeswehr
  - Ausland
+ - OAF
+ - Türkei
+ - NATO
 
 ---
 

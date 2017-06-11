@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz in Südsudan (UNMISS)"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - Bundeswehr
+ - Ausland
+ - Südsudan
+ - UNMISS
+ - UN
 ---
 
 * Abstimmung: 018-066-09

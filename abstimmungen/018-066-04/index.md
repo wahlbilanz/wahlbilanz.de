@@ -2,9 +2,20 @@
 layout: page
 title: "Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes, 1. Änderungsantrag Die Linke"
 categories:
- - Todo
-tags:
- - Todo
+ - Wissenschaft
+ - Bildung
+ - Forschung
+ - Technik
+ - Hochschulen
+ - Ausbildung
+ tags:
+ - Wissenschaft
+ - Bildung
+ - Forschung
+ - Technik
+ - Hochschulen
+ - Ausbildung
+ - BAföG
 ---
 
 * Abstimmung: 018-066-04

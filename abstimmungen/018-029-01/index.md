@@ -4,11 +4,13 @@ title: "Abstimmung: Beteiligung bewaffneter deutscher Streitkräfte am maritimen
 categories:
  - Bundeswehr
  - Ausland
- - Chemiewaffen
 tags:
  - Bundeswehr
  - Ausland
  - Chemiewaffen
+ - Syrien
+ - CAPE RAY
+ - UN
 
 ---
 

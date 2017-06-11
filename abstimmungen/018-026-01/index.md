@@ -7,6 +7,11 @@ categories:
 tags:
  - Bundeswehr
  - Ausland
+ - EUTM
+ - Somalia
+ - EU
+ - Ausbildung
+ - UN
 
 ---
 

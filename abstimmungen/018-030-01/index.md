@@ -7,6 +7,10 @@ categories:
 tags:
  - Bundeswehr
  - Ausland
+ - Afrika
+ - EU
+ - UN
+ - EUFOR RCA
 
 ---
 

@@ -7,6 +7,10 @@ categories:
 tags:
  - Bundeswehr
  - Ausland
+ - Ausbildung
+ - Mali
+ - EU
+ - UN
 
 ---
 

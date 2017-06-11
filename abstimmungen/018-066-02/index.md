@@ -2,9 +2,20 @@
 layout: page
 title: "Abstimmung: Bund-Länder-Wissenschaftskooperation, Änderungsantrag Bündnis 90/Die Grünen"
 categories:
- - Todo
+ - Wissenschaft
+ - Bildung
+ - Forschung
+ - Technik
+ - Bund-Länder
+ - Hochschulen
 tags:
- - Todo
+ - Kooperation
+ - Wissenschaft
+ - Bildung
+ - Forschung
+ - Technik
+ - Bund-Länder
+ - Hochschulen
 ---
 
 * Abstimmung: 018-066-02

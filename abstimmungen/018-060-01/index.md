@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Entschließungsantrag zu der Regierungserklärung durch die Bundeskanzlerin"
 categories:
- - Todo
+ - Energie
+ - EU
 tags:
- - Todo
+ - Energie
+ - AKW
+ - EU
+ - Hinkley Point C
 ---
 
 * Abstimmung: 018-060-01

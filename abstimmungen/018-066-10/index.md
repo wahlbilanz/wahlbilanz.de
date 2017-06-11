@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz in Dafur (UNAMID)"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - Bundeswehr
+ - Ausland
+ - Dafur
+ - UNAMID
+ - UN
 ---
 
 * Abstimmung: 018-066-10

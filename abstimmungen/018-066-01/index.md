@@ -2,9 +2,20 @@
 layout: page
 title: "Abstimmung: Bund-Länder-Wissenschaftskooperation, Änderungsantrag Die Linke"
 categories:
- - Todo
+ - Wissenschaft
+ - Bildung
+ - Forschung
+ - Technik
+ - Bund-Länder
+ - Hochschulen
 tags:
- - Todo
+ - Kooperation
+ - Wissenschaft
+ - Bildung
+ - Forschung
+ - Technik
+ - Bund-Länder
+ - Hochschulen
 ---
 
 * Abstimmung: 018-066-01
