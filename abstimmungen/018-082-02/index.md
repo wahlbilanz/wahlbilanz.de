@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz Operation Active Fence (Türkei)"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - Bundeswehr
+ - Ausland
+ - OAF
+ - Türkei
+ - NATO
 ---
 
 * Abstimmung: 018-082-02

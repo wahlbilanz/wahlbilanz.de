@@ -2,9 +2,15 @@
 layout: page
 title: "Abstimmung: Ausbildungsunterstützungeinsatz Kurdistan-Irak"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
+ - Ausbildung
 tags:
- - Todo
+ - Bundeswehr
+ - Ausland
+ - Kurdistan
+ - Irak
+ - Ausbildung
 ---
 
 * Abstimmung: 018-082-01

@@ -7,6 +7,9 @@ categories:
 tags:
  - Bundeswehr
  - Ausland
+ - Südsudan
+ - UNMISS
+ - UN
 
 ---
 * Abstimmung: 018-003-01

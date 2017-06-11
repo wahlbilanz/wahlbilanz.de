@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Änderung des Bundesdatenschutzgesetzes"
 categories:
- - Todo
+ - Inneres
+ - Verbraucherschutz
 tags:
- - Todo
+ - Datenschutz
+ - Inneres
+ - Verbraucherschutz
 ---
 
 * Abstimmung: 018-076-04

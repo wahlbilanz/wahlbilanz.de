@@ -8,7 +8,7 @@ categories:
  - Technik
  - Hochschulen
  - Ausbildung
- tags:
+tags:
  - Wissenschaft
  - Bildung
  - Forschung

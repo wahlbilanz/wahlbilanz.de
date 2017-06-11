@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Finanzhilfen zugunsten Griechenlands"
 categories:
- - Todo
+ - Finanzen
+ - EU
 tags:
- - Todo
+ - Finanzen
+ - EU
+ - Griechenland
+ - Stabilisierung
 ---
 
 * Abstimmung: 018-089-01

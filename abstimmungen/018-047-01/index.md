@@ -4,7 +4,7 @@ title: "Abstimmung: Lebensversicherungsreformgesetz"
 categories:
  - Finanzen
  - Versicherung
- tags:
+tags:
  - Finanzen
  - Versicherung
 ---
