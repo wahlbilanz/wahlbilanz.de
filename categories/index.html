@@ -7,46 +7,44 @@ sidebar: true
 
 
 
-{% assign donecats = "" %}
+{% assign allcats = "" %}
 
 <div class="tag-list">
+
+
 {% for cat in site.categories %}
-  <div class="tag-group">
     {% capture cat_name %}{{ cat | first }}{% endcapture %}
-		{% assign donecats = donecats | append:cat_name %}
-    <h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ cat_name }}</h5>
-    {% for post in site.categories[cat_name] %}
-    <article class="tag-item">
-      <a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
-    </article>
-    {% endfor %}
-    {% for page in site.pages %}
+    {% assign allcats = allcats | append:'|' | append:cat_name %}
+{% endfor %}
+
+{% for page in site.pages %}
+	{% for cat_name in page.categories %}
+		{% unless allcats contains cat_name %}
+			{% assign allcats = allcats | append:'|' | append:cat_name %}
+		{% endunless %}
+	{% endfor %}
+{% endfor %}
+
+{% assign allcats = allcats | split:'|' | sort %}
+
+{% for cat_name in allcats %}
+	<div class="tag-group">
+		<h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ cat_name }}</h5>
+		{% for post in site.posts %}
+			{% if post.categories contains cat_name %}
+			<article class="tag-item">
+				<a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
+			</article>
+			{% endif %}
+		{% endfor %}
+		{% for page in site.pages %}
 			{% if page.categories contains cat_name %}
 			<article class="tag-item">
 				<a class="tag-item-title" href="{{ site.url }}{{ page.url }}">{{page.title}}</a>
 			</article>
 			{% endif %}
-    {% endfor %}
-  </div>
-{% endfor %}
-
-
-{% for page in site.pages %}
-	{% for cat_name in page.categories %}
-		{% unless donecats contains cat_name %}
-		{% assign donecats = donecats | append:cat_name %}
-		<div class="tag-group">
-			<h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ cat_name }}</h5>
-			{% for p in site.pages %}
-				{% if p.categories contains cat_name %}
-				<article class="tag-item">
-					<a class="tag-item-title" href="{{ site.url }}{{ p.url }}">{{p.title}}</a>
-				</article>
-				{% endif %}
-			{% endfor %}
-		</div>
-		{% endunless %}
-	{% endfor %}
+		{% endfor %}
+	</div>
 {% endfor %}
 
 
