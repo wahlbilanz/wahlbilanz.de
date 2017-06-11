@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz in Somalia (EUTM)"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - EUTM
+ - Somalia
+ - EU
+ - Ausbildung
+ - UN
 ---
 
 * Abstimmung: 018-097-01

@@ -2,9 +2,15 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz Operation Atalanta"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - EU
+ - Atalanta
+ - Piraterie
+ - Somalia
+ - UN
+ - EU
 ---
 
 * Abstimmung: 018-106-01

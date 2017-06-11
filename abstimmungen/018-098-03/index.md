@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Pkw-Maut"
 categories:
- - Todo
+ - Verkehr
+ - Infrastruktur
+ - Finanzen
 tags:
- - Todo
+ - PKW
+ - Maut
+ - Straßennetz
+ - Vignette
 ---
 
 * Abstimmung: 018-098-03

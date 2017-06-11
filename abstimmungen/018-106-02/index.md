@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz UNMIL in Liberia"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - UNMIL
+ - Liberia
+ - UN
 ---
 
 * Abstimmung: 018-106-02

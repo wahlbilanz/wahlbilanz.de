@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Gesetz zur Tarifeinheit"
 categories:
- - Todo
+ - Arbeit
+ - Soziales
 tags:
- - Todo
+ - Tarif
+ - Arbeitnehmer
+ - Arbeitgeber
+ - Gehalt
 ---
 
 * Abstimmung: 018-107-01

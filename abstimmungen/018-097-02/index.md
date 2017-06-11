@@ -2,9 +2,10 @@
 layout: page
 title: "Abstimmung: Nachhaltige Waldbewirtschaftung"
 categories:
- - Todo
+ - Landwirtschaft
 tags:
- - Todo
+ - Nachhaltigkeit
+ - Wald
 ---
 
 * Abstimmung: 018-097-02

@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Dämpfung des Mietanstiegs, 1. Änderungsantrag Bündnis 90/Die Grünen"
 categories:
- - Todo
+ - Recht
+ - Verbraucherschutz
 tags:
- - Todo
+ - Miete
+ - Wohnen
+ - Makler
 ---
 
 * Abstimmung: 018-091-01
