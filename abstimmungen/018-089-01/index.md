@@ -3,9 +3,7 @@ layout: page
 title: "Abstimmung: Finanzhilfen zugunsten Griechenlands"
 categories:
  - Finanzen
- - EU
 tags:
- - Finanzen
  - EU
  - Griechenland
  - Stabilisierung

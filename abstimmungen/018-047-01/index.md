@@ -5,8 +5,7 @@ categories:
  - Finanzen
  - Versicherung
 tags:
- - Finanzen
- - Versicherung
+ - Lebensversicherung
 ---
 
 * Abstimmung: 018-047-01

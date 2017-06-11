@@ -5,8 +5,9 @@ categories:
  - Bundeswehr
  - Ausland
 tags:
- - Bundeswehr
- - Ausland
+ - UNIFIL
+ - Libanon
+ - UN
 ---
 
 * Abstimmung: 018-042-03

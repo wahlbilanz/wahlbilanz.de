@@ -4,11 +4,10 @@ title: "Abstimmung: Reform des Erneuerbare-Energien-Gesetzes / Änderungsantrag 
 categories:
  - Energie
  - Wirtschaft
- - Nachhaltigkeit
 tags:
- - Energie
- - Wirtschaft
+ - Erneuerbare-Energien
  - Nachhaltigkeit
+ - Umwelt
 ---
 
 * Abstimmung: 018-044-02

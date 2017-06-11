@@ -3,9 +3,8 @@ layout: page
 title: "Abstimmung: Entschließungsantrag zu der Regierungserklärung durch die Bundeskanzlerin"
 categories:
  - Energie
- - EU
 tags:
- - Energie
+ - Atomenergie
  - AKW
  - EU
  - Hinkley Point C

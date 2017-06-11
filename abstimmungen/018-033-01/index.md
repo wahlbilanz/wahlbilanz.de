@@ -2,8 +2,7 @@
 layout: page
 title: "Abstimmung: Kooperationen bei Nutzung atomarer Technologien"
 categories:
- - Kernenergie
- - EU
+ - Energie
 tags:
  - Kernenergie
  - EU

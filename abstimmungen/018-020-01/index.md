@@ -4,15 +4,11 @@ title: "Abstimmung: EU-Honigrichtlinie (Kennzeichnung von Gen-Honig)"
 categories:
  - Ernährung
  - Landwirtschaft
- - Gentechnik
- - EU
  - Verbraucherschutz
 tags:
- - Ernährung
- - Landwirtschaft
  - Gentechnik
+ - Honig
  - EU
- - Verbraucherschutz
 ---
 
 * Abstimmung: 018-020-01

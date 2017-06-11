@@ -5,8 +5,6 @@ categories:
  - Bundeswehr
  - Ausland
 tags:
- - Bundeswehr
- - Ausland
  - Chemiewaffen
  - Syrien
  - CAPE RAY

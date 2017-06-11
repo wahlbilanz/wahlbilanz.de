@@ -5,8 +5,9 @@ categories:
  - Bundeswehr
  - Ausland
 tags:
- - Bundeswehr
- - Ausland
+ - Kosovo
+ - KFOR
+ - UN
 ---
 
 * Abstimmung: 018-039-01

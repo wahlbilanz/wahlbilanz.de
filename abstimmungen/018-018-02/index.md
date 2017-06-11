@@ -5,8 +5,8 @@ categories:
  - Politik
  - Strafrecht
 tags:
- - Politik
- - Strafrecht
+ - Abgeordnetenbestechung
+ - Bestechung
 
 ---
 

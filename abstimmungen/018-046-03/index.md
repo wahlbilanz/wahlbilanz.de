@@ -5,8 +5,10 @@ categories:
  - Arbeit
  - Soziales
 tags:
- - Arbeit
- - Soziales
+ - Befristung
+ - Arbeitsvertrag
+ - Arbeitnehmer
+ - Arbeitgeber
 ---
 
 * Abstimmung: 018-046-03

@@ -5,8 +5,9 @@ categories:
  - Bundeswehr
  - Ausland
 tags:
- - Bundeswehr
- - Ausland
+ - Mali
+ - MINUSMA
+ - UN
 ---
 
 * Abstimmung: 018-042-02

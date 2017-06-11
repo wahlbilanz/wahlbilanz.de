@@ -7,10 +7,9 @@ categories:
  - Naturschutz
  - Bau
 tags:
- - Energie
+ - Windenergie
+ - Erneuerbare-Energien
  - Umwelt
- - Naturschutz
- - Bau
 ---
 
 * Abstimmung: 018-044-05

@@ -2,13 +2,8 @@
 layout: page
 title: "Abstimmung: Feststellung des Bundeshaushaltsplans hier: Bundeskanzlerin und Bundeskanzleramt"
 categories:
- - Todo
  - Finanzen
- - Haushalt
- - Bundesregierung
 tags:
- - Finanzen
- - Todo
  - Haushalt
  - Bundesregierung
 ---

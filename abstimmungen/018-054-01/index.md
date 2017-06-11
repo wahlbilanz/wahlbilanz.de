@@ -2,15 +2,13 @@
 layout: page
 title: "Abstimmung: Freihandelsabkommen der EU mit USA und Kanada, 2. Entschließungsantrag"
 categories:
- - Freihandel
  - Handel
  - Wirtschaft
 tags:
  - Freihandel
- - Handel
- - Wirtschaft
  - TTIP
  - CETA
+ - EU
 ---
 
 * Abstimmung: 018-054-01

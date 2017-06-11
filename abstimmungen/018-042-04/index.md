@@ -2,15 +2,8 @@
 layout: page
 title: "Abstimmung: Feststellung des Bundeshaushaltsplans hier: Wirtschaftliche Zusammenarbeit und Entwicklung"
 categories:
- - Todo
  - Finanzen
- - Haushalt
- - Bundesregierung
- - Wirtschaft
- - Entwicklung
 tags:
- - Todo
- - Finanzen
  - Haushalt
  - Bundesregierung
  - Wirtschaft

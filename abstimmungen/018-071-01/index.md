@@ -2,18 +2,10 @@
 layout: page
 title: "Abstimmung: Haushaltsgesetz 2015"
 categories:
- - Todo
  - Finanzen
- - Haushalt
- - Bundesregierung
- - Wirtschaft
- - Entwicklung
 tags:
- - Todo
- - Finanzen
  - Haushalt
  - Bundesregierung
- - Wirtschaft
  - Entwicklung
 ---
 

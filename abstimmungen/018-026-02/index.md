@@ -4,7 +4,7 @@ title: "Abstimmung: Minderheitenrechte in der 18. Wahlperiode"
 categories:
  - Politik
 tags:
- - Politik
+ - Minderheiten
 
 ---
 

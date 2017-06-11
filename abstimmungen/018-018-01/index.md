@@ -3,14 +3,11 @@ layout: page
 title: "Abstimmung: Änderung des Abgeordnetengesetzes"
 categories:
  - Politik
- - EU
  - Recht
  - Rente
 tags:
- - Politik
- - EU
- - Recht
  - Rente
+ - EU
 
 ---
 

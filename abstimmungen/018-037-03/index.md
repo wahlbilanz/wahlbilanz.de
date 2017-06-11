@@ -2,17 +2,13 @@
 layout: page
 title: "Abstimmung: RV-Leistungsverbesserungsgesetz / 3. Änderungsantrag"
 categories:
- - Rentenversicherung
+ - Rente
  - Finanzen
  - Arbeit
- - Renten
  - Soziales
 tags:
  - Rentenversicherung
- - Finanzen
- - Arbeit
- - Soziales
- - Renten
+ - Rente
 ---
 
 * Abstimmung: 018-037-03

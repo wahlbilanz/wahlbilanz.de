@@ -4,15 +4,9 @@ title: "Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes, 2. Ände
 categories:
  - Wissenschaft
  - Bildung
- - Forschung
- - Technik
- - Hochschulen
  - Ausbildung
 tags:
- - Wissenschaft
- - Bildung
  - Forschung
- - Technik
  - Hochschulen
  - Ausbildung
  - BAföG

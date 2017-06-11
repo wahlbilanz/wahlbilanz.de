@@ -2,11 +2,11 @@
 layout: page
 title: "Abstimmung: Änderung des Staatsangehörigkeitsgesetzes"
 categories:
- - Todo
  - Inneres
+ - Recht
 tags:
- - Todo
- - Inneres
+ - Staatsangehörigkeit
+ - Pass
 ---
 
 * Abstimmung: 018-046-04

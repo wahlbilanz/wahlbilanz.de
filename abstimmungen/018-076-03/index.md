@@ -3,10 +3,8 @@ layout: page
 title: "Abstimmung: Änderung des Bundesdatenschutzgesetzes, Änderungsantrag"
 categories:
  - Inneres
- - Verbraucherschutz
 tags:
  - Datenschutz
- - Inneres
  - Verbraucherschutz
  
 ---

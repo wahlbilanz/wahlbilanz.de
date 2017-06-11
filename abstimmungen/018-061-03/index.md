@@ -5,11 +5,11 @@ categories:
  - Versicherung
  - Gesundheit
  - Soziales
-tags:
  - Versicherung
- - Gesundheit
- - Soziales
+tags:
+ - Pflegeversicherung
  - Pflege
+ - Gesundheit
  - Demographie
 ---
 

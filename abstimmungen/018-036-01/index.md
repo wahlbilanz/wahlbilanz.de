@@ -4,10 +4,12 @@ title: "Abstimmung: EU-Operation Atalanta"
 categories:
  - Bundeswehr
  - Ausland
- - EU
 tags:
- - Bundeswehr
- - Ausland
+ - EU
+ - Atalanta
+ - Piraterie
+ - Somalia
+ - UN
  - EU
 ---
 

@@ -2,12 +2,13 @@
 layout: page
 title: "Abstimmung: Arbeitnehmer-Entsendegesetz (Fleischwirtschaft)"
 categories:
- - Arbeitnehmer
+ - Arbeit
  - Recht
  - Todo
 tags:
  - Arbeitnehmer
  - Recht
+ - Fleischwirtschaft
  - Todo
 
 ---

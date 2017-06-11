@@ -4,13 +4,11 @@ title: "Abstimmung: Ausbildungsunterstützungeinsatz Kurdistan-Irak"
 categories:
  - Bundeswehr
  - Ausland
- - Ausbildung
 tags:
- - Bundeswehr
- - Ausland
  - Kurdistan
  - Irak
  - Ausbildung
+ - UN
 ---
 
 * Abstimmung: 018-082-01

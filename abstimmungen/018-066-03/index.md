@@ -4,18 +4,11 @@ title: "Abstimmung: Bund-Länder-Wissenschaftskooperation"
 categories:
  - Wissenschaft
  - Bildung
- - Forschung
- - Technik
- - Bund-Länder
- - Hochschulen
 tags:
- - Kooperation
- - Wissenschaft
- - Bildung
- - Forschung
- - Technik
  - Bund-Länder
  - Hochschulen
+ - Kooperation
+ - Forschung
 ---
 
 * Abstimmung: 018-066-03

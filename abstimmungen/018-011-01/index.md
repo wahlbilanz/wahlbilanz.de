@@ -4,15 +4,11 @@ title: "Abstimmung: Gentechnisch veränderte Maislinie 1507 für den Anbau in de
 categories:
  - Ernährung
  - Landwirtschaft
- - Gentechnik
- - EU
  - Verbraucherschutz
 tags:
- - Ernährung
- - Landwirtschaft
+ - Mais
  - Gentechnik
  - EU
- - Verbraucherschutz
 ---
 
 * Abstimmung: 018-011-01
