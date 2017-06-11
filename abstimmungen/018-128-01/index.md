@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Renten in Ostdeutschland"
 categories:
- - Todo
+ - Arbeit
+ - Soziales
+ - Rente
 tags:
- - Todo
+ - Rente
+ - Ost-West
 ---
 
 * Abstimmung: 018-128-01

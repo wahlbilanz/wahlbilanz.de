@@ -2,13 +2,15 @@
 layout: page
 title: "Abstimmung: Sukzessivadoption durch Lebenspartner"
 categories:
- - Todo
+ - Familie
  - Recht
  - Soziales
 tags:
  - Todo
  - Adoptionsrechts
  - Lebensgemeinschaft
+ - Kinder
+ - Familie
 ---
 
 * Abstimmung: 018-036-02

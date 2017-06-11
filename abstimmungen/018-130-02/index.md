@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Asylverfahrensbeschleunigungsgesetz, hier: Artikel 1 Nummer 35"
 categories:
- - Todo
+ - Inneres
 tags:
- - Todo
+ - Asyl
+ - Bleiberecht
+ - Integration
 ---
 
 * Abstimmung: 018-130-02

@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Stabilitätshilfe zugunsten Griechenlands"
 categories:
- - Todo
+ - Finanzen
 tags:
- - Todo
+ - EU
+ - Griechenland
+ - Stabilisierung
 ---
 
 * Abstimmung: 018-118-01

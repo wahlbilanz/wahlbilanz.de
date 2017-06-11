@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Die Linke"
 categories:
- - Todo
+ - Arbeit
+ - Soziales
 tags:
- - Todo
+ - Hartz IV
+ - Sozialhilfe
+ - Sanktionen
 ---
 
 * Abstimmung: 018-127-02

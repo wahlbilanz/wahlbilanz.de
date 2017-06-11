@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Subventionen für Atomkraftwerke in der EU, Beschlussempfehlung zum Antrag Die Linke"
 categories:
- - Todo
+ - Energie
+ - Wirtschaft
 tags:
- - Todo
+ - Kernenergie
+ - AKW
+ - EU
+ - Subventionen
+ - Hinkley Point C
 ---
 
 * Abstimmung: 018-115-05

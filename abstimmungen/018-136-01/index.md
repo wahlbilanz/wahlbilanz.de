@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz in Südsudan (UNMISS)"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - Südsudan
+ - UNMISS
+ - UN
 ---
 
 * Abstimmung: 018-136-01

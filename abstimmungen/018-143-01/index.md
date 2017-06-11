@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Umsetzung des Aktionsprogramms Klimaschutz 2020"
 categories:
+ - Umwelt
+ - Energie
  - Todo
 tags:
- - Todo
+ - Umwelt
+ - Klima
 ---
 
 * Abstimmung: 018-143-01

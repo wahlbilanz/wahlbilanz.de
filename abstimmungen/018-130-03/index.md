@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Asylverfahrensbeschleunigungsgesetz, hier: Artikel 8 und Artikel 12"
 categories:
- - Todo
+ - Inneres
 tags:
- - Todo
+ - Asyl
+ - Bleiberecht
+ - Integration
 ---
 
 * Abstimmung: 018-130-03

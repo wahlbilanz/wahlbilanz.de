@@ -2,6 +2,7 @@
 layout: page
 title: "Abstimmung: Verwendung der SMP-Mittel 2014 zur Absicherung einer Brückenfinanzierung, Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN"
 categories:
+ - Finanzen
  - Todo
 tags:
  - Todo

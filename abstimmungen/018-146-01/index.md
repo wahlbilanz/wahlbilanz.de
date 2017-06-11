@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz in Afghanistan (Resolute Support)"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - Ausbildung
+ - NATO
+ - Resolute Support
+ - Afghanistan
 ---
 
 * Abstimmung: 018-146-01

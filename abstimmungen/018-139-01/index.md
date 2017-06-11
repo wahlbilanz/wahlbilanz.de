@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Etat Bundeskanzlerin und Bundeskanzleramt"
 categories:
- - Todo
+ - Finanzen
 tags:
- - Todo
+ - Haushalt
+ - Bundesregierung
+ - Kanzleramt
 ---
 
 * Abstimmung: 018-139-01

@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Asylverfahrensbeschleunigungsgesetz"
 categories:
- - Todo
+ - Inneres
 tags:
- - Todo
+ - Asyl
+ - Bleiberecht
+ - Integration
 ---
 
 * Abstimmung: 018-130-04

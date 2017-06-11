@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz in Darfur (UNAMID)"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - Dafur
+ - UNAMID
+ - UN
 ---
 
 * Abstimmung: 018-136-02

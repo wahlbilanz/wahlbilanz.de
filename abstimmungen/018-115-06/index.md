@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Subventionen für britisches Atomwerk Hinkley Point C stoppen, Beschlussempfehlung zum Antrag Bündnis 90/Die Grünen"
 categories:
- - Todo
+ - Energie
+ - Wirtschaft
 tags:
- - Todo
+ - Kernenergie
+ - AKW
+ - EU
+ - Subventionen
+ - Hinkley Point C
 ---
 
 * Abstimmung: 018-115-06

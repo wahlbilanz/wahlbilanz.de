@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz in Mali (MINUSMA)"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - Mali
+ - MINUSMA
+ - UN
 ---
 
 * Abstimmung: 018-113-02

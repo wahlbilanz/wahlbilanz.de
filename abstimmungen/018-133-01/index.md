@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Betreuungsgeld für den Kitaausbau nutzen"
 categories:
- - Todo
+ - Finanzen
+ - Familie
 tags:
- - Todo
+ - Familie
+ - Kinder
+ - Betreuungsgeld
+ - Kita
 ---
 
 * Abstimmung: 018-133-01

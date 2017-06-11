@@ -4,7 +4,7 @@ title: "Abstimmung: Entschließungsantrag zu der Regierungserklärung durch die 
 categories:
  - Energie
 tags:
- - Atomenergie
+ - Kernenergie
  - AKW
  - EU
  - Hinkley Point C

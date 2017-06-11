@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz im Mittelmeer (Operation ACTIVE ENDEAVOUR)"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - Mittelmeer
+ - OAE
+ - NATO
 ---
 
 * Abstimmung: 018-146-02

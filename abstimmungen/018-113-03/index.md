@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz in Libanon (UNIFIL)"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - UNIFIL
+ - Libanon
+ - UN
 ---
 
 * Abstimmung: 018-113-03

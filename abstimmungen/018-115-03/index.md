@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Bleiberecht und Aufenthaltsbeendigung, 3. Änderungsantrag Bündnis 90/Die Grünen"
 categories:
- - Todo
+ - Inneres
 tags:
- - Todo
+ - Bleiberecht
+ - Integration
+ - Asyl
 ---
 
 * Abstimmung: 018-115-03

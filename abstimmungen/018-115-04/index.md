@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Bleiberecht und Aufenthaltsbeendigung, Entschließungsantrag Die Linke"
 categories:
- - Todo
+ - Inneres
 tags:
- - Todo
+ - Bleiberecht
+ - Integration
+ - Asyl
 ---
 
 * Abstimmung: 018-115-04

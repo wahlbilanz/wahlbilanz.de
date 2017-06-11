@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Bündnis 90/Die Grünen"
 categories:
- - Todo
+ - Arbeit
+ - Soziales
 tags:
- - Todo
+ - Hartz IV
+ - Sozialhilfe
+ - Sanktionen
 ---
 
 * Abstimmung: 018-127-03

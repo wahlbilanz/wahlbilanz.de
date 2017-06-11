@@ -2,9 +2,10 @@
 layout: page
 title: "Abstimmung: Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten"
 categories:
- - Todo
+ - Recht
+ - Verbraucherschutz
 tags:
- - Todo
+ - Vorratsdatenspeicherung
 ---
 
 * Abstimmung: 018-131-01

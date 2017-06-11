@@ -9,6 +9,7 @@ tags:
  - Mali
  - EU
  - UN
+ - EUTM
 
 ---
 

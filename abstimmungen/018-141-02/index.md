@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Haushaltsgesetz 2016"
 categories:
- - Todo
+ - Finanzen
 tags:
- - Todo
+ - Haushalt
+ - Bundesregierung
+ - Entwicklung
 ---
 
 * Abstimmung: 018-141-02

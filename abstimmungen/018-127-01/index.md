@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz EU-Operation EUNAVFORMED"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - EU
+ - Menschenhandel
+ - Mittelmeer
 ---
 
 * Abstimmung: 018-127-01
