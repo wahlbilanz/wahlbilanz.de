@@ -3,8 +3,13 @@ layout: page
 title: "Abstimmung: Entschließungsantrag zum Europäischen Rat"
 categories:
  - Todo
+ - Bundesregierung
+ - Ausland
+ - Haushalt
 tags:
- - Todo
+ - Verteidigung
+ - EU
+ - NATO
 ---
 
 * Abstimmung: 018-221-01

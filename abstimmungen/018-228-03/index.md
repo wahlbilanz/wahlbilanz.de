@@ -1,9 +1,15 @@
 ---
 layout: page
 title: "Abstimmung: Bundeswehreinsatz EUTM Somalia"
+categories:
+ - Bundeswehr
+ - Ausland
 tags:
-  - abc
-categories: [hello world, code, pagecat]
+ - EUTM
+ - Somalia
+ - EU
+ - Ausbildung
+ - UN
 
 ---
 

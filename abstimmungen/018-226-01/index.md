@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Erstes Gesetz zur Änderung des Infrastrukturabgabengesetzes"
 categories:
- - Todo
+ - Verkehr
+ - Infrastruktur
+ - Finanzen
+ - Steuer
 tags:
- - Todo
+ - PKW
+ - Maut
+ - Straßennetz
 ---
 
 * Abstimmung: 018-226-01

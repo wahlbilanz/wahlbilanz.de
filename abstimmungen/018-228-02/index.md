@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Transparenz von Entgeltstrukturen 2"
 categories:
- - Todo
+ - Familie
+ - Arbeit
+ - Soziales
 tags:
- - Todo
+ - Gehalt
+ - Entgelt
+ - Gleichstellung
+ - Transparenz
 ---
 
 * Abstimmung: 018-228-02

@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Ausbildungsunterstützung der Bundeswehr im Irak"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - Kurdistan
+ - Irak
+ - Ausbildung
+ - UN
 ---
 
 * Abstimmung: 018-215-02

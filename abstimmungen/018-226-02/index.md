@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Änderung des Zweiten Verkehrsteueränderungsgesetzes"
 categories:
- - Todo
+ - Verkehr
+ - Infrastruktur
+ - Finanzen
+ - Steuer
 tags:
- - Todo
+ - PKW
+ - Maut
+ - Straßennetz
 ---
 
 * Abstimmung: 018-226-02

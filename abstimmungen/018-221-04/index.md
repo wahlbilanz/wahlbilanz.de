@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Gesetzentwurf Dämpfung des Mietanstiegs (Streichung Rügepflicht / Schaffung Auskunftsrecht)"
 categories:
- - Todo
+ - Recht
+ - Verbraucherschutz
 tags:
- - Todo
+ - Miete
+ - Wohnen
+ - Mietpreisbremse
 ---
 
 * Abstimmung: 018-221-04
