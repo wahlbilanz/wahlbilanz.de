@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Änderungsantrag der Abgeordneten Uwe Schummer, Ulla Schmidt, Kathrin Vogler, Kordula Schulz-Asche, weiterer Abgeordneter aller Fraktionen zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften"
 categories:
- - Todo
+ - Gesundheit
 tags:
- - Todo
+ - Arzneimittel
+ - Good Clinical Practice
+ - Apotheken
 ---
 
 * Abstimmung: 018-198-01

@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Privatisierung von Bundesliegenschaften stoppen"
 categories:
- - Todo
+ - Haushalt
 tags:
- - Todo
+ - Liegenschaften
+ - Wohnen
+ - Immobilien
 ---
 
 * Abstimmung: 018-193-02

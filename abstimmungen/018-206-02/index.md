@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Seefischereigesetz"
 categories:
- - Todo
+ - Ernährung
+ - Landwirtschaft
 tags:
- - Todo
+ - Fischerei
+ - EU
 ---
 
 * Abstimmung: 018-206-02

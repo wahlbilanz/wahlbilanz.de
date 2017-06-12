@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz in Mali (EUTM Mali)"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - Ausbildung
+ - Mali
+ - EU
+ - UN
+ - EUTM
 ---
 
 * Abstimmung: 018-170-04

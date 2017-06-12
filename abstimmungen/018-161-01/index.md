@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Ausbildungs- und Beratungsmissionen EUTM Somalia"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - EUTM
+ - Somalia
+ - EU
+ - Ausbildung
+ - UN
 ---
 
 * Abstimmung: 018-161-01

@@ -3,6 +3,7 @@ layout: page
 title: "Abstimmung: Haushaltsgesetz 2014"
 categories:
  - Finanzen
+ - Haushalt
 tags:
  - Haushalt
  - Bundesregierung

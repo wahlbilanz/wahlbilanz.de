@@ -3,6 +3,7 @@ layout: page
 title: "Abstimmung: Haushaltsgesetz 2016"
 categories:
  - Finanzen
+ - Haushalt
 tags:
  - Haushalt
  - Bundesregierung

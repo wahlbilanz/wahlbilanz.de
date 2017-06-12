@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Gesetzentwurf zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften"
 categories:
- - Todo
+ - Gesundheit
 tags:
- - Todo
+ - Arzneimittel
+ - Good Clinical Practice
+ - Apotheken
 ---
 
 * Abstimmung: 018-200-01

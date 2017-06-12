@@ -2,9 +2,16 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz vor Somalia (EU NAVFOR Atalanta)"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - EU
+ - Atalanta
+ - Piraterie
+ - Somalia
+ - UN
+ - EU
+ - NAVFOR
 ---
 
 * Abstimmung: 018-170-05

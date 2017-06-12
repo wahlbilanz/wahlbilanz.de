@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: CETA, Antrag Die Linke 18/9665"
 categories:
- - Todo
+ - Handel
+ - Wirtschaft
 tags:
- - Todo
+ - Freihandel
+ - CETA
+ - EU
+ - Kanada
 ---
 
 * Abstimmung: 018-190-01

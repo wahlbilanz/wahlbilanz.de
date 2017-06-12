@@ -3,6 +3,7 @@ layout: page
 title: "Abstimmung: Feststellung des Bundeshaushaltsplans hier: Bundeskanzlerin und Bundeskanzleramt"
 categories:
  - Finanzen
+ - Haushalt
 tags:
  - Haushalt
  - Bundesregierung

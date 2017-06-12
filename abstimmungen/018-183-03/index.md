@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Schutz der sexuellen Selbstbestimmung: Artikel 1 Nummern 6 bis 8, 10 und 11"
 categories:
+ - Recht
  - Todo
 tags:
- - Todo
+ - Misshandlung
+ - Vergewaltigung
+ - Nötigung
 ---
 
 * Abstimmung: 018-183-03

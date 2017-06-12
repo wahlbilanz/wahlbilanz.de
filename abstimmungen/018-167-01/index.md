@@ -2,9 +2,16 @@
 layout: page
 title: "Abstimmung: Änderung des Bundesberggesetzes zur Untersagung der Fracking-Technik"
 categories:
- - Todo
+ - Wirtschaft
+ - Energie
+ - Umwelt
+ - Naturschutz 
+ - Technik
 tags:
- - Todo
+ - Fossile Energie
+ - Fracking
+ - Gesundheit
+ - Umwelt
 ---
 
 * Abstimmung: 018-167-01

@@ -2,9 +2,16 @@
 layout: page
 title: "Abstimmung: Fracking"
 categories:
- - Todo
+ - Wirtschaft
+ - Energie
+ - Umwelt
+ - Naturschutz
+ - Technik
 tags:
- - Todo
+ - Fossile Energie
+ - Fracking
+ - Gesundheit
+ - Umwelt
 ---
 
 * Abstimmung: 018-180-02

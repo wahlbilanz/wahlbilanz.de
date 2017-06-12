@@ -3,6 +3,7 @@ layout: page
 title: "Abstimmung: Haushaltsgesetz 2015"
 categories:
  - Finanzen
+ - Haushalt
 tags:
  - Haushalt
  - Bundesregierung

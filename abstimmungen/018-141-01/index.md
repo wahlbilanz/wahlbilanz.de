@@ -5,6 +5,7 @@ categories:
  - Finanzen
  - Verkehr
  - Infrastruktur
+ - Haushalt
 tags:
  - Straßennetz
  - PKW

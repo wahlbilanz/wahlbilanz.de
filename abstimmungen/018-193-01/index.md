@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Mieterinnen und Mieter besser schützen"
 categories:
- - Todo
+ - Recht
+ - Verbraucherschutz
 tags:
- - Todo
+ - Miete
+ - Wohnen
+ - Makler
+ - Mietpreisbremse
 ---
 
 * Abstimmung: 018-193-01

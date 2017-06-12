@@ -2,9 +2,15 @@
 layout: page
 title: "Abstimmung: Einstufung von Algerien, Marokko und Tunesien"
 categories:
- - Todo
+ - Inneres
+ - Ausland
 tags:
- - Todo
+ - Algerien
+ - Marokko
+ - Tunesien
+ - Herkunft
+ - Asyl
+ - Bleiberecht
 ---
 
 * Abstimmung: 018-171-01

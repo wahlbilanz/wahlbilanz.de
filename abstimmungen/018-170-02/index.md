@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Behindertengleichstellungsrecht - Entschließungsantrag"
 categories:
- - Todo
+ - Arbeit
+ - Soziales
+ - Minderheiten
 tags:
- - Todo
+ - Gleichstellung
+ - Barrierefreiheit
+ - Minderheiten
 ---
 
 * Abstimmung: 018-170-02

@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: CETA, Antrag CDU/CSU, SPD 18/9663"
 categories:
- - Todo
+ - Handel
+ - Wirtschaft
 tags:
- - Todo
+ - Freihandel
+ - CETA
+ - EU
+ - Kanada
 ---
 
 * Abstimmung: 018-190-04

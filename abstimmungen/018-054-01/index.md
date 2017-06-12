@@ -9,6 +9,8 @@ tags:
  - TTIP
  - CETA
  - EU
+ - Kanada
+ - USA
 ---
 
 * Abstimmung: 018-054-01

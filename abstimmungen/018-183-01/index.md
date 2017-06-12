@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Schutz der sexuellen Selbstbestimmung: Artikel 2 Absatz 3"
 categories:
+ - Recht
  - Todo
 tags:
- - Todo
+ - Misshandlung
+ - Vergewaltigung
+ - Nötigung
 ---
 
 * Abstimmung: 018-183-01

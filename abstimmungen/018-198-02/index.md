@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Änderungsantrag der Abgeordneten Hilde Mattheis und Sabine Dittmar zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften"
 categories:
- - Todo
+ - Gesundheit
 tags:
- - Todo
+ - Arzneimittel
+ - Good Clinical Practice
+ - Apotheken
 ---
 
 * Abstimmung: 018-198-02

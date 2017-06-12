@@ -3,8 +3,13 @@ layout: page
 title: "Abstimmung: Regierungserklärung zum Europäischen Rat - Entschließungsantrag"
 categories:
  - Todo
+ - Bundesregierung
+ - Ausland
 tags:
- - Todo
+ - Kriegswaffen
+ - Rüstungsexport
+ - EU
+ - Saudi-Arabien
 ---
 
 * Abstimmung: 018-154-01

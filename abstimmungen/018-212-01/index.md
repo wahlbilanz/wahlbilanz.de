@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Rentenansprüche aus DDR-Beschäftigungszeiten (Bergleute)"
 categories:
- - Todo
+ - Arbeit
+ - Soziales
+ - Rente
 tags:
- - Todo
+ - Bergbau
+ - Ost-West
+ - Rente
 ---
 
 * Abstimmung: 018-212-01

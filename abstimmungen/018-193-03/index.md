@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz SEA GUARDIAN im Mittelmeer"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - Mittelmeer
+ - SEA GUARDIAN
+ - NATO
+ - OAE
 ---
 
 * Abstimmung: 018-193-03

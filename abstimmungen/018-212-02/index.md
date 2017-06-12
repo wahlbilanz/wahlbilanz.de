@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Rentenansprüche aus DDR-Beschäftigungszeiten (Krankenschwestern)"
 categories:
- - Todo
+ - Arbeit
+ - Soziales
+ - Rente
 tags:
- - Todo
+ - Krankenschwester
+ - Krankenhaus
+ - Ost-West
+ - Rente
 ---
 
 * Abstimmung: 018-212-02

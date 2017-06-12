@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Haushaltsgesetz 2017"
 categories:
- - Todo
+ - Finanzen
 tags:
- - Todo
+ - Haushalt
+ - Bundesregierung
+ - Entwicklung
 ---
 
 * Abstimmung: 018-204-01

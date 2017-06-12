@@ -5,6 +5,7 @@ categories:
  - Verkehr
  - Infrastruktur
  - Finanzen
+ - Steuer
 tags:
  - PKW
  - Maut

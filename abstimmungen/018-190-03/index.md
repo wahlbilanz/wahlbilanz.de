@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: CETA, Antrag Bündnis 90/Die Grünen 18/9621"
 categories:
- - Todo
+ - Handel
+ - Wirtschaft
 tags:
- - Todo
+ - Freihandel
+ - CETA
+ - EU
+ - Kanada
 ---
 
 * Abstimmung: 018-190-03

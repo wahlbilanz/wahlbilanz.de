@@ -2,9 +2,15 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz EUNAVFOR MED Operation SOPHIA"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - EU
+ - Menschenhandel
+ - Menschenschmuggel
+ - SOPHIA
+ - EUNAVFOR MED
+ - Mittelmeer
 ---
 
 * Abstimmung: 018-183-04

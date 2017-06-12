@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Voreilige Neuzulassung von Glyphosat stoppen"
 categories:
- - Todo
+ - Ernährung
+ - Landwirtschaft
+ - Verbraucherschutz
+ - Gesundheit
 tags:
- - Todo
+ - IARC
+ - Glyphosat
+ - EU
 ---
 
 * Abstimmung: 018-158-03

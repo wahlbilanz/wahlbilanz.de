@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Bekämpfung von Korruption im Gesundheitswesen"
 categories:
- - Todo
+ - Recht
+ - Verbraucherschutz
+ - Gesundheit
 tags:
- - Todo
+ - Korruption
+ - Bestechung
 ---
 
 * Abstimmung: 018-164-01

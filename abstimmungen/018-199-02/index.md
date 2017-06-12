@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Bundeswehreinsatz gegen die Terrororganisation IS"
 categories:
- - Todo
+ - Bundeswehr
+ - Ausland
 tags:
- - Todo
+ - IS
+ - UN
+ - Syrien
+ - NATO
 ---
 
 * Abstimmung: 018-199-02

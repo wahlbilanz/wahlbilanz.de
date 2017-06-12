@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Bekämpfung der Schwarzarbeit"
 categories:
- - Todo
+ - Finanzen
+ - Arbeit
+ - Soziales
 tags:
- - Todo
+ - Schwarzarbeit
 ---
 
 * Abstimmung: 018-209-05

@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Dragoner-Areal dem Land Berlin zum Kauf anbieten"
 categories:
- - Todo
+ - Haushalt
+ - Finanzen
 tags:
- - Todo
+ - Dragoner-Areal
+ - Liegenschaften
+ - Immobilien
+ - Berlin
 ---
 
 * Abstimmung: 018-212-03

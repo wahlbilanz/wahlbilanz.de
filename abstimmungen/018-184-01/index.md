@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Erneuerbare-Energie-Gesetz"
 categories:
- - Todo
+ - Energie
+ - Wirtschaft
 tags:
- - Todo
+ - Erneuerbare-Energien
+ - Nachhaltigkeit
+ - Umwelt
 ---
 
 * Abstimmung: 018-184-01

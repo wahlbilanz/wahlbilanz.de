@@ -3,6 +3,7 @@ layout: page
 title: "Abstimmung: Haushaltsgesetz 2015, Entschließungsantrag Bündnis 90/Die Grünen"
 categories:
  - Finanzen
+ - Haushalt
 tags:
  - Haushalt
  - Bundesregierung

@@ -3,6 +3,7 @@ layout: page
 title: "Abstimmung: Feststellung des Bundeshaushaltsplans hier: Wirtschaftliche Zusammenarbeit und Entwicklung"
 categories:
  - Finanzen
+ - Haushalt
 tags:
  - Haushalt
  - Bundesregierung

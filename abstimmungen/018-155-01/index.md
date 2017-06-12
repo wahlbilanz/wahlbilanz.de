@@ -3,8 +3,10 @@ layout: page
 title: "Abstimmung: Rüstungsexportkontrollgesetz"
 categories:
  - Todo
+ - Ausland
 tags:
- - Todo
+ - Kriegswaffen
+ - Rüstungsexport
 ---
 
 * Abstimmung: 018-155-01

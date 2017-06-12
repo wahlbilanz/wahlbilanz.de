@@ -8,6 +8,7 @@ tags:
  - Miete
  - Wohnen
  - Makler
+ - Mietpreisbremse
 ---
 
 * Abstimmung: 018-091-01

@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Ermittlung von Regelbedarfen"
 categories:
+ - Soziales
  - Todo
 tags:
- - Todo
+ - Grundgesetze
+ - Sozialhilfe
 ---
 
 * Abstimmung: 018-206-01

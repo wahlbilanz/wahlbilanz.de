@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Einführung beschleunigter Asylverfahren - Gesetzentwurf"
 categories:
- - Todo
+ - Inneres
 tags:
- - Todo
+ - Bleiberecht
+ - Integration
+ - Asyl
 ---
 
 * Abstimmung: 018-158-02

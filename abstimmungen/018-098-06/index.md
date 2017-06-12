@@ -6,6 +6,7 @@ categories:
 tags:
  - Liegenschaften
  - Wohnen
+ - Immobilien
 ---
 
 * Abstimmung: 018-098-06

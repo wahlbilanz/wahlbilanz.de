@@ -11,6 +11,7 @@ tags:
  - Somalia
  - UN
  - EU
+ - NAVFOR
 ---
 
 * Abstimmung: 018-036-01

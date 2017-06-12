@@ -3,6 +3,7 @@ layout: page
 title: "Abstimmung: Etat Bundeskanzlerin und Bundeskanzleramt"
 categories:
  - Finanzen
+ - Haushalt
 tags:
  - Haushalt
  - Bundesregierung

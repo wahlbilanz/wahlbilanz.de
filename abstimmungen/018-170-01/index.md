@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Behindertengleichstellungsrecht - Änderungsantrag"
 categories:
- - Todo
+ - Arbeit
+ - Soziales
 tags:
- - Todo
+ - Gleichstellung
+ - Barrierefreiheit
 ---
 
 * Abstimmung: 018-170-01

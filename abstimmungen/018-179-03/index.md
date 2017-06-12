@@ -2,9 +2,13 @@
 layout: page
 title: "Abstimmung: Änderung des SGB II - Rechtsvereinfachung"
 categories:
- - Todo
+ - Arbeit
+ - Soziales
+ - Recht
 tags:
- - Todo
+ - Sozialgesetzbuch
+ - Grundsicherung
+ - Existenzminimum
 ---
 
 * Abstimmung: 018-179-03

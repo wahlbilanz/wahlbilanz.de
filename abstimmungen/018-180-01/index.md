@@ -2,9 +2,11 @@
 layout: page
 title: "Abstimmung: Anpassung des Erbschaftssteuer- und Schenkungssteuergesetzes"
 categories:
- - Todo
+ - Steuer
+ - Finanzen
 tags:
- - Todo
+ - Erbschaft
+ - Schenkung
 ---
 
 * Abstimmung: 018-180-01

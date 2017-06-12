@@ -2,9 +2,12 @@
 layout: page
 title: "Abstimmung: Schutz der sexuellen Selbstbestimmung: Artikel 1 Nummer 9 - Einfügung von § 184j Strafgesetzbuch"
 categories:
+ - Recht
  - Todo
 tags:
- - Todo
+ - Misshandlung
+ - Vergewaltigung
+ - Nötigung
 ---
 
 * Abstimmung: 018-183-02

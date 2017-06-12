@@ -2,9 +2,14 @@
 layout: page
 title: "Abstimmung: Verantwortung in der kerntechnischen Entsorgung"
 categories:
- - Todo
+ - Wirtschaft
+ - Energie
+ - Finanzen
 tags:
- - Todo
+ - Abfall
+ - Kernenergie
+ - AKW
+ - EU
 ---
 
 * Abstimmung: 018-209-01
