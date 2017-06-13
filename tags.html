@@ -25,8 +25,8 @@ sidebar: true
 	{% capture tag_name %}{{ tag | first }}{% endcapture %}
 	<div class="tag-group">
 		<h5 class="tag-group-title" id="{{ tag_name | slugize }}">{{ tag_name }}</h5>
-		{% assign sortedPosts = tag[1] | sort: 'title' %}
-		{% for p in sortedPosts %}
+		{% assign sortedP = tag[1] | sort: 'title' %}
+		{% for p in sortedP %}
 			<article class="tag-item">
 				<a class="tag-item-title" href="{{ site.url }}{{ p.url }}">{{p.title}}</a>
 			</article>
