@@ -20,46 +20,17 @@ sidebar: true
 {% endif %}
 
 
-
-
-
-
-
-{% assign alltags = "" %}
-
 <div class="tag-list">
-
-
-{% for cat in site.tags %}
-    {% capture tag_name %}{{ cat | first }}{% endcapture %}
-    {% assign alltags = alltags | append:'|' | append:tag_name %}
-{% endfor %}
-
-{% for page in site.pages %}
-	{% for tag_name in page.tags %}
-		{% unless alltags contains tag_name %}
-			{% assign alltags = alltags | append:'|' | append:tag_name %}
-		{% endunless %}
-	{% endfor %}
-{% endfor %}
-
-{% assign alltags = alltags | split:'|' | sort %}
-
 {% for tag in page.alltags %}
 	{% capture tag_name %}{{ tag | first }}{% endcapture %}
 	<div class="tag-group">
 		<h5 class="tag-group-title" id="{{ tag_name | slugize }}">{{ tag_name }}</h5>
-		
-			{% for p in tag[1] %}
-				<article class="tag-item">
-					<a class="tag-item-title" href="{{ site.url }}{{ p.url }}">{{p.title}}</a>
-				</article>
-			{% endfor %}
-		
-		
-		
+		{% assign sortedPosts = tag[1] | sort: 'title' %}
+		{% for p in sortedPosts %}
+			<article class="tag-item">
+				<a class="tag-item-title" href="{{ site.url }}{{ p.url }}">{{p.title}}</a>
+			</article>
+		{% endfor %}
 	</div>
 {% endfor %}
-
-
 </div>
