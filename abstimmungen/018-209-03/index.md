@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-209-03
-* Title: Beschlussempfehlung Bundeswehreinsatz in Darfur (UNAMID)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=445](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=445)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_darfur-1105-831.html](http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_darfur-1105-831.html)

@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-115-05
-* Title: Subventionen für Atomkraftwerke in der EU, Beschlussempfehlung zum Antrag Die Linke
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=350](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=350)
     * [http://www.abgeordnetenwatch.de/neubausubventionen_fuer_atomkraftwerke_in_der_eu_verhindern-1105-756.html](http://www.abgeordnetenwatch.de/neubausubventionen_fuer_atomkraftwerke_in_der_eu_verhindern-1105-756.html)

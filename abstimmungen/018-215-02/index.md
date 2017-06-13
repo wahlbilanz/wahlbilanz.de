@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-215-02
-* Title: Ausbildungsunterstützung der Bundeswehr im Irak
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=453](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=453)
     * [http://www.abgeordnetenwatch.de/fortsetzung_der_ausbildungsunterstuetzung_im_irak-1105-848.html](http://www.abgeordnetenwatch.de/fortsetzung_der_ausbildungsunterstuetzung_im_irak-1105-848.html)

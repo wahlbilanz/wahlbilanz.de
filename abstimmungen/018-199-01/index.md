@@ -9,7 +9,6 @@ tags:
 ---
 
 * Abstimmung: 018-199-01
-* Title: Beschlussempfehlung zu Brennelementesteuer
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=438](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=438)
     * 

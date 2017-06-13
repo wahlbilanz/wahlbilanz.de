@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-130-05
-* Title: Asylverfahrensbeschleunigungsgesetz, hier: Artikel 1 Nummer 15, 16 und 19
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=360](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=360)
     * [http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html](http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html)

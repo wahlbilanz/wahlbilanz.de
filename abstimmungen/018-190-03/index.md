@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-190-03
-* Title: CETA, Antrag Bündnis 90/Die Grünen 18/9621
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=417](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=417)
     * 

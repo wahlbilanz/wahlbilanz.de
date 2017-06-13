@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-018-01
-* Title: Änderung des Abgeordnetengesetzes
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=254](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=254)
     * [http://www.abgeordnetenwatch.de/diaetenerhoehung-1105-557.html](http://www.abgeordnetenwatch.de/diaetenerhoehung-1105-557.html)

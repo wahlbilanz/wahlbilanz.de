@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-158-03
-* Title: Voreilige Neuzulassung von Glyphosat stoppen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=388](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=388)
     * [http://www.abgeordnetenwatch.de/neuzulassung_von_glyphosat_verhindern-1105-787.html](http://www.abgeordnetenwatch.de/neuzulassung_von_glyphosat_verhindern-1105-787.html)

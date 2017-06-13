@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-089-01
-* Title: Finanzhilfen zugunsten Griechenlands
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=327](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=327)
     * [http://www.abgeordnetenwatch.de/finanzhilfen_fuer_griechenland-1105-712.html](http://www.abgeordnetenwatch.de/finanzhilfen_fuer_griechenland-1105-712.html)

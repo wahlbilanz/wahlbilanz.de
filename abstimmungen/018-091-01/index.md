@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-091-01
-* Title: Dämpfung des Mietanstiegs, 1. Änderungsantrag Bündnis 90/Die Grünen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=329](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=329)
     * 

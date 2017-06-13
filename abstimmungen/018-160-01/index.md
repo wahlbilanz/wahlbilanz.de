@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-160-01
-* Title: Regierungserklärung zum Europäischen Rat am 17./18. März 2016 - Entschließungsantrag
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=389](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=389)
     * 

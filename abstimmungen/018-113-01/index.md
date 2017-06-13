@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-113-01
-* Title: Bundeswehreinsatz in Kosovo (KFOR)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=343](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=343)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_kosovo_kfor-1105-739.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_kosovo_kfor-1105-739.html)

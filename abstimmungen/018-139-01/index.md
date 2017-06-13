@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-139-01
-* Title: Etat Bundeskanzlerin und Bundeskanzleramt
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=374](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=374)
     * 

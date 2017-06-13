@@ -14,7 +14,6 @@ tags:
 ---
 
 * Abstimmung: 018-098-04
-* Title: Pkw-Maut, Änderungsantrag Bündnis 90/Die Grünen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=335](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=335)
     * [http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html](http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html)

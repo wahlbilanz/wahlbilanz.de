@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-209-02
-* Title: Beschlussempfehlung zu Bundeswehreinsatz in Südsudan (UNMISS)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=443](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=443)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan-1105-830.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan-1105-830.html)

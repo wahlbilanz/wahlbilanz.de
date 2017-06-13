@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-127-03
-* Title: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Bündnis 90/Die Grünen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=358](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=358)
     * 

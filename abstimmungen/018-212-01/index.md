@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-212-01
-* Title: Rentenansprüche aus DDR-Beschäftigungszeiten (Bergleute)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=448](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=448)
     * [http://www.abgeordnetenwatch.de/rentenansprueche_fuer_ddr_bergleute-1105-845.html](http://www.abgeordnetenwatch.de/rentenansprueche_fuer_ddr_bergleute-1105-845.html)

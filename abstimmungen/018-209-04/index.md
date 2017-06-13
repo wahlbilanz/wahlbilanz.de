@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-209-04
-* Title: Beschlussempfehlung Bundeswehreinsatz in Afghanistan
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=446](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=446)
     * [http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_afghanistan-1105-833.html](http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_afghanistan-1105-833.html)

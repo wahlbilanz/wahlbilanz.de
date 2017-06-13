@@ -14,7 +14,6 @@ tags:
 ---
 
 * Abstimmung: 018-061-04
-* Title: Pflegeversicherung, Entschließungsantrag Bündnis 90/Die Grünen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=306](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=306)
     * 

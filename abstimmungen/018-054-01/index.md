@@ -14,7 +14,6 @@ tags:
 ---
 
 * Abstimmung: 018-054-01
-* Title: Freihandelsabkommen der EU mit USA und Kanada, 2. Entschließungsantrag
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=300](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=300)
     * [http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html](http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html)

@@ -15,7 +15,6 @@ tags:
 ---
 
 * Abstimmung: 018-036-01
-* Title: EU-Operation Atalanta
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=266](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=266)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_gegen_piraterie_operation_atalanta-1105-616.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_gegen_piraterie_operation_atalanta-1105-616.html)

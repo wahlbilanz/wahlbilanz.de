@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-106-02
-* Title: Bundeswehreinsatz UNMIL in Liberia
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=339](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=339)
     * [http://www.abgeordnetenwatch.de/verlaengerung_bundeswehreinsatz_liberia-1105-728.html](http://www.abgeordnetenwatch.de/verlaengerung_bundeswehreinsatz_liberia-1105-728.html)

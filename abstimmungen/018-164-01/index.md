@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-164-01
-* Title: Bekämpfung von Korruption im Gesundheitswesen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=391](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=391)
     * [http://www.abgeordnetenwatch.de/bekaempfung_von_korruption_im_gesundheitswesen-1105-789.html](http://www.abgeordnetenwatch.de/bekaempfung_von_korruption_im_gesundheitswesen-1105-789.html)

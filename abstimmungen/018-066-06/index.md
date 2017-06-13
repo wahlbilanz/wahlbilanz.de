@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-066-06
-* Title: Änderung des Bundesausbildungsförderungsgesetzes, 1. Änderungsantrag Bündnis 90/Die Grünen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=312](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=312)
     * 

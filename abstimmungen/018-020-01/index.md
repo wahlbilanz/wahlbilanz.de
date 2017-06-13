@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-020-01
-* Title: EU-Honigrichtlinie (Kennzeichnung von Gen-Honig)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=256](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=256)
     * [http://www.abgeordnetenwatch.de/kennzeichnungspflicht_von_gen_honig-1105-587.html](http://www.abgeordnetenwatch.de/kennzeichnungspflicht_von_gen_honig-1105-587.html)

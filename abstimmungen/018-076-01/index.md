@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-076-01
-* Title: Bundeswehreinsatz in Afghanistan
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=320](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=320)
     * [http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_afghanistan-1105-704.html](http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_afghanistan-1105-704.html)

@@ -14,7 +14,6 @@ tags:
 ---
 
 * Abstimmung: 018-228-03
-* Title: Bundeswehreinsatz EUTM Somalia
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=462](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=462)
     * [http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_somalia_eutm-1105-862.html](http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_somalia_eutm-1105-862.html)

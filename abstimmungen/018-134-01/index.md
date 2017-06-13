@@ -8,7 +8,6 @@ tags:
 ---
 
 * Abstimmung: 018-134-01
-* Title: Anwendung des Stimmzettelverfahrens
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=370](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=370)
     * 

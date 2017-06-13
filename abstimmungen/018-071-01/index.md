@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-071-01
-* Title: Haushaltsgesetz 2015
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=319](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=319)
     * [http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html](http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html)

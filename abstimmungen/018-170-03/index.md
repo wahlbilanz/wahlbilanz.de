@@ -9,7 +9,6 @@ tags:
 ---
 
 * Abstimmung: 018-170-03
-* Title: Bahnstreckenstilllegungen - Beschlussempfehlung
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=396](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=396)
     * [http://www.abgeordnetenwatch.de/hoehere_regionalisierungsmittel_fuer_den_bahnverkehr-1105-800.html](http://www.abgeordnetenwatch.de/hoehere_regionalisierungsmittel_fuer_den_bahnverkehr-1105-800.html)

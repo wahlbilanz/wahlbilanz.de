@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-018-02
-* Title: Erweiterung des Straftatbestandes der Abgeordnetenbestechung
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=255](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=255)
     * [http://www.abgeordnetenwatch.de/gesetz_zur_strafbarkeit_von_abgeordnetenbestechung-1105-556.html](http://www.abgeordnetenwatch.de/gesetz_zur_strafbarkeit_von_abgeordnetenbestechung-1105-556.html)

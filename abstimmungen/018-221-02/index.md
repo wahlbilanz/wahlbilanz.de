@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-221-02
-* Title: Beschlussempfehlung zu "Mietpreisbremse wirkungsvoll ausgestalten"
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=455](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=455)
     * [http://www.abgeordnetenwatch.de/verbesserung_der_mietpreisbremse-1105-859.html](http://www.abgeordnetenwatch.de/verbesserung_der_mietpreisbremse-1105-859.html)

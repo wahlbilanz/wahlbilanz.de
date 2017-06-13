@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-076-02
-* Title: Bundeswehreinsatz ACTIVE ENDEAVOUR (OAE)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=321](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=321)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_mittelmeer_active_endeavour-1105-708.html](http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_mittelmeer_active_endeavour-1105-708.html)

@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-033-01
-* Title: Kooperationen bei Nutzung atomarer Technologien
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=262](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=262)
     * [http://www.abgeordnetenwatch.de/kuendigung_der_bilateralen_kooperationen_im_bereich_der_nutzung_atomarer_technologien-1105-601.html](http://www.abgeordnetenwatch.de/kuendigung_der_bilateralen_kooperationen_im_bereich_der_nutzung_atomarer_technologien-1105-601.html)

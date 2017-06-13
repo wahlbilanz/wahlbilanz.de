@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-141-01
-* Title: Etat Verkehr und digitale Infrastruktur
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=375](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=375)
     * 

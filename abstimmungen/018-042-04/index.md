@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-042-04
-* Title: Feststellung des Bundeshaushaltsplans hier: Wirtschaftliche Zusammenarbeit und Entwicklung
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=282](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=282)
     * 

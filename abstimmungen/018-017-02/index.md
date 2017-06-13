@@ -14,7 +14,6 @@ tags:
 ---
 
 * Abstimmung: 018-017-02
-* Title: Militärische Ausbildungsmission in Mali
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=253](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=253)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali-1105-553.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali-1105-553.html)

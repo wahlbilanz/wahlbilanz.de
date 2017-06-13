@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-046-01
-* Title: Einführung eines Mindestlohnes - Änderungsantrag
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=292](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=292)
     * [http://www.abgeordnetenwatch.de/flaechendeckender_mindestlohn_von_8_50_euro-1105-627.html](http://www.abgeordnetenwatch.de/flaechendeckender_mindestlohn_von_8_50_euro-1105-627.html)

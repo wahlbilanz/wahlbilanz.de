@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-011-01
-* Title: Gentechnisch veränderte Maislinie 1507 für den Anbau in der EU
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=251](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=251)
     * [http://www.abgeordnetenwatch.de/anbau_von_genmais_in_der_eu_verhindern-1105-548.html](http://www.abgeordnetenwatch.de/anbau_von_genmais_in_der_eu_verhindern-1105-548.html)

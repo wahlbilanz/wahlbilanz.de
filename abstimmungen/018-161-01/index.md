@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-161-01
-* Title: Ausbildungs- und Beratungsmissionen EUTM Somalia
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=390](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=390)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-788.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-788.html)

@@ -15,7 +15,6 @@ tags:
 ---
 
 * Abstimmung: 018-167-02
-* Title: Verbot von Fracking in Deutschland
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=393](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=393)
     * [http://www.abgeordnetenwatch.de/fracking_verbot-1105-790.html](http://www.abgeordnetenwatch.de/fracking_verbot-1105-790.html)

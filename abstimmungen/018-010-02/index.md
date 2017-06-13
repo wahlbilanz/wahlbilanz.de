@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-010-02
-* Title: Bundeswehreinsatz OAE
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=249](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=249)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_anti_terror_einsatzes_im_mittelmeer_oae-1105-547.html](http://www.abgeordnetenwatch.de/verlaengerung_des_anti_terror_einsatzes_im_mittelmeer_oae-1105-547.html)

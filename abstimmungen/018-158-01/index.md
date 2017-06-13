@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-158-01
-* Title: Einführung beschleunigter Asylverfahren hier: Artikel 2 Nummer 4
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=387](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=387)
     * [http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_ii-1105-786.html](http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_ii-1105-786.html)

@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-113-02
-* Title: Bundeswehreinsatz in Mali (MINUSMA)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=344](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=344)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali_minusma-1105-747.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali_minusma-1105-747.html)

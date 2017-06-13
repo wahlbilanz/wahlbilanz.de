@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-097-01
-* Title: Bundeswehreinsatz in Somalia (EUTM)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=330](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=330)
     * 

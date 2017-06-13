@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-115-03
-* Title: Bleiberecht und Aufenthaltsbeendigung, 3. Änderungsantrag Bündnis 90/Die Grünen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=348](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=348)
     * [http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html](http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html)

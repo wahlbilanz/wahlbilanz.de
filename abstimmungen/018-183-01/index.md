@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-183-01
-* Title: Schutz der sexuellen Selbstbestimmung: Artikel 2 Absatz 3
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=415](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=415)
     * [http://www.abgeordnetenwatch.de/reform_des_sexualstrafrechts_nein_heisst_nein-1105-802.html](http://www.abgeordnetenwatch.de/reform_des_sexualstrafrechts_nein_heisst_nein-1105-802.html)

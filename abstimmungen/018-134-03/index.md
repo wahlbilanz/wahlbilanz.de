@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-134-03
-* Title: Strafbarkeit der geschäftsmäßigen Förderung der Selbsttötung
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=371](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=371)
     * [http://www.abgeordnetenwatch.de/verbot_von_geschaeftsmaessiger_sterbehilfe-1105-773.html](http://www.abgeordnetenwatch.de/verbot_von_geschaeftsmaessiger_sterbehilfe-1105-773.html)

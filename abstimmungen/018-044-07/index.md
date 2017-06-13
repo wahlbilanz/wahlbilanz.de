@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-044-07
-* Title: Haushaltsgesetz 2014
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=289](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=289)
     * 

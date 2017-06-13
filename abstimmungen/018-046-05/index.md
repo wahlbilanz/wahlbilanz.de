@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-046-05
-* Title: Aufhebung der Optionsregelung im Staatsangehörigkeitsrecht
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=295](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=295)
     * [http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html](http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html)

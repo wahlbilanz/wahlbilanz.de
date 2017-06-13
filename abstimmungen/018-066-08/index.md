@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-066-08
-* Title: Änderung des Bundesausbildungsförderungsgesetzes
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=314](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=314)
     * 

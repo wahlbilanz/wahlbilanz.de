@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-066-01
-* Title: Bund-Länder-Wissenschaftskooperation, Änderungsantrag Die Linke
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=307](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=307)
     * 

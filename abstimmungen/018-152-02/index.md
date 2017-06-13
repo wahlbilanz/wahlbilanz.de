@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-152-02
-* Title: Bundeswehreinsatz Kurdistan-Irak
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=383](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=383)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_nord_irak-1105-783.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_nord_irak-1105-783.html)

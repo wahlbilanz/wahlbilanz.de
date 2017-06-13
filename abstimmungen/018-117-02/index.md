@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-117-02
-* Title: Stabilitätshilfe zugunsten Griechenlands, Entschließungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=353](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=353)
     * [http://www.abgeordnetenwatch.de/verhandlungsmandat_fuer_griechenland_finanzhilfen-1105-758.html](http://www.abgeordnetenwatch.de/verhandlungsmandat_fuer_griechenland_finanzhilfen-1105-758.html)

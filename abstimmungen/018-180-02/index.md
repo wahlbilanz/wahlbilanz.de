@@ -15,7 +15,6 @@ tags:
 ---
 
 * Abstimmung: 018-180-02
-* Title: Fracking
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=404](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=404)
     * [http://www.abgeordnetenwatch.de/fracking_neuregelung-1105-797.html](http://www.abgeordnetenwatch.de/fracking_neuregelung-1105-797.html)

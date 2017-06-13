@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-060-01
-* Title: Entschließungsantrag zu der Regierungserklärung durch die Bundeskanzlerin
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=302](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=302)
     * 

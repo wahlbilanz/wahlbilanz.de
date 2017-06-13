@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-066-04
-* Title: Änderung des Bundesausbildungsförderungsgesetzes, 1. Änderungsantrag Die Linke
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=310](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=310)
     * 

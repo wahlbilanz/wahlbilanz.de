@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-029-01
-* Title: Beteiligung bewaffneter deutscher Streitkräfte am maritimen Begleitschutz
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=260](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=260)
     * [http://www.abgeordnetenwatch.de/beteiligung_der_bundeswehr_bei_vernichtung_syrischer_chemiewaffen-1105-594.html](http://www.abgeordnetenwatch.de/beteiligung_der_bundeswehr_bei_vernichtung_syrischer_chemiewaffen-1105-594.html)

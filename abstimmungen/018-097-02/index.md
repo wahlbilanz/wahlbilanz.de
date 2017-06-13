@@ -9,7 +9,6 @@ tags:
 ---
 
 * Abstimmung: 018-097-02
-* Title: Nachhaltige Waldbewirtschaftung
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=331](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=331)
     * [http://www.abgeordnetenwatch.de/kooperative_holzvermarktung-1105-725.html](http://www.abgeordnetenwatch.de/kooperative_holzvermarktung-1105-725.html)

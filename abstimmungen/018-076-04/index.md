@@ -9,7 +9,6 @@ tags:
 ---
 
 * Abstimmung: 018-076-04
-* Title: Änderung des Bundesdatenschutzgesetzes
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=323](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=323)
     * [http://www.abgeordnetenwatch.de/bundesdatenschutzgesetz-1105-707.html](http://www.abgeordnetenwatch.de/bundesdatenschutzgesetz-1105-707.html)

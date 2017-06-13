@@ -14,7 +14,6 @@ tags:
 ---
 
 * Abstimmung: 018-061-02
-* Title: Pflegeversicherung, Änderungsantrag Bündnis 90/Die Grünen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=304](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=304)
     * 

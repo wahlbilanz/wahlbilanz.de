@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-190-04
-* Title: CETA, Antrag CDU/CSU, SPD 18/9663
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=418](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=418)
     * [http://www.abgeordnetenwatch.de/ceta_weiterverfolgen-1105-816.html](http://www.abgeordnetenwatch.de/ceta_weiterverfolgen-1105-816.html)

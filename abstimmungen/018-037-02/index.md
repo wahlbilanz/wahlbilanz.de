@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-037-02
-* Title: RV-Leistungsverbesserungsgesetz / 2. Änderungsantrag
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=271](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=271)
     * [http://www.abgeordnetenwatch.de/rentenpaket-1105-602.html](http://www.abgeordnetenwatch.de/rentenpaket-1105-602.html)

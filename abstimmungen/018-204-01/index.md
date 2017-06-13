@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-204-01
-* Title: Haushaltsgesetz 2017
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=434](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=434)
     * [http://www.abgeordnetenwatch.de/haushalt_2017-1105-826.html](http://www.abgeordnetenwatch.de/haushalt_2017-1105-826.html)

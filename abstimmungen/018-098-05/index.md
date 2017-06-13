@@ -14,7 +14,6 @@ tags:
 ---
 
 * Abstimmung: 018-098-05
-* Title: Pkw-Maut, Zweites Verkehrsteueränderungsgesetz
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=336](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=336)
     * [http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html](http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html)

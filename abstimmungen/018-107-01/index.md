@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-107-01
-* Title: Gesetz zur Tarifeinheit
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=341](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=341)
     * [http://www.abgeordnetenwatch.de/tarifeinheitsgesetz-1105-730.html](http://www.abgeordnetenwatch.de/tarifeinheitsgesetz-1105-730.html)

@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-184-01
-* Title: Erneuerbare-Energie-Gesetz
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=411](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=411)
     * [http://www.abgeordnetenwatch.de/reform_des_erneuerbare_energien_gesetzes_eeg-1105-803.html](http://www.abgeordnetenwatch.de/reform_des_erneuerbare_energien_gesetzes_eeg-1105-803.html)

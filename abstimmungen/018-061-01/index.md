@@ -14,7 +14,6 @@ tags:
 ---
 
 * Abstimmung: 018-061-01
-* Title: Pflegeversicherung, Änderungsantrag Die Linke
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=303](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=303)
     * 

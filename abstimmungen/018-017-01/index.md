@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-017-01
-* Title: Bundeswehreinsatz in Afghanistan (ISAF)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=252](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=252)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_afghanistan_einsatzes_isaf-1105-552.html](http://www.abgeordnetenwatch.de/fortsetzung_des_afghanistan_einsatzes_isaf-1105-552.html)

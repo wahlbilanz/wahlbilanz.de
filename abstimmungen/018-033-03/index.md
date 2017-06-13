@@ -8,7 +8,6 @@ tags:
 ---
 
 * Abstimmung: 018-033-03
-* Title: Transparenz bei Rüstungsexportentscheidungen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=264](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=264)
     * [http://www.abgeordnetenwatch.de/transparenz_bei_ruestungsexportentscheidungen-1105-600.html](http://www.abgeordnetenwatch.de/transparenz_bei_ruestungsexportentscheidungen-1105-600.html)

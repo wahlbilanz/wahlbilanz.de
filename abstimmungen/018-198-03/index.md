@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-198-03
-* Title: Änderungsantrag der Abgeordneten Dr. Georg Nüßlein, Dr. Karl Lauterbach, Maria Michalk, Hermann Gröhe, Ingrid Fischbach, Annette Widmann-Mauz und Rudolf Henke zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=439](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=439)
     * 

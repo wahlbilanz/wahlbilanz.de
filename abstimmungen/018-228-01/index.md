@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-228-01
-* Title: Transparenz von Entgeltstrukturen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=460](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=460)
     * [http://www.abgeordnetenwatch.de/einfuehrung_eines_verbandsklagerechts_im_lohngerechtigkeitsgesetz-1105-863.html](http://www.abgeordnetenwatch.de/einfuehrung_eines_verbandsklagerechts_im_lohngerechtigkeitsgesetz-1105-863.html)

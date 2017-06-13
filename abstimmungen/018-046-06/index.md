@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-046-06
-* Title: Angleichung der Renten in Ostdeutschland an das Westniveau
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=296](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=296)
     * [http://www.abgeordnetenwatch.de/angleichung_der_renten_in_ostdeutschland_an_westniveau-1105-647.html](http://www.abgeordnetenwatch.de/angleichung_der_renten_in_ostdeutschland_an_westniveau-1105-647.html)

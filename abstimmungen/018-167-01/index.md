@@ -15,7 +15,6 @@ tags:
 ---
 
 * Abstimmung: 018-167-01
-* Title: Änderung des Bundesberggesetzes zur Untersagung der Fracking-Technik
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=392](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=392)
     * 

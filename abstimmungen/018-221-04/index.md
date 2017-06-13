@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-221-04
-* Title: Gesetzentwurf Dämpfung des Mietanstiegs (Streichung Rügepflicht / Schaffung Auskunftsrecht)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=457](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=457)
     * 

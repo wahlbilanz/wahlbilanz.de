@@ -14,7 +14,6 @@ tags:
 ---
 
 * Abstimmung: 018-183-04
-* Title: Bundeswehreinsatz EUNAVFOR MED Operation SOPHIA
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=412](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=412)
     * 

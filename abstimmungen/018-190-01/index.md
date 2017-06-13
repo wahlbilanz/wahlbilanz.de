@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-190-01
-* Title: CETA, Antrag Die Linke 18/9665
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=416](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=416)
     * 

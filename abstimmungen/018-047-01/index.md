@@ -9,7 +9,6 @@ tags:
 ---
 
 * Abstimmung: 018-047-01
-* Title: Lebensversicherungsreformgesetz
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=298](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=298)
     * 

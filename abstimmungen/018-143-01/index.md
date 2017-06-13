@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-143-01
-* Title: Umsetzung des Aktionsprogramms Klimaschutz 2020
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=377](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=377)
     * [http://www.abgeordnetenwatch.de/umsetzung_aktionsprogramm_klimaschutz_2020-1105-778.html](http://www.abgeordnetenwatch.de/umsetzung_aktionsprogramm_klimaschutz_2020-1105-778.html)

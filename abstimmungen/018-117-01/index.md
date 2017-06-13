@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-117-01
-* Title: Stabilitätshilfe zugunsten Griechenlands
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=352](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=352)
     * [http://www.abgeordnetenwatch.de/verhandlungsmandat_fuer_griechenland_finanzhilfen-1105-758.html](http://www.abgeordnetenwatch.de/verhandlungsmandat_fuer_griechenland_finanzhilfen-1105-758.html)

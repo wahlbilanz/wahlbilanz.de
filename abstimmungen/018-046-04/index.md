@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-046-04
-* Title: Änderung des Staatsangehörigkeitsgesetzes
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=294](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=294)
     * [http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html](http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html)

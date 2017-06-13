@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-209-01
-* Title: Verantwortung in der kerntechnischen Entsorgung
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=442](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=442)
     * [http://www.abgeordnetenwatch.de/verantwortung_fuer_die_kerntechnische_entsorgung-1105-829.html](http://www.abgeordnetenwatch.de/verantwortung_fuer_die_kerntechnische_entsorgung-1105-829.html)

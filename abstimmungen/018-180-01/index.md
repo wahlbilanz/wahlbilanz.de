@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-180-01
-* Title: Anpassung des Erbschaftssteuer- und Schenkungssteuergesetzes
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=403](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=403)
     * [http://www.abgeordnetenwatch.de/erbschaftssteuerreform-1105-798.html](http://www.abgeordnetenwatch.de/erbschaftssteuerreform-1105-798.html)

@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-128-01
-* Title: Renten in Ostdeutschland
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=359](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=359)
     * 

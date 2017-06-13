@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-193-01
-* Title: Mieterinnen und Mieter besser schützen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=419](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=419)
     * [http://www.abgeordnetenwatch.de/zweite_mietrechtsnovelle_vorlegen-1105-817.html](http://www.abgeordnetenwatch.de/zweite_mietrechtsnovelle_vorlegen-1105-817.html)

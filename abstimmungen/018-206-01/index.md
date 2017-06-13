@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-206-01
-* Title: Ermittlung von Regelbedarfen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=433](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=433)
     * [http://www.abgeordnetenwatch.de/ermittlung_von_regelbedarfen-1105-828.html](http://www.abgeordnetenwatch.de/ermittlung_von_regelbedarfen-1105-828.html)

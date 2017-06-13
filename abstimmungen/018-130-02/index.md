@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-130-02
-* Title: Asylverfahrensbeschleunigungsgesetz, hier: Artikel 1 Nummer 35
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=366](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=366)
     * [http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html](http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html)

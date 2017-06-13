@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-066-10
-* Title: Bundeswehreinsatz in Dafur (UNAMID)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=316](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=316)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_darfur_unamid-1105-692.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_darfur_unamid-1105-692.html)

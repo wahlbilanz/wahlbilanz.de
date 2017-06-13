@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-044-02
-* Title: Reform des Erneuerbare-Energien-Gesetzes / Änderungsantrag Die Linke
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=284](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=284)
     * [http://www.abgeordnetenwatch.de/novelle_des_eeg-1105-629.html](http://www.abgeordnetenwatch.de/novelle_des_eeg-1105-629.html)

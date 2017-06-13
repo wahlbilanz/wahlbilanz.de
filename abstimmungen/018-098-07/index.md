@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-098-07
-* Title: Liegenschaftspolitik des Bundes, Beschlussempfehlung des Haushaltsausschusses
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=338](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=338)
     * [http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html](http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html)

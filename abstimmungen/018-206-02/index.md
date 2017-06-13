@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-206-02
-* Title: Seefischereigesetz
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=432](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=432)
     * [http://www.abgeordnetenwatch.de/drittes_gesetz_zur_aenderung_des_seefischereigesetzes-1105-827.html](http://www.abgeordnetenwatch.de/drittes_gesetz_zur_aenderung_des_seefischereigesetzes-1105-827.html)

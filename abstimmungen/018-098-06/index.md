@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-098-06
-* Title: Liegenschaftspolitik des Bundes, Gesetzentwurf Die Linke
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=337](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=337)
     * [http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html](http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html)

@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-193-02
-* Title: Privatisierung von Bundesliegenschaften stoppen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=420](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=420)
     * 

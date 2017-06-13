@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-170-01
-* Title: Behindertengleichstellungsrecht - Änderungsantrag
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=394](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=394)
     * 

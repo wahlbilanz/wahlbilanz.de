@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-183-03
-* Title: Schutz der sexuellen Selbstbestimmung: Artikel 1 Nummern 6 bis 8, 10 und 11
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=413](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=413)
     * [http://www.abgeordnetenwatch.de/reform_des_sexualstrafrechts_nein_heisst_nein-1105-802.html](http://www.abgeordnetenwatch.de/reform_des_sexualstrafrechts_nein_heisst_nein-1105-802.html)

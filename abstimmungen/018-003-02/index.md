@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-003-02
-* Title: Bundeswehreinsatz in Darfur
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=247](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=247)
     * 

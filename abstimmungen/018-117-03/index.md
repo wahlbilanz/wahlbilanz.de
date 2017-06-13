@@ -9,7 +9,6 @@ tags:
 ---
 
 * Abstimmung: 018-117-03
-* Title: Verwendung der SMP-Mittel 2014 zur Absicherung einer Brückenfinanzierung, Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=354](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=354)
     * 

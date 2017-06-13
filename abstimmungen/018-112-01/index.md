@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-112-01
-* Title: Grundfreibetrag, Kinderfreibetrag, -geld, -zuschlag
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=342](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=342)
     * [http://www.abgeordnetenwatch.de/rueckwirkende_erhoehung_von_kinderfreibetrag_und_kindergeld-1105-746.html](http://www.abgeordnetenwatch.de/rueckwirkende_erhoehung_von_kinderfreibetrag_und_kindergeld-1105-746.html)

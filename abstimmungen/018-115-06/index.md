@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-115-06
-* Title: Subventionen für britisches Atomwerk Hinkley Point C stoppen, Beschlussempfehlung zum Antrag Bündnis 90/Die Grünen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=351](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=351)
     * [http://www.abgeordnetenwatch.de/neubausubventionen_fuer_atomkraftwerke_in_der_eu_verhindern-1105-756.html](http://www.abgeordnetenwatch.de/neubausubventionen_fuer_atomkraftwerke_in_der_eu_verhindern-1105-756.html)

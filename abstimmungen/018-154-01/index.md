@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-154-01
-* Title: Regierungserklärung zum Europäischen Rat - Entschließungsantrag
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=384](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=384)
     * 

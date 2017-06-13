@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-179-02
-* Title: Bundeswehreinsatz im Libanon (UNIFIL)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=401](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=401)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_im_libanon_unifil-1105-799.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_im_libanon_unifil-1105-799.html)

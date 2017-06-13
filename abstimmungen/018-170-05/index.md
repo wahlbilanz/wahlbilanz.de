@@ -15,7 +15,6 @@ tags:
 ---
 
 * Abstimmung: 018-170-05
-* Title: Bundeswehreinsatz vor Somalia (EU NAVFOR Atalanta)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=398](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=398)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-792.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-792.html)

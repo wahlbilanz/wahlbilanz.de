@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-130-03
-* Title: Asylverfahrensbeschleunigungsgesetz, hier: Artikel 8 und Artikel 12
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=363](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=363)
     * [http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html](http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html)

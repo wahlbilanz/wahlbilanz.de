@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-141-02
-* Title: Haushaltsgesetz 2016
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=376](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=376)
     * 

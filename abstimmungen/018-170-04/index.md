@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-170-04
-* Title: Bundeswehreinsatz in Mali (EUTM Mali)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=397](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=397)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali_eutm-1105-791.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali_eutm-1105-791.html)

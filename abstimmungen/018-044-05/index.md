@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-044-05
-* Title: Einführung einer Länderöffnungsklausel
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=287](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=287)
     * 

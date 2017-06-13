@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-212-02
-* Title: Rentenansprüche aus DDR-Beschäftigungszeiten (Krankenschwestern)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=451](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=451)
     * 

@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-202-01
-* Title: Beschlussempfehlung zum Etat der Bundeskanzlerin und des Bundeskanzleramtes
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=435](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=435)
     * 

@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-133-02
-* Title: Änderung agrarmarktrechtlicher Bestimmungen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=369](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=369)
     * 

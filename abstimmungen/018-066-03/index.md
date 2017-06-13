@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-066-03
-* Title: Bund-Länder-Wissenschaftskooperation
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=309](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=309)
     * [http://www.abgeordnetenwatch.de/lockerung_des_kooperationsverbotes_bei_hochschulfinanzierung-1105-691.html](http://www.abgeordnetenwatch.de/lockerung_des_kooperationsverbotes_bei_hochschulfinanzierung-1105-691.html)

@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-155-01
-* Title: Rüstungsexportkontrollgesetz
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=385](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=385)
     * 

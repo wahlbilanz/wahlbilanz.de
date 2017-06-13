@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-226-02
-* Title: Änderung des Zweiten Verkehrsteueränderungsgesetzes
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=459](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=459)
     * [http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html](http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html)

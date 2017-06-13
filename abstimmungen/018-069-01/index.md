@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-069-01
-* Title: Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2015 (Einzelplan 04 - Bundeskanzlerin und Bundeskanzleramt)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=317](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=317)
     * [http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html](http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html)

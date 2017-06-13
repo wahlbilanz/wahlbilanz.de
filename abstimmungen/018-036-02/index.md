@@ -14,7 +14,6 @@ tags:
 ---
 
 * Abstimmung: 018-036-02
-* Title: Sukzessivadoption durch Lebenspartner
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=276](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=276)
     * [http://www.abgeordnetenwatch.de/aenderungsantrag_gesetz_zur_sukzessivadoption_durch_lebenspartner-1105-619.html](http://www.abgeordnetenwatch.de/aenderungsantrag_gesetz_zur_sukzessivadoption_durch_lebenspartner-1105-619.html)

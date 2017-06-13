@@ -14,7 +14,6 @@ tags:
 ---
 
 * Abstimmung: 018-171-01
-* Title: Einstufung von Algerien, Marokko und Tunesien
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=399](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=399)
     * [http://www.abgeordnetenwatch.de/einstufung_von_algerien_marokko_und_tunesien_als_sichere_herkunftsstaaten-1105-793.html](http://www.abgeordnetenwatch.de/einstufung_von_algerien_marokko_und_tunesien_als_sichere_herkunftsstaaten-1105-793.html)

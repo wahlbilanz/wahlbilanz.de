@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-199-02
-* Title: Bundeswehreinsatz gegen die Terrororganisation IS
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=437](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=437)
     * [http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-820.html](http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-820.html)

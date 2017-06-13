@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-146-01
-* Title: Bundeswehreinsatz in Afghanistan (Resolute Support)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=380](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=380)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_afghanistan_einsatzes_der_bundeswehr-1105-780.html](http://www.abgeordnetenwatch.de/verlaengerung_des_afghanistan_einsatzes_der_bundeswehr-1105-780.html)

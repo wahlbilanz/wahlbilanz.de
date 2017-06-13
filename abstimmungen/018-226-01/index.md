@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-226-01
-* Title: Erstes Gesetz zur Änderung des Infrastrukturabgabengesetzes
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=458](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=458)
     * [http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html](http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html)

@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-042-01
-* Title: Feststellung des Bundeshaushaltsplans hier: Bundeskanzlerin und Bundeskanzleramt
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=279](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=279)
     * 

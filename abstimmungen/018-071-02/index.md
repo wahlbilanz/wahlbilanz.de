@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-071-02
-* Title: Haushaltsgesetz 2015, Entschließungsantrag Bündnis 90/Die Grünen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=318](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=318)
     * [http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html](http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html)

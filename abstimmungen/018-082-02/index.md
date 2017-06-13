@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-082-02
-* Title: Bundeswehreinsatz Operation Active Fence (Türkei)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=325](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=325)
     * [http://www.abgeordnetenwatch.de/bundeswehreinsatz_zur_luftueberwachung_in_der_tuerkei-1105-709.html](http://www.abgeordnetenwatch.de/bundeswehreinsatz_zur_luftueberwachung_in_der_tuerkei-1105-709.html)

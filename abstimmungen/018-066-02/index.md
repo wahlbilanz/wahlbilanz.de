@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-066-02
-* Title: Bund-Länder-Wissenschaftskooperation, Änderungsantrag Bündnis 90/Die Grünen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=308](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=308)
     * 

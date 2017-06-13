@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-066-09
-* Title: Bundeswehreinsatz in Südsudan (UNMISS)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=315](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=315)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_suedsudan-1105-693.html](http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_suedsudan-1105-693.html)

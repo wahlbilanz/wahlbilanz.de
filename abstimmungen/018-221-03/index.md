@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-221-03
-* Title: Gesetzentwurf Dämpfung des Mietanstiegs (umfassende Modernisierungen)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=456](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=456)
     * 

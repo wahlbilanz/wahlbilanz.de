@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-200-01
-* Title: Gesetzentwurf zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=436](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=436)
     * [http://www.abgeordnetenwatch.de/arzneimittelreform-1105-821.html](http://www.abgeordnetenwatch.de/arzneimittelreform-1105-821.html)

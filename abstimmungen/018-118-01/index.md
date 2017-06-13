@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-118-01
-* Title: Stabilitätshilfe zugunsten Griechenlands
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=355](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=355)
     * [http://www.abgeordnetenwatch.de/gewaehrung_eines_86_mrd_euro_kreditpakets_fuer_griechenland-1105-762.html](http://www.abgeordnetenwatch.de/gewaehrung_eines_86_mrd_euro_kreditpakets_fuer_griechenland-1105-762.html)

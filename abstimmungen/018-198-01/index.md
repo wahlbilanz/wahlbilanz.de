@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-198-01
-* Title: Änderungsantrag der Abgeordneten Uwe Schummer, Ulla Schmidt, Kathrin Vogler, Kordula Schulz-Asche, weiterer Abgeordneter aller Fraktionen zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=441](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=441)
     * 

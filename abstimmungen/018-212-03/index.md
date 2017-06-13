@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-212-03
-* Title: Dragoner-Areal dem Land Berlin zum Kauf anbieten
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=450](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=450)
     * [http://www.abgeordnetenwatch.de/verkauf_des_dragoner_areals-1105-844.html](http://www.abgeordnetenwatch.de/verkauf_des_dragoner_areals-1105-844.html)

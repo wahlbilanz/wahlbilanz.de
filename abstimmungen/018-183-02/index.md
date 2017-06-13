@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-183-02
-* Title: Schutz der sexuellen Selbstbestimmung: Artikel 1 Nummer 9 - Einfügung von § 184j Strafgesetzbuch
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=414](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=414)
     * [http://www.abgeordnetenwatch.de/reform_des_sexualstrafrechts_nein_heisst_nein-1105-802.html](http://www.abgeordnetenwatch.de/reform_des_sexualstrafrechts_nein_heisst_nein-1105-802.html)

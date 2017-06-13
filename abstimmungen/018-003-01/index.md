@@ -11,7 +11,6 @@ tags:
 
 ---
 * Abstimmung: 018-003-01
-* Title: Bundeswehreinsatz in Südsudan
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=248](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=248)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan_unmiss-1105-542.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan_unmiss-1105-542.html)

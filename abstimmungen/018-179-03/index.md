@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-179-03
-* Title: Änderung des SGB II - Rechtsvereinfachung
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=402](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=402)
     * 

@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-037-04
-* Title: RV-Leistungsverbesserungsgesetz
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=278](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=278)
     * [http://www.abgeordnetenwatch.de/rentenpaket-1105-602.html](http://www.abgeordnetenwatch.de/rentenpaket-1105-602.html)

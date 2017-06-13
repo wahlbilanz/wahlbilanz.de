@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-146-02
-* Title: Bundeswehreinsatz im Mittelmeer (Operation ACTIVE ENDEAVOUR)
 * Links: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_im_mittelmeer_oae-1105-781.html
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=381](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=381)
     * 

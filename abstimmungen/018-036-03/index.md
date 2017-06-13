@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-036-03
-* Title: Gentechnikfreiheit im Pflanzenbau
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=268](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=268)
     * [http://www.abgeordnetenwatch.de/nationale_ausnahmeregelungen_beim_anbau_von_gentechnik-1105-666.html](http://www.abgeordnetenwatch.de/nationale_ausnahmeregelungen_beim_anbau_von_gentechnik-1105-666.html)

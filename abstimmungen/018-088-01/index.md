@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-088-01
-* Title: Bundeswehreinsatz in Mali (EUTM Mali)
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=326](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=326)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali_eutm_mali-1105-714.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali_eutm_mali-1105-714.html)

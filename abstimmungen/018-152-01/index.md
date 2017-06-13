@@ -11,7 +11,6 @@ tags:
 ---
 
 * Abstimmung: 018-152-01
-* Title: Bundeswehreinsatz in Mali
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=382](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=382)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_mali-1105-782.html](http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_mali-1105-782.html)

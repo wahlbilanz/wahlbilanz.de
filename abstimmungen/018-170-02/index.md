@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-170-02
-* Title: Behindertengleichstellungsrecht - Entschließungsantrag
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=395](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=395)
     * 

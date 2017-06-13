@@ -10,7 +10,6 @@ tags:
 ---
 
 * Abstimmung: 018-198-02
-* Title: Änderungsantrag der Abgeordneten Hilde Mattheis und Sabine Dittmar zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=440](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=440)
     * 

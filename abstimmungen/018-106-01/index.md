@@ -14,7 +14,6 @@ tags:
 ---
 
 * Abstimmung: 018-106-01
-* Title: Bundeswehreinsatz Operation Atalanta
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=340](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=340)
     * [http://www.abgeordnetenwatch.de/verlaengerung_bundeswehreinsatz_somalia_operation_atalanta-1105-729.html](http://www.abgeordnetenwatch.de/verlaengerung_bundeswehreinsatz_somalia_operation_atalanta-1105-729.html)

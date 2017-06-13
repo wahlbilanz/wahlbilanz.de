@@ -9,7 +9,6 @@ tags:
 ---
 
 * Abstimmung: 018-131-01
-* Title: Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=365](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=365)
     * [http://www.abgeordnetenwatch.de/wiedereinfuehrung_der_vorratsdatenspeicherung-1105-767.html](http://www.abgeordnetenwatch.de/wiedereinfuehrung_der_vorratsdatenspeicherung-1105-767.html)

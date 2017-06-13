@@ -13,7 +13,6 @@ tags:
 ---
 
 * Abstimmung: 018-221-01
-* Title: Entschließungsantrag zum Europäischen Rat
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=454](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=454)
     * [http://www.abgeordnetenwatch.de/keine_erhoehung_der_verteidigungsausgaben_auf_2_prozent_des_bip-1105-860.html](http://www.abgeordnetenwatch.de/keine_erhoehung_der_verteidigungsausgaben_auf_2_prozent_des_bip-1105-860.html)

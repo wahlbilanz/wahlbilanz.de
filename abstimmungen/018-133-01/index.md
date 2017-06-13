@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-133-01
-* Title: Betreuungsgeld für den Kitaausbau nutzen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=368](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=368)
     * 

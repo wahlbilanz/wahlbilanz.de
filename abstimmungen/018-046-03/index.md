@@ -12,7 +12,6 @@ tags:
 ---
 
 * Abstimmung: 018-046-03
-* Title: Befristung von Arbeitsverhältnissen
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=297](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=297)
     * [http://www.abgeordnetenwatch.de/abschaffung_der_sachgrundlosen_befristung-1105-633.html](http://www.abgeordnetenwatch.de/abschaffung_der_sachgrundlosen_befristung-1105-633.html)

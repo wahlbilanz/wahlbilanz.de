@@ -9,7 +9,6 @@ tags:
 ---
 
 * Abstimmung: 018-026-03
-* Title: Minderheitenrechte in der 18. Wahlperiode
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=257](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=257)
     * [http://www.abgeordnetenwatch.de/minderheitenrechte_im_bundestag-1105-592.html](http://www.abgeordnetenwatch.de/minderheitenrechte_im_bundestag-1105-592.html)
