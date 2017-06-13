@@ -1,0 +1,19 @@
+<!-- _includes/image.html -->
+<div class="image-wrapper {{ include.align }}" >
+    <figure>
+    {% if include.url %}
+    <a href="{{ include.url }}" title="{{ include.title }}" target="_blank" data-lightbox="{{post_id}}{{page.id}}{{page.url}}" data-title="{{include.caption}}" class="link-noborder">
+    {% endif %}
+        <img src="{{ include.img }}" alt="{{ include.title }}"
+                                {% if include.maxwidth %}
+                                        style="max-width:{{ include.maxwidth }}"
+                                {% endif %}
+                                />
+    {% if include.url %}
+    </a>
+    {% endif %}
+    {% if include.caption %}
+        <figcaption>{{ include.caption }}</figcaption>
+    {% endif %}
+    </figure>
+</div>

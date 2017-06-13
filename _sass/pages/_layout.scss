@@ -120,3 +120,46 @@
 {
 	font-size: 75%;
 }
+
+
+
+.image-wrapper {
+	text-align: center;
+/* 	border: 1px solid #aaa; */
+	padding: 5px;
+	background-color: #fff;
+	margin:8px;
+}
+.image-caption {
+	color: #999;
+	margin: 10px;
+}
+.alignright {
+	float: right;
+}
+.alignleft {
+/* 	float: left; */
+}
+.aligncenter figure
+{
+	display:block;
+	margin:0 auto 21px auto;
+}
+
+figure
+{
+	display: table;
+}
+figcaption
+{
+	display: table-caption;
+	caption-side:bottom;
+	color: #999;
+	margin: 8px;
+}
+
+
+
+
+
+
