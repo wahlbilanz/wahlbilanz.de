@@ -5,18 +5,24 @@ permalink: /tags/
 sidebar: true
 ---
 
-<!--h5>Tag cloud <i class="fa fa-cloud info-text-color"></i></h5>
+<h5>Tag cloud <i class="fa fa-cloud info-text-color"></i></h5>
 
-
+{% if page.tagcloud.size > 0 %}
 <ul class="tag-cloud">
-{% for tag in site.tags %}
-  <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
-    <a class="post-tag" href="#{{ tag | first | slugize }}">
-      {{ tag | first }}
-    </a>
-  </li>
-{% endfor %}
-</ul-->
+	{% for tag in page.tagcloud %}
+	<li style="font-size: {{ tag | last }}%">
+		<a class="post-tag" href="#{{ tag | first | slugize }}">
+		{{ tag | first }}
+		</a>
+	</li>
+	{% endfor %}
+</ul>
+{% endif %}
+
+
+
+
+
 
 
 {% assign alltags = "" %}
@@ -39,23 +45,19 @@ sidebar: true
 
 {% assign alltags = alltags | split:'|' | sort %}
 
-{% for tag_name in alltags %}
+{% for tag in page.alltags %}
+	{% capture tag_name %}{{ tag | first }}{% endcapture %}
 	<div class="tag-group">
 		<h5 class="tag-group-title" id="{{ tag_name | slugize }}">{{ tag_name }}</h5>
-		{% for post in site.posts %}
-			{% if post.tags contains tag_name %}
-			<article class="tag-item">
-				<a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
-			</article>
-			{% endif %}
-		{% endfor %}
-		{% for page in site.pages %}
-			{% if page.tags contains tag_name %}
-			<article class="tag-item">
-				<a class="tag-item-title" href="{{ site.url }}{{ page.url }}">{{page.title}}</a>
-			</article>
-			{% endif %}
-		{% endfor %}
+		
+			{% for p in tag[1] %}
+				<article class="tag-item">
+					<a class="tag-item-title" href="{{ site.url }}{{ p.url }}">{{p.title}}</a>
+				</article>
+			{% endfor %}
+		
+		
+		
 	</div>
 {% endfor %}
 
