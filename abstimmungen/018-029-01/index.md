@@ -25,5 +25,30 @@ tags:
 * Documents: 
     * [Drucksache 18/00984.pdf](http://dip21.bundestag.de/dip21/btd/18/009/1800984.pdf) ([local copy](/res/abstimmungsdaten/018-029-01/1800984.pdf))
     * [Drucksache 18/01067.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf) ([local copy](/res/abstimmungsdaten/018-029-01/1801067.pdf))
+* Abstimmungsergebnis:
+    * cdu/csu: 311
+        * Ja: 296
+        * Nein: 0
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 15
+    * spd: 193
+        * Ja: 175
+        * Nein: 0
+        * Enthaltung: 1
+        * Ungültig: 0
+        * Nicht abgegeben: 17
+    * die.linke: 64
+        * Ja: 5
+        * Nein: 35
+        * Enthaltung: 18
+        * Ungültig: 0
+        * Nicht abgegeben: 6
+    * gruenen: 63
+        * Ja: 59
+        * Nein: 0
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 4
 * Preview: 
 > Beteiligung bewaffneter deutscher Streitkräfte am maritimen Begleitschutz bei der Hydrolyse syrischer Chemiewaffen an Bord der CAPE RAY im Rahmen der gemeinsamen VN/OVCW-Mission zur Vernichtung der syrischen Chemiewaffen (Drucksachen 18/984 und 18/1067)

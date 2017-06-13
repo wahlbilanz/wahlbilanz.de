@@ -22,6 +22,31 @@ tags:
     * [Abstimmungsergebnis 20141016_1_xls-data.csv](/res/abstimmungsliste/analyses/20141016_1_xls-data.csv)
 * Documents: 
     * [Drucksache 18/02895.pdf](http://dip21.bundestag.de/dip21/btd/18/028/1802895.pdf) ([local copy](/res/abstimmungsdaten/018-060-01/1802895.pdf))
+* Abstimmungsergebnis:
+    * cdu/csu: 311
+        * Ja: 0
+        * Nein: 288
+        * Enthaltung: 1
+        * Ungültig: 0
+        * Nicht abgegeben: 22
+    * spd: 193
+        * Ja: 0
+        * Nein: 187
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 6
+    * die.linke: 64
+        * Ja: 57
+        * Nein: 0
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 7
+    * gruenen: 63
+        * Ja: 61
+        * Nein: 0
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 2
 * Preview: 
 > Deutscher Bundestag
 > 

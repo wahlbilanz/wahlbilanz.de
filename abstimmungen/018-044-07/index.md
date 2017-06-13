@@ -41,6 +41,31 @@ tags:
     * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801023.pdf
     * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801024.pdf
     * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801025.pdf
+* Abstimmungsergebnis:
+    * cdu/csu: 311
+        * Ja: 276
+        * Nein: 0
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 35
+    * spd: 193
+        * Ja: 171
+        * Nein: 0
+        * Enthaltung: 1
+        * Ungültig: 0
+        * Nicht abgegeben: 21
+    * die.linke: 64
+        * Ja: 0
+        * Nein: 45
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 19
+    * gruenen: 63
+        * Ja: 0
+        * Nein: 56
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 7
 * Preview: 
 > Deutscher Bundestag
 > 

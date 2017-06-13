@@ -18,6 +18,31 @@ tags:
 * Data: 
     * [Abstimmungsergebnis 20150717_3-data.pdf](/res/abstimmungsliste/20150717_3-data.pdf)
     * [Abstimmungsergebnis 20150717_3_xls-data.csv](/res/abstimmungsliste/analyses/20150717_3_xls-data.csv)
+* Abstimmungsergebnis:
+    * cdu/csu: 310
+        * Ja: 0
+        * Nein: 306
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 4
+    * spd: 193
+        * Ja: 1
+        * Nein: 178
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 14
+    * die.linke: 64
+        * Ja: 17
+        * Nein: 0
+        * Enthaltung: 38
+        * Ungültig: 0
+        * Nicht abgegeben: 9
+    * gruenen: 63
+        * Ja: 57
+        * Nein: 1
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 5
 * Preview: 
 > Deutscher Bundestag
 > 

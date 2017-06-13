@@ -30,5 +30,30 @@ tags:
     * [Drucksache 18/06125.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806125.pdf) ([local copy](/res/abstimmungsdaten/018-141-01/1806125.pdf))
     * [Drucksache 18/06126.pdf](http://dip21.bundestag.de/dip21/btd/18/061/1806126.pdf) ([local copy](/res/abstimmungsdaten/018-141-01/1806126.pdf))
     * [Drucksache 18/06804.pdf](http://dip21.bundestag.de/dip21/btd/18/068/1806804.pdf) ([local copy](/res/abstimmungsdaten/018-141-01/1806804.pdf))
+* Abstimmungsergebnis:
+    * cdu/csu: 310
+        * Ja: 0
+        * Nein: 287
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 23
+    * spd: 193
+        * Ja: 1
+        * Nein: 177
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 15
+    * die.linke: 64
+        * Ja: 58
+        * Nein: 0
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 6
+    * gruenen: 63
+        * Ja: 52
+        * Nein: 0
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 11
 * Preview: 
 > Änderungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2016 (Haushaltsgesetz 2016) hier: Einzelplan 12 Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur (Drucksachen 18/5500, 18/5502, 18/6112, 18/6124, 18/6125, 18/6126 und 18/6804)

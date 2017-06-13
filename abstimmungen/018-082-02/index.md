@@ -23,6 +23,31 @@ tags:
 * Documents: 
     * [Drucksache 18/03698.pdf](http://dip21.bundestag.de/dip21/btd/18/036/1803698.pdf) ([local copy](/res/abstimmungsdaten/018-082-02/1803698.pdf))
     * [Drucksache 18/03859.pdf](http://dip21.bundestag.de/dip21/btd/18/038/1803859.pdf) ([local copy](/res/abstimmungsdaten/018-082-02/1803859.pdf))
+* Abstimmungsergebnis:
+    * cdu/csu: 311
+        * Ja: 287
+        * Nein: 0
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 24
+    * spd: 193
+        * Ja: 165
+        * Nein: 8
+        * Enthaltung: 2
+        * Ungültig: 0
+        * Nicht abgegeben: 18
+    * die.linke: 64
+        * Ja: 0
+        * Nein: 56
+        * Enthaltung: 0
+        * Ungültig: 0
+        * Nicht abgegeben: 8
+    * gruenen: 63
+        * Ja: 51
+        * Nein: 6
+        * Enthaltung: 5
+        * Ungültig: 0
+        * Nicht abgegeben: 1
 * Preview: 
 > Deutscher Bundestag
 > 
