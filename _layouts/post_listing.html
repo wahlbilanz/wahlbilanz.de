@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 <section class="post">
   <header class="post-header">
     <p class="post-meta">
@@ -34,13 +34,11 @@ layout: default
 
     </header>
 
-    {% if post.excerpt %}
     <div class="post-description">
       <p>
-        {{ post.excerpt }}
+        {{ post.content}}
       </p>
     </div>
-    {% endif %}
 
     {% if post.image.feature %}
     <div class="post-image-feature">

@@ -1,4 +1,4 @@
-module Reading
+module AllTags
 	class Generator < Jekyll::Generator
 		def generate(site)
 			

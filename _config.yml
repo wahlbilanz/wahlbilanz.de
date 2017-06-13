@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Wahl Bilanz
+title: WahlBilanz.de
 email:
-description: Informationen zur Bundestagswahl 2017.
+description: Informationen zum 18. Deutschen Bundestag, Legislaturperiode 2013-2017.
 url: # the base hostname & protocol for your site
 
 
@@ -18,7 +18,12 @@ timezone:          Europe/Berlin
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink:         /:year/:month/:title/
+gems: ["jekyll-paginate", "jekyll-sitemap"]
+exclude: ["README.md"]
+paginate: 10
+paginate_path: "page:num"
+
 
 kramdown:
   auto_ids: true
@@ -27,16 +32,17 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
+
 #
 ###################################
 # Site Owner configuration
 ####################################
 #
 owner:
-  name: Wahl Bilanz
+  name: WahlBilanz.de
   avatar: wahl-logo-2.png
   job: "News.Daten.Wissenswertes."
-  bio: "Informationen zur Bundestagswahl 2017."
+  bio: "Informationen zum 18. Deutschen Bundestag, Legislaturperiode 2013-2017."
   email:
   disqus-shortname:
   twitter: #username
