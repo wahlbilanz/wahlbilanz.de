@@ -62,13 +62,5 @@ tags:
 > 
 > Berlin, den 03.12.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 12:04
-> 12:07
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 12:04  
+> Ende: 12:07

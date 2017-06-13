@@ -78,13 +78,5 @@ tags:
 > 
 > Berlin, den 25.11.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 12:51
-> 12:55
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 12:51  
+> Ende: 12:55

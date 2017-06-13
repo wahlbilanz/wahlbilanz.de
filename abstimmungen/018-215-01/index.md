@@ -62,13 +62,5 @@ tags:
 > 
 > Berlin, den 26.01.2017
 > 
-> Beginn:
-> Ende:
-> 
-> 14:10
-> 14:13
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 14:10  
+> Ende: 14:13

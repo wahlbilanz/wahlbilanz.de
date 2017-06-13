@@ -63,13 +63,5 @@ tags:
 > 
 > Berlin, den 24.06.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 11:56
-> 11:59
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 11:56  
+> Ende: 11:59

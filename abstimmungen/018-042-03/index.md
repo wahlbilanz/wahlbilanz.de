@@ -58,13 +58,5 @@ tags:
 > 
 > Berlin, den 25.06.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 14:21
-> 14:25
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 14:21  
+> Ende: 14:25

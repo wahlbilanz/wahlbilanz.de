@@ -64,13 +64,5 @@ tags:
 > 
 > Berlin, den 05.03.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 11:36
-> 11:40
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 11:36  
+> Ende: 11:40

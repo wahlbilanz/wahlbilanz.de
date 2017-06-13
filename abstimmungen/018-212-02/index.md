@@ -61,13 +61,5 @@ tags:
 > 
 > Berlin, den 19.01.2017
 > 
-> Beginn:
-> Ende:
-> 
-> 15:59
-> 16:02
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 15:59  
+> Ende: 16:02

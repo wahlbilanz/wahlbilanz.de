@@ -65,13 +65,5 @@ tags:
 > 
 > Berlin, den 26.02.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 14:47
-> 14:50
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 14:47  
+> Ende: 14:50

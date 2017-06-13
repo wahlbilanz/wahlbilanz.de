@@ -61,13 +61,5 @@ tags:
 > 
 > Berlin, den 13.05.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 10:05
-> 10:08
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 10:05  
+> Ende: 10:08

@@ -59,13 +59,5 @@ tags:
 > 
 > Berlin, den 25.02.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 13:27
-> 13:30
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 13:27  
+> Ende: 13:30

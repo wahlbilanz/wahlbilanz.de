@@ -62,13 +62,5 @@ tags:
 > 
 > Berlin, den 07.07.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 19:48
-> 19:51
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 19:48  
+> Ende: 19:51

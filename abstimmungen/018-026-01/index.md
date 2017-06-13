@@ -65,13 +65,5 @@ tags:
 > 
 > Berlin, den 03.04.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 14:44
-> 14:47
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 14:44  
+> Ende: 14:47

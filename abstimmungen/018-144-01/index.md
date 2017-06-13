@@ -62,13 +62,5 @@ tags:
 > 
 > Berlin, den 04.12.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 11:01
-> 11:04
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 11:01  
+> Ende: 11:04

@@ -59,13 +59,5 @@ tags:
 > 
 > Berlin, den 09.03.2017
 > 
-> Beginn:
-> Ende:
-> 
-> 13:31
-> 13:34
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 13:31  
+> Ende: 13:34

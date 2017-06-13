@@ -63,13 +63,5 @@ tags:
 > 
 > Berlin, den 30.03.2017
 > 
-> Beginn:
-> Ende:
-> 
-> 17:40
-> 17:42
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 17:40  
+> Ende: 17:42

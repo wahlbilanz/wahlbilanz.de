@@ -66,13 +66,5 @@ tags:
 > 
 > Berlin, den 28.11.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 12:48
-> 12:51
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 12:48  
+> Ende: 12:51

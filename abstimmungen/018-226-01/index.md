@@ -60,13 +60,5 @@ tags:
 > 
 > Berlin, den 24.03.2017
 > 
-> Beginn:
-> Ende:
-> 
-> 10:15
-> 10:17
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 10:15  
+> Ende: 10:17

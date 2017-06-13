@@ -61,13 +61,5 @@ tags:
 > 
 > Berlin, den 23.05.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 12:10
-> 12:13
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 12:10  
+> Ende: 12:13

@@ -60,13 +60,5 @@ tags:
 > 
 > Berlin, den 29.09.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 19:29
-> 19:32
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 19:29  
+> Ende: 19:32

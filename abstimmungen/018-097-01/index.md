@@ -65,13 +65,5 @@ tags:
 > 
 > Berlin, den 26.03.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 15:32
-> 15:35
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 15:32  
+> Ende: 15:35

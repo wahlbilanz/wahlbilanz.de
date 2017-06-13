@@ -61,13 +61,5 @@ tags:
 > 
 > Berlin, den 02.07.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 21:19
-> 21:22
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 21:19  
+> Ende: 21:22

@@ -57,13 +57,5 @@ tags:
 > 
 > Berlin, den 18.12.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 21:18
-> 21:21
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 21:18  
+> Ende: 21:21

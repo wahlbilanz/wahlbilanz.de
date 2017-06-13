@@ -64,13 +64,5 @@ tags:
 > 
 > Berlin, den 10.11.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 17:52
-> 17:55
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 17:52  
+> Ende: 17:55

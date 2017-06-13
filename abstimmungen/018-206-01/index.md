@@ -58,13 +58,5 @@ tags:
 > 
 > Berlin, den 01.12.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 18:10
-> 18:12
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 18:10  
+> Ende: 18:12

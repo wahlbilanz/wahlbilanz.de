@@ -54,13 +54,5 @@ tags:
 > 
 > Berlin, den 08.05.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 19:29
-> 19:33
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 19:29  
+> Ende: 19:33

@@ -64,13 +64,5 @@ tags:
 > 
 > Berlin, den 25.09.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 13:09
-> 13:12
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 13:09  
+> Ende: 13:12

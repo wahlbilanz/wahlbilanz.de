@@ -57,13 +57,5 @@ tags:
 > 
 > Berlin, den 09.11.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 15:17
-> 15:19
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 15:17  
+> Ende: 15:19

@@ -57,13 +57,5 @@ tags:
 > 
 > Berlin, den 05.11.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 17:43
-> 17:46
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 17:43  
+> Ende: 17:46

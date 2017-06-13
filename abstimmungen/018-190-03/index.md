@@ -70,13 +70,5 @@ tags:
 > 
 > Berlin, den 22.09.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 13:15
-> 13:17
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 13:15  
+> Ende: 13:17

@@ -61,13 +61,5 @@ tags:
 > 
 > Berlin, den 29. Jan. 14
 > 
-> Beginn:
-> Ende:
-> 
-> 16:41
-> 16:44
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 16:41  
+> Ende: 16:44

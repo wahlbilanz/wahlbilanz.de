@@ -61,13 +61,5 @@ tags:
 > 
 > Berlin, den 29.01.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 16:42
-> 16:45
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 16:42  
+> Ende: 16:45

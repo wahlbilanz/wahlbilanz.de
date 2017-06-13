@@ -59,13 +59,5 @@ tags:
 > 
 > Berlin, den 22.05.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 19:39
-> 19:42
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 19:39  
+> Ende: 19:42

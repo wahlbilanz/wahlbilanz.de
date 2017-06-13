@@ -61,13 +61,5 @@ tags:
 > 
 > Berlin, den 23.11.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 13:05
-> 13:08
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 13:05  
+> Ende: 13:08

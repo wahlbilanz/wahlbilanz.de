@@ -59,13 +59,5 @@ tags:
 > 
 > Berlin, den 13.11.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 20:17
-> 20:19
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 20:17  
+> Ende: 20:19

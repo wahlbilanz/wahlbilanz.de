@@ -63,13 +63,5 @@ tags:
 > 
 > Berlin, den 20.02.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 17:50
-> 17:54
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 17:50  
+> Ende: 17:54

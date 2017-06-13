@@ -55,13 +55,5 @@ tags:
 > 
 > Berlin, den 28.11.2013
 > 
-> Beginn:
-> Ende:
-> 
-> 16:55
-> 16:59
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 16:55  
+> Ende: 16:59

@@ -56,13 +56,5 @@ tags:
 > 
 > Berlin, den 18.02.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 17:38
-> 17:41
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 17:38  
+> Ende: 17:41

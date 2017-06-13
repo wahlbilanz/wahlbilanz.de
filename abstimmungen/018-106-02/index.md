@@ -62,13 +62,5 @@ tags:
 > 
 > Berlin, den 21.05.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 20:42
-> 20:46
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 20:42  
+> Ende: 20:46

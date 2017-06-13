@@ -58,13 +58,5 @@ tags:
 > 
 > Berlin, den 08.07.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 10:37
-> 10:40
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 10:37  
+> Ende: 10:40

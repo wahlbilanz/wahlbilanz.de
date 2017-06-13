@@ -61,13 +61,5 @@ tags:
 > 
 > Berlin, den 19.06.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 10:11
-> 10:14
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 10:11  
+> Ende: 10:14

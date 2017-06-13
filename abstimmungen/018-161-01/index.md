@@ -65,13 +65,5 @@ tags:
 > 
 > Berlin, den 17.03.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 14:10
-> 14:12
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 14:10  
+> Ende: 14:12

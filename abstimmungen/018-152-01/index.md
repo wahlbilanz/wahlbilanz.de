@@ -62,13 +62,5 @@ tags:
 > 
 > Berlin, den 28.01.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 13:13
-> 13:16
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 13:13  
+> Ende: 13:16

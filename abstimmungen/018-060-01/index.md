@@ -58,13 +58,5 @@ tags:
 > 
 > Berlin, den 16.10.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 11:15
-> 11:18
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 11:15  
+> Ende: 11:18

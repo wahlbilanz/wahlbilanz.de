@@ -66,13 +66,5 @@ tags:
 > 
 > Berlin, den 27.11.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 12:48
-> 12:51
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 12:48  
+> Ende: 12:51

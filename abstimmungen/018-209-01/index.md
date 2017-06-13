@@ -60,13 +60,5 @@ tags:
 > 
 > Berlin, den 15.12.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 10:14
-> 10:18
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 10:14  
+> Ende: 10:18

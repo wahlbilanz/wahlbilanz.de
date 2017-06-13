@@ -59,13 +59,5 @@ tags:
 > 
 > Berlin, den 05.06.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 15:41
-> 15:44
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 15:41  
+> Ende: 15:44

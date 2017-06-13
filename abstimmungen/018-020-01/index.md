@@ -65,13 +65,5 @@ tags:
 > 
 > Berlin, den 13.03.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 16:48
-> 16:51
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 16:48  
+> Ende: 16:51

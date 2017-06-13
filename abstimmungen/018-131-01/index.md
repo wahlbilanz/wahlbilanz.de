@@ -56,13 +56,5 @@ tags:
 > 
 > Berlin, den 16.10.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 10:32
-> 10:35
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 10:32  
+> Ende: 10:35

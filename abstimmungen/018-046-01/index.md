@@ -61,13 +61,5 @@ tags:
 > 
 > Berlin, den 03.07.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 12:44
-> 12:47
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 12:44  
+> Ende: 12:47

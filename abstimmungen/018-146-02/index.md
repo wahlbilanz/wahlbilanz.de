@@ -59,13 +59,5 @@ tags:
 > 
 > Berlin, den 17.12.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 12:09
-> 12:12
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 12:09  
+> Ende: 12:12

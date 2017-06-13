@@ -61,13 +61,5 @@ tags:
 > 
 > Berlin, den 12.05.2016
 > 
-> Beginn:
-> Ende:
-> 
-> 15:07
-> 15:10
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 15:07  
+> Ende: 15:10

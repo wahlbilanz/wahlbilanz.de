@@ -62,13 +62,5 @@ tags:
 > 
 > Berlin, den 10.04.2014
 > 
-> Beginn:
-> Ende:
-> 
-> 17:58
-> 18:02
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 17:58  
+> Ende: 18:02

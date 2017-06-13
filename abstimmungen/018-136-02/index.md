@@ -60,13 +60,5 @@ tags:
 > 
 > Berlin, den 12.11.2015
 > 
-> Beginn:
-> Ende:
-> 
-> 20:59
-> 21:02
-> Seite:
-> 
-> 1
-> 
-> 
+> Beginn: 20:59  
+> Ende: 21:02
