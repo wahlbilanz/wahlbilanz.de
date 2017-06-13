@@ -7,7 +7,10 @@ tags:
  - Todo
 ---
 
-* Abstimmung: 018-134-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 134
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=370](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=370)
     * 

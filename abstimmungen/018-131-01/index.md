@@ -8,7 +8,10 @@ tags:
  - Vorratsdatenspeicherung
 ---
 
-* Abstimmung: 018-131-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 131
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=365](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=365)
     * [http://www.abgeordnetenwatch.de/wiedereinfuehrung_der_vorratsdatenspeicherung-1105-767.html](http://www.abgeordnetenwatch.de/wiedereinfuehrung_der_vorratsdatenspeicherung-1105-767.html)

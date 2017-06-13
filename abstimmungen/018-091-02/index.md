@@ -11,7 +11,10 @@ tags:
  - Mietpreisbremse
 ---
 
-* Abstimmung: 018-091-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 91
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=328](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=328)
     * 

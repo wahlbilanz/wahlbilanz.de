@@ -11,7 +11,10 @@ tags:
  - EU
 ---
 
-* Abstimmung: 018-020-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 20
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=256](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=256)
     * [http://www.abgeordnetenwatch.de/kennzeichnungspflicht_von_gen_honig-1105-587.html](http://www.abgeordnetenwatch.de/kennzeichnungspflicht_von_gen_honig-1105-587.html)

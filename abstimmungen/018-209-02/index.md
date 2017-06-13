@@ -10,7 +10,10 @@ tags:
  - UN
 ---
 
-* Abstimmung: 018-209-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 209
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=443](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=443)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan-1105-830.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan-1105-830.html)

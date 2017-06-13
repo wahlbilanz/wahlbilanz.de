@@ -12,7 +12,10 @@ tags:
  - UN
 ---
 
-* Abstimmung: 018-161-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 161
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=390](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=390)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-788.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-788.html)

@@ -10,7 +10,10 @@ tags:
 
 ---
 
-* Abstimmung: 018-018-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 18
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=255](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=255)
     * [http://www.abgeordnetenwatch.de/gesetz_zur_strafbarkeit_von_abgeordnetenbestechung-1105-556.html](http://www.abgeordnetenwatch.de/gesetz_zur_strafbarkeit_von_abgeordnetenbestechung-1105-556.html)

@@ -10,7 +10,10 @@ tags:
  - UN
 ---
 
-* Abstimmung: 018-215-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 215
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=452](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=452)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_mali-1105-847.html](http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_mali-1105-847.html)

@@ -9,7 +9,10 @@ tags:
  - Asyl
 ---
 
-* Abstimmung: 018-115-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 115
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=346](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=346)
     * [http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html](http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html)

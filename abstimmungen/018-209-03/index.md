@@ -10,7 +10,10 @@ tags:
  - UN
 ---
 
-* Abstimmung: 018-209-03
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 209
+    * Abstimmung: 3
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=445](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=445)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_darfur-1105-831.html](http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_darfur-1105-831.html)

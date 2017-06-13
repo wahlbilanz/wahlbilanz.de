@@ -10,7 +10,10 @@ tags:
  - Entwicklung
 ---
 
-* Abstimmung: 018-071-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 71
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=318](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=318)
     * [http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html](http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html)

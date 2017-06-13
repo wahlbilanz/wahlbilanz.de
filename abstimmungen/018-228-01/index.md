@@ -12,7 +12,10 @@ tags:
  - Transparenz
 ---
 
-* Abstimmung: 018-228-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 228
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=460](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=460)
     * [http://www.abgeordnetenwatch.de/einfuehrung_eines_verbandsklagerechts_im_lohngerechtigkeitsgesetz-1105-863.html](http://www.abgeordnetenwatch.de/einfuehrung_eines_verbandsklagerechts_im_lohngerechtigkeitsgesetz-1105-863.html)

@@ -12,7 +12,10 @@ tags:
  - Hinkley Point C
 ---
 
-* Abstimmung: 018-115-05
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 115
+    * Abstimmung: 5
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=350](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=350)
     * [http://www.abgeordnetenwatch.de/neubausubventionen_fuer_atomkraftwerke_in_der_eu_verhindern-1105-756.html](http://www.abgeordnetenwatch.de/neubausubventionen_fuer_atomkraftwerke_in_der_eu_verhindern-1105-756.html)

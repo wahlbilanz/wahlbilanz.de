@@ -10,7 +10,10 @@ tags:
  - Rente
 ---
 
-* Abstimmung: 018-046-06
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 46
+    * Abstimmung: 6
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=296](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=296)
     * [http://www.abgeordnetenwatch.de/angleichung_der_renten_in_ostdeutschland_an_westniveau-1105-647.html](http://www.abgeordnetenwatch.de/angleichung_der_renten_in_ostdeutschland_an_westniveau-1105-647.html)

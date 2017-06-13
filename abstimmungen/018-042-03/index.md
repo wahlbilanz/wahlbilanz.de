@@ -10,7 +10,10 @@ tags:
  - UN
 ---
 
-* Abstimmung: 018-042-03
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 42
+    * Abstimmung: 3
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=281](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=281)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_libanon_einsatzes_unfil-1105-626.html](http://www.abgeordnetenwatch.de/fortsetzung_des_libanon_einsatzes_unfil-1105-626.html)

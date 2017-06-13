@@ -12,7 +12,10 @@ tags:
  - Straßennetz
 ---
 
-* Abstimmung: 018-226-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 226
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=459](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=459)
     * [http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html](http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html)

@@ -10,7 +10,10 @@ tags:
  - Klima
 ---
 
-* Abstimmung: 018-143-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 143
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=377](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=377)
     * [http://www.abgeordnetenwatch.de/umsetzung_aktionsprogramm_klimaschutz_2020-1105-778.html](http://www.abgeordnetenwatch.de/umsetzung_aktionsprogramm_klimaschutz_2020-1105-778.html)

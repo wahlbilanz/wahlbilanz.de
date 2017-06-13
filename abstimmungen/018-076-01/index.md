@@ -10,7 +10,10 @@ tags:
  - NATO
 ---
 
-* Abstimmung: 018-076-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 76
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=320](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=320)
     * [http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_afghanistan-1105-704.html](http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_afghanistan-1105-704.html)

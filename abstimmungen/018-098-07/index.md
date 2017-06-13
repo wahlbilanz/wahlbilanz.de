@@ -9,7 +9,10 @@ tags:
  - Immobilien
 ---
 
-* Abstimmung: 018-098-07
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 98
+    * Abstimmung: 7
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=338](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=338)
     * [http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html](http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html)

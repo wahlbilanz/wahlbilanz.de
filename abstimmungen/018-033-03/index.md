@@ -7,7 +7,10 @@ tags:
  - Todo
 ---
 
-* Abstimmung: 018-033-03
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 33
+    * Abstimmung: 3
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=264](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=264)
     * [http://www.abgeordnetenwatch.de/transparenz_bei_ruestungsexportentscheidungen-1105-600.html](http://www.abgeordnetenwatch.de/transparenz_bei_ruestungsexportentscheidungen-1105-600.html)

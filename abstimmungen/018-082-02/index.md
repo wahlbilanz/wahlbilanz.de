@@ -10,7 +10,10 @@ tags:
  - NATO
 ---
 
-* Abstimmung: 018-082-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 82
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=325](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=325)
     * [http://www.abgeordnetenwatch.de/bundeswehreinsatz_zur_luftueberwachung_in_der_tuerkei-1105-709.html](http://www.abgeordnetenwatch.de/bundeswehreinsatz_zur_luftueberwachung_in_der_tuerkei-1105-709.html)

@@ -11,7 +11,10 @@ tags:
  - Afghanistan
 ---
 
-* Abstimmung: 018-146-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 146
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=380](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=380)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_afghanistan_einsatzes_der_bundeswehr-1105-780.html](http://www.abgeordnetenwatch.de/verlaengerung_des_afghanistan_einsatzes_der_bundeswehr-1105-780.html)

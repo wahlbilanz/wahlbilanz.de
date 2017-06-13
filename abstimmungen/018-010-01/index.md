@@ -11,7 +11,10 @@ tags:
 
 ---
 
-* Abstimmung: 018-010-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 10
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=250](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=250)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_patriot_einsatzes_in_der_tuerkei-1105-546.html](http://www.abgeordnetenwatch.de/fortsetzung_des_patriot_einsatzes_in_der_tuerkei-1105-546.html)

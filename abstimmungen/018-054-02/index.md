@@ -11,7 +11,10 @@ tags:
  - EU
 ---
 
-* Abstimmung: 018-054-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 54
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=299](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=299)
     * [http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html](http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html)

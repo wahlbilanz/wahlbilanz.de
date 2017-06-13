@@ -9,7 +9,10 @@ tags:
  - Pass
 ---
 
-* Abstimmung: 018-046-05
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 46
+    * Abstimmung: 5
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=295](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=295)
     * [http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html](http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html)

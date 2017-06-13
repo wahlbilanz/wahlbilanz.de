@@ -9,7 +9,10 @@ tags:
  - Integration
 ---
 
-* Abstimmung: 018-130-03
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 130
+    * Abstimmung: 3
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=363](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=363)
     * [http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html](http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html)

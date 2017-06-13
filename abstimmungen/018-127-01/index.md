@@ -10,7 +10,10 @@ tags:
  - Mittelmeer
 ---
 
-* Abstimmung: 018-127-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 127
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=356](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=356)
     * [http://www.abgeordnetenwatch.de/bundeswehreinsatz_zur_bekaempfung_von_menschenschmuggel_im_mittelmeer_eunafor_med-1105-764.html](http://www.abgeordnetenwatch.de/bundeswehreinsatz_zur_bekaempfung_von_menschenschmuggel_im_mittelmeer_eunafor_med-1105-764.html)

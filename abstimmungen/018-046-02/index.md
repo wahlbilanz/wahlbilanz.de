@@ -12,7 +12,10 @@ tags:
  - Arbeitgeber
 ---
 
-* Abstimmung: 018-046-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 46
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=290](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=290)
     * [http://www.abgeordnetenwatch.de/flaechendeckender_mindestlohn_von_8_50_euro-1105-627.html](http://www.abgeordnetenwatch.de/flaechendeckender_mindestlohn_von_8_50_euro-1105-627.html)

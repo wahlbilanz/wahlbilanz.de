@@ -13,7 +13,10 @@ tags:
 
 ---
 
-* Abstimmung: 018-026-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 26
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=259](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=259)
     * [http://www.abgeordnetenwatch.de/beteiligung_deutscher_streikraefte_an_ausbildungsmission_in_somalia-1105-590.html](http://www.abgeordnetenwatch.de/beteiligung_deutscher_streikraefte_an_ausbildungsmission_in_somalia-1105-590.html)

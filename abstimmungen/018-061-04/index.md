@@ -13,7 +13,10 @@ tags:
  - Demographie
 ---
 
-* Abstimmung: 018-061-04
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 61
+    * Abstimmung: 4
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=306](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=306)
     * 

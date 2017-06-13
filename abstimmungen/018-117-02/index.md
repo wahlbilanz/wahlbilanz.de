@@ -9,7 +9,10 @@ tags:
  - Stabilisierung
 ---
 
-* Abstimmung: 018-117-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 117
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=353](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=353)
     * [http://www.abgeordnetenwatch.de/verhandlungsmandat_fuer_griechenland_finanzhilfen-1105-758.html](http://www.abgeordnetenwatch.de/verhandlungsmandat_fuer_griechenland_finanzhilfen-1105-758.html)

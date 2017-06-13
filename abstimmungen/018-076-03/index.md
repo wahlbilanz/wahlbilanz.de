@@ -9,7 +9,10 @@ tags:
  
 ---
 
-* Abstimmung: 018-076-03
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 76
+    * Abstimmung: 3
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=322](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=322)
     * [http://www.abgeordnetenwatch.de/bundesdatenschutzgesetz-1105-707.html](http://www.abgeordnetenwatch.de/bundesdatenschutzgesetz-1105-707.html)

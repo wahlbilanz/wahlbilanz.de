@@ -11,7 +11,10 @@ tags:
  - NATO
 ---
 
-* Abstimmung: 018-199-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 199
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=437](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=437)
     * [http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-820.html](http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-820.html)

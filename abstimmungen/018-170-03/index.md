@@ -8,7 +8,10 @@ tags:
  - Bahn
 ---
 
-* Abstimmung: 018-170-03
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 170
+    * Abstimmung: 3
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=396](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=396)
     * [http://www.abgeordnetenwatch.de/hoehere_regionalisierungsmittel_fuer_den_bahnverkehr-1105-800.html](http://www.abgeordnetenwatch.de/hoehere_regionalisierungsmittel_fuer_den_bahnverkehr-1105-800.html)

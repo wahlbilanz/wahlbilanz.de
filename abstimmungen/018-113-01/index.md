@@ -10,7 +10,10 @@ tags:
  - UN
 ---
 
-* Abstimmung: 018-113-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 113
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=343](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=343)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_kosovo_kfor-1105-739.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_kosovo_kfor-1105-739.html)

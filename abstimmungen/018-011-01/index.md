@@ -11,7 +11,10 @@ tags:
  - EU
 ---
 
-* Abstimmung: 018-011-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 11
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=251](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=251)
     * [http://www.abgeordnetenwatch.de/anbau_von_genmais_in_der_eu_verhindern-1105-548.html](http://www.abgeordnetenwatch.de/anbau_von_genmais_in_der_eu_verhindern-1105-548.html)

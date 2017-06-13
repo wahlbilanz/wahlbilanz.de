@@ -8,7 +8,10 @@ tags:
 
 ---
 
-* Abstimmung: 018-026-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 26
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=258](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=258)
     * [http://www.abgeordnetenwatch.de/minderheitenrechte_im_bundestag-1105-592.html](http://www.abgeordnetenwatch.de/minderheitenrechte_im_bundestag-1105-592.html)

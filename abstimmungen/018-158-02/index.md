@@ -9,7 +9,10 @@ tags:
  - Asyl
 ---
 
-* Abstimmung: 018-158-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 158
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=386](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=386)
     * [http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_ii-1105-786.html](http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_ii-1105-786.html)

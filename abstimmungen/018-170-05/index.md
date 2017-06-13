@@ -14,7 +14,10 @@ tags:
  - NAVFOR
 ---
 
-* Abstimmung: 018-170-05
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 170
+    * Abstimmung: 5
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=398](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=398)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-792.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-792.html)

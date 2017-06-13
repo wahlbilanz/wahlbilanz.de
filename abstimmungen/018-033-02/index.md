@@ -13,7 +13,10 @@ tags:
 
 ---
 
-* Abstimmung: 018-033-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 33
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=263](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=263)
     * [http://www.abgeordnetenwatch.de/mindestlohn_in_der_fleischwirtschaft-1105-598.html](http://www.abgeordnetenwatch.de/mindestlohn_in_der_fleischwirtschaft-1105-598.html)

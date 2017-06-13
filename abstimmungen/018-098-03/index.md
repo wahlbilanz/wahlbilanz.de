@@ -13,7 +13,10 @@ tags:
  - Vignette
 ---
 
-* Abstimmung: 018-098-03
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 98
+    * Abstimmung: 3
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=334](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=334)
     * [http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html](http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html)

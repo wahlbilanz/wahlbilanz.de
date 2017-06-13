@@ -11,7 +11,10 @@ tags:
  - Existenzminimum
 ---
 
-* Abstimmung: 018-179-03
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 179
+    * Abstimmung: 3
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=402](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=402)
     * 

@@ -12,7 +12,10 @@ tags:
  - BAföG
 ---
 
-* Abstimmung: 018-066-04
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 66
+    * Abstimmung: 4
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=310](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=310)
     * 

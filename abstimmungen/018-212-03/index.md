@@ -11,7 +11,10 @@ tags:
  - Berlin
 ---
 
-* Abstimmung: 018-212-03
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 212
+    * Abstimmung: 3
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=450](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=450)
     * [http://www.abgeordnetenwatch.de/verkauf_des_dragoner_areals-1105-844.html](http://www.abgeordnetenwatch.de/verkauf_des_dragoner_areals-1105-844.html)

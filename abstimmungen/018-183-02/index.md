@@ -10,7 +10,10 @@ tags:
  - Nötigung
 ---
 
-* Abstimmung: 018-183-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 183
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=414](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=414)
     * [http://www.abgeordnetenwatch.de/reform_des_sexualstrafrechts_nein_heisst_nein-1105-802.html](http://www.abgeordnetenwatch.de/reform_des_sexualstrafrechts_nein_heisst_nein-1105-802.html)

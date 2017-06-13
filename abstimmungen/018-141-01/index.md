@@ -12,7 +12,10 @@ tags:
  - Maut
 ---
 
-* Abstimmung: 018-141-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 141
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=375](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=375)
     * 

@@ -9,7 +9,10 @@ tags:
  - Schwarzarbeit
 ---
 
-* Abstimmung: 018-209-05
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 209
+    * Abstimmung: 5
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=447](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=447)
     * [http://www.abgeordnetenwatch.de/bekaempfung_der_schwarzarbeit-1105-832.html](http://www.abgeordnetenwatch.de/bekaempfung_der_schwarzarbeit-1105-832.html)

@@ -10,7 +10,10 @@ tags:
  - UN
 ---
 
-* Abstimmung: 018-136-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 136
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=372](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=372)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_im_suedsudan_unmiss-1105-774.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_im_suedsudan_unmiss-1105-774.html)

@@ -10,7 +10,10 @@ tags:
  - Kindergeld
 ---
 
-* Abstimmung: 018-112-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 112
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=342](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=342)
     * [http://www.abgeordnetenwatch.de/rueckwirkende_erhoehung_von_kinderfreibetrag_und_kindergeld-1105-746.html](http://www.abgeordnetenwatch.de/rueckwirkende_erhoehung_von_kinderfreibetrag_und_kindergeld-1105-746.html)

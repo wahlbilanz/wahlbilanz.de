@@ -10,7 +10,10 @@ tags:
  - NATO
 ---
 
-* Abstimmung: 018-146-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 146
+    * Abstimmung: 2
 * Links: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_im_mittelmeer_oae-1105-781.html
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=381](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=381)
     * 

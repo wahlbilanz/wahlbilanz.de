@@ -11,7 +11,10 @@ tags:
  - UN
 ---
 
-* Abstimmung: 018-082-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 82
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=324](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=324)
     * [http://www.abgeordnetenwatch.de/ausbildungsunterstuetzungseinsatz_kurdistan_irak-1105-711.html](http://www.abgeordnetenwatch.de/ausbildungsunterstuetzungseinsatz_kurdistan_irak-1105-711.html)

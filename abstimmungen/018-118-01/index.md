@@ -9,7 +9,10 @@ tags:
  - Stabilisierung
 ---
 
-* Abstimmung: 018-118-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 118
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=355](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=355)
     * [http://www.abgeordnetenwatch.de/gewaehrung_eines_86_mrd_euro_kreditpakets_fuer_griechenland-1105-762.html](http://www.abgeordnetenwatch.de/gewaehrung_eines_86_mrd_euro_kreditpakets_fuer_griechenland-1105-762.html)

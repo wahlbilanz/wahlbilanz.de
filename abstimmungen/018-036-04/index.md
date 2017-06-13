@@ -14,7 +14,10 @@ tags:
  - EU
 ---
 
-* Abstimmung: 018-036-04
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 36
+    * Abstimmung: 4
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=277](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=277)
     * [http://www.abgeordnetenwatch.de/nationale_ausnahmeregelungen_beim_anbau_von_gentechnik-1105-666.html](http://www.abgeordnetenwatch.de/nationale_ausnahmeregelungen_beim_anbau_von_gentechnik-1105-666.html)

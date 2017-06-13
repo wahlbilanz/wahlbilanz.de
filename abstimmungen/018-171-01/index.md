@@ -13,7 +13,10 @@ tags:
  - Bleiberecht
 ---
 
-* Abstimmung: 018-171-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 171
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=399](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=399)
     * [http://www.abgeordnetenwatch.de/einstufung_von_algerien_marokko_und_tunesien_als_sichere_herkunftsstaaten-1105-793.html](http://www.abgeordnetenwatch.de/einstufung_von_algerien_marokko_und_tunesien_als_sichere_herkunftsstaaten-1105-793.html)

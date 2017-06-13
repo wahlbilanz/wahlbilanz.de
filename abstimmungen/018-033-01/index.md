@@ -10,7 +10,10 @@ tags:
 
 ---
 
-* Abstimmung: 018-033-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 33
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=262](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=262)
     * [http://www.abgeordnetenwatch.de/kuendigung_der_bilateralen_kooperationen_im_bereich_der_nutzung_atomarer_technologien-1105-601.html](http://www.abgeordnetenwatch.de/kuendigung_der_bilateralen_kooperationen_im_bereich_der_nutzung_atomarer_technologien-1105-601.html)

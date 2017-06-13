@@ -10,7 +10,10 @@ tags:
  - Syrien
 ---
 
-* Abstimmung: 018-144-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 144
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=379](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=379)
     * [http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-777.html](http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-777.html)

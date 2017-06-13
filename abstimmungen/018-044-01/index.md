@@ -10,7 +10,10 @@ tags:
  - Umwelt
 ---
 
-* Abstimmung: 018-044-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 44
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=283](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=283)
     * [http://www.abgeordnetenwatch.de/novelle_des_eeg-1105-629.html](http://www.abgeordnetenwatch.de/novelle_des_eeg-1105-629.html)

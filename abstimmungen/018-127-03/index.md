@@ -10,7 +10,10 @@ tags:
  - Sanktionen
 ---
 
-* Abstimmung: 018-127-03
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 127
+    * Abstimmung: 3
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=358](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=358)
     * 

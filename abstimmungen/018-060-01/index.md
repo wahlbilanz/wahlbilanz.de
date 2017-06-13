@@ -10,7 +10,10 @@ tags:
  - Hinkley Point C
 ---
 
-* Abstimmung: 018-060-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 60
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=302](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=302)
     * 

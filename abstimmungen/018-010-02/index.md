@@ -11,7 +11,10 @@ tags:
 
 ---
 
-* Abstimmung: 018-010-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 10
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=249](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=249)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_anti_terror_einsatzes_im_mittelmeer_oae-1105-547.html](http://www.abgeordnetenwatch.de/verlaengerung_des_anti_terror_einsatzes_im_mittelmeer_oae-1105-547.html)

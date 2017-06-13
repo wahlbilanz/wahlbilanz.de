@@ -13,7 +13,10 @@ tags:
 
 ---
 
-* Abstimmung: 018-017-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 17
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=253](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=253)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali-1105-553.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali-1105-553.html)

@@ -10,7 +10,10 @@ tags:
  - UN
 ---
 
-* Abstimmung: 018-042-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 42
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=280](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=280)
     * [http://www.abgeordnetenwatch.de/verlaengerung_der_bundeswehrbeteiligung_an_un_mission_in_mali_unterstuetzungsmission-1105-628.html](http://www.abgeordnetenwatch.de/verlaengerung_der_bundeswehrbeteiligung_an_un_mission_in_mali_unterstuetzungsmission-1105-628.html)

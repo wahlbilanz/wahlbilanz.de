@@ -11,7 +11,10 @@ tags:
  - Rente
 ---
 
-* Abstimmung: 018-212-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 212
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=448](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=448)
     * [http://www.abgeordnetenwatch.de/rentenansprueche_fuer_ddr_bergleute-1105-845.html](http://www.abgeordnetenwatch.de/rentenansprueche_fuer_ddr_bergleute-1105-845.html)

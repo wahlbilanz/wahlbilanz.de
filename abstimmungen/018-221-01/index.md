@@ -12,7 +12,10 @@ tags:
  - NATO
 ---
 
-* Abstimmung: 018-221-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 221
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=454](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=454)
     * [http://www.abgeordnetenwatch.de/keine_erhoehung_der_verteidigungsausgaben_auf_2_prozent_des_bip-1105-860.html](http://www.abgeordnetenwatch.de/keine_erhoehung_der_verteidigungsausgaben_auf_2_prozent_des_bip-1105-860.html)

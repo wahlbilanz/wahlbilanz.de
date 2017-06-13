@@ -9,7 +9,10 @@ tags:
  - Apotheken
 ---
 
-* Abstimmung: 018-200-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 200
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=436](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=436)
     * [http://www.abgeordnetenwatch.de/arzneimittelreform-1105-821.html](http://www.abgeordnetenwatch.de/arzneimittelreform-1105-821.html)

@@ -12,7 +12,10 @@ tags:
  - Umwelt
 ---
 
-* Abstimmung: 018-044-06
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 44
+    * Abstimmung: 6
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=288](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=288)
     * [http://www.abgeordnetenwatch.de/laenderoeffnungsklausel_zur_vorgabe_von_mindestabstaenden_zwischen_windenergieanlagen-1105-667.html](http://www.abgeordnetenwatch.de/laenderoeffnungsklausel_zur_vorgabe_von_mindestabstaenden_zwischen_windenergieanlagen-1105-667.html)

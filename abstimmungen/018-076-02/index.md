@@ -10,7 +10,10 @@ tags:
  - NATO
 ---
 
-* Abstimmung: 018-076-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 76
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=321](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=321)
     * [http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_mittelmeer_active_endeavour-1105-708.html](http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_mittelmeer_active_endeavour-1105-708.html)

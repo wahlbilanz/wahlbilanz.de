@@ -13,7 +13,10 @@ tags:
  - Mittelmeer
 ---
 
-* Abstimmung: 018-183-04
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 183
+    * Abstimmung: 4
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=412](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=412)
     * 

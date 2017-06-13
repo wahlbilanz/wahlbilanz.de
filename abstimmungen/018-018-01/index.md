@@ -11,7 +11,10 @@ tags:
 
 ---
 
-* Abstimmung: 018-018-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 18
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=254](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=254)
     * [http://www.abgeordnetenwatch.de/diaetenerhoehung-1105-557.html](http://www.abgeordnetenwatch.de/diaetenerhoehung-1105-557.html)

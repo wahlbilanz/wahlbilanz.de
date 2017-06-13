@@ -11,7 +11,10 @@ tags:
  - UN
 ---
 
-* Abstimmung: 018-152-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 152
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=383](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=383)
     * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_nord_irak-1105-783.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_nord_irak-1105-783.html)

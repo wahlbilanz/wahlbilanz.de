@@ -13,7 +13,10 @@ tags:
  - EU
 ---
 
-* Abstimmung: 018-106-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 106
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=340](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=340)
     * [http://www.abgeordnetenwatch.de/verlaengerung_bundeswehreinsatz_somalia_operation_atalanta-1105-729.html](http://www.abgeordnetenwatch.de/verlaengerung_bundeswehreinsatz_somalia_operation_atalanta-1105-729.html)

@@ -11,7 +11,10 @@ tags:
  - OAE
 ---
 
-* Abstimmung: 018-193-03
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 193
+    * Abstimmung: 3
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=421](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=421)
     * [http://www.abgeordnetenwatch.de/bundeswehrbeteiligung_an_nato_operation_sea_guardian-1105-815.html](http://www.abgeordnetenwatch.de/bundeswehrbeteiligung_an_nato_operation_sea_guardian-1105-815.html)

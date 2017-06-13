@@ -10,7 +10,10 @@ tags:
  - UN
 ---
 
-* Abstimmung: 018-136-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 136
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=373](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=373)
     * [http://www.abgeordnetenwatch.de/verlaengerung_bundeswehr_einsatz_in_darfur_unamid-1105-775.html](http://www.abgeordnetenwatch.de/verlaengerung_bundeswehr_einsatz_in_darfur_unamid-1105-775.html)

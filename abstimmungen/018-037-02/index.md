@@ -11,7 +11,10 @@ tags:
  - Rente
 ---
 
-* Abstimmung: 018-037-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 37
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=271](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=271)
     * [http://www.abgeordnetenwatch.de/rentenpaket-1105-602.html](http://www.abgeordnetenwatch.de/rentenpaket-1105-602.html)

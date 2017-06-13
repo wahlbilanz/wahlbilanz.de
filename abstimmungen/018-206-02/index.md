@@ -9,7 +9,10 @@ tags:
  - EU
 ---
 
-* Abstimmung: 018-206-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 206
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=432](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=432)
     * [http://www.abgeordnetenwatch.de/drittes_gesetz_zur_aenderung_des_seefischereigesetzes-1105-827.html](http://www.abgeordnetenwatch.de/drittes_gesetz_zur_aenderung_des_seefischereigesetzes-1105-827.html)

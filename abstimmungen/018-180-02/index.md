@@ -14,7 +14,10 @@ tags:
  - Umwelt
 ---
 
-* Abstimmung: 018-180-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 180
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=404](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=404)
     * [http://www.abgeordnetenwatch.de/fracking_neuregelung-1105-797.html](http://www.abgeordnetenwatch.de/fracking_neuregelung-1105-797.html)

@@ -9,7 +9,10 @@ tags:
  - Bundesregierung
 ---
 
-* Abstimmung: 018-042-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 42
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=279](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=279)
     * 

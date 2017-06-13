@@ -9,7 +9,10 @@ tags:
  - Stabilisierung
 ---
 
-* Abstimmung: 018-089-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 89
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=327](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=327)
     * [http://www.abgeordnetenwatch.de/finanzhilfen_fuer_griechenland-1105-712.html](http://www.abgeordnetenwatch.de/finanzhilfen_fuer_griechenland-1105-712.html)

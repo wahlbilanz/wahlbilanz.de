@@ -8,7 +8,10 @@ tags:
  - Lebensversicherung
 ---
 
-* Abstimmung: 018-047-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 47
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=298](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=298)
     * 

@@ -10,7 +10,10 @@ tags:
  - Umwelt
 ---
 
-* Abstimmung: 018-184-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 184
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=411](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=411)
     * [http://www.abgeordnetenwatch.de/reform_des_erneuerbare_energien_gesetzes_eeg-1105-803.html](http://www.abgeordnetenwatch.de/reform_des_erneuerbare_energien_gesetzes_eeg-1105-803.html)

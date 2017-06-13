@@ -9,7 +9,10 @@ tags:
  - Entwicklung
 ---
 
-* Abstimmung: 018-204-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 204
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=434](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=434)
     * [http://www.abgeordnetenwatch.de/haushalt_2017-1105-826.html](http://www.abgeordnetenwatch.de/haushalt_2017-1105-826.html)

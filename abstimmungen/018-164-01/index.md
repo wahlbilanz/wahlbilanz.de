@@ -10,7 +10,10 @@ tags:
  - Bestechung
 ---
 
-* Abstimmung: 018-164-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 164
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=391](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=391)
     * [http://www.abgeordnetenwatch.de/bekaempfung_von_korruption_im_gesundheitswesen-1105-789.html](http://www.abgeordnetenwatch.de/bekaempfung_von_korruption_im_gesundheitswesen-1105-789.html)

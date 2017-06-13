@@ -12,7 +12,10 @@ tags:
  - Rente
 ---
 
-* Abstimmung: 018-212-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 212
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=451](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=451)
     * 

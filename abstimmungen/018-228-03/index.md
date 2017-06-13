@@ -13,7 +13,10 @@ tags:
 
 ---
 
-* Abstimmung: 018-228-03
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 228
+    * Abstimmung: 3
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=462](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=462)
     * [http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_somalia_eutm-1105-862.html](http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_somalia_eutm-1105-862.html)

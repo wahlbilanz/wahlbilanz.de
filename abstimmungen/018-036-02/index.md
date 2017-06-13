@@ -13,7 +13,10 @@ tags:
  - Familie
 ---
 
-* Abstimmung: 018-036-02
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 36
+    * Abstimmung: 2
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=276](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=276)
     * [http://www.abgeordnetenwatch.de/aenderungsantrag_gesetz_zur_sukzessivadoption_durch_lebenspartner-1105-619.html](http://www.abgeordnetenwatch.de/aenderungsantrag_gesetz_zur_sukzessivadoption_durch_lebenspartner-1105-619.html)

@@ -13,7 +13,10 @@ tags:
  - USA
 ---
 
-* Abstimmung: 018-054-01
+* Namentliche Abstimmung:
+    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
+    * Bundestagssitzung: 54
+    * Abstimmung: 1
 * Links: 
     * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=300](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=300)
     * [http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html](http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html)
