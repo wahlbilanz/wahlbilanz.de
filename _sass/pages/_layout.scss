@@ -69,7 +69,7 @@
     }
   }
 }
-.nav-list {
+.nav-list, .nav-list-meta {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -87,11 +87,31 @@
       margin-top: 1em;
       text-transform: lowercase;
       font-size: 85%;
-      color: $secondary;
+      color: $warning;
       &:hover,
       &:focus {
-        color: lighten($secondary, 14%);
+				color: lighten($warning, 14%);
       }
     }
   }
+}
+
+.nav-list .nav-item
+{
+	&:after {
+		content: '\2015';
+	}
+	&:last-child:after {
+		content: '';
+	}
+	& a {
+		font-size: 1.1em;
+		text-transform: uppercase;
+		color: $secondary;
+		font-weight: 700;
+		&:hover,
+		&:focus {
+			color: lighten($secondary, 14%);
+		}
+	}
 }

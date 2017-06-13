@@ -27,6 +27,22 @@ sidebar: true
 
 {% assign allcats = allcats | split:'|' | sort %}
 
+
+
+<ul class="tag-cloud">
+{% for cat_name in allcats %}
+	<li style="font-size: 1.3em">
+		<a class="post-tag" href="#{{ cat_name | slugize }}">
+			{{ cat_name }}
+		</a>
+	</li>
+{% endfor %}
+</ul>
+
+
+
+
+
 {% for cat_name in allcats %}
 	<div class="tag-group">
 		<h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ cat_name }}</h5>

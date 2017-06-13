@@ -9,16 +9,29 @@
   <span class="author_bio mbm">{{ author.bio }}</span>
   <nav class="nav">
     <ul class="nav-list">
-      <li class="nav-item">
-        <a href="{{ site.url }}/">home</a>
-      </li>
-      {% for page in site.pages %} {% if page.title %}
-        {% if page.sidebar %}
-          <li class="nav-item">
-                <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
-          </li>
-        {% endif %}
-      {% endif %} {% endfor %}
+			<li class="nav-item">
+				<a href="{{ site.url }}/">Start</a>
+			</li>
+			<li class="nav-item">
+				<a href="{{ site.url }}/abstimmungen/">Abstimmungen</a>
+			</li>
+			<li class="nav-item">
+				<a href="{{ site.url }}/contribute/">Mach Mit!</a>
+			</li>
+    </ul>
+    <ul class="nav-list-meta">
+			<li class="nav-item">
+				<a href="{{ site.url }}/archive/">News-Archiv</a>
+			</li>
+			<li class="nav-item">
+				<a href="{{ site.url }}/categories/">Kategorien</a>
+			</li>
+			<li class="nav-item">
+				<a href="{{ site.url }}/tags/">Tags</a>
+			</li>
+			<li class="nav-item">
+				<a href="{{ site.url }}/about/">Über Wahlbilanz.de</a>
+			</li>
     </ul>
   </nav>
   {% include social-links.html %}
