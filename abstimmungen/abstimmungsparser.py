@@ -13,14 +13,30 @@ class Abstimmung:
 					self.data = data
 					break
 	
+	
 	def get_title (self):
 		return self.data["title"]
+	
+	
 	
 	def get_categories (self):
 		return self.data["categories"]
 	
 	def add_category (self, category):
 		self.data["categories"].append (category)
+	
+	
+	
+	def get_tags (self):
+		return self.data["tags"]
+	
+	def add_tag (self, tag):
+		self.data["tags"].append (tag)
+	
+	
+	
+	
+	
 	
 	def write_abstimmung (self, abstimmungsfile):
 		with open(abstimmungsfile, 'w') as f:
