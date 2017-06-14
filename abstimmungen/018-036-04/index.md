@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Gentechnikfreiheit im Pflanzenbau"
 categories:
  - Gentechnik
@@ -12,80 +12,60 @@ tags:
  - Gentechnik
  - Pflanzenbau
  - EU
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 36
+ abstimmung: 4
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=277
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=277
+ - title: http://www.abgeordnetenwatch.de/nationale_ausnahmeregelungen_beim_anbau_von_gentechnik-1105-666.html
+   url: http://www.abgeordnetenwatch.de/nationale_ausnahmeregelungen_beim_anbau_von_gentechnik-1105-666.html
+data:
+ - title: Abstimmungsergebnis 20140522_4-data.pdf
+   url: /res/abstimmungsliste/20140522_4-data.pdf
+ - title: Abstimmungsergebnis 20140522_4_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20140522_4_xls-data.csv
+documents:
+ - title: Drucksache 18/01450.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/014/1801450.pdf
+   local: /res/abstimmungsdaten/018-036-04/1801450.pdf
+preview: |
+     Deutscher Bundestag
+    
+     36. Sitzung des Deutschen Bundestages
+     am Donnerstag, 22.Mai 2014
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
+    
+     Antrag der Fraktionen CDU/CSU und SPD
+     Grüne Gentechnik - Sorgen und Vorbehalte der Menschen ernst nehmen, Selbstbestimmung
+     stärken, Wahlfreiheit ermöglichen
+     - Drucksache 18/1450 -
+    
+     Abgegebene Stimmen insgesamt:
+    
+     565
+     66
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     459
+    
+     Nein-Stimmen:
+    
+     106
+    
+     Enthaltungen:
+    
+     0
+    
+     Ungültige:
+    
+     0
+    
+     Berlin, den 05.06.2014
+    
+     Beginn: 19:43
+     Ende: 19:46
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 36
-    * Abstimmung: 4
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=277](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=277)
-    * [http://www.abgeordnetenwatch.de/nationale_ausnahmeregelungen_beim_anbau_von_gentechnik-1105-666.html](http://www.abgeordnetenwatch.de/nationale_ausnahmeregelungen_beim_anbau_von_gentechnik-1105-666.html)
-* Data: 
-    * [Abstimmungsergebnis 20140522_4-data.pdf](/res/abstimmungsliste/20140522_4-data.pdf)
-    * [Abstimmungsergebnis 20140522_4_xls-data.csv](/res/abstimmungsliste/analyses/20140522_4_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/01450.pdf](http://dip21.bundestag.de/dip21/btd/18/014/1801450.pdf) ([local copy](/res/abstimmungsdaten/018-036-04/1801450.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 311
-        * Ja: 289
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 22
-    * spd: 193
-        * Ja: 170
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 23
-    * die.linke: 64
-        * Ja: 0
-        * Nein: 52
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 12
-    * gruenen: 63
-        * Ja: 0
-        * Nein: 54
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 9
-* Preview: 
-> Deutscher Bundestag
-> 
-> 36. Sitzung des Deutschen Bundestages
-> am Donnerstag, 22.Mai 2014
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
-> 
-> Antrag der Fraktionen CDU/CSU und SPD
-> Grüne Gentechnik - Sorgen und Vorbehalte der Menschen ernst nehmen, Selbstbestimmung
-> stärken, Wahlfreiheit ermöglichen
-> - Drucksache 18/1450 -
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 565
-> 66
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 459
-> 
-> Nein-Stimmen:
-> 
-> 106
-> 
-> Enthaltungen:
-> 
-> 0
-> 
-> Ungültige:
-> 
-> 0
-> 
-> Berlin, den 05.06.2014
-> 
-> Beginn: 19:43  
-> Ende: 19:46

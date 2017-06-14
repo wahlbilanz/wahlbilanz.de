@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Bundeswehreinsatz in der Zentralafrikanischen Republik (EUFOR RCA)"
 categories:
  - Bundeswehr
@@ -10,84 +10,66 @@ tags:
  - UN
  - EUFOR RCA
 
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 30
+ abstimmung: 1
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=261
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=261
+ - title: http://www.abgeordnetenwatch.de/beteiligung_der_bundeswehr_an_eufor_einsatz_zentralafrika-1105-593.html
+   url: http://www.abgeordnetenwatch.de/beteiligung_der_bundeswehr_an_eufor_einsatz_zentralafrika-1105-593.html
+data:
+ - title: Abstimmungsergebnis 20140410-data.pdf
+   url: /res/abstimmungsliste/20140410-data.pdf
+ - title: Abstimmungsergebnis 20140410_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20140410_xls-data.csv
+documents:
+ - title: Drucksache 18/01081.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf
+   local: /res/abstimmungsdaten/018-030-01/1801081.pdf
+ - title: Drucksache 18/01095.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf
+   local: /res/abstimmungsdaten/018-030-01/1801095.pdf
+preview: |
+     Deutscher Bundestag
+    
+     30. Sitzung des Deutschen Bundestages
+     am Donnerstag, 10.April 2014
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+    
+     Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+     Bundesregierung
+     Entsendung bewaffneter deutscher Streitkräfte zur Beteiligung an der Europäischen
+     Überbrückungsmission in der Zentralafrikanischen Republik (EUFOR RCA) auf Grundlage
+     der Beschlüsse 2014/73/GASP sowie 2014/183/GASP des Rates der Europäischen Union
+     vom 10. Februar 2014 und vom 1. April 2014 in Verbindung mit den Resolutionen 2127
+     (2013) und 2134 (2014) des Sicherheitsrates der Vereinten Nationen vom 5. Dezember 2013
+     und vom 28. Januar 2014
+     Drucksachen 18/1081 und 18/1095
+    
+     Abgegebene Stimmen insgesamt:
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     576
+     55
+     514
+    
+     Nein-Stimmen:
+    
+     59
+    
+     Enthaltungen:
+    
+     3
+    
+     Ungültige:
+    
+     0
+    
+     Berlin, den 10.04.2014
+    
+     Beginn: 17:58
+     Ende: 18:02
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 30
-    * Abstimmung: 1
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=261](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=261)
-    * [http://www.abgeordnetenwatch.de/beteiligung_der_bundeswehr_an_eufor_einsatz_zentralafrika-1105-593.html](http://www.abgeordnetenwatch.de/beteiligung_der_bundeswehr_an_eufor_einsatz_zentralafrika-1105-593.html)
-* Data: 
-    * [Abstimmungsergebnis 20140410-data.pdf](/res/abstimmungsliste/20140410-data.pdf)
-    * [Abstimmungsergebnis 20140410_xls-data.csv](/res/abstimmungsliste/analyses/20140410_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/01081.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf) ([local copy](/res/abstimmungsdaten/018-030-01/1801081.pdf))
-    * [Drucksache 18/01095.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf) ([local copy](/res/abstimmungsdaten/018-030-01/1801095.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 311
-        * Ja: 292
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 19
-    * spd: 193
-        * Ja: 169
-        * Nein: 3
-        * Enthaltung: 1
-        * Ungültig: 0
-        * Nicht abgegeben: 20
-    * die.linke: 64
-        * Ja: 0
-        * Nein: 56
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 8
-    * gruenen: 63
-        * Ja: 53
-        * Nein: 0
-        * Enthaltung: 2
-        * Ungültig: 0
-        * Nicht abgegeben: 8
-* Preview: 
-> Deutscher Bundestag
-> 
-> 30. Sitzung des Deutschen Bundestages
-> am Donnerstag, 10.April 2014
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
-> 
-> Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
-> Bundesregierung
-> Entsendung bewaffneter deutscher Streitkräfte zur Beteiligung an der Europäischen
-> Überbrückungsmission in der Zentralafrikanischen Republik (EUFOR RCA) auf Grundlage
-> der Beschlüsse 2014/73/GASP sowie 2014/183/GASP des Rates der Europäischen Union
-> vom 10. Februar 2014 und vom 1. April 2014 in Verbindung mit den Resolutionen 2127
-> (2013) und 2134 (2014) des Sicherheitsrates der Vereinten Nationen vom 5. Dezember 2013
-> und vom 28. Januar 2014
-> Drucksachen 18/1081 und 18/1095
-> 
-> Abgegebene Stimmen insgesamt:
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 576
-> 55
-> 514
-> 
-> Nein-Stimmen:
-> 
-> 59
-> 
-> Enthaltungen:
-> 
-> 3
-> 
-> Ungültige:
-> 
-> 0
-> 
-> Berlin, den 10.04.2014
-> 
-> Beginn: 17:58  
-> Ende: 18:02

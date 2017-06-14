@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: CETA, Antrag Bündnis 90/Die Grünen 18/9621"
 categories:
  - Handel
@@ -9,93 +9,71 @@ tags:
  - CETA
  - EU
  - Kanada
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 190
+ abstimmung: 3
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=417
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=417
+data:
+ - title: Abstimmungsergebnis 20160922_3-data.pdf
+   url: /res/abstimmungsliste/20160922_3-data.pdf
+ - title: Abstimmungsergebnis 20160922_3_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20160922_3_xls-data.csv
+documents:
+ - title: Drucksache 18/09621.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/096/1809621.pdf
+   local: /res/abstimmungsdaten/018-190-03/1809621.pdf
+preview: |
+     Deutscher Bundestag
+    
+     190. Sitzung des Deutschen Bundestages
+     am Donnerstag, 22.September 2016
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+    
+     Antrag der Abgeordneten Katharina Dröge, Kerstin Andreae, Britta Haßelmann, weiterer
+     Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+     zu dem Vorschlag für einen Beschluss des Rates über die Unterzeichnung - im Namen der
+     Europäischen Union - des umfassenden Wirtschafts- und Handelsabkommens (CETA)
+     zwischen Kanada einerseits und der Europäischen Union und ihren Mitgliedstaaten
+     andererseits
+     KOM (2016) 444 endg.; Ratsdok. 10968/16
+     und
+     zu dem Vorschlag für einen Beschluss des Rates über die vorläufige Anwendung des
+     umfassenden Wirtschafts- und Handelsabkommens (CETA) zwischen Kanada einerseits
+     und der Europäischen Union und ihren Mitgliedstaaten andererseits
+     KOM (2016) 470 endg.; Ratsdok. 10969/16
+     hier: Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des
+     Grundgesetzes
+     Comprehensive Economic and Trade Agreement (CETA) ablehnen
+     Drs. 18/9621
+    
+     Abgegebene Stimmen insgesamt:
+    
+     587
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     43
+     120
+    
+     Nein-Stimmen:
+    
+     459
+    
+     Enthaltungen:
+    
+     8
+    
+     Ungültige:
+    
+     0
+    
+     Berlin, den 22.09.2016
+    
+     Beginn: 13:15
+     Ende: 13:17
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 190
-    * Abstimmung: 3
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=417](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=417)
-    * 
-* Data: 
-    * [Abstimmungsergebnis 20160922_3-data.pdf](/res/abstimmungsliste/20160922_3-data.pdf)
-    * [Abstimmungsergebnis 20160922_3_xls-data.csv](/res/abstimmungsliste/analyses/20160922_3_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/09621.pdf](http://dip21.bundestag.de/dip21/btd/18/096/1809621.pdf) ([local copy](/res/abstimmungsdaten/018-190-03/1809621.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 310
-        * Ja: 1
-        * Nein: 284
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 25
-    * spd: 193
-        * Ja: 0
-        * Nein: 175
-        * Enthaltung: 8
-        * Ungültig: 0
-        * Nicht abgegeben: 10
-    * die.linke: 64
-        * Ja: 58
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 6
-    * gruenen: 63
-        * Ja: 61
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 2
-* Preview: 
-> Deutscher Bundestag
-> 
-> 190. Sitzung des Deutschen Bundestages
-> am Donnerstag, 22.September 2016
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
-> 
-> Antrag der Abgeordneten Katharina Dröge, Kerstin Andreae, Britta Haßelmann, weiterer
-> Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
-> zu dem Vorschlag für einen Beschluss des Rates über die Unterzeichnung - im Namen der
-> Europäischen Union - des umfassenden Wirtschafts- und Handelsabkommens (CETA)
-> zwischen Kanada einerseits und der Europäischen Union und ihren Mitgliedstaaten
-> andererseits
-> KOM (2016) 444 endg.; Ratsdok. 10968/16
-> und
-> zu dem Vorschlag für einen Beschluss des Rates über die vorläufige Anwendung des
-> umfassenden Wirtschafts- und Handelsabkommens (CETA) zwischen Kanada einerseits
-> und der Europäischen Union und ihren Mitgliedstaaten andererseits
-> KOM (2016) 470 endg.; Ratsdok. 10969/16
-> hier: Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des
-> Grundgesetzes
-> Comprehensive Economic and Trade Agreement (CETA) ablehnen
-> Drs. 18/9621
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 587
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 43
-> 120
-> 
-> Nein-Stimmen:
-> 
-> 459
-> 
-> Enthaltungen:
-> 
-> 8
-> 
-> Ungültige:
-> 
-> 0
-> 
-> Berlin, den 22.09.2016
-> 
-> Beginn: 13:15  
-> Ende: 13:17

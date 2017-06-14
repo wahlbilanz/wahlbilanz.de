@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Privatisierung von Bundesliegenschaften stoppen"
 categories:
  - Haushalt
@@ -7,84 +7,64 @@ tags:
  - Liegenschaften
  - Wohnen
  - Immobilien
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 193
+ abstimmung: 2
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=420
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=420
+data:
+ - title: Abstimmungsergebnis 20160929_2-data.pdf
+   url: /res/abstimmungsliste/20160929_2-data.pdf
+ - title: Abstimmungsergebnis 20160929_2_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20160929_2_xls-data.csv
+documents:
+ - title: Drucksache 18/04419.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/044/1804419.pdf
+   local: /res/abstimmungsdaten/018-193-02/1804419.pdf
+ - title: Drucksache 18/06686.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/066/1806686.pdf
+   local: /res/abstimmungsdaten/018-193-02/1806686.pdf
+preview: |
+     Deutscher Bundestag
+    
+     193. Sitzung des Deutschen Bundestages
+     am Donnerstag, 29.September 2016
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+    
+     Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss)
+     zu dem Antrag der Abgeordneten Dr. Gesine Lötzsch, Heidrun Bluhm, Caren Lay, weiterer
+     Abgeordneter und der Fraktion DIE LINKE.
+     Privatisierung von Bundesliegenschaften stoppen - Liegenschaftspolitik des Bundes
+     nachhaltig reformieren
+     - Drucksachen 18/4419 und 18/6686 -
+    
+     Abgegebene Stimmen insgesamt:
+    
+     580
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     50
+     466
+    
+     Nein-Stimmen:
+    
+     57
+    
+     Enthaltungen:
+    
+     57
+    
+     Ungültige:
+    
+     Berlin, den 29.09.2016
+    
+     0
+    
+     Beginn: 12:23
+     Ende: 12:25
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 193
-    * Abstimmung: 2
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=420](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=420)
-    * 
-* Data: 
-    * [Abstimmungsergebnis 20160929_2-data.pdf](/res/abstimmungsliste/20160929_2-data.pdf)
-    * [Abstimmungsergebnis 20160929_2_xls-data.csv](/res/abstimmungsliste/analyses/20160929_2_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/04419.pdf](http://dip21.bundestag.de/dip21/btd/18/044/1804419.pdf) ([local copy](/res/abstimmungsdaten/018-193-02/1804419.pdf))
-    * [Drucksache 18/06686.pdf](http://dip21.bundestag.de/dip21/btd/18/066/1806686.pdf) ([local copy](/res/abstimmungsdaten/018-193-02/1806686.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 310
-        * Ja: 291
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 19
-    * spd: 193
-        * Ja: 175
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 18
-    * die.linke: 64
-        * Ja: 0
-        * Nein: 57
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 7
-    * gruenen: 63
-        * Ja: 0
-        * Nein: 0
-        * Enthaltung: 57
-        * Ungültig: 0
-        * Nicht abgegeben: 6
-* Preview: 
-> Deutscher Bundestag
-> 
-> 193. Sitzung des Deutschen Bundestages
-> am Donnerstag, 29.September 2016
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
-> 
-> Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss)
-> zu dem Antrag der Abgeordneten Dr. Gesine Lötzsch, Heidrun Bluhm, Caren Lay, weiterer
-> Abgeordneter und der Fraktion DIE LINKE.
-> Privatisierung von Bundesliegenschaften stoppen - Liegenschaftspolitik des Bundes
-> nachhaltig reformieren
-> - Drucksachen 18/4419 und 18/6686 -
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 580
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 50
-> 466
-> 
-> Nein-Stimmen:
-> 
-> 57
-> 
-> Enthaltungen:
-> 
-> 57
-> 
-> Ungültige:
-> 
-> Berlin, den 29.09.2016
-> 
-> 0
-> 
-> Beginn: 12:23  
-> Ende: 12:25

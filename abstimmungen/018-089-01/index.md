@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Finanzhilfen zugunsten Griechenlands"
 categories:
  - Finanzen
@@ -7,84 +7,66 @@ tags:
  - EU
  - Griechenland
  - Stabilisierung
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 89
+ abstimmung: 1
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=327
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=327
+ - title: http://www.abgeordnetenwatch.de/finanzhilfen_fuer_griechenland-1105-712.html
+   url: http://www.abgeordnetenwatch.de/finanzhilfen_fuer_griechenland-1105-712.html
+data:
+ - title: Abstimmungsergebnis 20150227_1-data.pdf
+   url: /res/abstimmungsliste/20150227_1-data.pdf
+ - title: Abstimmungsergebnis 20150227_1_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20150227_1_xls-data.csv
+documents:
+ - title: Drucksache 18/04079.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/040/1804079.pdf
+   local: /res/abstimmungsdaten/018-089-01/1804079.pdf
+ - title: Drucksache 18/04093.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/040/1804093.pdf
+   local: /res/abstimmungsdaten/018-089-01/1804093.pdf
+preview: |
+     Deutscher Bundestag
+    
+     89. Sitzung des Deutschen Bundestages
+     am Freitag, 27.Februar 2015
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+    
+     Antrag des Bundesministeriums der Finanzen
+     Finanzhilfen zugunsten Griechenlands; Verlängerung der Stabilitätshilfe
+     Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 3 Abs. 1
+     i.V.m. § 3 Abs. 2 Nummer 2 des Stabilisierungsmechanismusgesetzes auf Verlängerung der
+     bestehenden Finanzhilfefazilität zugunsten der Hellenischen Republik
+     Drs. 18/4079 und 18/4093
+    
+     Abgegebene Stimmen insgesamt:
+    
+     586
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     45
+     541
+    
+     Nein-Stimmen:
+    
+     32
+    
+     Enthaltungen:
+    
+     13
+    
+     Ungültige:
+    
+     Berlin, den 27.02.2015
+    
+     0
+    
+     Beginn: 11:05
+     Ende: 11:10
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 89
-    * Abstimmung: 1
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=327](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=327)
-    * [http://www.abgeordnetenwatch.de/finanzhilfen_fuer_griechenland-1105-712.html](http://www.abgeordnetenwatch.de/finanzhilfen_fuer_griechenland-1105-712.html)
-* Data: 
-    * [Abstimmungsergebnis 20150227_1-data.pdf](/res/abstimmungsliste/20150227_1-data.pdf)
-    * [Abstimmungsergebnis 20150227_1_xls-data.csv](/res/abstimmungsliste/analyses/20150227_1_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/04079.pdf](http://dip21.bundestag.de/dip21/btd/18/040/1804079.pdf) ([local copy](/res/abstimmungsdaten/018-089-01/1804079.pdf))
-    * [Drucksache 18/04093.pdf](http://dip21.bundestag.de/dip21/btd/18/040/1804093.pdf) ([local copy](/res/abstimmungsdaten/018-089-01/1804093.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 311
-        * Ja: 262
-        * Nein: 29
-        * Enthaltung: 3
-        * Ungültig: 0
-        * Nicht abgegeben: 17
-    * spd: 193
-        * Ja: 178
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 15
-    * die.linke: 64
-        * Ja: 41
-        * Nein: 3
-        * Enthaltung: 10
-        * Ungültig: 0
-        * Nicht abgegeben: 10
-    * gruenen: 63
-        * Ja: 60
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 3
-* Preview: 
-> Deutscher Bundestag
-> 
-> 89. Sitzung des Deutschen Bundestages
-> am Freitag, 27.Februar 2015
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
-> 
-> Antrag des Bundesministeriums der Finanzen
-> Finanzhilfen zugunsten Griechenlands; Verlängerung der Stabilitätshilfe
-> Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 3 Abs. 1
-> i.V.m. § 3 Abs. 2 Nummer 2 des Stabilisierungsmechanismusgesetzes auf Verlängerung der
-> bestehenden Finanzhilfefazilität zugunsten der Hellenischen Republik
-> Drs. 18/4079 und 18/4093
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 586
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 45
-> 541
-> 
-> Nein-Stimmen:
-> 
-> 32
-> 
-> Enthaltungen:
-> 
-> 13
-> 
-> Ungültige:
-> 
-> Berlin, den 27.02.2015
-> 
-> 0
-> 
-> Beginn: 11:05  
-> Ende: 11:10

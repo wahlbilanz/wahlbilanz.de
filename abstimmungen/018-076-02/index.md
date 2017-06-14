@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Bundeswehreinsatz ACTIVE ENDEAVOUR (OAE)"
 categories:
  - Bundeswehr
@@ -8,83 +8,65 @@ tags:
  - Mittelmeer
  - OAE
  - NATO
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 76
+ abstimmung: 2
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=321
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=321
+ - title: http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_mittelmeer_active_endeavour-1105-708.html
+   url: http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_mittelmeer_active_endeavour-1105-708.html
+data:
+ - title: Abstimmungsergebnis 20141218_2-data.pdf
+   url: /res/abstimmungsliste/20141218_2-data.pdf
+ - title: Abstimmungsergebnis 20141218_2_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20141218_2_xls-data.csv
+documents:
+ - title: Drucksache 18/03247.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/032/1803247.pdf
+   local: /res/abstimmungsdaten/018-076-02/1803247.pdf
+ - title: Drucksache 18/03584.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/035/1803584.pdf
+   local: /res/abstimmungsdaten/018-076-02/1803584.pdf
+preview: |
+     Deutscher Bundestag
+    
+     76. Sitzung des Deutschen Bundestages
+     am Donnerstag, 18.Dezember 2014
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+    
+     Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+     Bundesregierung
+     Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten
+     Operation ACTIVE ENDEAVOUR im Mittelmeer
+     -Drucksachen 18/3247 und 18/3584-
+    
+     Abgegebene Stimmen insgesamt:
+    
+     586
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     43
+     461
+    
+     Nein-Stimmen:
+    
+     122
+    
+     Enthaltungen:
+    
+     3
+    
+     Ungültige:
+    
+     0
+    
+     Berlin, den 18.12.2014
+    
+     Beginn: 17:57
+     Ende: 18:01
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 76
-    * Abstimmung: 2
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=321](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=321)
-    * [http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_mittelmeer_active_endeavour-1105-708.html](http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_mittelmeer_active_endeavour-1105-708.html)
-* Data: 
-    * [Abstimmungsergebnis 20141218_2-data.pdf](/res/abstimmungsliste/20141218_2-data.pdf)
-    * [Abstimmungsergebnis 20141218_2_xls-data.csv](/res/abstimmungsliste/analyses/20141218_2_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/03247.pdf](http://dip21.bundestag.de/dip21/btd/18/032/1803247.pdf) ([local copy](/res/abstimmungsdaten/018-076-02/1803247.pdf))
-    * [Drucksache 18/03584.pdf](http://dip21.bundestag.de/dip21/btd/18/035/1803584.pdf) ([local copy](/res/abstimmungsdaten/018-076-02/1803584.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 310
-        * Ja: 293
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 17
-    * spd: 192
-        * Ja: 167
-        * Nein: 12
-        * Enthaltung: 3
-        * Ungültig: 0
-        * Nicht abgegeben: 10
-    * die.linke: 64
-        * Ja: 1
-        * Nein: 50
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 13
-    * gruenen: 63
-        * Ja: 0
-        * Nein: 60
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 3
-* Preview: 
-> Deutscher Bundestag
-> 
-> 76. Sitzung des Deutschen Bundestages
-> am Donnerstag, 18.Dezember 2014
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
-> 
-> Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
-> Bundesregierung
-> Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten
-> Operation ACTIVE ENDEAVOUR im Mittelmeer
-> -Drucksachen 18/3247 und 18/3584-
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 586
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 43
-> 461
-> 
-> Nein-Stimmen:
-> 
-> 122
-> 
-> Enthaltungen:
-> 
-> 3
-> 
-> Ungültige:
-> 
-> 0
-> 
-> Berlin, den 18.12.2014
-> 
-> Beginn: 17:57  
-> Ende: 18:01

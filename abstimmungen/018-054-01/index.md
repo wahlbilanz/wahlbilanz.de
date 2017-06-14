@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Freihandelsabkommen der EU mit USA und Kanada, 2. Entschließungsantrag"
 categories:
  - Handel
@@ -11,87 +11,71 @@ tags:
  - EU
  - Kanada
  - USA
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 54
+ abstimmung: 1
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=300
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=300
+ - title: http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html
+   url: http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html
+data:
+ - title: Abstimmungsergebnis 20140925_1-data.pdf
+   url: /res/abstimmungsliste/20140925_1-data.pdf
+ - title: Abstimmungsergebnis 20140925_1_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20140925_1_xls-data.csv
+documents:
+ - title: Drucksache 18/00432.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/004/1800432.pdf
+   local: /res/abstimmungsdaten/018-054-01/1800432.pdf
+ - title: Drucksache 18/02100.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/021/1802100.pdf
+   local: /res/abstimmungsdaten/018-054-01/1802100.pdf
+ - title: Drucksache 18/02612.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/026/1802612.pdf
+   local: /res/abstimmungsdaten/018-054-01/1802612.pdf
+preview: |
+     Deutscher Bundestag
+    
+     54. Sitzung des Deutschen Bundestages
+     am Donnerstag, 25.September 2014
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+    
+     Entschließungsantrag der Abgeordneten Klaus Ernst, Susanna Karawanskij, Jutta
+     Krellmann, weiterer Abgeordneter und der Fraktion DIE LINKE.
+     zu der Beratung der Antwort der Bundesregierung auf die Große Anfrage der Abgeordneten
+     Klaus Ernst, Thomas Nord, Herbert Behrens, weiterer Abgeordneter und der Fraktion DIE
+     LINKE.
+     Soziale ökologische, ökonomische und politische Effekte des EU-USA
+     Freihandelsabkommens
+     Drs. 18/432, 18/2100 und 18/2612
+    
+     Abgegebene Stimmen insgesamt:
+    
+     585
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     46
+     113
+    
+     Nein-Stimmen:
+    
+     466
+    
+     Enthaltungen:
+    
+     6
+    
+     Ungültige:
+    
+     0
+    
+     Berlin, den 25.09.2014
+    
+     Beginn: 13:06
+     Ende: 13:09
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 54
-    * Abstimmung: 1
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=300](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=300)
-    * [http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html](http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html)
-* Data: 
-    * [Abstimmungsergebnis 20140925_1-data.pdf](/res/abstimmungsliste/20140925_1-data.pdf)
-    * [Abstimmungsergebnis 20140925_1_xls-data.csv](/res/abstimmungsliste/analyses/20140925_1_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/00432.pdf](http://dip21.bundestag.de/dip21/btd/18/004/1800432.pdf) ([local copy](/res/abstimmungsdaten/018-054-01/1800432.pdf))
-    * [Drucksache 18/02100.pdf](http://dip21.bundestag.de/dip21/btd/18/021/1802100.pdf) ([local copy](/res/abstimmungsdaten/018-054-01/1802100.pdf))
-    * [Drucksache 18/02612.pdf](http://dip21.bundestag.de/dip21/btd/18/026/1802612.pdf) ([local copy](/res/abstimmungsdaten/018-054-01/1802612.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 311
-        * Ja: 0
-        * Nein: 290
-        * Enthaltung: 1
-        * Ungültig: 0
-        * Nicht abgegeben: 20
-    * spd: 193
-        * Ja: 0
-        * Nein: 176
-        * Enthaltung: 1
-        * Ungültig: 0
-        * Nicht abgegeben: 16
-    * die.linke: 64
-        * Ja: 57
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 7
-    * gruenen: 63
-        * Ja: 56
-        * Nein: 0
-        * Enthaltung: 4
-        * Ungültig: 0
-        * Nicht abgegeben: 3
-* Preview: 
-> Deutscher Bundestag
-> 
-> 54. Sitzung des Deutschen Bundestages
-> am Donnerstag, 25.September 2014
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
-> 
-> Entschließungsantrag der Abgeordneten Klaus Ernst, Susanna Karawanskij, Jutta
-> Krellmann, weiterer Abgeordneter und der Fraktion DIE LINKE.
-> zu der Beratung der Antwort der Bundesregierung auf die Große Anfrage der Abgeordneten
-> Klaus Ernst, Thomas Nord, Herbert Behrens, weiterer Abgeordneter und der Fraktion DIE
-> LINKE.
-> Soziale ökologische, ökonomische und politische Effekte des EU-USA
-> Freihandelsabkommens
-> Drs. 18/432, 18/2100 und 18/2612
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 585
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 46
-> 113
-> 
-> Nein-Stimmen:
-> 
-> 466
-> 
-> Enthaltungen:
-> 
-> 6
-> 
-> Ungültige:
-> 
-> 0
-> 
-> Berlin, den 25.09.2014
-> 
-> Beginn: 13:06  
-> Ende: 13:09

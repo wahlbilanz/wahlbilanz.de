@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes, 2. Änderungsantrag Die Linke"
 categories:
  - Wissenschaft
@@ -10,83 +10,65 @@ tags:
  - Hochschulen
  - Ausbildung
  - BAföG
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 66
+ abstimmung: 5
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=311
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=311
+data:
+ - title: Abstimmungsergebnis 20141113_5-data.pdf
+   url: /res/abstimmungsliste/20141113_5-data.pdf
+ - title: Abstimmungsergebnis 20141113_5_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20141113_5_xls-data.csv
+documents:
+ - title: Drucksache 18/02663.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/026/1802663.pdf
+   local: /res/abstimmungsdaten/018-066-05/1802663.pdf
+ - title: Drucksache 18/03142.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/031/1803142.pdf
+   local: /res/abstimmungsdaten/018-066-05/1803142.pdf
+ - title: Drucksache 18/03181.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/031/1803181.pdf
+   local: /res/abstimmungsdaten/018-066-05/1803181.pdf
+preview: |
+     Deutscher Bundestag
+    
+     66. Sitzung des Deutschen Bundestages
+     am Donnerstag, 13.November 2014
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 5
+    
+     Änderungsantrag der Abgeordneten Nicole Gohlke, Dr. Rosemarie Hein, Sigrid Hupach,
+     weiterer Abgeordneter und der Fraktion DIE LINKE.
+     zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+     Entwurf eines Fünfundzwanzigsten Gesetzes zur Änderung des
+     Bundesausbildungsförderungsgesetzes (25. BAföGÄndG)
+     Drs. 18/2663, 18/3142 und 18/3181
+    
+     Abgegebene Stimmen insgesamt:
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     579
+     52
+     53
+    
+     Nein-Stimmen:
+    
+     470
+    
+     Enthaltungen:
+    
+     56
+    
+     Ungültige:
+    
+     Berlin, den 13.11.2014
+    
+     0
+    
+     Beginn: 20:20
+     Ende: 20:23
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 66
-    * Abstimmung: 5
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=311](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=311)
-    * 
-* Data: 
-    * [Abstimmungsergebnis 20141113_5-data.pdf](/res/abstimmungsliste/20141113_5-data.pdf)
-    * [Abstimmungsergebnis 20141113_5_xls-data.csv](/res/abstimmungsliste/analyses/20141113_5_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/02663.pdf](http://dip21.bundestag.de/dip21/btd/18/026/1802663.pdf) ([local copy](/res/abstimmungsdaten/018-066-05/1802663.pdf))
-    * [Drucksache 18/03142.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803142.pdf) ([local copy](/res/abstimmungsdaten/018-066-05/1803142.pdf))
-    * [Drucksache 18/03181.pdf](http://dip21.bundestag.de/dip21/btd/18/031/1803181.pdf) ([local copy](/res/abstimmungsdaten/018-066-05/1803181.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 311
-        * Ja: 0
-        * Nein: 288
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 23
-    * spd: 193
-        * Ja: 0
-        * Nein: 182
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 11
-    * die.linke: 64
-        * Ja: 53
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 11
-    * gruenen: 63
-        * Ja: 0
-        * Nein: 0
-        * Enthaltung: 56
-        * Ungültig: 0
-        * Nicht abgegeben: 7
-* Preview: 
-> Deutscher Bundestag
-> 
-> 66. Sitzung des Deutschen Bundestages
-> am Donnerstag, 13.November 2014
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 5
-> 
-> Änderungsantrag der Abgeordneten Nicole Gohlke, Dr. Rosemarie Hein, Sigrid Hupach,
-> weiterer Abgeordneter und der Fraktion DIE LINKE.
-> zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
-> Entwurf eines Fünfundzwanzigsten Gesetzes zur Änderung des
-> Bundesausbildungsförderungsgesetzes (25. BAföGÄndG)
-> Drs. 18/2663, 18/3142 und 18/3181
-> 
-> Abgegebene Stimmen insgesamt:
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 579
-> 52
-> 53
-> 
-> Nein-Stimmen:
-> 
-> 470
-> 
-> Enthaltungen:
-> 
-> 56
-> 
-> Ungültige:
-> 
-> Berlin, den 13.11.2014
-> 
-> 0
-> 
-> Beginn: 20:20  
-> Ende: 20:23

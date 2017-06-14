@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Bleiberecht und Aufenthaltsbeendigung, Entschließungsantrag Die Linke"
 categories:
  - Inneres
@@ -7,86 +7,72 @@ tags:
  - Bleiberecht
  - Integration
  - Asyl
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 115
+ abstimmung: 4
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=349
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=349
+ - title: http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html
+   url: http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html
+data:
+ - title: Abstimmungsergebnis 20150702_4-data.pdf
+   url: /res/abstimmungsliste/20150702_4-data.pdf
+ - title: Abstimmungsergebnis 20150702_4_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20150702_4_xls-data.csv
+documents:
+ - title: Drucksache 18/04097.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/040/1804097.pdf
+   local: /res/abstimmungsdaten/018-115-04/1804097.pdf
+ - title: Drucksache 18/04199.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/041/1804199.pdf
+   local: /res/abstimmungsdaten/018-115-04/1804199.pdf
+ - title: Drucksache 18/05420.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/054/1805420.pdf
+   local: /res/abstimmungsdaten/018-115-04/1805420.pdf
+ - title: Drucksache 18/05427.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/054/1805427.pdf
+   local: /res/abstimmungsdaten/018-115-04/1805427.pdf
+preview: |
+     Deutscher Bundestag
+    
+     115. Sitzung des Deutschen Bundestages
+     am Donnerstag, 2.Juli 2015
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
+    
+     Entschließungsantrag der Abgeordneten Ulla Jelpke, Sevim Dagdelen, Jan Korte, weiterer
+     Abgeordneter und der Fraktion DIE LINKE.
+     zu der dritten Beratung des Gesetzentwurfs der Bundesregierung
+     Entwurf eines Gesetzes zur Neubestimmung des Bleiberechts und der
+     Aufenthaltsbeendigung
+     - Drs. 18/4097, 18/4199, 18/5420 und 18/5427 -
+    
+     Abgegebene Stimmen insgesamt:
+    
+     593
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     38
+     114
+    
+     Nein-Stimmen:
+    
+     478
+    
+     Enthaltungen:
+    
+     1
+    
+     Ungültige:
+    
+     0
+    
+     Berlin, den 02.07.2015
+    
+     Beginn: 20:47
+     Ende: 20:50
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 115
-    * Abstimmung: 4
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=349](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=349)
-    * [http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html](http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html)
-* Data: 
-    * [Abstimmungsergebnis 20150702_4-data.pdf](/res/abstimmungsliste/20150702_4-data.pdf)
-    * [Abstimmungsergebnis 20150702_4_xls-data.csv](/res/abstimmungsliste/analyses/20150702_4_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/04097.pdf](http://dip21.bundestag.de/dip21/btd/18/040/1804097.pdf) ([local copy](/res/abstimmungsdaten/018-115-04/1804097.pdf))
-    * [Drucksache 18/04199.pdf](http://dip21.bundestag.de/dip21/btd/18/041/1804199.pdf) ([local copy](/res/abstimmungsdaten/018-115-04/1804199.pdf))
-    * [Drucksache 18/05420.pdf](http://dip21.bundestag.de/dip21/btd/18/054/1805420.pdf) ([local copy](/res/abstimmungsdaten/018-115-04/1805420.pdf))
-    * [Drucksache 18/05427.pdf](http://dip21.bundestag.de/dip21/btd/18/054/1805427.pdf) ([local copy](/res/abstimmungsdaten/018-115-04/1805427.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 311
-        * Ja: 0
-        * Nein: 295
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 16
-    * spd: 193
-        * Ja: 0
-        * Nein: 183
-        * Enthaltung: 1
-        * Ungültig: 0
-        * Nicht abgegeben: 9
-    * die.linke: 64
-        * Ja: 58
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 6
-    * gruenen: 63
-        * Ja: 56
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 7
-* Preview: 
-> Deutscher Bundestag
-> 
-> 115. Sitzung des Deutschen Bundestages
-> am Donnerstag, 2.Juli 2015
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
-> 
-> Entschließungsantrag der Abgeordneten Ulla Jelpke, Sevim Dagdelen, Jan Korte, weiterer
-> Abgeordneter und der Fraktion DIE LINKE.
-> zu der dritten Beratung des Gesetzentwurfs der Bundesregierung
-> Entwurf eines Gesetzes zur Neubestimmung des Bleiberechts und der
-> Aufenthaltsbeendigung
-> - Drs. 18/4097, 18/4199, 18/5420 und 18/5427 -
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 593
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 38
-> 114
-> 
-> Nein-Stimmen:
-> 
-> 478
-> 
-> Enthaltungen:
-> 
-> 1
-> 
-> Ungültige:
-> 
-> 0
-> 
-> Berlin, den 02.07.2015
-> 
-> Beginn: 20:47  
-> Ende: 20:50

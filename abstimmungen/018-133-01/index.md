@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Betreuungsgeld für den Kitaausbau nutzen"
 categories:
  - Finanzen
@@ -9,84 +9,64 @@ tags:
  - Kinder
  - Betreuungsgeld
  - Kita
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 133
+ abstimmung: 1
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=368
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=368
+data:
+ - title: Abstimmungsergebnis 20151105_1-data.pdf
+   url: /res/abstimmungsliste/20151105_1-data.pdf
+ - title: Abstimmungsergebnis 20151105_1_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20151105_1_xls-data.csv
+documents:
+ - title: Drucksache 18/06041.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/060/1806041.pdf
+   local: /res/abstimmungsdaten/018-133-01/1806041.pdf
+ - title: Drucksache 18/06200.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/062/1806200.pdf
+   local: /res/abstimmungsdaten/018-133-01/1806200.pdf
+preview: |
+     Deutscher Bundestag
+    
+     133. Sitzung des Deutschen Bundestages
+     am Donnerstag, 5.November 2015
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+    
+     Beschlussempfehlung des Ausschusses für Familie, Senioren, Frauen und Jugend (13.
+     Ausschuss)
+     zu dem Antrag der Abgeordneten Norbert Müller (Potsdam), Sigrid Hupach, Nicole Gohlke,
+     weiterer Abgeordneter und der Fraktion DIE LINKE.
+     Betreuungsgeld für den Kitaausbau nutzen
+     Drucksache 18/6041 und 6200
+    
+     Abgegebene Stimmen insgesamt:
+    
+     577
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     53
+     461
+    
+     Nein-Stimmen:
+    
+     60
+    
+     Enthaltungen:
+    
+     56
+    
+     Ungültige:
+    
+     Berlin, den 05.11.2015
+    
+     0
+    
+     Beginn: 17:06
+     Ende: 17:09
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 133
-    * Abstimmung: 1
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=368](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=368)
-    * 
-* Data: 
-    * [Abstimmungsergebnis 20151105_1-data.pdf](/res/abstimmungsliste/20151105_1-data.pdf)
-    * [Abstimmungsergebnis 20151105_1_xls-data.csv](/res/abstimmungsliste/analyses/20151105_1_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/06041.pdf](http://dip21.bundestag.de/dip21/btd/18/060/1806041.pdf) ([local copy](/res/abstimmungsdaten/018-133-01/1806041.pdf))
-    * [Drucksache 18/06200.pdf](http://dip21.bundestag.de/dip21/btd/18/062/1806200.pdf) ([local copy](/res/abstimmungsdaten/018-133-01/1806200.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 310
-        * Ja: 291
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 19
-    * spd: 193
-        * Ja: 170
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 23
-    * die.linke: 64
-        * Ja: 0
-        * Nein: 60
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 4
-    * gruenen: 63
-        * Ja: 0
-        * Nein: 0
-        * Enthaltung: 56
-        * Ungültig: 0
-        * Nicht abgegeben: 7
-* Preview: 
-> Deutscher Bundestag
-> 
-> 133. Sitzung des Deutschen Bundestages
-> am Donnerstag, 5.November 2015
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
-> 
-> Beschlussempfehlung des Ausschusses für Familie, Senioren, Frauen und Jugend (13.
-> Ausschuss)
-> zu dem Antrag der Abgeordneten Norbert Müller (Potsdam), Sigrid Hupach, Nicole Gohlke,
-> weiterer Abgeordneter und der Fraktion DIE LINKE.
-> Betreuungsgeld für den Kitaausbau nutzen
-> Drucksache 18/6041 und 6200
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 577
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 53
-> 461
-> 
-> Nein-Stimmen:
-> 
-> 60
-> 
-> Enthaltungen:
-> 
-> 56
-> 
-> Ungültige:
-> 
-> Berlin, den 05.11.2015
-> 
-> 0
-> 
-> Beginn: 17:06  
-> Ende: 17:09

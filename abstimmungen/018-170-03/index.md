@@ -1,89 +1,71 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Bahnstreckenstilllegungen - Beschlussempfehlung"
 categories:
  - Verkehr
  - Infrastruktur
 tags:
  - Bahn
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 170
+ abstimmung: 3
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=396
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=396
+ - title: http://www.abgeordnetenwatch.de/hoehere_regionalisierungsmittel_fuer_den_bahnverkehr-1105-800.html
+   url: http://www.abgeordnetenwatch.de/hoehere_regionalisierungsmittel_fuer_den_bahnverkehr-1105-800.html
+data:
+ - title: Abstimmungsergebnis 20160512_3-data.pdf
+   url: /res/abstimmungsliste/20160512_3-data.pdf
+ - title: Abstimmungsergebnis 20160512_3_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20160512_3_xls-data.csv
+documents:
+ - title: Drucksache 18/08074.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/080/1808074.pdf
+   local: /res/abstimmungsdaten/018-170-03/1808074.pdf
+ - title: Drucksache 18/08362.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/083/1808362.pdf
+   local: /res/abstimmungsdaten/018-170-03/1808362.pdf
+preview: |
+     Deutscher Bundestag
+    
+     170. Sitzung des Deutschen Bundestages
+     am Donnerstag, 12.Mai 2016
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+    
+     Beschlussempfehlung des Ausschusses für Verkehr und digitale Infrastruktur (15.
+     Ausschuss)
+     Antrag der Abgeordneten Sabine Leidig, Ralph Lenkert, Caren Lay, weiterer Abgeordneter
+     und der Fraktion DIE LINKE.
+     Drohende Streckenstilllegungen verhindern - Regionalisierungsmittel erhöhen
+     Drs. 18/8074 und 18/8362
+    
+     Abgegebene Stimmen insgesamt:
+    
+     572
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     58
+     453
+    
+     Nein-Stimmen:
+    
+     117
+    
+     Enthaltungen:
+    
+     2
+    
+     Ungültige:
+    
+     0
+    
+     Berlin, den 12.05.2016
+    
+     Beginn: 16:02
+     Ende: 16:06
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 170
-    * Abstimmung: 3
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=396](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=396)
-    * [http://www.abgeordnetenwatch.de/hoehere_regionalisierungsmittel_fuer_den_bahnverkehr-1105-800.html](http://www.abgeordnetenwatch.de/hoehere_regionalisierungsmittel_fuer_den_bahnverkehr-1105-800.html)
-* Data: 
-    * [Abstimmungsergebnis 20160512_3-data.pdf](/res/abstimmungsliste/20160512_3-data.pdf)
-    * [Abstimmungsergebnis 20160512_3_xls-data.csv](/res/abstimmungsliste/analyses/20160512_3_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/08074.pdf](http://dip21.bundestag.de/dip21/btd/18/080/1808074.pdf) ([local copy](/res/abstimmungsdaten/018-170-03/1808074.pdf))
-    * [Drucksache 18/08362.pdf](http://dip21.bundestag.de/dip21/btd/18/083/1808362.pdf) ([local copy](/res/abstimmungsdaten/018-170-03/1808362.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 310
-        * Ja: 278
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 32
-    * spd: 193
-        * Ja: 175
-        * Nein: 0
-        * Enthaltung: 2
-        * Ungültig: 0
-        * Nicht abgegeben: 16
-    * die.linke: 64
-        * Ja: 0
-        * Nein: 59
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 5
-    * gruenen: 63
-        * Ja: 0
-        * Nein: 58
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 5
-* Preview: 
-> Deutscher Bundestag
-> 
-> 170. Sitzung des Deutschen Bundestages
-> am Donnerstag, 12.Mai 2016
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
-> 
-> Beschlussempfehlung des Ausschusses für Verkehr und digitale Infrastruktur (15.
-> Ausschuss)
-> Antrag der Abgeordneten Sabine Leidig, Ralph Lenkert, Caren Lay, weiterer Abgeordneter
-> und der Fraktion DIE LINKE.
-> Drohende Streckenstilllegungen verhindern - Regionalisierungsmittel erhöhen
-> Drs. 18/8074 und 18/8362
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 572
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 58
-> 453
-> 
-> Nein-Stimmen:
-> 
-> 117
-> 
-> Enthaltungen:
-> 
-> 2
-> 
-> Ungültige:
-> 
-> 0
-> 
-> Berlin, den 12.05.2016
-> 
-> Beginn: 16:02  
-> Ende: 16:06

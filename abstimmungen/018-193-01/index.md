@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Mieterinnen und Mieter besser schützen"
 categories:
  - Recht
@@ -9,83 +9,65 @@ tags:
  - Wohnen
  - Makler
  - Mietpreisbremse
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 193
+ abstimmung: 1
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=419
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=419
+ - title: http://www.abgeordnetenwatch.de/zweite_mietrechtsnovelle_vorlegen-1105-817.html
+   url: http://www.abgeordnetenwatch.de/zweite_mietrechtsnovelle_vorlegen-1105-817.html
+data:
+ - title: Abstimmungsergebnis 20160929_1-data.pdf
+   url: /res/abstimmungsliste/20160929_1-data.pdf
+ - title: Abstimmungsergebnis 20160929_1_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20160929_1_xls-data.csv
+documents:
+ - title: Drucksache 18/08863.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/088/1808863.pdf
+   local: /res/abstimmungsdaten/018-193-01/1808863.pdf
+ - title: Drucksache 18/09696.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/096/1809696.pdf
+   local: /res/abstimmungsdaten/018-193-01/1809696.pdf
+preview: |
+     Deutscher Bundestag
+    
+     193. Sitzung des Deutschen Bundestages
+     am Donnerstag, 29.September 2016
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+    
+     Beschlussempfehlung des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)
+     zu dem Antrag der Abgeordneten Caren Lay, Herbert Behrens, Karin Binder, weiterer
+     Abgeordneter und der Fraktion DIE LINKE.
+     Mieterinnen und Mieter besser schützen - Zweite Mietrechtsnovelle vorlegen
+     Drs. 18/8863 und 18/9696
+    
+     Abgegebene Stimmen insgesamt:
+    
+     581
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     49
+     467
+    
+     Nein-Stimmen:
+    
+     114
+    
+     Enthaltungen:
+    
+     0
+    
+     Ungültige:
+    
+     0
+    
+     Berlin, den 29.09.2016
+    
+     Beginn: 12:19
+     Ende: 12:21
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 193
-    * Abstimmung: 1
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=419](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=419)
-    * [http://www.abgeordnetenwatch.de/zweite_mietrechtsnovelle_vorlegen-1105-817.html](http://www.abgeordnetenwatch.de/zweite_mietrechtsnovelle_vorlegen-1105-817.html)
-* Data: 
-    * [Abstimmungsergebnis 20160929_1-data.pdf](/res/abstimmungsliste/20160929_1-data.pdf)
-    * [Abstimmungsergebnis 20160929_1_xls-data.csv](/res/abstimmungsliste/analyses/20160929_1_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/08863.pdf](http://dip21.bundestag.de/dip21/btd/18/088/1808863.pdf) ([local copy](/res/abstimmungsdaten/018-193-01/1808863.pdf))
-    * [Drucksache 18/09696.pdf](http://dip21.bundestag.de/dip21/btd/18/096/1809696.pdf) ([local copy](/res/abstimmungsdaten/018-193-01/1809696.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 310
-        * Ja: 291
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 19
-    * spd: 193
-        * Ja: 176
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 17
-    * die.linke: 64
-        * Ja: 0
-        * Nein: 57
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 7
-    * gruenen: 63
-        * Ja: 0
-        * Nein: 57
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 6
-* Preview: 
-> Deutscher Bundestag
-> 
-> 193. Sitzung des Deutschen Bundestages
-> am Donnerstag, 29.September 2016
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
-> 
-> Beschlussempfehlung des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)
-> zu dem Antrag der Abgeordneten Caren Lay, Herbert Behrens, Karin Binder, weiterer
-> Abgeordneter und der Fraktion DIE LINKE.
-> Mieterinnen und Mieter besser schützen - Zweite Mietrechtsnovelle vorlegen
-> Drs. 18/8863 und 18/9696
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 581
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 49
-> 467
-> 
-> Nein-Stimmen:
-> 
-> 114
-> 
-> Enthaltungen:
-> 
-> 0
-> 
-> Ungültige:
-> 
-> 0
-> 
-> Berlin, den 29.09.2016
-> 
-> Beginn: 12:19  
-> Ende: 12:21

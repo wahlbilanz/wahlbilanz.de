@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Liegenschaftspolitik des Bundes, Beschlussempfehlung des Haushaltsausschusses"
 categories:
  - Haushalt
@@ -7,83 +7,65 @@ tags:
  - Liegenschaften
  - Wohnen
  - Immobilien
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 98
+ abstimmung: 7
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=338
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=338
+ - title: http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html
+   url: http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html
+data:
+ - title: Abstimmungsergebnis 20150327_7-data.pdf
+   url: /res/abstimmungsliste/20150327_7-data.pdf
+ - title: Abstimmungsergebnis 20150327_7_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20150327_7_xls-data.csv
+documents:
+ - title: Drucksache 18/03044.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/030/1803044.pdf
+   local: /res/abstimmungsdaten/018-098-07/1803044.pdf
+ - title: Drucksache 18/03873.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/038/1803873.pdf
+   local: /res/abstimmungsdaten/018-098-07/1803873.pdf
+preview: |
+     Deutscher Bundestag
+    
+     98. Sitzung des Deutschen Bundestages
+     am Freitag, 27.März 2015
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 7
+    
+     Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss) zu dem Antrag der
+     Abgeordneten Christian Kühn (Tübingen), Dr. Tobias Lindner, Britta Haßelmann, weiterer
+     Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+     Für eine nachhaltige und zukunftsweisende Liegenschaftspolitik des Bundes
+     Drucksachen 18/3044 und 18/3873
+    
+     Abgegebene Stimmen insgesamt:
+    
+     520
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     111
+     410
+    
+     Nein-Stimmen:
+    
+     56
+    
+     Enthaltungen:
+    
+     54
+    
+     Ungültige:
+    
+     Berlin, den 27.03.2015
+    
+     0
+    
+     Beginn: 14:03
+     Ende: 14:05
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 98
-    * Abstimmung: 7
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=338](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=338)
-    * [http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html](http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html)
-* Data: 
-    * [Abstimmungsergebnis 20150327_7-data.pdf](/res/abstimmungsliste/20150327_7-data.pdf)
-    * [Abstimmungsergebnis 20150327_7_xls-data.csv](/res/abstimmungsliste/analyses/20150327_7_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/03044.pdf](http://dip21.bundestag.de/dip21/btd/18/030/1803044.pdf) ([local copy](/res/abstimmungsdaten/018-098-07/1803044.pdf))
-    * [Drucksache 18/03873.pdf](http://dip21.bundestag.de/dip21/btd/18/038/1803873.pdf) ([local copy](/res/abstimmungsdaten/018-098-07/1803873.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 311
-        * Ja: 262
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 49
-    * spd: 193
-        * Ja: 148
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 45
-    * die.linke: 64
-        * Ja: 0
-        * Nein: 0
-        * Enthaltung: 54
-        * Ungültig: 0
-        * Nicht abgegeben: 10
-    * gruenen: 63
-        * Ja: 0
-        * Nein: 56
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 7
-* Preview: 
-> Deutscher Bundestag
-> 
-> 98. Sitzung des Deutschen Bundestages
-> am Freitag, 27.März 2015
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 7
-> 
-> Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss) zu dem Antrag der
-> Abgeordneten Christian Kühn (Tübingen), Dr. Tobias Lindner, Britta Haßelmann, weiterer
-> Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
-> Für eine nachhaltige und zukunftsweisende Liegenschaftspolitik des Bundes
-> Drucksachen 18/3044 und 18/3873
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 520
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 111
-> 410
-> 
-> Nein-Stimmen:
-> 
-> 56
-> 
-> Enthaltungen:
-> 
-> 54
-> 
-> Ungültige:
-> 
-> Berlin, den 27.03.2015
-> 
-> 0
-> 
-> Beginn: 14:03  
-> Ende: 14:05

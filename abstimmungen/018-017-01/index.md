@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Bundeswehreinsatz in Afghanistan (ISAF)"
 categories:
  - Bundeswehr
@@ -9,83 +9,65 @@ tags:
  - ISAF
  - NATO
 
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 17
+ abstimmung: 1
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=252
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=252
+ - title: http://www.abgeordnetenwatch.de/fortsetzung_des_afghanistan_einsatzes_isaf-1105-552.html
+   url: http://www.abgeordnetenwatch.de/fortsetzung_des_afghanistan_einsatzes_isaf-1105-552.html
+data:
+ - title: Abstimmungsergebnis 20140220_1-data.pdf
+   url: /res/abstimmungsliste/20140220_1-data.pdf
+ - title: Abstimmungsergebnis 20140220_1_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20140220_1_xls-data.csv
+documents:
+ - title: Drucksache 18/00436.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/004/1800436.pdf
+   local: /res/abstimmungsdaten/018-017-01/1800436.pdf
+ - title: Drucksache 18/00602.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/006/1800602.pdf
+   local: /res/abstimmungsdaten/018-017-01/1800602.pdf
+preview: |
+     Deutscher Bundestag
+    
+     17. Sitzung des Deutschen Bundestages
+     am Donnerstag, 20.Februar 2014
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+    
+     Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+     Bundesregierung
+     Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an dem Einsatz der
+     Internationalen Sicherheitsunterstützungstruppe in Afghanistan (International Security
+     Assistance Force, ISAF) unter Führung der NATO auf Grundlage der Resolution 1386
+     (2001) und folgender Resolutionen, zuletzt Resolution 2120 (2013) vom 10. Oktober 2013
+     des Sicherheitsrates der Vereinten Nationen
+     Drs. 18/436 und 18/602
+    
+     Abgegebene Stimmen insgesamt:
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     599
+     32
+     498
+    
+     Nein-Stimmen:
+    
+     84
+    
+     Enthaltungen:
+    
+     17
+    
+     Ungültige:
+    
+     Berlin, den 20.02.2014
+    
+     0
+    
+     Beginn: 15:39
+     Ende: 15:43
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 17
-    * Abstimmung: 1
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=252](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=252)
-    * [http://www.abgeordnetenwatch.de/fortsetzung_des_afghanistan_einsatzes_isaf-1105-552.html](http://www.abgeordnetenwatch.de/fortsetzung_des_afghanistan_einsatzes_isaf-1105-552.html)
-* Data: 
-    * [Abstimmungsergebnis 20140220_1-data.pdf](/res/abstimmungsliste/20140220_1-data.pdf)
-    * [Abstimmungsergebnis 20140220_1_xls-data.csv](/res/abstimmungsliste/analyses/20140220_1_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/00436.pdf](http://dip21.bundestag.de/dip21/btd/18/004/1800436.pdf) ([local copy](/res/abstimmungsdaten/018-017-01/1800436.pdf))
-    * [Drucksache 18/00602.pdf](http://dip21.bundestag.de/dip21/btd/18/006/1800602.pdf) ([local copy](/res/abstimmungsdaten/018-017-01/1800602.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 311
-        * Ja: 302
-        * Nein: 1
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 8
-    * spd: 193
-        * Ja: 161
-        * Nein: 16
-        * Enthaltung: 3
-        * Ungültig: 0
-        * Nicht abgegeben: 13
-    * die.linke: 64
-        * Ja: 0
-        * Nein: 57
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 7
-    * gruenen: 63
-        * Ja: 35
-        * Nein: 10
-        * Enthaltung: 14
-        * Ungültig: 0
-        * Nicht abgegeben: 4
-* Preview: 
-> Deutscher Bundestag
-> 
-> 17. Sitzung des Deutschen Bundestages
-> am Donnerstag, 20.Februar 2014
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
-> 
-> Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
-> Bundesregierung
-> Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an dem Einsatz der
-> Internationalen Sicherheitsunterstützungstruppe in Afghanistan (International Security
-> Assistance Force, ISAF) unter Führung der NATO auf Grundlage der Resolution 1386
-> (2001) und folgender Resolutionen, zuletzt Resolution 2120 (2013) vom 10. Oktober 2013
-> des Sicherheitsrates der Vereinten Nationen
-> Drs. 18/436 und 18/602
-> 
-> Abgegebene Stimmen insgesamt:
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 599
-> 32
-> 498
-> 
-> Nein-Stimmen:
-> 
-> 84
-> 
-> Enthaltungen:
-> 
-> 17
-> 
-> Ungültige:
-> 
-> Berlin, den 20.02.2014
-> 
-> 0
-> 
-> Beginn: 15:39  
-> Ende: 15:43

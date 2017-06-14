@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Pkw-Maut, Änderungsantrag Bündnis 90/Die Grünen"
 categories:
  - Verkehr
@@ -11,82 +11,66 @@ tags:
  - Maut
  - Straßennetz
  - Vignette
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 98
+ abstimmung: 1
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=332
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=332
+ - title: http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html
+   url: http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html
+data:
+ - title: Abstimmungsergebnis 20150327_1-data.pdf
+   url: /res/abstimmungsliste/20150327_1-data.pdf
+ - title: Abstimmungsergebnis 20150327_1_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20150327_1_xls-data.csv
+documents:
+ - title: Drucksache 18/03990.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/039/1803990.pdf
+   local: /res/abstimmungsdaten/018-098-01/1803990.pdf
+ - title: Drucksache 18/04455.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/044/1804455.pdf
+   local: /res/abstimmungsdaten/018-098-01/1804455.pdf
+ - title: Drucksache 18/04484.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/044/1804484.pdf
+   local: /res/abstimmungsdaten/018-098-01/1804484.pdf
+preview: |
+     Deutscher Bundestag
+    
+     98. Sitzung des Deutschen Bundestages
+     am Freitag, 27.März 2015
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+    
+     Änderungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN
+     zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+     Entwurf eines Gesetzes zur Einführung einer Infratstrukturabgabe für die Benutzung von
+     Bundesfernstraßen
+     - Drucksachen 18/3990, 18/4455 und 18/4484 -
+    
+     Abgegebene Stimmen insgesamt:
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     568
+     63
+     58
+    
+     Nein-Stimmen:
+    
+     450
+    
+     Enthaltungen:
+    
+     60
+    
+     Ungültige:
+    
+     Berlin, den 27.03.2015
+    
+     0
+    
+     Beginn: 11:29
+     Ende: 11:32
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 98
-    * Abstimmung: 1
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=332](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=332)
-    * [http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html](http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html)
-* Data: 
-    * [Abstimmungsergebnis 20150327_1-data.pdf](/res/abstimmungsliste/20150327_1-data.pdf)
-    * [Abstimmungsergebnis 20150327_1_xls-data.csv](/res/abstimmungsliste/analyses/20150327_1_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/03990.pdf](http://dip21.bundestag.de/dip21/btd/18/039/1803990.pdf) ([local copy](/res/abstimmungsdaten/018-098-01/1803990.pdf))
-    * [Drucksache 18/04455.pdf](http://dip21.bundestag.de/dip21/btd/18/044/1804455.pdf) ([local copy](/res/abstimmungsdaten/018-098-01/1804455.pdf))
-    * [Drucksache 18/04484.pdf](http://dip21.bundestag.de/dip21/btd/18/044/1804484.pdf) ([local copy](/res/abstimmungsdaten/018-098-01/1804484.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 311
-        * Ja: 0
-        * Nein: 282
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 29
-    * spd: 193
-        * Ja: 0
-        * Nein: 168
-        * Enthaltung: 1
-        * Ungültig: 0
-        * Nicht abgegeben: 24
-    * die.linke: 64
-        * Ja: 0
-        * Nein: 0
-        * Enthaltung: 59
-        * Ungültig: 0
-        * Nicht abgegeben: 5
-    * gruenen: 63
-        * Ja: 58
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 5
-* Preview: 
-> Deutscher Bundestag
-> 
-> 98. Sitzung des Deutschen Bundestages
-> am Freitag, 27.März 2015
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
-> 
-> Änderungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN
-> zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
-> Entwurf eines Gesetzes zur Einführung einer Infratstrukturabgabe für die Benutzung von
-> Bundesfernstraßen
-> - Drucksachen 18/3990, 18/4455 und 18/4484 -
-> 
-> Abgegebene Stimmen insgesamt:
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 568
-> 63
-> 58
-> 
-> Nein-Stimmen:
-> 
-> 450
-> 
-> Enthaltungen:
-> 
-> 60
-> 
-> Ungültige:
-> 
-> Berlin, den 27.03.2015
-> 
-> 0
-> 
-> Beginn: 11:29  
-> Ende: 11:32

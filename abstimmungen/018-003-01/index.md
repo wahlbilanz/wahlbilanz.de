@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Bundeswehreinsatz in Südsudan"
 categories:
  - Bundeswehr
@@ -9,81 +9,62 @@ tags:
  - UNMISS
  - UN
 
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 3
+ abstimmung: 1
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=248
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=248
+ - title: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan_unmiss-1105-542.html
+   url: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan_unmiss-1105-542.html
+data:
+ - title: Abstimmungsergebnis 20131128_1-data.pdf
+   url: /res/abstimmungsliste/20131128_1-data.pdf
+ - title: Abstimmungsergebnis 20131128_1_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20131128_1_xls-data.csv
+documents:
+ - title: Drucksache 18/00071.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/000/1800071.pdf
+   local: /res/abstimmungsdaten/018-003-01/1800071.pdf
+preview: |
+     Deutscher Bundestag
+    
+     3. Sitzung des Deutschen Bundestages
+     am Donnerstag, 28.November 2013
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+    
+     Antrag der Bundesregierung
+     Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der von den
+     Vereinten Nationen geführten Friedensmission in Südsudan (UNMISS) auf
+     Grundlage der Resolution 1996 (2011) des Sicherheitsrates der Vereinten Nationen
+     vom 8. Juli 2011 und Folgeresolutionen, zuletzt 2109 (2013) vom 11. Juli 2013
+     Drucksache 18/71
+    
+     Abgegebene Stimmen insgesamt:
+    
+     602
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     29
+     540
+    
+     Nein-Stimmen:
+    
+     60
+    
+     Enthaltungen:
+    
+     2
+    
+     Ungültige:
+    
+     0
+    
+     Berlin, den 28. Nov. 13
+    
+     Beginn: 11:11
+     Ende: 11:16
 ---
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 3
-    * Abstimmung: 1
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=248](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=248)
-    * [http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan_unmiss-1105-542.html](http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan_unmiss-1105-542.html)
-* Data: 
-    * [Abstimmungsergebnis 20131128_1-data.pdf](/res/abstimmungsliste/20131128_1-data.pdf)
-    * [Abstimmungsergebnis 20131128_1_xls-data.csv](/res/abstimmungsliste/analyses/20131128_1_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/00071.pdf](http://dip21.bundestag.de/dip21/btd/18/000/1800071.pdf) ([local copy](/res/abstimmungsdaten/018-003-01/1800071.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 311
-        * Ja: 300
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 11
-    * spd: 193
-        * Ja: 181
-        * Nein: 0
-        * Enthaltung: 2
-        * Ungültig: 2
-        * Nicht abgegeben: 10
-    * die.linke: 64
-        * Ja: 0
-        * Nein: 60
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 4
-    * gruenen: 63
-        * Ja: 59
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 4
-* Preview: 
-> Deutscher Bundestag
-> 
-> 3. Sitzung des Deutschen Bundestages
-> am Donnerstag, 28.November 2013
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
-> 
-> Antrag der Bundesregierung
-> Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der von den
-> Vereinten Nationen geführten Friedensmission in Südsudan (UNMISS) auf
-> Grundlage der Resolution 1996 (2011) des Sicherheitsrates der Vereinten Nationen
-> vom 8. Juli 2011 und Folgeresolutionen, zuletzt 2109 (2013) vom 11. Juli 2013
-> Drucksache 18/71
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 602
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 29
-> 540
-> 
-> Nein-Stimmen:
-> 
-> 60
-> 
-> Enthaltungen:
-> 
-> 2
-> 
-> Ungültige:
-> 
-> 0
-> 
-> Berlin, den 28. Nov. 13
-> 
-> Beginn: 11:11  
-> Ende: 11:16

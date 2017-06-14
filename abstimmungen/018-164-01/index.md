@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Bekämpfung von Korruption im Gesundheitswesen"
 categories:
  - Recht
@@ -8,81 +8,63 @@ categories:
 tags:
  - Korruption
  - Bestechung
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 164
+ abstimmung: 1
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=391
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=391
+ - title: http://www.abgeordnetenwatch.de/bekaempfung_von_korruption_im_gesundheitswesen-1105-789.html
+   url: http://www.abgeordnetenwatch.de/bekaempfung_von_korruption_im_gesundheitswesen-1105-789.html
+data:
+ - title: Abstimmungsergebnis 20160414_1-data.pdf
+   url: /res/abstimmungsliste/20160414_1-data.pdf
+ - title: Abstimmungsergebnis 20160414_1_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20160414_1_xls-data.csv
+documents:
+ - title: Drucksache 18/06446.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/064/1806446.pdf
+   local: /res/abstimmungsdaten/018-164-01/1806446.pdf
+ - title: Drucksache 18/08106.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/081/1808106.pdf
+   local: /res/abstimmungsdaten/018-164-01/1808106.pdf
+preview: |
+     Deutscher Bundestag
+    
+     164. Sitzung des Deutschen Bundestages
+     am Donnerstag, 14.April 2016
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+    
+     Gesetzentwurf der Bundesregierung
+     Entwurf eines Gesetzes zur Bekämpfung von Korruption im Gesundheitswesen
+     Drs. 18/6446 und 18/8106
+    
+     Abgegebene Stimmen insgesamt:
+    
+     576
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     54
+     464
+    
+     Nein-Stimmen:
+    
+     58
+    
+     Enthaltungen:
+    
+     54
+    
+     Ungültige:
+    
+     Berlin, den 14.04.2016
+    
+     0
+    
+     Beginn: 17:19
+     Ende: 17:22
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 164
-    * Abstimmung: 1
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=391](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=391)
-    * [http://www.abgeordnetenwatch.de/bekaempfung_von_korruption_im_gesundheitswesen-1105-789.html](http://www.abgeordnetenwatch.de/bekaempfung_von_korruption_im_gesundheitswesen-1105-789.html)
-* Data: 
-    * [Abstimmungsergebnis 20160414_1-data.pdf](/res/abstimmungsliste/20160414_1-data.pdf)
-    * [Abstimmungsergebnis 20160414_1_xls-data.csv](/res/abstimmungsliste/analyses/20160414_1_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/06446.pdf](http://dip21.bundestag.de/dip21/btd/18/064/1806446.pdf) ([local copy](/res/abstimmungsdaten/018-164-01/1806446.pdf))
-    * [Drucksache 18/08106.pdf](http://dip21.bundestag.de/dip21/btd/18/081/1808106.pdf) ([local copy](/res/abstimmungsdaten/018-164-01/1808106.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 310
-        * Ja: 282
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 28
-    * spd: 193
-        * Ja: 182
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 11
-    * die.linke: 64
-        * Ja: 0
-        * Nein: 58
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 6
-    * gruenen: 63
-        * Ja: 0
-        * Nein: 0
-        * Enthaltung: 54
-        * Ungültig: 0
-        * Nicht abgegeben: 9
-* Preview: 
-> Deutscher Bundestag
-> 
-> 164. Sitzung des Deutschen Bundestages
-> am Donnerstag, 14.April 2016
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
-> 
-> Gesetzentwurf der Bundesregierung
-> Entwurf eines Gesetzes zur Bekämpfung von Korruption im Gesundheitswesen
-> Drs. 18/6446 und 18/8106
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 576
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 54
-> 464
-> 
-> Nein-Stimmen:
-> 
-> 58
-> 
-> Enthaltungen:
-> 
-> 54
-> 
-> Ungültige:
-> 
-> Berlin, den 14.04.2016
-> 
-> 0
-> 
-> Beginn: 17:19  
-> Ende: 17:22

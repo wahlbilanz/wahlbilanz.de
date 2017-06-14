@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Bundeswehreinsatz SEA GUARDIAN im Mittelmeer"
 categories:
  - Bundeswehr
@@ -9,83 +9,65 @@ tags:
  - SEA GUARDIAN
  - NATO
  - OAE
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 193
+ abstimmung: 3
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=421
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=421
+ - title: http://www.abgeordnetenwatch.de/bundeswehrbeteiligung_an_nato_operation_sea_guardian-1105-815.html
+   url: http://www.abgeordnetenwatch.de/bundeswehrbeteiligung_an_nato_operation_sea_guardian-1105-815.html
+data:
+ - title: Abstimmungsergebnis 20160929_3-data.pdf
+   url: /res/abstimmungsliste/20160929_3-data.pdf
+ - title: Abstimmungsergebnis 20160929_3_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20160929_3_xls-data.csv
+documents:
+ - title: Drucksache 18/09632.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/096/1809632.pdf
+   local: /res/abstimmungsdaten/018-193-03/1809632.pdf
+ - title: Drucksache 18/09793.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/097/1809793.pdf
+   local: /res/abstimmungsdaten/018-193-03/1809793.pdf
+preview: |
+     Deutscher Bundestag
+    
+     193. Sitzung des Deutschen Bundestages
+     am Donnerstag, 29.September 2016
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+    
+     Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+     Bundesregierung
+     Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen
+     Sicherheitsoperation SEA GUARDIAN im Mittelmeer
+     - Drs. 18/9632 und 18/9793
+    
+     Abgegebene Stimmen insgesamt:
+    
+     559
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     71
+     441
+    
+     Nein-Stimmen:
+    
+     117
+    
+     Enthaltungen:
+    
+     1
+    
+     Ungültige:
+    
+     0
+    
+     Berlin, den 29.09.2016
+    
+     Beginn: 19:29
+     Ende: 19:32
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 193
-    * Abstimmung: 3
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=421](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=421)
-    * [http://www.abgeordnetenwatch.de/bundeswehrbeteiligung_an_nato_operation_sea_guardian-1105-815.html](http://www.abgeordnetenwatch.de/bundeswehrbeteiligung_an_nato_operation_sea_guardian-1105-815.html)
-* Data: 
-    * [Abstimmungsergebnis 20160929_3-data.pdf](/res/abstimmungsliste/20160929_3-data.pdf)
-    * [Abstimmungsergebnis 20160929_3_xls-data.csv](/res/abstimmungsliste/analyses/20160929_3_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/09632.pdf](http://dip21.bundestag.de/dip21/btd/18/096/1809632.pdf) ([local copy](/res/abstimmungsdaten/018-193-03/1809632.pdf))
-    * [Drucksache 18/09793.pdf](http://dip21.bundestag.de/dip21/btd/18/097/1809793.pdf) ([local copy](/res/abstimmungsdaten/018-193-03/1809793.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 310
-        * Ja: 283
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 27
-    * spd: 193
-        * Ja: 158
-        * Nein: 11
-        * Enthaltung: 1
-        * Ungültig: 0
-        * Nicht abgegeben: 23
-    * die.linke: 64
-        * Ja: 0
-        * Nein: 53
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 11
-    * gruenen: 63
-        * Ja: 0
-        * Nein: 53
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 10
-* Preview: 
-> Deutscher Bundestag
-> 
-> 193. Sitzung des Deutschen Bundestages
-> am Donnerstag, 29.September 2016
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
-> 
-> Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
-> Bundesregierung
-> Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen
-> Sicherheitsoperation SEA GUARDIAN im Mittelmeer
-> - Drs. 18/9632 und 18/9793
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 559
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 71
-> 441
-> 
-> Nein-Stimmen:
-> 
-> 117
-> 
-> Enthaltungen:
-> 
-> 1
-> 
-> Ungültige:
-> 
-> 0
-> 
-> Berlin, den 29.09.2016
-> 
-> Beginn: 19:29  
-> Ende: 19:32

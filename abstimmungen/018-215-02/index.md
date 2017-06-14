@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: abstimmung
 title: "Abstimmung: Ausbildungsunterstützung der Bundeswehr im Irak"
 categories:
  - Bundeswehr
@@ -9,90 +9,66 @@ tags:
  - Irak
  - Ausbildung
  - UN
+abstimmung:
+ legislaturperiode: 18
+ bundestagssitzung: 215
+ abstimmung: 2
+links:
+ - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=453
+   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=453
+ - title: http://www.abgeordnetenwatch.de/fortsetzung_der_ausbildungsunterstuetzung_im_irak-1105-848.html
+   url: http://www.abgeordnetenwatch.de/fortsetzung_der_ausbildungsunterstuetzung_im_irak-1105-848.html
+data:
+ - title: Abstimmungsergebnis 20170126_2-data.pdf
+   url: /res/abstimmungsliste/20170126_2-data.pdf
+ - title: Abstimmungsergebnis 20170126_2_xls-data.csv
+   url: /res/abstimmungsliste/analyses/20170126_2_xls-data.csv
+documents:
+ - title: Drucksache 18/10820.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/108/1810820.pdf
+   local: /res/abstimmungsdaten/018-215-02/1810820.pdf
+ - title: Drucksache 18/10968.pdf
+   url: http://dip21.bundestag.de/dip21/btd/18/109/1810968.pdf
+   local: /res/abstimmungsdaten/018-215-02/1810968.pdf
+preview: |
+     Deutscher Bundestag
+    
+     215. Sitzung des Deutschen Bundestages
+     am Donnerstag, 26. Januar 2017
+    
+     Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+    
+     Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+     Bundesregierung
+     Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte zur
+     Ausbidlungsunterstützung der Sicherheitskräfte der Regierung der Region Kurdistan-Irak
+     und der Irakischen Streitkräfte
+     - Drucksachen 18/10820 und 18/10968 -
+    
+     Abgegebene Stimmen insgesamt:
+    
+     557
+    
+     Nicht abgegebene Stimmen:
+     Ja-Stimmen:
+    
+     73
+     444
+    
+     Nein-Stimmen:
+    
+     67
+    
+     Enthaltungen:
+    
+     46
+    
+     Ungültige:
+    
+     Berlin, den 26.01.2017
+    
+     0
+    
+     Beginn: 15:08
+     Ende: 15:11
 ---
-
-* Namentliche Abstimmung:
-    * [Legislaturperiode: 18 (2013-2017)](https://de.wikipedia.org/wiki/18._Deutscher_Bundestag)
-    * Bundestagssitzung: 215
-    * Abstimmung: 2
-* Links: 
-    * [https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=453](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=453)
-    * [http://www.abgeordnetenwatch.de/fortsetzung_der_ausbildungsunterstuetzung_im_irak-1105-848.html](http://www.abgeordnetenwatch.de/fortsetzung_der_ausbildungsunterstuetzung_im_irak-1105-848.html)
-* Data: 
-    * [Abstimmungsergebnis 20170126_2-data.pdf](/res/abstimmungsliste/20170126_2-data.pdf)
-    * [Abstimmungsergebnis 20170126_2_xls-data.csv](/res/abstimmungsliste/analyses/20170126_2_xls-data.csv)
-* Documents: 
-    * [Drucksache 18/10820.pdf](http://dip21.bundestag.de/dip21/btd/18/108/1810820.pdf) ([local copy](/res/abstimmungsdaten/018-215-02/1810820.pdf))
-    * [Drucksache 18/10968.pdf](http://dip21.bundestag.de/dip21/btd/18/109/1810968.pdf) ([local copy](/res/abstimmungsdaten/018-215-02/1810968.pdf))
-* Abstimmungsergebnis:
-    * cdu/csu: 309
-        * Ja: 273
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 36
-    * spd: 193
-        * Ja: 168
-        * Nein: 12
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 13
-    * die.linke: 64
-        * Ja: 0
-        * Nein: 46
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 18
-    * gruenen: 63
-        * Ja: 2
-        * Nein: 9
-        * Enthaltung: 46
-        * Ungültig: 0
-        * Nicht abgegeben: 6
-    * fraktionslos: 1
-        * Ja: 1
-        * Nein: 0
-        * Enthaltung: 0
-        * Ungültig: 0
-        * Nicht abgegeben: 0
-* Preview: 
-> Deutscher Bundestag
-> 
-> 215. Sitzung des Deutschen Bundestages
-> am Donnerstag, 26. Januar 2017
-> 
-> Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
-> 
-> Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
-> Bundesregierung
-> Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte zur
-> Ausbidlungsunterstützung der Sicherheitskräfte der Regierung der Region Kurdistan-Irak
-> und der Irakischen Streitkräfte
-> - Drucksachen 18/10820 und 18/10968 -
-> 
-> Abgegebene Stimmen insgesamt:
-> 
-> 557
-> 
-> Nicht abgegebene Stimmen:
-> Ja-Stimmen:
-> 
-> 73
-> 444
-> 
-> Nein-Stimmen:
-> 
-> 67
-> 
-> Enthaltungen:
-> 
-> 46
-> 
-> Ungültige:
-> 
-> Berlin, den 26.01.2017
-> 
-> 0
-> 
-> Beginn: 15:08  
-> Ende: 15:11
