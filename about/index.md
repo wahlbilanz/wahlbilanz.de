@@ -3,7 +3,7 @@ layout: page
 title: Über WahlBilanz.de
 sidebar: true
 tags:
- - todo
+ - Todo
 ---
 
 ## Wer sind wir?
