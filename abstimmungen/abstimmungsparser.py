@@ -100,7 +100,8 @@ class Abstimmung:
 							ncont.append (" - title: " + m.group(1))
 							ncont.append ("   url: " + m.group(2))
 						else:
-							raise IOError ("didn't match: " + content[cur] + " in " + abstimmungsfile)
+							if content[cur] != "    * \n":
+								raise IOError ("didn't match: " + content[cur] + " in " + abstimmungsfile)
 						cur = cur + 1
 					l = cur - 1
 				elif "* Data:" in c:
