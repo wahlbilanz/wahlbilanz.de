@@ -1,5 +1,6 @@
 import re
 import yaml
+import sys
 
 legislatur = re.compile('\\s*\* \[Legislaturperiode: (\\d+) \(([0-9-]+)\)\]\((.*)\)')
 keyvalue = re.compile ('\\s*\* ([^:]+): (.*)')
@@ -68,7 +69,10 @@ class Abstimmung:
 					state = 2
 					continue
 				if state == 1:
-					front += line
+					if "layout" in line:
+						front += "layout: abstimmung\n"
+					else:
+						front += line
 				if state == 2:
 					content.append (line)
 			
@@ -78,6 +82,7 @@ class Abstimmung:
 			ncont = []
 			for l in range (0, len(content) - 1):
 				c = content[l]
+				#print c
 				if "* Namentliche Abstimmung:" in c:
 					ncont.append ("abstimmung:")
 				elif "* [Legislaturperiode:" in c:
@@ -177,12 +182,15 @@ class Abstimmung:
 					#f.write (content)
 
 
-curfile = "018-228-03/index.md"
+curfile = sys.argv[1]
+#dest = sys.argv[2]
 
 a = Abstimmung ()
 neu = a.parse_abstimmung (curfile)
 with open(curfile, 'w') as f:
+	f.write ("---\n")
 	f.write (neu)
+	f.write ("\n---")
 
 
 
