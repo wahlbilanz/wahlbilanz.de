@@ -1,0 +1,147 @@
+---
+layout: default
+---
+
+  <div id="page">
+    <header class="page-header">
+      <h2>{{ page.title }}</h2>
+    </header>
+
+    <article class="page-content">
+    
+			<div class="abstimmungs-id">
+				<ul>
+					<li>Legislaturperiode: {{ page.abstimmung.legislaturperiode }}</li>
+					<li>Bundestagssitzung: {{ page.abstimmung.bundestagssitzung }}</li>
+					<li>Abstimmung: {{ page.abstimmung.abstimmung }}</li>
+				</ul>
+			</div>
+			
+			{% if page.links %}
+			<div class="external-links">
+				<h3>Weiterführendes Material</h3>
+				<ul>
+				{% for link in page.links%}
+					<li>
+						<a href="{{ link.url }}" title="{{link.title}}">
+							{{link.title}}
+						</a>
+					</li>
+				{% endfor %}
+				</ul>
+			</div>
+			{% endif %}
+			
+			{% if page.documents %}
+			<div class="documents">
+				<h3>Dokumente</h3>
+				<ul>
+				{% for doc in page.documents%}
+					<li>
+						<a href="{{ doc.url }}" title="{{doc.title}}">
+							{{doc.title}}
+						</a>
+						
+						{% if doc.local %}
+						(<a href="{{ doc.local }}" title="local version of {{doc.title}}">
+							locale Kopie
+						</a>)
+						{% endif %}
+						
+					</li>
+				{% endfor %}
+				</ul>
+			</div>
+			{% endif %}
+			
+			{% if page.ergebnis %}
+			<div class="ergebnis">
+				<h3>Abstimmungsergebnis</h3>
+				<table class="ergebnis-table">
+					<thead>
+						<tr class="party-ergebnis">
+							<th>Partei</th>
+							<th>Ja</th>
+							<th>Nein</th>
+							<th>Enthaltungen</th>
+							<th>Ungültig</th>
+							<th>Nicht Abgegeben</th>
+						</tr>
+					</thead>
+					<tbody>
+					{% for party in page.ergebnis %}
+						<tr class="party-ergebnis">
+							<td><span class="party-name">{{party.name}}</span></td>
+							<td><span class="party-ja">{{party.ja}}</span>
+							<td><span class="party-nein">{{party.ja}}</span>
+							<td><span class="party-enthaltung">{{party.enthaltung}}</span>
+							<td><span class="party-ungueltig">{{party.ungueltig}}</span>
+							<td><span class="party-nicht">{{party.nicht}}</span>
+						</tr>
+					{% endfor %}
+					</tbody>
+				</table>
+				
+				{% if page.data %}
+				<div class="ergebnis-docs">
+					<h4>Dokumente</h4>
+					<ul>
+					{% for d in page.data %}
+						<li>
+							<a href="{{ d.url }}" title="{{d.title}}">
+								{{d.title}}
+							</a>
+						</li>
+					{% endfor %}
+					</ul>
+				</div>
+				{% endif %}
+				
+			</div>
+			{% endif %}
+			
+			
+			{% if page.preview %}
+			<div class="preview">
+				<h3>Kurzübersicht</h3>
+				<blockquote>
+				{{ page.preview | markdownify }}
+				</blockquote>
+			</div>
+			{% endif %}
+			
+			
+			
+    </article>
+
+
+  </div><!-- end page content -->
+
+  {% if page.categories.size > 0 %}
+  <div id="page-categories">
+    Kategorien:
+      {% for cat in page.categories %}
+        <a class="post-cat" href="{{ site.url }}/categories/#{{ cat }}">{{ cat }}</a>
+        {% unless forloop.last %}
+        <span>/</span>
+        {% endunless %}
+      {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if page.tags.size > 0 %}
+  <div id="page-categories">
+    Tags:
+      {% for cat in page.tags %}
+        <a class="post-cat" href="{{ site.url }}/tags/#{{ cat }}">{{ cat }}</a>
+        {% unless forloop.last %}
+        <span>/</span>
+        {% endunless %}
+      {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if site.owner.disqus-shortname and page.comments == true %}
+  <div id="disqus_thread"></div>
+  {% include disqus.html %}
+  {% endif %}
