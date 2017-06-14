@@ -22,13 +22,13 @@ tags:
     * [Abstimmungsergebnis 20140625_4-data.pdf](/res/abstimmungsliste/20140625_4-data.pdf)
     * [Abstimmungsergebnis 20140625_4_xls-data.csv](/res/abstimmungsliste/analyses/20140625_4_xls-data.csv)
 * Documents: 
-    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1800700.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1800702.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1801019.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1801023.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1801024.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1801025.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-042-04/018-042-04/1801847.pdf
+    * [Drucksache 18/00700.pdf](http://dip21.bundestag.de/dip21/btd/18/007/1800700.pdf) ([local copy](/abstimmungsdaten/018-042-04/1800700.pdf))
+    * [Drucksache 18/00702.pdf](http://dip21.bundestag.de/dip21/btd/18/007/1800702.pdf) ([local copy](/abstimmungsdaten/018-042-04/1800702.pdf))
+    * [Drucksache 18/01019.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801019.pdf) ([local copy](/abstimmungsdaten/018-042-04/1801019.pdf))
+    * [Drucksache 18/01023.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801023.pdf) ([local copy](/abstimmungsdaten/018-042-04/1801023.pdf))
+    * [Drucksache 18/01024.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801024.pdf) ([local copy](/abstimmungsdaten/018-042-04/1801024.pdf))
+    * [Drucksache 18/01025.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801025.pdf) ([local copy](/abstimmungsdaten/018-042-04/1801025.pdf))
+    * [Drucksache 18/01847.pdf](http://dip21.bundestag.de/dip21/btd/18/018/1801847.pdf) ([local copy](/abstimmungsdaten/018-042-04/1801847.pdf))
 * Abstimmungsergebnis:
     * cdu/csu: 311
         * Ja: 0

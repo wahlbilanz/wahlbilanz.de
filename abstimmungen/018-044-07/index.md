@@ -21,26 +21,26 @@ tags:
     * [Abstimmungsergebnis 20140627_7-data.pdf](/res/abstimmungsliste/20140627_7-data.pdf)
     * [Abstimmungsergebnis 20140627_7_xls-data.csv](/res/abstimmungsliste/analyses/20140627_7_xls-data.csv)
 * Documents: 
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1800700.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1800702.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801002.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801005.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801006.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801007.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801008.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801009.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801010.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801011.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801012.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801016.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801017.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801019.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801020.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801021.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801022.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801023.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801024.pdf
-    * source:wahl/res/res/abstimmungsdaten/018-044-07/018-044-07/1801025.pdf
+    * [Drucksache 18/00700.pdf](http://dip21.bundestag.de/dip21/btd/18/007/1800700.pdf) ([local copy](/abstimmungsdaten/018-044-07/1800700.pdf))
+    * [Drucksache 18/00702.pdf](http://dip21.bundestag.de/dip21/btd/18/007/1800702.pdf) ([local copy](/abstimmungsdaten/018-044-07/1800702.pdf))
+    * [Drucksache 18/01002.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801002.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801002.pdf))
+    * [Drucksache 18/01005.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801005.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801005.pdf))
+    * [Drucksache 18/01006.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801006.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801006.pdf))
+    * [Drucksache 18/01007.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801007.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801007.pdf))
+    * [Drucksache 18/01008.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801008.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801008.pdf))
+    * [Drucksache 18/01009.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801009.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801009.pdf))
+    * [Drucksache 18/01010.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801010.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801010.pdf))
+    * [Drucksache 18/01011.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801011.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801011.pdf))
+    * [Drucksache 18/01012.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801012.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801012.pdf))
+    * [Drucksache 18/01016.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801016.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801016.pdf))
+    * [Drucksache 18/01017.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801017.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801017.pdf))
+    * [Drucksache 18/01019.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801019.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801019.pdf))
+    * [Drucksache 18/01020.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801020.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801020.pdf))
+    * [Drucksache 18/01021.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801021.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801021.pdf))
+    * [Drucksache 18/01022.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801022.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801022.pdf))
+    * [Drucksache 18/01023.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801023.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801023.pdf))
+    * [Drucksache 18/01024.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801024.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801024.pdf))
+    * [Drucksache 18/01025.pdf](http://dip21.bundestag.de/dip21/btd/18/010/1801025.pdf) ([local copy](/abstimmungsdaten/018-044-07/1801025.pdf))
 * Abstimmungsergebnis:
     * cdu/csu: 311
         * Ja: 276
