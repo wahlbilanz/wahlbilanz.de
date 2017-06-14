@@ -68,14 +68,16 @@ layout: default
 					</thead>
 					<tbody>
 					{% for party in page.ergebnis %}
+						{% unless party[0] == "file" %}
 						<tr class="party-ergebnis">
-							<td><span class="party-name">{{party.name}}</span></td>
-							<td><span class="party-ja">{{party.ja}}</span>
-							<td><span class="party-nein">{{party.ja}}</span>
-							<td><span class="party-enthaltung">{{party.enthaltung}}</span>
-							<td><span class="party-ungueltig">{{party.ungueltig}}</span>
-							<td><span class="party-nicht">{{party.nicht}}</span>
+							<td><span class="party-name">{{party[0]}}</span></td>
+							<td><span class="party-ja">{{party[1].ja}}</span>
+							<td><span class="party-nein">{{party[1].nein}}</span>
+							<td><span class="party-enthaltung">{{party[1].enthaltung}}</span>
+							<td><span class="party-ungueltig">{{party[1].ungueltig}}</span>
+							<td><span class="party-nichtabgegeben">{{party[1].nichtabgegeben}}</span>
 						</tr>
+						{% endunless %}
 					{% endfor %}
 					</tbody>
 				</table>

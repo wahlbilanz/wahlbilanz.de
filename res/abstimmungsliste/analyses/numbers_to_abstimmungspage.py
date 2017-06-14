@@ -7,6 +7,8 @@ from os.path import isfile, join
 import sys
 import json
 import yaml
+sys.path.append("../../../abstimmungen")
+from abstimmungsparser import Abstimmung
 
 abst_dict = {}
 
@@ -123,45 +125,55 @@ for abstid in sorted (abst_dict):
 	if not os.path.isfile (jekyll_file):
 		print ("file does not exist: " + jekyll_file)
 		sys.exit (1)
+	
+	print (jekyll_file)
+	a = Abstimmung ()
+	a.parse_abstimmung (jekyll_file)
+	a.data["ergebnis"] = abst_dict[abstid]
+	#print (a.get_title ())
+	#print (a.data["preview"])
+	#print (yaml.dump (a.data, explicit_start=True, default_flow_style=False))
+	a.write_abstimmung (jekyll_file)
+	#break
+	
+	#front = ""
+	#content = ""
+	#state = 0
+	##ydata = None
+	#with open(jekyll_file, 'r') as f:
+		#for line in f:
+			#if "---" in line and state == 0:
+				#state = 1
+				#continue
+			#if "---" in line and state == 1:
+				#state = 2
+				#continue
+			#if state == 1:
+				#front += line
+			#if state == 2:
+				#if "abstimmungsergebnis" in line:
+					#state = -1
+					#break
+				#content += line
 		
-	front = ""
-	content = ""
-	state = 0
-	#ydata = None
-	with open(jekyll_file, 'r') as f:
-		for line in f:
-			if "---" in line and state == 0:
-				state = 1
-				continue
-			if "---" in line and state == 1:
-				state = 2
-				continue
-			if state == 1:
-				front += line
-			if state == 2:
-				if "abstimmungsergebnis" in line:
-					state = -1
-					break
-				content += line
-		
-		if state > 0:
-			erg = "* Abstimmungsergebnis:\n"
-			for fraktion in fraktionen:
-				if fraktion in abst_dict[abstid]:
-					erg += "    * " + fraktion + ": " + str (abst_dict[abstid][fraktion]["gesamt"]) + "\n"
-					erg += "        * Ja: " + str (abst_dict[abstid][fraktion]["ja"]) + "\n"
-					erg += "        * Nein: " + str (abst_dict[abstid][fraktion]["nein"]) + "\n"
-					erg += "        * Enthaltung: " + str (abst_dict[abstid][fraktion]["enthaltung"]) + "\n"
-					erg += "        * Ungültig: " + str (abst_dict[abstid][fraktion]["ungueltig"]) + "\n"
-					erg += "        * Nicht abgegeben: " + str (abst_dict[abstid][fraktion]["nichtabgegeben"]) + "\n"
+		#if state > 0:
+			#erg = "* Abstimmungsergebnis:\n"
+			#for fraktion in fraktionen:
+				#if fraktion in abst_dict[abstid]:
+					#erg += "    * " + fraktion + ": " + str (abst_dict[abstid][fraktion]["gesamt"]) + "\n"
+					#erg += "        * Ja: " + str (abst_dict[abstid][fraktion]["ja"]) + "\n"
+					#erg += "        * Nein: " + str (abst_dict[abstid][fraktion]["nein"]) + "\n"
+					#erg += "        * Enthaltung: " + str (abst_dict[abstid][fraktion]["enthaltung"]) + "\n"
+					#erg += "        * Ungültig: " + str (abst_dict[abstid][fraktion]["ungueltig"]) + "\n"
+					#erg += "        * Nicht abgegeben: " + str (abst_dict[abstid][fraktion]["nichtabgegeben"]) + "\n"
 			
-			content = content.replace ("* Preview", erg + "* Preview")
+			#content = content.replace ("* Preview", erg + "* Preview")
 			
-			with open(jekyll_file, 'w') as f:
-				f.write ("---\n")
-				f.write (front)
-				f.write ("---\n")
-				f.write (content)
+			#with open(jekyll_file, 'w') as f:
+				#f.write ("---\n")
+				#f.write (front)
+				#f.write ("---\n")
+				#f.write (content)
 		
 		
 		#ydata = yaml.load (front)
