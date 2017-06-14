@@ -7,8 +7,21 @@ layout: default
       <h2>{{ page.title }}</h2>
     </header>
 
-    <article class="page-content">
-    
+    <article class="page-content abstimmung">
+			
+			
+			
+			{% if page.preview %}
+			<div class="preview">
+				<h3>Kurzübersicht</h3>
+				<blockquote>
+				{{ page.preview | markdownify }}
+				</blockquote>
+			</div>
+			{% endif %}
+			
+			
+			
 			<div class="abstimmungs-id">
 				<ul>
 					<li>Legislaturperiode: {{ page.abstimmung.legislaturperiode }}</li>
@@ -17,40 +30,8 @@ layout: default
 				</ul>
 			</div>
 			
-			{% if page.links %}
-			<div class="external-links">
-				<h3>Weiterführendes Material</h3>
-				<ul>
-				{% for link in page.links%}
-					<li>
-						<a href="{{ link.url }}" title="{{link.title}}">
-							{{link.title}}
-						</a>
-					</li>
-				{% endfor %}
-				</ul>
-			</div>
-			{% endif %}
 			
-			{% if page.documents %}
-			<div class="documents">
-				<h3>Dokumente</h3>
-				<ul>
-				{% for doc in page.documents%}
-					<li>
-						<a href="{{ doc.url }}" title="{{doc.title}}">
-							{{doc.title}}
-						</a>
-						
-						{% if doc.local %}
-						(<a href="{{ doc.local }}" title="local version of {{doc.title}}">lokale Kopie</a>)
-						{% endif %}
-						
-					</li>
-				{% endfor %}
-				</ul>
-			</div>
-			{% endif %}
+			
 			
 			{% if page.ergebnis %}
 			<div class="ergebnis">
@@ -100,22 +81,46 @@ layout: default
 			</div>
 			{% endif %}
 			
+			{% if page.links %}
+			<div class="external-links">
+				<h3>Weiterführendes Material</h3>
+				<ul>
+				{% for link in page.links%}
+					<li>
+						<a href="{{ link.url }}" title="{{link.title}}">
+							{{link.title}}
+						</a>
+					</li>
+				{% endfor %}
+				</ul>
+			</div>
+			{% endif %}
 			
-			{% if page.preview %}
-			<div class="preview">
-				<h3>Kurzübersicht</h3>
-				<blockquote>
-				{{ page.preview | markdownify }}
-				</blockquote>
+			{% if page.documents %}
+			<div class="documents">
+				<h3>Dokumente</h3>
+				<ul>
+				{% for doc in page.documents%}
+					<li>
+						<a href="{{ doc.url }}" title="{{doc.title}}">
+							{{doc.title}}
+						</a>
+						
+						{% if doc.local %}
+						(<a href="{{ doc.local }}" title="local version of {{doc.title}}">lokale Kopie</a>)
+						{% endif %}
+						
+					</li>
+				{% endfor %}
+				</ul>
 			</div>
 			{% endif %}
 			
 			
 			
     </article>
+    <div style="clear:both"></div>
 
-
-  </div><!-- end page content -->
 
   {% if page.categories.size > 0 %}
   <div id="page-categories">
@@ -140,6 +145,8 @@ layout: default
       {% endfor %}
   </div>
   {% endif %}
+  
+  </div><!-- end page content -->
 
   {% if site.owner.disqus-shortname and page.comments == true %}
   <div id="disqus_thread"></div>
