@@ -1,45 +1,57 @@
-### Update 03/08/2016
-I'm working on making leonids a [jekyll theme](https://jekyllrb.com/docs/themes/) so that people can easily install the theme without having to fork or download anything from here. Actually the first gem version is published, you can install it by following the official [doc](https://jekyllrb.com/docs/themes/). You can find the rubygem version [here](https://rubygems.org/gems/leonids). But it will be on beta until I can finish the doc of how you can install leonids with the rubygem version.
+# WahlBilanz.de
 
-### Update 05/06/2016
+Dieses Repository ist der Quellcode zur Website von [WahlBilanz.de](https://wahlbilanz.de/).
 
-Important! It's better to download the gzipped files instead of forking the repo. I would really appreciate if you could give me a star. 😁
 
-This project is under MIT license, so feel free to make it your own.
+## Hintergrung
 
-# Leonids Jekyll Themes
+Die Website ist als "Nebenprodukt" von einem anderen Projekt entstanden:
+Für [DeinWal.de](https://deinwal.de) mussten wir jede Menge Daten und Dokumente von verschiedenen Webseiten zu Abstimmungen im Bundestag zusammenführen, kategorisieren und taggen.
+Das war natürlich mit sehr viel manueller Arbeit verbunden.
+Die meisten Daten sind im Zuge von Open Data und E-Government Initiativen zwar online und frei zugänglich aber häufig schlecht verlinkt und stehen manchmal in sehr komischen Formaten zur Verfügung.
+Zum Beispiel gibt es auf [bundestag.de zwar eine hübsche Seite, die die Abstimmung zur Einführung eines Mindestlohns visualisiert](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=290), die rohen Abstimmungsdaten sind dort aber nicht verlinkt.
+Die [Rohdaten muss man sich von einer anderen Seite laden](https://www.bundestag.de/parlament/plenum/abstimmung/liste).
+Für die Zuordnung von Daten zu Abstimmungen ist auch einiges an manuellem Aufwand nötig.
+Und ist endlich der passende Datensatz gefunden, sind die Abstimmungsergebnisse in einer PDF-Datei gefangen ([originales Dokument](https://www.bundestag.de/blob/286286/8830dd61852c3588376a1f5ba6531dce/20140703_2-data.pdf)):
 
-**[Leonids](http://renyuanz.github.io/leonids)** is a clean Jekyll theme perfect for powering your GitHub hosted blog.
+![Abstimmungsdaten als PDF...](/img/2017-06-undlos/montage-preview.png)
 
-## What is Leonids?
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Simple and clear permalink structure.
-* Support for Disqus Comments.
-* Support for multi-authors.
-* **And** the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle).
+Alternativ stehen die [Daten auch im proprietären Excel-Format](https://www.bundestag.de/blob/286290/de77f65674a3bd51f02fd1b9a7dbc915/20140703_2_xls-data.xls) zur Verfügung.
+Beides nichts womit Free-Software-Fans arbeiten möchten... ;-)
 
-See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub.
+Wir haben die Daten also über Wochen mühsam gesammelt, integriert, konvertiert, getaggt ... usw.
+Wir sind aber bestimmt nicht die einzigen, die vor dem Problem stehen!
+Damit sich aber nicht jeder andere die gleiche Arbeit machen muss entschieden wir uns alles auf eine Website zu stellen.
 
-## Quick setup
+So entstand die Idee zu [WahlBilanz.de](https://wahlbilanz.de/).
 
-```
-git clone https://github.com/renyuanz/leonids
-cd leonids
-jekyll server
-```
+Hier findet ihr [alle Abstimmungen der aktuellen Legislaturperiode im Bundestag](https://wahlbilanz.de/abstimmungen/).
+Zu jeder Abstimmung gibt es noch [eine Detail-Seite, die mehr Informationen und Links zu anderen Seiten sammelt und bereit stellt](https://wahlbilanz.de/abstimmungen/018-046-02/).
 
-Check out your awesome blog at `http://localhost:4000` and Cheers!
 
-## Running with Docker
+## Mach Mit!
 
-```
-docker run --rm -it --volume=$PWD:/srv/jekyll -p 4000:4000 jekyll/jekyll:pages jekyll serve --watch --force_polling
-```
+Das coolste ist: [Du kannst mitmachen](https://wahlbilanz.de/contribute/)! :)
 
-## TODO
+* Du kannst uns **Analysen zu bestimmten Themen/Abstimmung/Vorkommnissen** schicken, die wir dann als Artikel unter deinem Namen veröffentlichen. Wir nehmen auch gern Links zu Beiträgen, die du vielleicht schon in deinem Blog veröffentlicht hast?
+* Du kannst probieren das **Layout der Seite** zu verbessern. Vielleicht hast du eine bessere Idee für ein Logo? Oder bist ein CSS-Profi?
+* Du kannst uns helfen **mehr Informationen** zu den Abstimmungen (z.B. weiterführende Links etc.) oder anderen Daten zu sammeln.
+* Du kannst **Fehler finden und verbessern!** Wir sind natürlich auch nur Menschen und bei weitem nicht perfekt... Wenn dir etwas auffällt - sei es Rechtschreibfehler, falsche Kategorisierung, Layoutprobleme etc - fänden wir es super, wenn du uns informierst und/oder beim Beheben hilfst! :)
+* Du kannst natürlich auch dabei helfen **WahlBilanz.de bekannt zu machen!** Erzähl einfach allen davon.. Freunden, Familie, Kollegen, Politikern, Journalisten, Schauspielern, Ärzten, Barkeepern, Gärtnern, ..... :)
 
-- [ ] Build a timeline page.
-- [ ] Build a portfolio page.
-- [ ] Redesign categories page. Ref: [dribbble: blog category section By Ilja Miskov](https://dribbble.com/shots/2274792-Blog-Category-Selection)
-- [ ] Multi languages support.
+Dir fallen bestimmt noch viele andere Möglichkeiten ein..
+Du solltest jedoch immer darauf achten, dass du unparteiisch bleibst!
+Diese Seite soll informieren und nicht beeinflussen.
+Wenn du etwas analysieren möchtest solltest du deine Vorgehensweise, die Herkunft der Daten, und deine Entscheidungen gut dokumentieren.
+
+Deine Beiträge kannst du zum Beispiel mit einer E-Mail einsenden, unsere [Kontaktdaten findest du auf der Webseite](https://wahlbilanz.de/about/).
+Oder du [forkst das Repository](https://github.com/wahlbilanz/wahlbilanz.de) und reichst deine Vorschläge, Verbesserungen, und Artikel direkt als Pull-Request ein.
+
+Wer Lust hat die Seite aktiv mitzugestalten kann auch gern dem [WahlBilanz.de-Team](https://github.com/orgs/wahlbilanz/teams/wahlbilanz-team) beitreten :)
+
+
+## Lizenz
+
+Die Webseite wird unter der [Creative Commons BY-SA Lizenz](http://creativecommons.org/licenses/by-sa/4.0/) entwickelt.
+Bei allen Einsendungen und Pull Requests gehen wir davon aus, dass sie unter der selben Lizenz eingesandt werden.
