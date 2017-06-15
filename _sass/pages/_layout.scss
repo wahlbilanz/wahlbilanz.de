@@ -69,13 +69,12 @@
     }
   }
 }
+
 .nav-list, .nav-list-meta {
   margin: 0;
   padding: 0;
   list-style: none;
   .nav-item {
-    display: inline-block;
-    *display: inline;
     zoom: 1;
     &:after {
       content: '/';
@@ -96,14 +95,10 @@
   }
 }
 
-.nav-list .nav-item
-{
-	&:after {
-		content: '\2015';
-	}
-	&:last-child:after {
-		content: '';
-	}
+
+
+
+.nav-list .nav-item {
 	& a {
 		font-size: 1.1em;
 		text-transform: uppercase;
@@ -114,7 +109,26 @@
 			color: lighten($secondary, 14%);
 		}
 	}
+	&:after {
+		content: '';
+	}
+	@include media-query($tiny-screen) {
+		display: inline-block;
+		*display: inline;
+		&:after {
+			content: '\2015';
+		}
+		&:last-child:after {
+			content: '';
+		}
+	}
 }
+.nav-list-meta .nav-item {
+	display: inline-block;
+	*display: inline;
+}
+
+
 
 .cover-card .license
 {
