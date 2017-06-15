@@ -8,7 +8,7 @@
 
 .hidden-md {
   display: none;
-  @include media-query($medium-screen) {
+  @include media-query($large-screen) {
     display: inline-block;
   }
 }
