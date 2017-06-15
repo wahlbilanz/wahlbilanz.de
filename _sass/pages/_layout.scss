@@ -7,11 +7,11 @@
   min-height: 400px;
   padding: 30px 15px 20px;
   z-index: 1;
-  @include media-query($small-screen) {
+  @include media-query($medium-screen) {
     background-position: center;
     padding: 30px;
   }
-  @include media-query($medium-screen) {
+  @include media-query($large-screen) {
     height: 100vh;
     position: initial;
     width: 100%;
@@ -44,7 +44,7 @@
     font-size: 90%;
     display: block;
   }
-  @include media-query($medium-screen) {
+  @include media-query($large-screen) {
     text-align: right;
     margin: 0 auto;
     padding: 0 0px 80px;
@@ -69,13 +69,12 @@
     }
   }
 }
+
 .nav-list, .nav-list-meta {
   margin: 0;
   padding: 0;
   list-style: none;
   .nav-item {
-    display: inline-block;
-    *display: inline;
     zoom: 1;
     &:after {
       content: '/';
@@ -96,14 +95,10 @@
   }
 }
 
-.nav-list .nav-item
-{
-	&:after {
-		content: '\2015';
-	}
-	&:last-child:after {
-		content: '';
-	}
+
+
+
+.nav-list .nav-item {
 	& a {
 		font-size: 1.1em;
 		text-transform: uppercase;
@@ -114,7 +109,26 @@
 			color: lighten($secondary, 14%);
 		}
 	}
+	&:after {
+		content: '';
+	}
+	@include media-query($tiny-screen) {
+		display: inline-block;
+		*display: inline;
+		&:after {
+			content: '\2015';
+		}
+		&:last-child:after {
+			content: '';
+		}
+	}
 }
+.nav-list-meta .nav-item {
+	display: inline-block;
+	*display: inline;
+}
+
+
 
 .cover-card .license
 {
@@ -158,36 +172,13 @@ figcaption
 	margin: 8px;
 }
 
-
-
-.ergebnistable 
+.page,
+.post
 {
-	width: auto;
-}
-.ergebnistable td
-{
-	padding: 15px;
-}
-
-
-.abstimmung > div
-{
-	background-color: #fafafa;
-	border: 1px solid;
-	border-radius: 20px;
-	padding: 10px 25px;
-	width: 50%;
-	float: left;
-	margin: 10px;
-}
-
-
-
-
-.abstimmung > .preview
-{
-	float: right;
-	width: 45%;
+	@include media-query($larger-screen) {
+		max-width: 1100px;
+	}
+	
 }
 
 

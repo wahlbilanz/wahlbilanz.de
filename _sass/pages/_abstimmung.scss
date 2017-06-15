@@ -1,0 +1,35 @@
+
+.ergebnistable 
+{
+	width: auto;
+}
+.ergebnistable td
+{
+	padding: 15px;
+}
+
+
+.abstimmung-left > div,
+.abstimmung .preview
+{
+	background-color: #fafafa;
+	border: 1px solid;
+	border-radius: 20px;
+	padding: 10px 25px;
+	margin: 10px;
+}
+
+.abstimmung-left
+{
+	@include media-query($larger-screen) {
+		width: 50%;
+		float: left;
+	}
+}
+.abstimmung > .preview
+{
+	@include media-query($larger-screen) {
+		float: right;
+		width: 45%;
+	}
+}
