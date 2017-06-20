@@ -11,16 +11,7 @@ layout: default
 			
 			
 			
-			{% if page.preview %}
-			<div class="preview">
-				<h3>Kurzübersicht</h3>
-				<blockquote>
-				{{ page.preview | markdownify }}
-				</blockquote>
-			</div>
-			{% endif %}
-			
-			
+			<div class="abstimmung-left">
 			
 			<div class="abstimmungs-id">
 				<ul>
@@ -50,7 +41,7 @@ layout: default
 					<tbody>
 					{% for party in page.ergebnis %}
 						{% unless party[0] == "file" %}
-						<tr class="party-ergebnis">
+						<tr class="party-ergebnis party-{{party[0] | slugify }}">
 							<td><span class="party-name">{{party[0]}}</span></td>
 							<td><span class="party-ja">{{party[1].ja}}</span>
 							<td><span class="party-nein">{{party[1].nein}}</span>
@@ -116,6 +107,17 @@ layout: default
 			</div>
 			{% endif %}
 			
+			</div>
+			
+			
+			{% if page.preview %}
+			<div class="preview">
+				<h3>Kurzübersicht</h3>
+				<blockquote>
+				{{ page.preview | markdownify }}
+				</blockquote>
+			</div>
+			{% endif %}
 			
 			
     </article>

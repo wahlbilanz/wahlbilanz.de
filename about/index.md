@@ -13,7 +13,7 @@ Das Projekt WahlBilanz.de wurde von [Martin Scharm](https://binfalse.de) und [To
 
 ## Wie kann man uns erreichen?
 
-<span id='spamhelp'>Am einfachsten per E-Mail. Zum Spamschutz hängt an der folgenden Adresse ein `.spamschutz`, dass ihr noch entfernen müsst:</span>
+<span id='spamhelp'>Am einfachsten per E-Mail. Zum Spamschutz hängt an der folgenden Adresse ein `.spamschutz`, den ihr noch entfernen müsst:</span>
 
 <a id="mailadress" href="mailto:info.spamschutz@wahlbilanz.de?body=Bitte%20entfernen%20Sie%20den%20Text%20.spamschutz%20aus%20der%20Empfaengeradresse%20-%20Please%20delete%20.spamschutz%20from%20recipient%20address">info.spamschutz@wahlbilanz.de</a>
 
