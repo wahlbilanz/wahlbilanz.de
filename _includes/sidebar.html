@@ -2,7 +2,9 @@
 
 <div class="cover-card table-cell table-middle">
   {% if author.avatar %}
-  <img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar">
+  <a href="{{ site.url }}/">
+		<img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar">
+	</a>
   {% endif %}
   <a href="{{ site.url }}/" class="author_name">{{ author.name }}</a>
   <span class="author_job">{{ author.job }}</span>
@@ -35,10 +37,4 @@
     </ul>
   </nav>
   {% include social-links.html %}
-  <div class="license">
-		<a href="http://creativecommons.org/licenses/by-sa/4.0/">
-			Lizenziert unter Creative Commons BY-SA 4.0 <br />
-			<img src="{{ site.url }}/img/cc-by-sa.png" alt="Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz" class="avatar">
-		</a>
-  </div>
 </div>

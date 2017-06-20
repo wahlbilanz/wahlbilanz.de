@@ -43,6 +43,7 @@
   .author_bio {
     font-size: 90%;
     display: block;
+		margin-bottom: 50px;
   }
   @include media-query($large-screen) {
     text-align: right;
@@ -130,9 +131,9 @@
 
 
 
-.cover-card .license
+.lizenzpic
 {
-	font-size: 75%;
+	margin-left: 5px;
 }
 
 
