@@ -14,13 +14,13 @@ data:
   url: /res/abstimmungsliste/csv/20170601_9_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-237-09/1811135.pdf
-  title: Drucksache 1811135.pdf
+  title: Drucksache 18/11135.pdf
   url: 'http://dip21.bundestag.de/dip21/btd/18/111/1811135.pdf'
 - local: /res/abstimmungsdaten/018-237-09/1811185.pdf
-  title: Drucksache 1811185.pdf
+  title: Drucksache 18/11185.pdf
   url: 'http://dip21.bundestag.de/dip21/btd/18/111/1811185.pdf'
 - local: /res/abstimmungsdaten/018-237-09/1812589.pdf
-  title: Drucksache 1812589.pdf
+  title: Drucksache 18/12589.pdf
   url: 'http://dip21.bundestag.de/dip21/btd/18/125/1812589.pdf'
 ergebnis:
   cdu/csu:
