@@ -11,7 +11,7 @@ data:
 - title: Abstimmungsergebnis 20141113_6-data.pdf
   url: /res/abstimmungsliste/20141113_6-data.pdf
 - title: Abstimmungsergebnis 20141113_6_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20141113_6_xls-data.csv
+  url: /res/abstimmungsliste/csv/20141113_6_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-066-06/1802663.pdf
   title: Drucksache 18/02663.pdf

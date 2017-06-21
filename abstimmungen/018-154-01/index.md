@@ -11,7 +11,7 @@ data:
 - title: Abstimmungsergebnis 20160217_1-data.pdf
   url: /res/abstimmungsliste/20160217_1-data.pdf
 - title: Abstimmungsergebnis 20160217_1_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20160217_1_xls-data.csv
+  url: /res/abstimmungsliste/csv/20160217_1_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-154-01/1807543.pdf
   title: Drucksache 18/07543.pdf

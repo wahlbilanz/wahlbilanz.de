@@ -10,7 +10,7 @@ data:
 - title: Abstimmungsergebnis 20141218_1-data.pdf
   url: /res/abstimmungsliste/20141218_1-data.pdf
 - title: Abstimmungsergebnis 20141218_1_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20141218_1_xls-data.csv
+  url: /res/abstimmungsliste/csv/20141218_1_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-076-01/1803246.pdf
   title: Drucksache 18/03246.pdf

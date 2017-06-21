@@ -9,7 +9,7 @@ data:
 - title: Abstimmungsergebnis 20160929_2-data.pdf
   url: /res/abstimmungsliste/20160929_2-data.pdf
 - title: Abstimmungsergebnis 20160929_2_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20160929_2_xls-data.csv
+  url: /res/abstimmungsliste/csv/20160929_2_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-193-02/1804419.pdf
   title: Drucksache 18/04419.pdf

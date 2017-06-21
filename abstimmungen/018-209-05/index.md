@@ -11,7 +11,7 @@ data:
 - title: Abstimmungsergebnis 20161215_5-data.pdf
   url: /res/abstimmungsliste/20161215_5-data.pdf
 - title: Abstimmungsergebnis 20161215_5_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20161215_5_xls-data.csv
+  url: /res/abstimmungsliste/csv/20161215_5_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-209-05/1809958.pdf
   title: Drucksache 18/09958.pdf

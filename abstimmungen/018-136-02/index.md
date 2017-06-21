@@ -10,7 +10,7 @@ data:
 - title: Abstimmungsergebnis 20151112_2-data.pdf
   url: /res/abstimmungsliste/20151112_2-data.pdf
 - title: Abstimmungsergebnis 20151112_2_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20151112_2_xls-data.csv
+  url: /res/abstimmungsliste/csv/20151112_2_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-136-02/1806503.pdf
   title: Drucksache 18/06503.pdf

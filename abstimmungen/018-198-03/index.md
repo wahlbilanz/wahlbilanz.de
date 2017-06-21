@@ -9,7 +9,7 @@ data:
 - title: Abstimmungsergebnis 20161109_3-data.pdf
   url: /res/abstimmungsliste/20161109_3-data.pdf
 - title: Abstimmungsergebnis 20161109_3_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20161109_3_xls-data.csv
+  url: /res/abstimmungsliste/csv/20161109_3_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-198-03/1808034.pdf
   title: Drucksache 18/08034.pdf

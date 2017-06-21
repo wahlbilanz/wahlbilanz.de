@@ -11,7 +11,7 @@ data:
 - title: Abstimmungsergebnis 20140130_1-data.pdf
   url: /res/abstimmungsliste/20140130_1-data.pdf
 - title: Abstimmungsergebnis 20140130_1_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20140130_1_xls-data.csv
+  url: /res/abstimmungsliste/csv/20140130_1_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-011-01/1800180.pdf
   title: Drucksache 18/00180.pdf

@@ -10,7 +10,7 @@ data:
 - title: Abstimmungsergebnis 20150521_1-data.pdf
   url: /res/abstimmungsliste/20150521_1-data.pdf
 - title: Abstimmungsergebnis 20150521_1_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20150521_1_xls-data.csv
+  url: /res/abstimmungsliste/csv/20150521_1_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-106-01/1804769.pdf
   title: Drucksache 18/04769.pdf
