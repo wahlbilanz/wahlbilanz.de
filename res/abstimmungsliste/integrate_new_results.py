@@ -43,7 +43,7 @@ xls_to_pdf = re.compile(r"^([0-9]+_[0-9]+)_.*")
 def excel2csv (xls_file, csv_file):
 	print "  > converting %s to %s" % (xls_file, csv_file)
 	data = pandas.read_excel (xls_file, index_col=None)
-	data.to_csv (csv_file, encoding='utf-8')
+	data.to_csv (csv_file, encoding='utf-8', index=False)
 	return csv_file
 
 
@@ -173,33 +173,33 @@ for f in listdir (xls_path):
 				abst_dict[abst_key][fraktion]["gesamt"] += 1
 				
 				
-				# create new page, see 3.1 oben
-				print "  > erstelle neue abstimmungsseite"
-				jekyll_file = os.path.abspath (os.path.join (wd, "../../abstimmungen/" + abst_key + "/index.md"))
-				if not os.path.isfile (jekyll_file):
-					abstimmung = Abstimmung ()
-					abstimmung.set_abstimmung (int (row[rowids["abstimmung"]]));
-					abstimmung.set_bundestagssitzung (int (row[rowids["siztung"]]));
-					abstimmung.set_legislaturperiode (int (row[rowids["periode"]]));
-					abstimmung.set_abstimmungs_ergebnisse (abst_dict[abst_key])
-					abstimmung.set_title ("Abstimmung:")
-					abstimmung.add_tag ("Todo")
-					abstimmung.add_category ("Todo")
-					abstimmung.add_link ({"title": "bundestagslink", "url": "todo"})
-					abstimmung.add_data_file ({"title": "pdf", "url": "todo"})
-					abstimmung.add_data_file ({"title": "xls", "url": "todo"})
-					abstimmung.add_document ({"title": "drucksache...", "url": "todo", "local": "todo"})
-					pdf_file = xls_to_pdf.sub ("\\1-data.pdf", f)
-					pdf_file = os.path.join (xls_path, pdf_file)
-					if os.path.isfile (pdf_file):
-						abstimmung.set_preview (get_pdf_preview (pdf_file))
-					else:
-					 print "!!!! didn't fine pdf %s for %s !!!!" % (pdf_file, xls_file)
-					abstimmung.write_abstimmung (jekyll_file)
+			# create new page, see 3.1 oben
+			print "  > erstelle neue abstimmungsseite"
+			jekyll_file = os.path.abspath (os.path.join (wd, "../../abstimmungen/" + abst_key + "/index.md"))
+			if not os.path.isfile (jekyll_file):
+				abstimmung = Abstimmung ()
+				abstimmung.set_abstimmung (int (row[rowids["abstimmung"]]));
+				abstimmung.set_bundestagssitzung (int (row[rowids["siztung"]]));
+				abstimmung.set_legislaturperiode (int (row[rowids["periode"]]));
+				abstimmung.set_abstimmungs_ergebnisse (abst_dict[abst_key])
+				abstimmung.set_title ("Abstimmung:")
+				abstimmung.add_tag ("Todo")
+				abstimmung.add_category ("Todo")
+				abstimmung.add_link ({"title": "bundestagslink", "url": "todo"})
+				abstimmung.add_data_file ({"title": "pdf", "url": "todo"})
+				abstimmung.add_data_file ({"title": "xls", "url": "todo"})
+				abstimmung.add_document ({"title": "drucksache...", "url": "todo", "local": "todo"})
+				pdf_file = xls_to_pdf.sub ("\\1-data.pdf", f)
+				pdf_file = os.path.join (xls_path, pdf_file)
+				if os.path.isfile (pdf_file) and "pdf" in pdf_file:
+					abstimmung.set_preview (get_pdf_preview (pdf_file))
+				else:
+					print "!!!! didn't fine pdf file for %s !!!!" % xls_file
+				abstimmung.write_abstimmung (jekyll_file)
 
 
 # write new summary table, see 3.2 oben
-print "  > updating summary table"
+print "> updating summary table"
 with open (summary_table, 'w') as f:
 	f.write ("ABSTIMMUNG\t")
 	for fraktion in fraktionen:
@@ -218,7 +218,7 @@ with open (summary_table, 'w') as f:
 		f.write ("\n")
 
 # write new json file, see 3.3 oben
-print "  > updating summary json"
+print "> updating summary json"
 with open (summary_json, 'w') as f:
 	f.write (json.dumps (abst_dict, sort_keys=True, indent=2, separators=(',', ': ')))
 
