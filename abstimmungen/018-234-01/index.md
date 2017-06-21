@@ -13,11 +13,10 @@ data:
 - title: Abstimmungsergebnis 20170518_1_xls-data.csv
   url: /res/abstimmungsliste/csv/20170518_1_xls-data.csv
 documents:
-- local: /res/abstimmungsdaten/1811628.pdf
+- local: /res/abstimmungsdaten/018-234-01/1811628.pdf
   title: Drucksache 18/11628
   url: 'http://dip21.bundestag.de/dip21/btd/18/116/1811628.pdf'
-documents:
-- local: /res/abstimmungsdaten/1812205.pdf
+- local: /res/abstimmungsdaten/018-234-01/1812205.pdf
   title: Drucksache 18/12205.pdf
   url: 'http://dip21.bundestag.de/dip21/btd/18/122/1812205.pdf'
 ergebnis:
