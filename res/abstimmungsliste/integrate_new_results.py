@@ -174,9 +174,9 @@ for f in listdir (xls_path):
 				
 				
 			# create new page, see 3.1 oben
-			print "  > erstelle neue abstimmungsseite"
 			jekyll_file = os.path.abspath (os.path.join (wd, "../../abstimmungen/" + abst_key + "/index.md"))
 			if not os.path.isfile (jekyll_file):
+				print "  > erstelle neue abstimmungsseite"
 				abstimmung = Abstimmung ()
 				abstimmung.set_abstimmung (int (row[rowids["abstimmung"]]));
 				abstimmung.set_bundestagssitzung (int (row[rowids["siztung"]]));

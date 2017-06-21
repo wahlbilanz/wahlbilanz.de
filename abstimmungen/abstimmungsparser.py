@@ -21,7 +21,8 @@ class Abstimmung:
 					self.data = data
 					break
 	
-	
+	def __init__(self):
+		self.data = {}
 	
 	
 	def get_title (self):
