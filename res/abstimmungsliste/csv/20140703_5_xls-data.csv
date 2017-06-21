@@ -1,15 +1,15 @@
-Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Enthaltung,ungültig,nichtabgegeben,Bezeichnung
+Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Enthaltung,ungÃ¼ltig,nichtabgegeben,Bezeichnung
 18,46,5,CDU/CSU,Albani,Stephan,,0,1,0,0,0,Stephan Albani
 18,46,5,CDU/CSU,Albsteiger,Katrin,,0,1,0,0,0,Katrin Albsteiger
 18,46,5,CDU/CSU,Altmaier,Peter,,0,1,0,0,0,Peter Altmaier
 18,46,5,CDU/CSU,Auernhammer,Artur,,0,1,0,0,0,Artur Auernhammer
-18,46,5,CDU/CSU,Bär,Dorothee,,0,1,0,0,0,Dorothee Bär
-18,46,5,CDU/CSU,Bareiß,Thomas,,0,0,0,0,1,Thomas Bareiß
+18,46,5,CDU/CSU,BÃ¤r,Dorothee,,0,1,0,0,0,Dorothee BÃ¤r
+18,46,5,CDU/CSU,BareiÃŸ,Thomas,,0,0,0,0,1,Thomas BareiÃŸ
 18,46,5,CDU/CSU,Barthle,Norbert,,0,1,0,0,0,Norbert Barthle
 18,46,5,CDU/CSU,Bartz,Julia,,0,1,0,0,0,Julia Bartz
-18,46,5,CDU/CSU,Baumann,Günter,,0,1,0,0,0,Günter Baumann
+18,46,5,CDU/CSU,Baumann,GÃ¼nter,,0,1,0,0,0,GÃ¼nter Baumann
 18,46,5,CDU/CSU,Beermann,Maik,,0,1,0,0,0,Maik Beermann
-18,46,5,CDU/CSU,Behrens (Börde),Manfred,,0,0,0,0,1,Manfred Behrens (Börde)
+18,46,5,CDU/CSU,Behrens (BÃ¶rde),Manfred,,0,0,0,0,1,Manfred Behrens (BÃ¶rde)
 18,46,5,CDU/CSU,Bellmann,Veronika,,0,1,0,0,0,Veronika Bellmann
 18,46,5,CDU/CSU,Benning,Sybille,,0,1,0,0,0,Sybille Benning
 18,46,5,CDU/CSU,Berghegger,Andre,,0,1,0,0,0,Dr. Andre Berghegger
@@ -19,10 +19,10 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,CDU/CSU,Bilger,Steffen,,0,1,0,0,0,Steffen Bilger
 18,46,5,CDU/CSU,Binninger,Clemens,,0,1,0,0,0,Clemens Binninger
 18,46,5,CDU/CSU,Bleser,Peter,,0,1,0,0,0,Peter Bleser
-18,46,5,CDU/CSU,Böhmer,Maria,,0,1,0,0,0,Dr. Maria Böhmer
+18,46,5,CDU/CSU,BÃ¶hmer,Maria,,0,1,0,0,0,Dr. Maria BÃ¶hmer
 18,46,5,CDU/CSU,Bosbach,Wolfgang,,0,1,0,0,0,Wolfgang Bosbach
 18,46,5,CDU/CSU,Brackmann,Norbert,,0,1,0,0,0,Norbert Brackmann
-18,46,5,CDU/CSU,Brähmig,Klaus,,0,0,0,0,1,Klaus Brähmig
+18,46,5,CDU/CSU,BrÃ¤hmig,Klaus,,0,0,0,0,1,Klaus BrÃ¤hmig
 18,46,5,CDU/CSU,Brand,Michael,,0,1,0,0,0,Michael Brand
 18,46,5,CDU/CSU,Brandl,Reinhard,,0,1,0,0,0,Dr. Reinhard Brandl
 18,46,5,CDU/CSU,Brandt,Helmut,,0,1,0,0,0,Helmut Brandt
@@ -35,12 +35,12 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,CDU/CSU,Dinges-Dierig,Alexandra,,0,1,0,0,0,Alexandra Dinges-Dierig
 18,46,5,CDU/CSU,Dobrindt,Alexander,,0,1,0,0,0,Alexander Dobrindt
 18,46,5,CDU/CSU,Donth,Michael,,0,1,0,0,0,Michael Donth
-18,46,5,CDU/CSU,Dörflinger,Thomas,,0,1,0,0,0,Thomas Dörflinger
-18,46,5,CDU/CSU,Dött,Marie-Luise,,0,1,0,0,0,Marie-Luise Dött
-18,46,5,CDU/CSU,Durz,Hansjörg,,0,1,0,0,0,Hansjörg Durz
+18,46,5,CDU/CSU,DÃ¶rflinger,Thomas,,0,1,0,0,0,Thomas DÃ¶rflinger
+18,46,5,CDU/CSU,DÃ¶tt,Marie-Luise,,0,1,0,0,0,Marie-Luise DÃ¶tt
+18,46,5,CDU/CSU,Durz,HansjÃ¶rg,,0,1,0,0,0,HansjÃ¶rg Durz
 18,46,5,CDU/CSU,Eckenbach,Jutta,,0,1,0,0,0,Jutta Eckenbach
 18,46,5,CDU/CSU,Fabritius,Bernd,,0,1,0,0,0,Dr. Bernd Fabritius
-18,46,5,CDU/CSU,Färber,Hermann,,0,1,0,0,0,Hermann Färber
+18,46,5,CDU/CSU,FÃ¤rber,Hermann,,0,1,0,0,0,Hermann FÃ¤rber
 18,46,5,CDU/CSU,Feiler,Uwe,,0,1,0,0,0,Uwe Feiler
 18,46,5,CDU/CSU,Feist,Thomas,,0,1,0,0,0,Dr. Thomas Feist
 18,46,5,CDU/CSU,Ferlemann,Enak,,0,1,0,0,0,Enak Ferlemann
@@ -56,30 +56,30 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,CDU/CSU,Fuchs,Michael,,0,1,0,0,0,Dr. Michael Fuchs
 18,46,5,CDU/CSU,Fuchtel,Hans-Joachim,,0,1,0,0,0,Hans-Joachim Fuchtel
 18,46,5,CDU/CSU,Funk,Alexander,,0,1,0,0,0,Alexander Funk
-18,46,5,CDU/CSU,Gädechens,Ingo,,0,1,0,0,0,Ingo Gädechens
+18,46,5,CDU/CSU,GÃ¤dechens,Ingo,,0,1,0,0,0,Ingo GÃ¤dechens
 18,46,5,CDU/CSU,Gauweiler,Peter,,0,0,0,0,1,Dr. Peter Gauweiler
 18,46,5,CDU/CSU,Gebhart,Thomas,,0,1,0,0,0,Dr. Thomas Gebhart
 18,46,5,CDU/CSU,Gerig,Alois,,0,1,0,0,0,Alois Gerig
 18,46,5,CDU/CSU,Gienger,Eberhard,,0,1,0,0,0,Eberhard Gienger
 18,46,5,CDU/CSU,Giousouf,Cemile,,0,1,0,0,0,Cemile Giousouf
-18,46,5,CDU/CSU,Göppel,Josef,,0,1,0,0,0,Josef Göppel
+18,46,5,CDU/CSU,GÃ¶ppel,Josef,,0,1,0,0,0,Josef GÃ¶ppel
 18,46,5,CDU/CSU,Grindel,Reinhard,,0,1,0,0,0,Reinhard Grindel
 18,46,5,CDU/CSU,Groden-Kranich,Ursula,,0,1,0,0,0,Ursula Groden-Kranich
-18,46,5,CDU/CSU,Gröhe,Hermann,,0,1,0,0,0,Hermann Gröhe
-18,46,5,CDU/CSU,Gröhler,Klaus-Dieter,,0,1,0,0,0,Klaus-Dieter Gröhler
-18,46,5,CDU/CSU,Grosse-Brömer,Michael,,0,1,0,0,0,Michael Grosse-Brömer
-18,46,5,CDU/CSU,Grotelüschen,Astrid,,0,0,0,0,1,Astrid Grotelüschen
-18,46,5,CDU/CSU,Grübel,Markus,,0,1,0,0,0,Markus Grübel
+18,46,5,CDU/CSU,GrÃ¶he,Hermann,,0,1,0,0,0,Hermann GrÃ¶he
+18,46,5,CDU/CSU,GrÃ¶hler,Klaus-Dieter,,0,1,0,0,0,Klaus-Dieter GrÃ¶hler
+18,46,5,CDU/CSU,Grosse-BrÃ¶mer,Michael,,0,1,0,0,0,Michael Grosse-BrÃ¶mer
+18,46,5,CDU/CSU,GrotelÃ¼schen,Astrid,,0,0,0,0,1,Astrid GrotelÃ¼schen
+18,46,5,CDU/CSU,GrÃ¼bel,Markus,,0,1,0,0,0,Markus GrÃ¼bel
 18,46,5,CDU/CSU,Grund,Manfred,,0,1,0,0,0,Manfred Grund
 18,46,5,CDU/CSU,Grundmann,Oliver,,0,1,0,0,0,Oliver Grundmann
-18,46,5,CDU/CSU,Grütters,Monika,,0,1,0,0,0,Monika Grütters
+18,46,5,CDU/CSU,GrÃ¼tters,Monika,,0,1,0,0,0,Monika GrÃ¼tters
 18,46,5,CDU/CSU,Gundelach,Herlind,,0,1,0,0,0,Dr. Herlind Gundelach
-18,46,5,CDU/CSU,Güntzler,Fritz,,0,1,0,0,0,Fritz Güntzler
+18,46,5,CDU/CSU,GÃ¼ntzler,Fritz,,0,1,0,0,0,Fritz GÃ¼ntzler
 18,46,5,CDU/CSU,Gutting,Olav,,0,1,0,0,0,Olav Gutting
 18,46,5,CDU/CSU,Haase,Christian,,0,1,0,0,0,Christian Haase
 18,46,5,CDU/CSU,Hahn,Florian,,0,1,0,0,0,Florian Hahn
 18,46,5,CDU/CSU,Harbarth,Stephan,,0,1,0,0,0,Dr. Stephan Harbarth
-18,46,5,CDU/CSU,Hardt,Jürgen,,0,1,0,0,0,Jürgen Hardt
+18,46,5,CDU/CSU,Hardt,JÃ¼rgen,,0,1,0,0,0,JÃ¼rgen Hardt
 18,46,5,CDU/CSU,Hasselfeldt,Gerda,,0,1,0,0,0,Gerda Hasselfeldt
 18,46,5,CDU/CSU,Hauer,Matthias,,0,1,0,0,0,Matthias Hauer
 18,46,5,CDU/CSU,Hauptmann,Mark,,0,1,0,0,0,Mark Hauptmann
@@ -90,7 +90,7 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,CDU/CSU,Heinrich (Chemnitz),Frank,,0,1,0,0,0,Frank Heinrich (Chemnitz)
 18,46,5,CDU/CSU,Helfrich,Mark,,0,1,0,0,0,Mark Helfrich
 18,46,5,CDU/CSU,Heller,Uda,,0,1,0,0,0,Uda Heller
-18,46,5,CDU/CSU,Hellmuth,Jörg,,0,0,0,0,1,Jörg Hellmuth
+18,46,5,CDU/CSU,Hellmuth,JÃ¶rg,,0,0,0,0,1,JÃ¶rg Hellmuth
 18,46,5,CDU/CSU,Henke,Rudolf,,0,0,0,0,1,Rudolf Henke
 18,46,5,CDU/CSU,Hennrich,Michael,,0,1,0,0,0,Michael Hennrich
 18,46,5,CDU/CSU,Heveling,Ansgar,,0,1,0,0,0,Ansgar Heveling
@@ -105,16 +105,16 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,CDU/CSU,Horb,Margaret,,0,1,0,0,0,Margaret Horb
 18,46,5,CDU/CSU,Hornhues,Bettina,,0,1,0,0,0,Bettina Hornhues
 18,46,5,CDU/CSU,Huber,Charles M.,,0,1,0,0,0,Charles M. Huber
-18,46,5,CDU/CSU,Hübinger,Anette,,0,1,0,0,0,Anette Hübinger
-18,46,5,CDU/CSU,Hüppe,Hubert,,0,1,0,0,0,Hubert Hüppe
+18,46,5,CDU/CSU,HÃ¼binger,Anette,,0,1,0,0,0,Anette HÃ¼binger
+18,46,5,CDU/CSU,HÃ¼ppe,Hubert,,0,1,0,0,0,Hubert HÃ¼ppe
 18,46,5,CDU/CSU,Irlstorfer,Erich,,0,0,0,0,1,Erich Irlstorfer
 18,46,5,CDU/CSU,Jarzombek,Thomas,,0,1,0,0,0,Thomas Jarzombek
-18,46,5,CDU/CSU,Jörrißen,Sylvia,,0,1,0,0,0,Sylvia Jörrißen
+18,46,5,CDU/CSU,JÃ¶rriÃŸen,Sylvia,,0,1,0,0,0,Sylvia JÃ¶rriÃŸen
 18,46,5,CDU/CSU,Jung,Andreas,,0,1,0,0,0,Andreas Jung
 18,46,5,CDU/CSU,Jung,Franz Josef,,0,1,0,0,0,Dr. Franz Josef Jung
 18,46,5,CDU/CSU,Jung,Xaver,,0,1,0,0,0,Xaver Jung
-18,46,5,CDU/CSU,Jüttner,Egon,,0,1,0,0,0,Dr. Egon Jüttner
-18,46,5,CDU/CSU,Kalb,Bartholomäus,,0,1,0,0,0,Bartholomäus Kalb
+18,46,5,CDU/CSU,JÃ¼ttner,Egon,,0,1,0,0,0,Dr. Egon JÃ¼ttner
+18,46,5,CDU/CSU,Kalb,BartholomÃ¤us,,0,1,0,0,0,BartholomÃ¤us Kalb
 18,46,5,CDU/CSU,Kammer,Hans-Werner,,0,1,0,0,0,Hans-Werner Kammer
 18,46,5,CDU/CSU,Kampeter,Steffen,,0,1,0,0,0,Steffen Kampeter
 18,46,5,CDU/CSU,Kanitz,Steffen,,0,1,0,0,0,Steffen Kanitz
@@ -126,23 +126,23 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,CDU/CSU,Kiesewetter,Roderich,,0,1,0,0,0,Roderich Kiesewetter
 18,46,5,CDU/CSU,Kippels,Georg,,0,1,0,0,0,Dr. Georg Kippels
 18,46,5,CDU/CSU,Klein,Volkmar,,0,1,0,0,0,Volkmar Klein
-18,46,5,CDU/CSU,Klimke,Jürgen,,0,1,0,0,0,Jürgen Klimke
+18,46,5,CDU/CSU,Klimke,JÃ¼rgen,,0,1,0,0,0,JÃ¼rgen Klimke
 18,46,5,CDU/CSU,Knoerig,Axel,,0,1,0,0,0,Axel Knoerig
 18,46,5,CDU/CSU,Koeppen,Jens,,0,1,0,0,0,Jens Koeppen
 18,46,5,CDU/CSU,Koob,Markus,,0,1,0,0,0,Markus Koob
-18,46,5,CDU/CSU,Körber,Carsten,,0,1,0,0,0,Carsten Körber
+18,46,5,CDU/CSU,KÃ¶rber,Carsten,,0,1,0,0,0,Carsten KÃ¶rber
 18,46,5,CDU/CSU,Koschyk,Hartmut,,0,1,0,0,0,Hartmut Koschyk
 18,46,5,CDU/CSU,Kovac,Kordula,,0,1,0,0,0,Kordula Kovac
 18,46,5,CDU/CSU,Kretschmer,Michael,,0,1,0,0,0,Michael Kretschmer
 18,46,5,CDU/CSU,Krichbaum,Gunther,,0,1,0,0,0,Gunther Krichbaum
-18,46,5,CDU/CSU,Krings,Günter,,0,1,0,0,0,Dr. Günter Krings
-18,46,5,CDU/CSU,Kruse,Rüdiger,,0,1,0,0,0,Rüdiger Kruse
+18,46,5,CDU/CSU,Krings,GÃ¼nter,,0,1,0,0,0,Dr. GÃ¼nter Krings
+18,46,5,CDU/CSU,Kruse,RÃ¼diger,,0,1,0,0,0,RÃ¼diger Kruse
 18,46,5,CDU/CSU,Kudla,Bettina,,0,1,0,0,0,Bettina Kudla
-18,46,5,CDU/CSU,Kühne,Roy,,0,1,0,0,0,Dr. Roy Kühne
-18,46,5,CDU/CSU,Lach,Günter,,0,0,0,0,1,Günter Lach
+18,46,5,CDU/CSU,KÃ¼hne,Roy,,0,1,0,0,0,Dr. Roy KÃ¼hne
+18,46,5,CDU/CSU,Lach,GÃ¼nter,,0,0,0,0,1,GÃ¼nter Lach
 18,46,5,CDU/CSU,Lagosky,Uwe,,0,1,0,0,0,Uwe Lagosky
 18,46,5,CDU/CSU,Lamers,Karl A.,,0,1,0,0,0,Dr. Karl A. Lamers
-18,46,5,CDU/CSU,Lämmel,Andreas G.,,0,1,0,0,0,Andreas G. Lämmel
+18,46,5,CDU/CSU,LÃ¤mmel,Andreas G.,,0,1,0,0,0,Andreas G. LÃ¤mmel
 18,46,5,CDU/CSU,Lammert,Norbert,,0,1,0,0,0,Dr. Norbert Lammert
 18,46,5,CDU/CSU,Landgraf,Katharina,,0,1,0,0,0,Katharina Landgraf
 18,46,5,CDU/CSU,Lange,Ulrich,,0,1,0,0,0,Ulrich Lange
@@ -161,18 +161,18 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,CDU/CSU,Linnemann,Carsten,,0,1,0,0,0,Dr. Carsten Linnemann
 18,46,5,CDU/CSU,Lips,Patricia,,0,1,0,0,0,Patricia Lips
 18,46,5,CDU/CSU,Lorenz,Wilfried,,0,1,0,0,0,Wilfried Lorenz
-18,46,5,CDU/CSU,Lücking-Michel,Claudia,,0,1,0,0,0,Dr. Claudia Lücking-Michel
+18,46,5,CDU/CSU,LÃ¼cking-Michel,Claudia,,0,1,0,0,0,Dr. Claudia LÃ¼cking-Michel
 18,46,5,CDU/CSU,Luczak,Jan-Marco,,0,1,0,0,0,Dr. Jan-Marco Luczak
 18,46,5,CDU/CSU,Ludwig,Daniela,,0,1,0,0,0,Daniela Ludwig
 18,46,5,CDU/CSU,Maag,Karin,,0,0,0,0,1,Karin Maag
 18,46,5,CDU/CSU,Magwas,Yvonne,,0,1,0,0,0,Yvonne Magwas
 18,46,5,CDU/CSU,Mahlberg,Thomas,,0,1,0,0,0,Thomas Mahlberg
-18,46,5,CDU/CSU,Maizière,Thomas,de,0,1,0,0,0,Dr. Thomas de Maizière
+18,46,5,CDU/CSU,MaiziÃ¨re,Thomas,de,0,1,0,0,0,Dr. Thomas de MaiziÃ¨re
 18,46,5,CDU/CSU,Manderla,Gisela,,0,1,0,0,0,Gisela Manderla
 18,46,5,CDU/CSU,Marschall,Matern,von,0,1,0,0,0,Matern von Marschall
 18,46,5,CDU/CSU,Marwitz,Hans-Georg,von der,0,1,0,0,0,Hans-Georg von der Marwitz
 18,46,5,CDU/CSU,Mattfeldt,Andreas,,0,1,0,0,0,Andreas Mattfeldt
-18,46,5,CDU/CSU,Mayer (Altötting),Stephan,,0,1,0,0,0,Stephan Mayer (Altötting)
+18,46,5,CDU/CSU,Mayer (AltÃ¶tting),Stephan,,0,1,0,0,0,Stephan Mayer (AltÃ¶tting)
 18,46,5,CDU/CSU,Meier,Reiner,,0,1,0,0,0,Reiner Meier
 18,46,5,CDU/CSU,Meister,Michael,,0,1,0,0,0,Dr. Michael Meister
 18,46,5,CDU/CSU,Merkel,Angela,,0,0,0,0,1,Dr. Angela Merkel
@@ -180,27 +180,27 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,CDU/CSU,Michalk,Maria,,0,1,0,0,0,Maria Michalk
 18,46,5,CDU/CSU,Michelbach,Hans,,0,1,0,0,0,Dr. h.c. Hans Michelbach
 18,46,5,CDU/CSU,Middelberg,Mathias,,0,1,0,0,0,Dr. Mathias Middelberg
-18,46,5,CDU/CSU,Mißfelder,Philipp,,0,1,0,0,0,Philipp Mißfelder
+18,46,5,CDU/CSU,MiÃŸfelder,Philipp,,0,1,0,0,0,Philipp MiÃŸfelder
 18,46,5,CDU/CSU,Monstadt,Dietrich,,0,1,0,0,0,Dietrich Monstadt
-18,46,5,CDU/CSU,Möring,Karsten,,0,1,0,0,0,Karsten Möring
+18,46,5,CDU/CSU,MÃ¶ring,Karsten,,0,1,0,0,0,Karsten MÃ¶ring
 18,46,5,CDU/CSU,Mortler,Marlene,,0,0,0,0,1,Marlene Mortler
 18,46,5,CDU/CSU,Motschmann,Elisabeth,,0,1,0,0,0,Elisabeth Motschmann
-18,46,5,CDU/CSU,Müller,Gerd,,0,1,0,0,0,Dr. Gerd Müller
-18,46,5,CDU/CSU,Müller (Braunschweig),Carsten,,0,1,0,0,0,Carsten Müller (Braunschweig)
-18,46,5,CDU/CSU,Müller (Erlangen),Stefan,,0,1,0,0,0,Stefan Müller (Erlangen)
+18,46,5,CDU/CSU,MÃ¼ller,Gerd,,0,1,0,0,0,Dr. Gerd MÃ¼ller
+18,46,5,CDU/CSU,MÃ¼ller (Braunschweig),Carsten,,0,1,0,0,0,Carsten MÃ¼ller (Braunschweig)
+18,46,5,CDU/CSU,MÃ¼ller (Erlangen),Stefan,,0,1,0,0,0,Stefan MÃ¼ller (Erlangen)
 18,46,5,CDU/CSU,Murmann,Philipp,,0,1,0,0,0,Dr. Philipp Murmann
 18,46,5,CDU/CSU,Nick,Andreas,,0,1,0,0,0,Dr. Andreas Nick
 18,46,5,CDU/CSU,Noll,Michaela,,0,1,0,0,0,Michaela Noll
 18,46,5,CDU/CSU,Nowak,Helmut,,0,1,0,0,0,Helmut Nowak
-18,46,5,CDU/CSU,Nüßlein,Georg,,0,1,0,0,0,Dr. Georg Nüßlein
+18,46,5,CDU/CSU,NÃ¼ÃŸlein,Georg,,0,1,0,0,0,Dr. Georg NÃ¼ÃŸlein
 18,46,5,CDU/CSU,Oellers,Wilfried,,0,1,0,0,0,Wilfried Oellers
-18,46,5,CDU/CSU,Oßner,Florian,,0,1,0,0,0,Florian Oßner
+18,46,5,CDU/CSU,OÃŸner,Florian,,0,1,0,0,0,Florian OÃŸner
 18,46,5,CDU/CSU,Ostermann,Tim,,0,1,0,0,0,Dr. Tim Ostermann
 18,46,5,CDU/CSU,Otte,Henning,,0,1,0,0,0,Henning Otte
 18,46,5,CDU/CSU,Pahlmann,Ingrid,,0,1,0,0,0,Ingrid Pahlmann
 18,46,5,CDU/CSU,Pantel,Sylvia,,0,1,0,0,0,Sylvia Pantel
 18,46,5,CDU/CSU,Patzelt,Martin,,0,1,0,0,0,Martin Patzelt
-18,46,5,CDU/CSU,Pätzold,Martin,,0,1,0,0,0,Dr. Martin Pätzold
+18,46,5,CDU/CSU,PÃ¤tzold,Martin,,0,1,0,0,0,Dr. Martin PÃ¤tzold
 18,46,5,CDU/CSU,Petzold,Ulrich,,0,1,0,0,0,Ulrich Petzold
 18,46,5,CDU/CSU,Pfeiffer,Joachim,,0,1,0,0,0,Dr. Joachim Pfeiffer
 18,46,5,CDU/CSU,Pfeiffer,Sibylle,,0,1,0,0,0,Sibylle Pfeiffer
@@ -216,26 +216,26 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,CDU/CSU,Riebsamen,Lothar,,0,1,0,0,0,Lothar Riebsamen
 18,46,5,CDU/CSU,Rief,Josef,,0,1,0,0,0,Josef Rief
 18,46,5,CDU/CSU,Riesenhuber,Heinz,,0,1,0,0,0,Dr. Heinz Riesenhuber
-18,46,5,CDU/CSU,Röring,Johannes,,0,0,0,0,1,Johannes Röring
-18,46,5,CDU/CSU,Röttgen,Norbert,,0,1,0,0,0,Dr. Norbert Röttgen
-18,46,5,CDU/CSU,Rüddel,Erwin,,0,1,0,0,0,Erwin Rüddel
+18,46,5,CDU/CSU,RÃ¶ring,Johannes,,0,0,0,0,1,Johannes RÃ¶ring
+18,46,5,CDU/CSU,RÃ¶ttgen,Norbert,,0,1,0,0,0,Dr. Norbert RÃ¶ttgen
+18,46,5,CDU/CSU,RÃ¼ddel,Erwin,,0,1,0,0,0,Erwin RÃ¼ddel
 18,46,5,CDU/CSU,Rupprecht,Albert,,0,1,0,0,0,Albert Rupprecht
-18,46,5,CDU/CSU,Schäfer (Saalstadt),Anita,,0,1,0,0,0,Anita Schäfer (Saalstadt)
-18,46,5,CDU/CSU,Schäuble,Wolfgang,,0,0,0,0,1,Dr. Wolfgang Schäuble
+18,46,5,CDU/CSU,SchÃ¤fer (Saalstadt),Anita,,0,1,0,0,0,Anita SchÃ¤fer (Saalstadt)
+18,46,5,CDU/CSU,SchÃ¤uble,Wolfgang,,0,0,0,0,1,Dr. Wolfgang SchÃ¤uble
 18,46,5,CDU/CSU,Scheuer,Andreas,,0,1,0,0,0,Andreas Scheuer
 18,46,5,CDU/CSU,Schiewerling,Karl,,0,1,0,0,0,Karl Schiewerling
 18,46,5,CDU/CSU,Schimke,Jana,,0,1,0,0,0,Jana Schimke
 18,46,5,CDU/CSU,Schindler,Norbert,,0,1,0,0,0,Norbert Schindler
 18,46,5,CDU/CSU,Schipanski,Tankred,,0,1,0,0,0,Tankred Schipanski
 18,46,5,CDU/CSU,Schmelzle,Heiko,,0,1,0,0,0,Heiko Schmelzle
-18,46,5,CDU/CSU,Schmidt (Fürth),Christian,,0,1,0,0,0,Christian Schmidt (Fürth)
-18,46,5,CDU/CSU,Schmidt (Ühlingen),Gabriele,,0,1,0,0,0,Gabriele Schmidt (Ühlingen)
+18,46,5,CDU/CSU,Schmidt (FÃ¼rth),Christian,,0,1,0,0,0,Christian Schmidt (FÃ¼rth)
+18,46,5,CDU/CSU,Schmidt (Ãœhlingen),Gabriele,,0,1,0,0,0,Gabriele Schmidt (Ãœhlingen)
 18,46,5,CDU/CSU,Schnieder,Patrick,,0,1,0,0,0,Patrick Schnieder
 18,46,5,CDU/CSU,Schockenhoff,Andreas,,0,1,0,0,0,Dr. Andreas Schockenhoff
-18,46,5,CDU/CSU,Schön (St. Wendel),Nadine,,0,1,0,0,0,Nadine Schön (St. Wendel)
-18,46,5,CDU/CSU,Schröder,Ole,,0,0,0,0,1,Dr. Ole Schröder
-18,46,5,CDU/CSU,Schröder (Wiesbaden),Kristina,,0,0,0,0,1,Dr. Kristina Schröder (Wiesbaden)
-18,46,5,CDU/CSU,Schulte-Drüggelte,Bernhard,,0,1,0,0,0,Bernhard Schulte-Drüggelte
+18,46,5,CDU/CSU,SchÃ¶n (St. Wendel),Nadine,,0,1,0,0,0,Nadine SchÃ¶n (St. Wendel)
+18,46,5,CDU/CSU,SchrÃ¶der,Ole,,0,0,0,0,1,Dr. Ole SchrÃ¶der
+18,46,5,CDU/CSU,SchrÃ¶der (Wiesbaden),Kristina,,0,0,0,0,1,Dr. Kristina SchrÃ¶der (Wiesbaden)
+18,46,5,CDU/CSU,Schulte-DrÃ¼ggelte,Bernhard,,0,1,0,0,0,Bernhard Schulte-DrÃ¼ggelte
 18,46,5,CDU/CSU,Schulze,Klaus-Peter,,0,1,0,0,0,Dr. Klaus-Peter Schulze
 18,46,5,CDU/CSU,Schummer,Uwe,,0,1,0,0,0,Uwe Schummer
 18,46,5,CDU/CSU,Schuster (Weil am Rhein),Armin,,0,1,0,0,0,Armin Schuster (Weil am Rhein)
@@ -263,13 +263,13 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,CDU/CSU,Storjohann,Gero,,0,1,0,0,0,Gero Storjohann
 18,46,5,CDU/CSU,Stracke,Stephan,,0,1,0,0,0,Stephan Stracke
 18,46,5,CDU/CSU,Straubinger,Max,,0,1,0,0,0,Max Straubinger
-18,46,5,CDU/CSU,Strebl,Matthäus,,0,1,0,0,0,Matthäus Strebl
+18,46,5,CDU/CSU,Strebl,MatthÃ¤us,,0,1,0,0,0,MatthÃ¤us Strebl
 18,46,5,CDU/CSU,Strenz,Karin,,0,0,0,0,1,Karin Strenz
 18,46,5,CDU/CSU,Stritzl,Thomas,,0,1,0,0,0,Thomas Stritzl
 18,46,5,CDU/CSU,Strobl (Heilbronn),Thomas,,0,1,0,0,0,Thomas Strobl (Heilbronn)
 18,46,5,CDU/CSU,Strothmann,Lena,,0,1,0,0,0,Lena Strothmann
-18,46,5,CDU/CSU,Stübgen,Michael,,0,1,0,0,0,Michael Stübgen
-18,46,5,CDU/CSU,Sütterlin-Waack,Sabine,,0,1,0,0,0,Dr. Sabine Sütterlin-Waack
+18,46,5,CDU/CSU,StÃ¼bgen,Michael,,0,1,0,0,0,Michael StÃ¼bgen
+18,46,5,CDU/CSU,SÃ¼tterlin-Waack,Sabine,,0,1,0,0,0,Dr. Sabine SÃ¼tterlin-Waack
 18,46,5,CDU/CSU,Tauber,Peter,,0,1,0,0,0,Dr. Peter Tauber
 18,46,5,CDU/CSU,Tillmann,Antje,,0,1,0,0,0,Antje Tillmann
 18,46,5,CDU/CSU,Timmermann-Fechter,Astrid,,0,1,0,0,0,Astrid Timmermann-Fechter
@@ -281,7 +281,7 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,CDU/CSU,Vietz,Michael,,0,1,0,0,0,Michael Vietz
 18,46,5,CDU/CSU,Vogel (Kleinsaara),Volkmar,,0,1,0,0,0,Volkmar Vogel (Kleinsaara)
 18,46,5,CDU/CSU,Volmering,Sven,,0,1,0,0,0,Sven Volmering
-18,46,5,CDU/CSU,Voßbeck-Kayser,Christel,,0,1,0,0,0,Christel Voßbeck-Kayser
+18,46,5,CDU/CSU,VoÃŸbeck-Kayser,Christel,,0,1,0,0,0,Christel VoÃŸbeck-Kayser
 18,46,5,CDU/CSU,Vries,Kees,de,0,1,0,0,0,Kees de Vries
 18,46,5,CDU/CSU,Wadephul,Johann,,0,1,0,0,0,Dr. Johann Wadephul
 18,46,5,CDU/CSU,Wanderwitz,Marco,,0,1,0,0,0,Marco Wanderwitz
@@ -290,7 +290,7 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,CDU/CSU,Weiler,Albert,,0,1,0,0,0,Albert Weiler
 18,46,5,CDU/CSU,Weinberg (Hamburg),Marcus,,0,1,0,0,0,Marcus Weinberg (Hamburg)
 18,46,5,CDU/CSU,Weisgerber,Anja,,0,0,0,0,1,Dr. Anja Weisgerber
-18,46,5,CDU/CSU,Weiß (Emmendingen),Peter,,0,1,0,0,0,Peter Weiß (Emmendingen)
+18,46,5,CDU/CSU,WeiÃŸ (Emmendingen),Peter,,0,1,0,0,0,Peter WeiÃŸ (Emmendingen)
 18,46,5,CDU/CSU,Weiss (Wesel I),Sabine,,0,1,0,0,0,Sabine Weiss (Wesel I)
 18,46,5,CDU/CSU,Wellenreuther,Ingo,,0,1,0,0,0,Ingo Wellenreuther
 18,46,5,CDU/CSU,Wellmann,Karl-Georg,,0,1,0,0,0,Karl-Georg Wellmann
@@ -303,7 +303,7 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,CDU/CSU,Willsch,Klaus-Peter,,0,1,0,0,0,Klaus-Peter Willsch
 18,46,5,CDU/CSU,Winkelmeier-Becker,Elisabeth,,0,0,0,0,1,Elisabeth Winkelmeier-Becker
 18,46,5,CDU/CSU,Wittke,Oliver,,0,1,0,0,0,Oliver Wittke
-18,46,5,CDU/CSU,Wöhrl,Dagmar G.,,0,0,0,0,1,Dagmar G. Wöhrl
+18,46,5,CDU/CSU,WÃ¶hrl,Dagmar G.,,0,0,0,0,1,Dagmar G. WÃ¶hrl
 18,46,5,CDU/CSU,Woltmann,Barbara,,0,1,0,0,0,Barbara Woltmann
 18,46,5,CDU/CSU,Zech,Tobias,,0,1,0,0,0,Tobias Zech
 18,46,5,CDU/CSU,Zertik,Heinrich,,0,1,0,0,0,Heinrich Zertik
@@ -321,9 +321,9 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,SPD,Bartels,Hans-Peter,,0,1,0,0,0,Dr. Hans-Peter Bartels
 18,46,5,SPD,Barthel,Klaus,,0,1,0,0,0,Klaus Barthel
 18,46,5,SPD,Bartke,Matthias,,0,1,0,0,0,Dr. Matthias Bartke
-18,46,5,SPD,Bartol,Sören,,0,1,0,0,0,Sören Bartol
-18,46,5,SPD,Bas,Bärbel,,0,1,0,0,0,Bärbel Bas
-18,46,5,SPD,Bätzing-Lichtenthäler,Sabine,,0,0,0,0,1,Sabine Bätzing-Lichtenthäler
+18,46,5,SPD,Bartol,SÃ¶ren,,0,1,0,0,0,SÃ¶ren Bartol
+18,46,5,SPD,Bas,BÃ¤rbel,,0,1,0,0,0,BÃ¤rbel Bas
+18,46,5,SPD,BÃ¤tzing-LichtenthÃ¤ler,Sabine,,0,0,0,0,1,Sabine BÃ¤tzing-LichtenthÃ¤ler
 18,46,5,SPD,Becker,Dirk,,0,1,0,0,0,Dirk Becker
 18,46,5,SPD,Beckmeyer,Uwe,,0,1,0,0,0,Uwe Beckmeyer
 18,46,5,SPD,Binding (Heidelberg),Lothar,,0,1,0,0,0,Lothar Binding (Heidelberg)
@@ -331,7 +331,7 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,SPD,Brase,Willi,,0,1,0,0,0,Willi Brase
 18,46,5,SPD,Brunner,Karl-Heinz,,0,1,0,0,0,Dr. Karl-Heinz Brunner
 18,46,5,SPD,Bulmahn,Edelgard,,0,1,0,0,0,Edelgard Bulmahn
-18,46,5,SPD,Bülow,Marco,,0,1,0,0,0,Marco Bülow
+18,46,5,SPD,BÃ¼low,Marco,,0,1,0,0,0,Marco BÃ¼low
 18,46,5,SPD,Burkert,Martin,,0,1,0,0,0,Martin Burkert
 18,46,5,SPD,Castellucci,Lars,,0,1,0,0,0,Dr. Lars Castellucci
 18,46,5,SPD,Crone,Petra,,0,1,0,0,0,Petra Crone
@@ -339,8 +339,8 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,SPD,De Ridder,Daniela,,0,1,0,0,0,Dr. Daniela De Ridder
 18,46,5,SPD,Diaby,Karamba,,0,1,0,0,0,Dr. Karamba Diaby
 18,46,5,SPD,Dittmar,Sabine,,0,1,0,0,0,Sabine Dittmar
-18,46,5,SPD,Dörmann,Martin,,0,1,0,0,0,Martin Dörmann
-18,46,5,SPD,Drobinski-Weiß,Elvira,,0,1,0,0,0,Elvira Drobinski-Weiß
+18,46,5,SPD,DÃ¶rmann,Martin,,0,1,0,0,0,Martin DÃ¶rmann
+18,46,5,SPD,Drobinski-WeiÃŸ,Elvira,,0,1,0,0,0,Elvira Drobinski-WeiÃŸ
 18,46,5,SPD,Ehrmann,Siegmund,,0,1,0,0,0,Siegmund Ehrmann
 18,46,5,SPD,Engelmeier-Heite,Michaela,,0,1,0,0,0,Michaela Engelmeier-Heite
 18,46,5,SPD,Erler,Gernot,,0,0,0,0,1,Dr. h.c. Gernot Erler
@@ -350,7 +350,7 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,SPD,Fechner,Johannes,,0,1,0,0,0,Dr. Johannes Fechner
 18,46,5,SPD,Felgentreu,Fritz,,0,1,0,0,0,Dr. Fritz Felgentreu
 18,46,5,SPD,Ferner,Elke,,0,1,0,0,0,Elke Ferner
-18,46,5,SPD,Finckh-Krämer,Ute,,0,1,0,0,0,Dr. Ute Finckh-Krämer
+18,46,5,SPD,Finckh-KrÃ¤mer,Ute,,0,1,0,0,0,Dr. Ute Finckh-KrÃ¤mer
 18,46,5,SPD,Flisek,Christian,,0,1,0,0,0,Christian Flisek
 18,46,5,SPD,Fograscher,Gabriele,,0,1,0,0,0,Gabriele Fograscher
 18,46,5,SPD,Franke,Edgar,,0,1,0,0,0,Dr. Edgar Franke
@@ -363,8 +363,8 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,SPD,Gottschalck,Ulrike,,0,1,0,0,0,Ulrike Gottschalck
 18,46,5,SPD,Griese,Kerstin,,0,1,0,0,0,Kerstin Griese
 18,46,5,SPD,Groneberg,Gabriele,,0,1,0,0,0,Gabriele Groneberg
-18,46,5,SPD,Groß,Michael,,0,1,0,0,0,Michael Groß
-18,46,5,SPD,Grötsch,Uli,,0,1,0,0,0,Uli Grötsch
+18,46,5,SPD,GroÃŸ,Michael,,0,1,0,0,0,Michael GroÃŸ
+18,46,5,SPD,GrÃ¶tsch,Uli,,0,1,0,0,0,Uli GrÃ¶tsch
 18,46,5,SPD,Gunkel,Wolfgang,,0,1,0,0,0,Wolfgang Gunkel
 18,46,5,SPD,Hagedorn,Bettina,,0,1,0,0,0,Bettina Hagedorn
 18,46,5,SPD,Hagl-Kehl,Rita,,0,1,0,0,0,Rita Hagl-Kehl
@@ -383,7 +383,7 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,SPD,Hiller-Ohm,Gabriele,,0,1,0,0,0,Gabriele Hiller-Ohm
 18,46,5,SPD,Hinz (Essen),Petra,,0,1,0,0,0,Petra Hinz (Essen)
 18,46,5,SPD,Hitschler,Thomas,,0,1,0,0,0,Thomas Hitschler
-18,46,5,SPD,Högl,Eva,,0,1,0,0,0,Dr. Eva Högl
+18,46,5,SPD,HÃ¶gl,Eva,,0,1,0,0,0,Dr. Eva HÃ¶gl
 18,46,5,SPD,Ilgen,Matthias,,0,1,0,0,0,Matthias Ilgen
 18,46,5,SPD,Jantz,Christina,,0,1,0,0,0,Christina Jantz
 18,46,5,SPD,Junge,Frank,,0,1,0,0,0,Frank Junge
@@ -399,20 +399,20 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,SPD,Kiziltepe,Cansel,,0,1,0,0,0,Cansel Kiziltepe
 18,46,5,SPD,Klare,Arno,,0,1,0,0,0,Arno Klare
 18,46,5,SPD,Klingbeil,Lars,,0,1,0,0,0,Lars Klingbeil
-18,46,5,SPD,Kofler,Bärbel,,0,1,0,0,0,Dr. Bärbel Kofler
+18,46,5,SPD,Kofler,BÃ¤rbel,,0,1,0,0,0,Dr. BÃ¤rbel Kofler
 18,46,5,SPD,Kolbe,Daniela,,0,1,0,0,0,Daniela Kolbe
-18,46,5,SPD,Kömpel,Birgit,,0,1,0,0,0,Birgit Kömpel
+18,46,5,SPD,KÃ¶mpel,Birgit,,0,1,0,0,0,Birgit KÃ¶mpel
 18,46,5,SPD,Kramme,Anette,,0,1,0,0,0,Anette Kramme
-18,46,5,SPD,Krüger,Hans-Ulrich,,0,1,0,0,0,Dr. Hans-Ulrich Krüger
-18,46,5,SPD,Kühn-Mengel,Helga,,0,1,0,0,0,Helga Kühn-Mengel
+18,46,5,SPD,KrÃ¼ger,Hans-Ulrich,,0,1,0,0,0,Dr. Hans-Ulrich KrÃ¼ger
+18,46,5,SPD,KÃ¼hn-Mengel,Helga,,0,1,0,0,0,Helga KÃ¼hn-Mengel
 18,46,5,SPD,Lambrecht,Christine,,0,1,0,0,0,Christine Lambrecht
 18,46,5,SPD,Lange (Backnang),Christian,,0,1,0,0,0,Christian Lange (Backnang)
 18,46,5,SPD,Lauterbach,Karl,,0,1,0,0,0,Dr. Karl Lauterbach
 18,46,5,SPD,Lemme,Steffen-Claudio,,0,1,0,0,0,Steffen-Claudio Lemme
 18,46,5,SPD,Lischka,Burkhard,,0,1,0,0,0,Burkhard Lischka
-18,46,5,SPD,Lösekrug-Möller,Gabriele,,0,0,0,0,1,Gabriele Lösekrug-Möller
+18,46,5,SPD,LÃ¶sekrug-MÃ¶ller,Gabriele,,0,0,0,0,1,Gabriele LÃ¶sekrug-MÃ¶ller
 18,46,5,SPD,Lotze,Hiltrud,,0,1,0,0,0,Hiltrud Lotze
-18,46,5,SPD,Lühmann,Kirsten,,0,1,0,0,0,Kirsten Lühmann
+18,46,5,SPD,LÃ¼hmann,Kirsten,,0,1,0,0,0,Kirsten LÃ¼hmann
 18,46,5,SPD,Malecha-Nissen,Birgit,,0,1,0,0,0,Dr. Birgit Malecha-Nissen
 18,46,5,SPD,Marks,Caren,,0,1,0,0,0,Caren Marks
 18,46,5,SPD,Mast,Katja,,0,1,0,0,0,Katja Mast
@@ -420,21 +420,21 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,SPD,Miersch,Matthias,,0,1,0,0,0,Dr. Matthias Miersch
 18,46,5,SPD,Mindrup,Klaus,,0,1,0,0,0,Klaus Mindrup
 18,46,5,SPD,Mittag,Susanne,,0,1,0,0,0,Susanne Mittag
-18,46,5,SPD,Müller,Bettina,,0,1,0,0,0,Bettina Müller
-18,46,5,SPD,Müntefering,Michelle,,0,1,0,0,0,Michelle Müntefering
-18,46,5,SPD,Mützenich,Rolf,,0,1,0,0,0,Dr. Rolf Mützenich
+18,46,5,SPD,MÃ¼ller,Bettina,,0,1,0,0,0,Bettina MÃ¼ller
+18,46,5,SPD,MÃ¼ntefering,Michelle,,0,1,0,0,0,Michelle MÃ¼ntefering
+18,46,5,SPD,MÃ¼tzenich,Rolf,,0,1,0,0,0,Dr. Rolf MÃ¼tzenich
 18,46,5,SPD,Nahles,Andrea,,0,1,0,0,0,Andrea Nahles
 18,46,5,SPD,Nietan,Dietmar,,0,1,0,0,0,Dietmar Nietan
 18,46,5,SPD,Nissen,Ulli,,0,1,0,0,0,Ulli Nissen
 18,46,5,SPD,Oppermann,Thomas,,0,1,0,0,0,Thomas Oppermann
-18,46,5,SPD,Özdemir (Duisburg),Mahmut,,0,1,0,0,0,Mahmut Özdemir (Duisburg)
-18,46,5,SPD,Özoguz,Aydan,,0,1,0,0,0,Aydan Özoguz
+18,46,5,SPD,Ã–zdemir (Duisburg),Mahmut,,0,1,0,0,0,Mahmut Ã–zdemir (Duisburg)
+18,46,5,SPD,Ã–zoguz,Aydan,,0,1,0,0,0,Aydan Ã–zoguz
 18,46,5,SPD,Paschke,Markus,,0,1,0,0,0,Markus Paschke
 18,46,5,SPD,Petry,Christian,,0,1,0,0,0,Christian Petry
 18,46,5,SPD,Pflugradt,Jeannine,,0,1,0,0,0,Jeannine Pflugradt
 18,46,5,SPD,Pilger,Detlev,,0,1,0,0,0,Detlev Pilger
 18,46,5,SPD,Poschmann,Sabine,,0,1,0,0,0,Sabine Poschmann
-18,46,5,SPD,Poß,Joachim,,0,1,0,0,0,Joachim Poß
+18,46,5,SPD,PoÃŸ,Joachim,,0,1,0,0,0,Joachim PoÃŸ
 18,46,5,SPD,Post,Florian,,0,1,0,0,0,Florian Post
 18,46,5,SPD,Post (Minden),Achim,,0,1,0,0,0,Achim Post (Minden)
 18,46,5,SPD,Priesmeier,Wilhelm,,0,1,0,0,0,Dr. Wilhelm Priesmeier
@@ -447,18 +447,18 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,SPD,Reichenbach,Gerold,,0,1,0,0,0,Gerold Reichenbach
 18,46,5,SPD,Reimann,Carola,,0,1,0,0,0,Dr. Carola Reimann
 18,46,5,SPD,Rimkus,Andreas,,0,1,0,0,0,Andreas Rimkus
-18,46,5,SPD,Rix,Sönke,,0,1,0,0,0,Sönke Rix
+18,46,5,SPD,Rix,SÃ¶nke,,0,1,0,0,0,SÃ¶nke Rix
 18,46,5,SPD,Rohde,Dennis,,0,1,0,0,0,Dennis Rohde
 18,46,5,SPD,Rosemann,Martin,,0,1,0,0,0,Dr. Martin Rosemann
-18,46,5,SPD,Röspel,René,,0,1,0,0,0,René Röspel
+18,46,5,SPD,RÃ¶spel,RenÃ©,,0,1,0,0,0,RenÃ© RÃ¶spel
 18,46,5,SPD,Rossmann,Ernst Dieter,,0,1,0,0,0,Dr. Ernst Dieter Rossmann
 18,46,5,SPD,Roth (Heringen),Michael,,0,1,0,0,0,Michael Roth (Heringen)
-18,46,5,SPD,Rüthrich,Susann,,0,1,0,0,0,Susann Rüthrich
-18,46,5,SPD,Rützel,Bernd,,0,0,0,0,1,Bernd Rützel
+18,46,5,SPD,RÃ¼thrich,Susann,,0,1,0,0,0,Susann RÃ¼thrich
+18,46,5,SPD,RÃ¼tzel,Bernd,,0,0,0,0,1,Bernd RÃ¼tzel
 18,46,5,SPD,Saathoff,Johann,,0,1,0,0,0,Johann Saathoff
 18,46,5,SPD,Sawade,Annette,,0,1,0,0,0,Annette Sawade
 18,46,5,SPD,Schabedoth,Hans-Joachim,,0,1,0,0,0,Dr. Hans-Joachim Schabedoth
-18,46,5,SPD,Schäfer (Bochum),Axel,,0,1,0,0,0,Axel Schäfer (Bochum)
+18,46,5,SPD,SchÃ¤fer (Bochum),Axel,,0,1,0,0,0,Axel SchÃ¤fer (Bochum)
 18,46,5,SPD,Scheer,Nina,,0,1,0,0,0,Dr. Nina Scheer
 18,46,5,SPD,Schieder,Marianne,,0,1,0,0,0,Marianne Schieder
 18,46,5,SPD,Schiefner,Udo,,0,1,0,0,0,Udo Schiefner
@@ -473,35 +473,35 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,SPD,Schwabe,Frank,,0,1,0,0,0,Frank Schwabe
 18,46,5,SPD,Schwartze,Stefan,,0,1,0,0,0,Stefan Schwartze
 18,46,5,SPD,Schwarz,Andreas,,0,1,0,0,0,Andreas Schwarz
-18,46,5,SPD,Schwarzelühr-Sutter,Rita,,0,1,0,0,0,Rita Schwarzelühr-Sutter
+18,46,5,SPD,SchwarzelÃ¼hr-Sutter,Rita,,0,1,0,0,0,Rita SchwarzelÃ¼hr-Sutter
 18,46,5,SPD,Sieling,Carsten,,0,1,0,0,0,Dr. Carsten Sieling
 18,46,5,SPD,Spiering,Rainer,,0,1,0,0,0,Rainer Spiering
 18,46,5,SPD,Spinrath,Norbert,,0,1,0,0,0,Norbert Spinrath
 18,46,5,SPD,Stadler,Svenja,,0,1,0,0,0,Svenja Stadler
 18,46,5,SPD,Stamm-Fibich,Martina,,0,1,0,0,0,Martina Stamm-Fibich
 18,46,5,SPD,Steffen,Sonja,,0,1,0,0,0,Sonja Steffen
-18,46,5,SPD,Steinbrück,Peer,,0,1,0,0,0,Peer Steinbrück
+18,46,5,SPD,SteinbrÃ¼ck,Peer,,0,1,0,0,0,Peer SteinbrÃ¼ck
 18,46,5,SPD,Steinmeier,Frank-Walter,,0,0,0,0,1,Dr. Frank-Walter Steinmeier
-18,46,5,SPD,Strässer,Christoph,,0,1,0,0,0,Christoph Strässer
+18,46,5,SPD,StrÃ¤sser,Christoph,,0,1,0,0,0,Christoph StrÃ¤sser
 18,46,5,SPD,Tack,Kerstin,,0,1,0,0,0,Kerstin Tack
 18,46,5,SPD,Tausend,Claudia,,0,1,0,0,0,Claudia Tausend
 18,46,5,SPD,Thews,Michael,,0,1,0,0,0,Michael Thews
-18,46,5,SPD,Thönnes,Franz,,0,1,0,0,0,Franz Thönnes
+18,46,5,SPD,ThÃ¶nnes,Franz,,0,1,0,0,0,Franz ThÃ¶nnes
 18,46,5,SPD,Tiefensee,Wolfgang,,0,0,0,0,1,Wolfgang Tiefensee
-18,46,5,SPD,Träger,Carsten,,0,1,0,0,0,Carsten Träger
-18,46,5,SPD,Veit,Rüdiger,,0,1,0,0,0,Rüdiger Veit
+18,46,5,SPD,TrÃ¤ger,Carsten,,0,1,0,0,0,Carsten TrÃ¤ger
+18,46,5,SPD,Veit,RÃ¼diger,,0,1,0,0,0,RÃ¼diger Veit
 18,46,5,SPD,Vogt,Ute,,0,1,0,0,0,Ute Vogt
-18,46,5,SPD,Vöpel,Dirk,,0,1,0,0,0,Dirk Vöpel
+18,46,5,SPD,VÃ¶pel,Dirk,,0,1,0,0,0,Dirk VÃ¶pel
 18,46,5,SPD,Weber,Gabi,,0,1,0,0,0,Gabi Weber
 18,46,5,SPD,Westphal,Bernd,,0,1,0,0,0,Bernd Westphal
 18,46,5,SPD,Wicklein,Andrea,,0,0,0,0,1,Andrea Wicklein
 18,46,5,SPD,Wiese,Dirk,,0,1,0,0,0,Dirk Wiese
 18,46,5,SPD,Wolff (Wolmirstedt),Waltraud,,0,1,0,0,0,Waltraud Wolff (Wolmirstedt)
-18,46,5,SPD,Yüksel,Gülistan,,0,1,0,0,0,Gülistan Yüksel
+18,46,5,SPD,YÃ¼ksel,GÃ¼listan,,0,1,0,0,0,GÃ¼listan YÃ¼ksel
 18,46,5,SPD,Ziegler,Dagmar,,0,1,0,0,0,Dagmar Ziegler
 18,46,5,SPD,Zierke,Stefan,,0,1,0,0,0,Stefan Zierke
 18,46,5,SPD,Zimmermann,Jens,,0,1,0,0,0,Dr. Jens Zimmermann
-18,46,5,SPD,Zöllmer,Manfred,,0,1,0,0,0,Manfred Zöllmer
+18,46,5,SPD,ZÃ¶llmer,Manfred,,0,1,0,0,0,Manfred ZÃ¶llmer
 18,46,5,SPD,Zypries,Brigitte,,0,1,0,0,0,Brigitte Zypries
 18,46,5,DIE LINKE.,Aken,Jan,van,1,0,0,0,0,Jan van Aken
 18,46,5,DIE LINKE.,Alpers,Agnes,,0,0,0,0,1,Agnes Alpers
@@ -511,7 +511,7 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,DIE LINKE.,Birkwald,Matthias W.,,0,0,0,0,1,Matthias W. Birkwald
 18,46,5,DIE LINKE.,Bluhm,Heidrun,,1,0,0,0,0,Heidrun Bluhm
 18,46,5,DIE LINKE.,Buchholz,Christine,,1,0,0,0,0,Christine Buchholz
-18,46,5,DIE LINKE.,Bulling-Schröter,Eva,,1,0,0,0,0,Eva Bulling-Schröter
+18,46,5,DIE LINKE.,Bulling-SchrÃ¶ter,Eva,,1,0,0,0,0,Eva Bulling-SchrÃ¶ter
 18,46,5,DIE LINKE.,Claus,Roland,,1,0,0,0,0,Roland Claus
 18,46,5,DIE LINKE.,Dagdelen,Sevim,,1,0,0,0,0,Sevim Dagdelen
 18,46,5,DIE LINKE.,Dehm,Diether,,1,0,0,0,0,Dr. Diether Dehm
@@ -522,9 +522,9 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,DIE LINKE.,Groth,Annette,,1,0,0,0,0,Annette Groth
 18,46,5,DIE LINKE.,Gysi,Gregor,,1,0,0,0,0,Dr. Gregor Gysi
 18,46,5,DIE LINKE.,Hahn,Andre,,1,0,0,0,0,Dr. Andre Hahn
-18,46,5,DIE LINKE.,Hänsel,Heike,,0,0,0,0,1,Heike Hänsel
+18,46,5,DIE LINKE.,HÃ¤nsel,Heike,,0,0,0,0,1,Heike HÃ¤nsel
 18,46,5,DIE LINKE.,Hein,Rosemarie,,1,0,0,0,0,Dr. Rosemarie Hein
-18,46,5,DIE LINKE.,Höger,Inge,,1,0,0,0,0,Inge Höger
+18,46,5,DIE LINKE.,HÃ¶ger,Inge,,1,0,0,0,0,Inge HÃ¶ger
 18,46,5,DIE LINKE.,Hunko,Andrej,,1,0,0,0,0,Andrej Hunko
 18,46,5,DIE LINKE.,Hupach,Sigrid,,1,0,0,0,0,Sigrid Hupach
 18,46,5,DIE LINKE.,Jelpke,Ulla,,1,0,0,0,0,Ulla Jelpke
@@ -539,9 +539,9 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,DIE LINKE.,Lenkert,Ralph,,1,0,0,0,0,Ralph Lenkert
 18,46,5,DIE LINKE.,Leutert,Michael,,0,0,0,0,1,Michael Leutert
 18,46,5,DIE LINKE.,Liebich,Stefan,,0,0,0,0,1,Stefan Liebich
-18,46,5,DIE LINKE.,Lötzsch,Gesine,,1,0,0,0,0,Dr. Gesine Lötzsch
+18,46,5,DIE LINKE.,LÃ¶tzsch,Gesine,,1,0,0,0,0,Dr. Gesine LÃ¶tzsch
 18,46,5,DIE LINKE.,Lutze,Thomas,,1,0,0,0,0,Thomas Lutze
-18,46,5,DIE LINKE.,Möhring,Cornelia,,1,0,0,0,0,Cornelia Möhring
+18,46,5,DIE LINKE.,MÃ¶hring,Cornelia,,1,0,0,0,0,Cornelia MÃ¶hring
 18,46,5,DIE LINKE.,Movassat,Niema,,1,0,0,0,0,Niema Movassat
 18,46,5,DIE LINKE.,Neu,Alexander S.,,1,0,0,0,0,Dr. Alexander S. Neu
 18,46,5,DIE LINKE.,Nord,Thomas,,1,0,0,0,0,Thomas Nord
@@ -562,71 +562,71 @@ Wahlperiode,Sitzungnr,Abstimmnr,Fraktion/Gruppe,Name,Vorname,Titel,ja,nein,Entha
 18,46,5,DIE LINKE.,Wawzyniak,Halina,,1,0,0,0,0,Halina Wawzyniak
 18,46,5,DIE LINKE.,Weinberg,Harald,,0,0,0,0,1,Harald Weinberg
 18,46,5,DIE LINKE.,Werner,Katrin,,0,0,0,0,1,Katrin Werner
-18,46,5,DIE LINKE.,Wöllert,Birgit,,1,0,0,0,0,Birgit Wöllert
-18,46,5,DIE LINKE.,Wunderlich,Jörn,,1,0,0,0,0,Jörn Wunderlich
+18,46,5,DIE LINKE.,WÃ¶llert,Birgit,,1,0,0,0,0,Birgit WÃ¶llert
+18,46,5,DIE LINKE.,Wunderlich,JÃ¶rn,,1,0,0,0,0,JÃ¶rn Wunderlich
 18,46,5,DIE LINKE.,Zdebel,Hubertus,,1,0,0,0,0,Hubertus Zdebel
 18,46,5,DIE LINKE.,Zimmermann,Pia,,1,0,0,0,0,Pia Zimmermann
 18,46,5,DIE LINKE.,Zimmermann (Zwickau),Sabine,,1,0,0,0,0,Sabine Zimmermann (Zwickau)
-18,46,5,BÜ90/GR,Amtsberg,Luise,,1,0,0,0,0,Luise Amtsberg
-18,46,5,BÜ90/GR,Andreae,Kerstin,,0,0,0,0,1,Kerstin Andreae
-18,46,5,BÜ90/GR,Baerbock,Annalena,,1,0,0,0,0,Annalena Baerbock
-18,46,5,BÜ90/GR,Beck (Bremen),Marieluise,,1,0,0,0,0,Marieluise Beck (Bremen)
-18,46,5,BÜ90/GR,Beck (Köln),Volker,,1,0,0,0,0,Volker Beck (Köln)
-18,46,5,BÜ90/GR,Brantner,Franziska,,0,0,0,0,1,Dr. Franziska Brantner
-18,46,5,BÜ90/GR,Brugger,Agnieszka,,1,0,0,0,0,Agnieszka Brugger
-18,46,5,BÜ90/GR,Deligöz,Ekin,,1,0,0,0,0,Ekin Deligöz
-18,46,5,BÜ90/GR,Dörner,Katja,,0,0,0,0,1,Katja Dörner
-18,46,5,BÜ90/GR,Dröge,Katharina,,1,0,0,0,0,Katharina Dröge
-18,46,5,BÜ90/GR,Ebner,Harald,,1,0,0,0,0,Harald Ebner
-18,46,5,BÜ90/GR,Gambke,Thomas,,1,0,0,0,0,Dr. Thomas Gambke
-18,46,5,BÜ90/GR,Gastel,Matthias,,1,0,0,0,0,Matthias Gastel
-18,46,5,BÜ90/GR,Gehring,Kai,,1,0,0,0,0,Kai Gehring
-18,46,5,BÜ90/GR,Göring-Eckardt,Katrin,,1,0,0,0,0,Katrin Göring-Eckardt
-18,46,5,BÜ90/GR,Hajduk,Anja,,1,0,0,0,0,Anja Hajduk
-18,46,5,BÜ90/GR,Haßelmann,Britta,,1,0,0,0,0,Britta Haßelmann
-18,46,5,BÜ90/GR,Hofreiter,Anton,,1,0,0,0,0,Dr. Anton Hofreiter
-18,46,5,BÜ90/GR,Höhn,Bärbel,,0,0,0,0,1,Bärbel Höhn
-18,46,5,BÜ90/GR,Janecek,Dieter,,1,0,0,0,0,Dieter Janecek
-18,46,5,BÜ90/GR,Kekeritz,Uwe,,1,0,0,0,0,Uwe Kekeritz
-18,46,5,BÜ90/GR,Keul,Katja,,1,0,0,0,0,Katja Keul
-18,46,5,BÜ90/GR,Kindler,Sven-Christian,,1,0,0,0,0,Sven-Christian Kindler
-18,46,5,BÜ90/GR,Klein-Schmeink,Maria,,1,0,0,0,0,Maria Klein-Schmeink
-18,46,5,BÜ90/GR,Koenigs,Tom,,1,0,0,0,0,Tom Koenigs
-18,46,5,BÜ90/GR,Kotting-Uhl,Sylvia,,1,0,0,0,0,Sylvia Kotting-Uhl
-18,46,5,BÜ90/GR,Krischer,Oliver,,0,0,0,0,1,Oliver Krischer
-18,46,5,BÜ90/GR,Kühn (Dresden),Stephan,,1,0,0,0,0,Stephan Kühn (Dresden)
-18,46,5,BÜ90/GR,Kühn (Tübingen),Christian,,0,0,0,0,1,Christian Kühn (Tübingen)
-18,46,5,BÜ90/GR,Künast,Renate,,1,0,0,0,0,Renate Künast
-18,46,5,BÜ90/GR,Kurth,Markus,,1,0,0,0,0,Markus Kurth
-18,46,5,BÜ90/GR,Lazar,Monika,,1,0,0,0,0,Monika Lazar
-18,46,5,BÜ90/GR,Lemke,Steffi,,1,0,0,0,0,Steffi Lemke
-18,46,5,BÜ90/GR,Lindner,Tobias,,1,0,0,0,0,Dr. Tobias Lindner
-18,46,5,BÜ90/GR,Maisch,Nicole,,1,0,0,0,0,Nicole Maisch
-18,46,5,BÜ90/GR,Meiwald,Peter,,1,0,0,0,0,Peter Meiwald
-18,46,5,BÜ90/GR,Mihalic,Irene,,1,0,0,0,0,Irene Mihalic
-18,46,5,BÜ90/GR,Müller-Gemmeke,Beate,,1,0,0,0,0,Beate Müller-Gemmeke
-18,46,5,BÜ90/GR,Mutlu,Özcan,,1,0,0,0,0,Özcan Mutlu
-18,46,5,BÜ90/GR,Notz,Konstantin,von,1,0,0,0,0,Dr. Konstantin von Notz
-18,46,5,BÜ90/GR,Nouripour,Omid,,1,0,0,0,0,Omid Nouripour
-18,46,5,BÜ90/GR,Ostendorff,Friedrich,,1,0,0,0,0,Friedrich Ostendorff
-18,46,5,BÜ90/GR,Özdemir,Cem,,1,0,0,0,0,Cem Özdemir
-18,46,5,BÜ90/GR,Paus,Lisa,,1,0,0,0,0,Lisa Paus
-18,46,5,BÜ90/GR,Pothmer,Brigitte,,1,0,0,0,0,Brigitte Pothmer
-18,46,5,BÜ90/GR,Rößner,Tabea,,1,0,0,0,0,Tabea Rößner
-18,46,5,BÜ90/GR,Roth (Augsburg),Claudia,,1,0,0,0,0,Claudia Roth (Augsburg)
-18,46,5,BÜ90/GR,Rüffer,Corinna,,1,0,0,0,0,Corinna Rüffer
-18,46,5,BÜ90/GR,Sarrazin,Manuel,,0,0,0,0,1,Manuel Sarrazin
-18,46,5,BÜ90/GR,Scharfenberg,Elisabeth,,1,0,0,0,0,Elisabeth Scharfenberg
-18,46,5,BÜ90/GR,Schauws,Ulle,,1,0,0,0,0,Ulle Schauws
-18,46,5,BÜ90/GR,Schick,Gerhard,,1,0,0,0,0,Dr. Gerhard Schick
-18,46,5,BÜ90/GR,Schmidt,Frithjof,,1,0,0,0,0,Dr. Frithjof Schmidt
-18,46,5,BÜ90/GR,Schulz-Asche,Kordula,,1,0,0,0,0,Kordula Schulz-Asche
-18,46,5,BÜ90/GR,Strengmann-Kuhn,Wolfgang,,1,0,0,0,0,Dr. Wolfgang Strengmann-Kuhn
-18,46,5,BÜ90/GR,Ströbele,Hans-Christian,,1,0,0,0,0,Hans-Christian Ströbele
-18,46,5,BÜ90/GR,Terpe,Harald,,1,0,0,0,0,Dr. Harald Terpe
-18,46,5,BÜ90/GR,Tressel,Markus,,1,0,0,0,0,Markus Tressel
-18,46,5,BÜ90/GR,Trittin,Jürgen,,1,0,0,0,0,Jürgen Trittin
-18,46,5,BÜ90/GR,Verlinden,Julia,,1,0,0,0,0,Dr. Julia Verlinden
-18,46,5,BÜ90/GR,Wagner,Doris,,1,0,0,0,0,Doris Wagner
-18,46,5,BÜ90/GR,Walter-Rosenheimer,Beate,,1,0,0,0,0,Beate Walter-Rosenheimer
-18,46,5,BÜ90/GR,Wilms,Valerie,,1,0,0,0,0,Dr. Valerie Wilms
+18,46,5,BÃœ90/GR,Amtsberg,Luise,,1,0,0,0,0,Luise Amtsberg
+18,46,5,BÃœ90/GR,Andreae,Kerstin,,0,0,0,0,1,Kerstin Andreae
+18,46,5,BÃœ90/GR,Baerbock,Annalena,,1,0,0,0,0,Annalena Baerbock
+18,46,5,BÃœ90/GR,Beck (Bremen),Marieluise,,1,0,0,0,0,Marieluise Beck (Bremen)
+18,46,5,BÃœ90/GR,Beck (KÃ¶ln),Volker,,1,0,0,0,0,Volker Beck (KÃ¶ln)
+18,46,5,BÃœ90/GR,Brantner,Franziska,,0,0,0,0,1,Dr. Franziska Brantner
+18,46,5,BÃœ90/GR,Brugger,Agnieszka,,1,0,0,0,0,Agnieszka Brugger
+18,46,5,BÃœ90/GR,DeligÃ¶z,Ekin,,1,0,0,0,0,Ekin DeligÃ¶z
+18,46,5,BÃœ90/GR,DÃ¶rner,Katja,,0,0,0,0,1,Katja DÃ¶rner
+18,46,5,BÃœ90/GR,DrÃ¶ge,Katharina,,1,0,0,0,0,Katharina DrÃ¶ge
+18,46,5,BÃœ90/GR,Ebner,Harald,,1,0,0,0,0,Harald Ebner
+18,46,5,BÃœ90/GR,Gambke,Thomas,,1,0,0,0,0,Dr. Thomas Gambke
+18,46,5,BÃœ90/GR,Gastel,Matthias,,1,0,0,0,0,Matthias Gastel
+18,46,5,BÃœ90/GR,Gehring,Kai,,1,0,0,0,0,Kai Gehring
+18,46,5,BÃœ90/GR,GÃ¶ring-Eckardt,Katrin,,1,0,0,0,0,Katrin GÃ¶ring-Eckardt
+18,46,5,BÃœ90/GR,Hajduk,Anja,,1,0,0,0,0,Anja Hajduk
+18,46,5,BÃœ90/GR,HaÃŸelmann,Britta,,1,0,0,0,0,Britta HaÃŸelmann
+18,46,5,BÃœ90/GR,Hofreiter,Anton,,1,0,0,0,0,Dr. Anton Hofreiter
+18,46,5,BÃœ90/GR,HÃ¶hn,BÃ¤rbel,,0,0,0,0,1,BÃ¤rbel HÃ¶hn
+18,46,5,BÃœ90/GR,Janecek,Dieter,,1,0,0,0,0,Dieter Janecek
+18,46,5,BÃœ90/GR,Kekeritz,Uwe,,1,0,0,0,0,Uwe Kekeritz
+18,46,5,BÃœ90/GR,Keul,Katja,,1,0,0,0,0,Katja Keul
+18,46,5,BÃœ90/GR,Kindler,Sven-Christian,,1,0,0,0,0,Sven-Christian Kindler
+18,46,5,BÃœ90/GR,Klein-Schmeink,Maria,,1,0,0,0,0,Maria Klein-Schmeink
+18,46,5,BÃœ90/GR,Koenigs,Tom,,1,0,0,0,0,Tom Koenigs
+18,46,5,BÃœ90/GR,Kotting-Uhl,Sylvia,,1,0,0,0,0,Sylvia Kotting-Uhl
+18,46,5,BÃœ90/GR,Krischer,Oliver,,0,0,0,0,1,Oliver Krischer
+18,46,5,BÃœ90/GR,KÃ¼hn (Dresden),Stephan,,1,0,0,0,0,Stephan KÃ¼hn (Dresden)
+18,46,5,BÃœ90/GR,KÃ¼hn (TÃ¼bingen),Christian,,0,0,0,0,1,Christian KÃ¼hn (TÃ¼bingen)
+18,46,5,BÃœ90/GR,KÃ¼nast,Renate,,1,0,0,0,0,Renate KÃ¼nast
+18,46,5,BÃœ90/GR,Kurth,Markus,,1,0,0,0,0,Markus Kurth
+18,46,5,BÃœ90/GR,Lazar,Monika,,1,0,0,0,0,Monika Lazar
+18,46,5,BÃœ90/GR,Lemke,Steffi,,1,0,0,0,0,Steffi Lemke
+18,46,5,BÃœ90/GR,Lindner,Tobias,,1,0,0,0,0,Dr. Tobias Lindner
+18,46,5,BÃœ90/GR,Maisch,Nicole,,1,0,0,0,0,Nicole Maisch
+18,46,5,BÃœ90/GR,Meiwald,Peter,,1,0,0,0,0,Peter Meiwald
+18,46,5,BÃœ90/GR,Mihalic,Irene,,1,0,0,0,0,Irene Mihalic
+18,46,5,BÃœ90/GR,MÃ¼ller-Gemmeke,Beate,,1,0,0,0,0,Beate MÃ¼ller-Gemmeke
+18,46,5,BÃœ90/GR,Mutlu,Ã–zcan,,1,0,0,0,0,Ã–zcan Mutlu
+18,46,5,BÃœ90/GR,Notz,Konstantin,von,1,0,0,0,0,Dr. Konstantin von Notz
+18,46,5,BÃœ90/GR,Nouripour,Omid,,1,0,0,0,0,Omid Nouripour
+18,46,5,BÃœ90/GR,Ostendorff,Friedrich,,1,0,0,0,0,Friedrich Ostendorff
+18,46,5,BÃœ90/GR,Ã–zdemir,Cem,,1,0,0,0,0,Cem Ã–zdemir
+18,46,5,BÃœ90/GR,Paus,Lisa,,1,0,0,0,0,Lisa Paus
+18,46,5,BÃœ90/GR,Pothmer,Brigitte,,1,0,0,0,0,Brigitte Pothmer
+18,46,5,BÃœ90/GR,RÃ¶ÃŸner,Tabea,,1,0,0,0,0,Tabea RÃ¶ÃŸner
+18,46,5,BÃœ90/GR,Roth (Augsburg),Claudia,,1,0,0,0,0,Claudia Roth (Augsburg)
+18,46,5,BÃœ90/GR,RÃ¼ffer,Corinna,,1,0,0,0,0,Corinna RÃ¼ffer
+18,46,5,BÃœ90/GR,Sarrazin,Manuel,,0,0,0,0,1,Manuel Sarrazin
+18,46,5,BÃœ90/GR,Scharfenberg,Elisabeth,,1,0,0,0,0,Elisabeth Scharfenberg
+18,46,5,BÃœ90/GR,Schauws,Ulle,,1,0,0,0,0,Ulle Schauws
+18,46,5,BÃœ90/GR,Schick,Gerhard,,1,0,0,0,0,Dr. Gerhard Schick
+18,46,5,BÃœ90/GR,Schmidt,Frithjof,,1,0,0,0,0,Dr. Frithjof Schmidt
+18,46,5,BÃœ90/GR,Schulz-Asche,Kordula,,1,0,0,0,0,Kordula Schulz-Asche
+18,46,5,BÃœ90/GR,Strengmann-Kuhn,Wolfgang,,1,0,0,0,0,Dr. Wolfgang Strengmann-Kuhn
+18,46,5,BÃœ90/GR,StrÃ¶bele,Hans-Christian,,1,0,0,0,0,Hans-Christian StrÃ¶bele
+18,46,5,BÃœ90/GR,Terpe,Harald,,1,0,0,0,0,Dr. Harald Terpe
+18,46,5,BÃœ90/GR,Tressel,Markus,,1,0,0,0,0,Markus Tressel
+18,46,5,BÃœ90/GR,Trittin,JÃ¼rgen,,1,0,0,0,0,JÃ¼rgen Trittin
+18,46,5,BÃœ90/GR,Verlinden,Julia,,1,0,0,0,0,Dr. Julia Verlinden
+18,46,5,BÃœ90/GR,Wagner,Doris,,1,0,0,0,0,Doris Wagner
+18,46,5,BÃœ90/GR,Walter-Rosenheimer,Beate,,1,0,0,0,0,Beate Walter-Rosenheimer
+18,46,5,BÃœ90/GR,Wilms,Valerie,,1,0,0,0,0,Dr. Valerie Wilms
