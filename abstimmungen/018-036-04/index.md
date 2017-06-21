@@ -11,7 +11,7 @@ data:
 - title: Abstimmungsergebnis 20140522_4-data.pdf
   url: /res/abstimmungsliste/20140522_4-data.pdf
 - title: Abstimmungsergebnis 20140522_4_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20140522_4_xls-data.csv
+  url: /res/abstimmungsliste/csv/20140522_4_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-036-04/1801450.pdf
   title: Drucksache 18/01450.pdf

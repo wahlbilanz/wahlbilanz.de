@@ -9,7 +9,7 @@ data:
 - title: Abstimmungsergebnis 20150717_1-data.pdf
   url: /res/abstimmungsliste/20150717_1-data.pdf
 - title: Abstimmungsergebnis 20150717_1_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20150717_1_xls-data.csv
+  url: /res/abstimmungsliste/csv/20150717_1_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-117-01/1805590.pdf
   title: Drucksache 18/05590.pdf

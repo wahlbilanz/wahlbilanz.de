@@ -9,7 +9,7 @@ data:
 - title: Abstimmungsergebnis 20150702_3-data.pdf
   url: /res/abstimmungsliste/20150702_3-data.pdf
 - title: Abstimmungsergebnis 20150702_3_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20150702_3_xls-data.csv
+  url: /res/abstimmungsliste/csv/20150702_3_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-115-03/1804097.pdf
   title: Drucksache 18/04097.pdf
