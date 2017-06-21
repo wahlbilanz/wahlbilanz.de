@@ -50,7 +50,7 @@ def get_row_ids (header):
 		if any (option in columnname for option in ["enthaltung", "enthalten", "enthiel"]):
 			rowids["enthaltung"] = i
 			continue
-		if any (option in columnname for option in ["ungueltig", "ungültig"]):
+		if any (option in columnname for option in ["ungueltig", "ungültig"]) or ("ung" in columnname and "ltig" in columnname):
 			rowids["ungueltig"] = i
 			continue
 		if any (option in columnname for option in ["nichtabgegeben", "nichtabgg"]):

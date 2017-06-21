@@ -1,5 +1,4 @@
 ABSTIMMUNG	cdu/csu	spd	die.linke	gruenen	fraktionslos	file
-018-001-01	1.0	1.0	0.125	1.0	0	20140409_xls-data.csv
 018-003-01	1.0	1.0	0.0	1.0	0	20131128_1_xls-data.csv
 018-003-02	1.0	1.0	0.0	1.0	0	20131128_2_xls-data.csv
 018-010-01	1.0	0.955056179775	0.0	0.963636363636	0	20140129_1_xls-data.csv
@@ -13,6 +12,7 @@ ABSTIMMUNG	cdu/csu	spd	die.linke	gruenen	fraktionslos	file
 018-026-01	1.0	0.965517241379	0.0	0.0	0	20140403_1_xls-data.csv
 018-026-02	1.0	1.0	0	1.0	0	20140403_2_xls-data.csv
 018-026-03	0.0	0.0	1.0	0	0	20140403_3_xls-data.csv
+018-029-01	1.0	1.0	0.125	1.0	0	20140409_xls-data.csv
 018-030-01	1.0	0.982558139535	0.0	1.0	0	20140410_xls-data.csv
 018-033-01	0.0	0.0117647058824	1.0	1.0	0	20140508_1_xls-data.csv
 018-033-02	1.0	1.0	1.0	1.0	0	20140508_2_xls-data.csv
