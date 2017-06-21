@@ -174,7 +174,8 @@ figcaption
 }
 
 .page,
-.post
+.post,
+#post
 {
 	@include media-query($larger-screen) {
 		max-width: 1100px;
