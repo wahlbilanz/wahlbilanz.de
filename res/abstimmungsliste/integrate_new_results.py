@@ -177,6 +177,8 @@ for f in listdir (xls_path):
 			jekyll_file = os.path.abspath (os.path.join (wd, "../../abstimmungen/" + abst_key + "/index.md"))
 			if not os.path.isfile (jekyll_file):
 				print "  > erstelle neue abstimmungsseite"
+				pdf_file = xls_to_pdf.sub ("\\1-data.pdf", f)
+				
 				abstimmung = Abstimmung ()
 				abstimmung.set_abstimmung (int (row[rowids["abstimmung"]]));
 				abstimmung.set_bundestagssitzung (int (row[rowids["siztung"]]));
@@ -186,10 +188,11 @@ for f in listdir (xls_path):
 				abstimmung.add_tag ("Todo")
 				abstimmung.add_category ("Todo")
 				abstimmung.add_link ({"title": "bundestagslink", "url": "todo"})
-				abstimmung.add_data_file ({"title": "pdf", "url": "todo"})
-				abstimmung.add_data_file ({"title": "xls", "url": "todo"})
-				abstimmung.add_document ({"title": "drucksache...", "url": "todo", "local": "todo"})
-				pdf_file = xls_to_pdf.sub ("\\1-data.pdf", f)
+				abstimmung.add_data_file ({"title": "Abstimmungsergebnis " + pdf_file, "url": "/res/abstimmungsliste/" + pdf_file})
+				abstimmung.add_data_file ({"title": "Abstimmungsergebnis " + f, "url": "/res/abstimmungsliste/" + f})
+				abstimmung.add_data_file ({"title": "Abstimmungsergebnis " + f[:-3] + "csv", "url": "/res/abstimmungsliste/csv/" + f[:-3] + "csv"})
+				abstimmung.add_document ({"title": "Drucksache ...", "url": "", "local": "/res/abstimmungsdaten/"})
+				
 				pdf_file = os.path.join (xls_path, pdf_file)
 				if os.path.isfile (pdf_file) and "pdf" in pdf_file:
 					abstimmung.set_preview (get_pdf_preview (pdf_file))

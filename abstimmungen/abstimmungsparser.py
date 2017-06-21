@@ -4,11 +4,13 @@
 import sys
 import yaml
 import os
+from yaml.representer import SafeRepresenter
 
 def unicode_representer (dumper, uni):
 	node = yaml.ScalarNode (tag = u'tag:yaml.org,2002:str', value = uni)
 	return node
 yaml.add_representer(unicode, unicode_representer)
+yaml.add_representer(str, SafeRepresenter.represent_str)
 
 class Abstimmung:
 	
