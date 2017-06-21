@@ -184,7 +184,7 @@ for f in listdir (xls_path):
 				abstimmung.set_bundestagssitzung (int (row[rowids["siztung"]]));
 				abstimmung.set_legislaturperiode (int (row[rowids["periode"]]));
 				abstimmung.set_abstimmungs_ergebnisse (abst_dict[abst_key])
-				abstimmung.set_title ("Abstimmung:")
+				abstimmung.set_title ("Abstimmung: ")
 				abstimmung.add_tag ("Todo")
 				abstimmung.add_category ("Todo")
 				abstimmung.add_link ({"title": "bundestagslink", "url": "todo"})
