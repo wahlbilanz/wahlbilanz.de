@@ -58,8 +58,8 @@ ergebnis:
     ungueltig: 0
 layout: abstimmung
 links:
-- title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=466
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=466
+- title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=478
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=478
 preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 1. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 4\n\nGesetzentwurf\
   \ der Bundesregierung\nEntwurf eines Gesetzes zur Änderung des Grundgesetzes\n(Art.\
@@ -71,5 +71,5 @@ preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donn
   Ende:\n\n12:12\n12:16\nSeite:\n\n1\n\n\f"
 tags:
 - Todo
-title: 'Abstimmung: Artikel 1 Nummer 9 des Gesetzentwurfs in der Ausschussfassung betrifft Artikel 125c Grundgesetz'
+title: 'Abstimmung: Artikel 1 Nummer 1 des Gesetzentwurfs in der Ausschussfassung betrifft Artikel 90 Grundgesetz'
 ---
