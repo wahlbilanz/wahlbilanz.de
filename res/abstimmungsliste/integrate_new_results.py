@@ -191,7 +191,7 @@ for f in listdir (xls_path):
 				abstimmung.add_data_file ({"title": "Abstimmungsergebnis " + pdf_file, "url": "/res/abstimmungsliste/" + pdf_file})
 				abstimmung.add_data_file ({"title": "Abstimmungsergebnis " + f, "url": "/res/abstimmungsliste/" + f})
 				abstimmung.add_data_file ({"title": "Abstimmungsergebnis " + f[:-3] + "csv", "url": "/res/abstimmungsliste/csv/" + f[:-3] + "csv"})
-				abstimmung.add_document ({"title": "Drucksache ...", "url": "", "local": "/res/abstimmungsdaten/"})
+				abstimmung.add_document ({"title": "Drucksache ", "url": "", "local": "/res/abstimmungsdaten/" + abst_key + "/"})
 				
 				pdf_file = os.path.join (xls_path, pdf_file)
 				if os.path.isfile (pdf_file) and "pdf" in pdf_file:
