@@ -1,0 +1,3 @@
+[submodule "_plugins/cat"]
+	path = _plugins/cat
+	url = https://github.com/binfalse/jekyll-cat
