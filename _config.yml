@@ -73,3 +73,24 @@ owner:
   flickr: #username
   500px: #username
   codepen: #username
+
+
+authors:
+    binfalse:
+        display_name: Martin Scharm
+        link: https://binfalse.de
+        about: Bioinformatiker und System Administrator an der Uni Rostock.
+        twitter: binfalse
+        github: binfalse
+        bitbucket: binfalse
+        facebook: 
+        image: /img/profiles/binfalse.jpg
+    tomthe:
+        display_name: Tom Theile
+        link: 
+        about: 
+        twitter: 
+        github: tomthe
+        bitbucket: tomthe
+        facebook: 
+        image: 
