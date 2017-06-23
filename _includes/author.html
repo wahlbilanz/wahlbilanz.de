@@ -1,0 +1,35 @@
+{% for a in page.authors %}
+{% assign author = site.authors[a] %}
+<div class="authorcard">
+    {% if author.image %}
+    <div class="authorpic">
+        <img src="{{ author.image }}" alt="Bild von {{ author.display_name }}">
+    </div>
+    {% endif %}
+    <div class="authorprops">
+        <h4>{{ author.display_name }}</h4>
+        <div id="social-author"> 
+            {% if author.link %}
+                <a href="{{ author.link }}" ><i class="fa fa-external-link-square fa"></i></a>
+            {% endif %}
+            {% if author.twitter %}
+                <a href="https://twitter.com/{{ author.twitter }}" ><i class="fa fa-twitter-square fa"></i></a>
+            {% endif %}
+            {% if author.facebook %}
+                <a href="https://www.facebook.com/public/{{ author.facebook }}" ><i class="fa fa-facebook-square fa"></i></a>
+            {% endif %}
+            {% if author.github %}
+                <a href="https://github.com/{{ author.github }}" ><i class="fa fa-github-square fa"></i></a>
+            {% endif %}
+            {% if author.bitbucket %}
+                <a href="https://bitbucket.org/{{ author.bitbucket }}" ><i class="fa fa-bitbucket-square fa"></i></a>
+            {% endif %}
+          </div>
+        {% if author.about %}
+        <p class="authorabout">{{ author.about }}</p>
+        {% endif %}
+
+    </div>
+</div>
+{% endfor %}
+<div style="clear:both"></div>

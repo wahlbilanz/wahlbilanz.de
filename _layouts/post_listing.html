@@ -18,6 +18,16 @@ layout: default
         {% endunless %}
       {% endfor %}
       {% endif %}
+      {% if post.authors.size > 0 %}
+      •
+      {% for a in post.authors %}
+        {% assign author = site.authors[a] %}
+        <span class="post-author">{{ author.display_name }}</span>
+        {% unless forloop.last %}
+        <span>/</span>
+        {% endunless %}
+      {% endfor %}
+      {% endif %}
     </p>
     <h4>
       <a href="{{ site.url }}{{ post.url }}" class="post-title" title="{{ post.title }}">{{ post.title }}</a>
