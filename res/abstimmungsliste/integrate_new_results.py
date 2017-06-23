@@ -108,6 +108,10 @@ def get_pdf_preview (f):
 if os.path.isfile (summary_json):
 	with open (summary_json) as data:
 		abst_dict = json.load(data)
+		for abst in abst_dict:
+			for fraktion in abst_dict[abst]:
+				if fraktion not in fraktionen and fraktion != "file":
+					fraktionen.append (fraktion)
 
 
 # siehe 1. oben
@@ -213,10 +217,10 @@ with open (summary_table, 'w') as f:
 	for abstid in sorted (abst_dict):
 		f.write (abstid + "\t")
 		for fraktion in fraktionen:
-			if fraktion in abst_dict[abstid] and abst_dict[abstid][fraktion]["ja"] + abst_dict[abstid][fraktion]["nein"] > 0:
+			if fraktion in abst_dict[abstid] and isinstance(abst_dict[abstid][fraktion], dict) and abst_dict[abstid][fraktion]["ja"] + abst_dict[abstid][fraktion]["nein"] > 0:
 				f.write (str (float (abst_dict[abstid][fraktion]["ja"]) / (abst_dict[abstid][fraktion]["ja"] + abst_dict[abstid][fraktion]["nein"])) + "\t")
 			else:
-				f.write ("0\t")
+				f.write ("-1\t")
 		f.write (abst_dict[abstid]["file"])
 		f.write ("\n")
 
