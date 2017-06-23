@@ -1,4 +1,5 @@
 library(gplots)
+library(RColorBrewer)
 
 # read the data
 votes <- read.table (file="../../abstimmungsliste/summary.table", header=TRUE, sep="\t")
@@ -37,8 +38,13 @@ colnames(m)<-sapply (colnames(m), function (x) {
 	}
 })
 
+m[m==-1]=NA
+
 # cluster and plot the data using gplot's heatmap.2 tool
 pdf ("abstimmungscluster.pdf", height=20)
-heatmap.2(m,tracecol=1, cexCol=.9,margins=c(9,4))
-dev.off()
+# heatmap.2 (m, tracecol=1, cexCol=.9, margins=c(9,4), scale="col", col=brewer.pal(11,"RdBu"))
+colfunc <- colorRampPalette(c("#FF0000FF", "#FFFF00FF"))
+heatmap.2 (m, tracecol=1, cexCol=.9, margins=c(9,4), na.rm=TRUE, col=colfunc(15), na.color="#DDDDDDFF")
+# heatmap.2 (m, tracecol=1, cexCol=.9, margins=c(9,4), scale="col", col=colfunc(15))
+dev.off ()
 
