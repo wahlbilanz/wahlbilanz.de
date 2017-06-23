@@ -1,39 +1,4 @@
 {
-  "018-001-01": {
-    "cdu/csu": {
-      "enthaltung": 0,
-      "gesamt": 311,
-      "ja": 296,
-      "nein": 0,
-      "nichtabgegeben": 15,
-      "ungueltig": 0
-    },
-    "die.linke": {
-      "enthaltung": 18,
-      "gesamt": 64,
-      "ja": 5,
-      "nein": 35,
-      "nichtabgegeben": 6,
-      "ungueltig": 0
-    },
-    "file": "20140409_xls-data.xls",
-    "gruenen": {
-      "enthaltung": 0,
-      "gesamt": 63,
-      "ja": 59,
-      "nein": 0,
-      "nichtabgegeben": 4,
-      "ungueltig": 0
-    },
-    "spd": {
-      "enthaltung": 1,
-      "gesamt": 193,
-      "ja": 175,
-      "nein": 0,
-      "nichtabgegeben": 17,
-      "ungueltig": 0
-    }
-  },
   "018-003-01": {
     "cdu/csu": {
       "enthaltung": 0,
@@ -486,6 +451,41 @@
       "ja": 0,
       "nein": 174,
       "nichtabgegeben": 19,
+      "ungueltig": 0
+    }
+  },
+  "018-029-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 296,
+      "nein": 0,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 18,
+      "gesamt": 64,
+      "ja": 5,
+      "nein": 35,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20140409_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 59,
+      "nein": 0,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 175,
+      "nein": 0,
+      "nichtabgegeben": 17,
       "ungueltig": 0
     }
   },
