@@ -85,10 +85,6 @@ Je kürzer der Pfad zwischen zwei Spalten/Zeilen, desto ähnlicher sind sie sich
 
 Mit einem Klick auf Abbildung 1 könnt ihr die Heatmap in höherer Auflösung als PDF herunter laden!
 
-ä
-ö
-ü
-ß
 
 ## Was sieht man in der Heatmap?
 
