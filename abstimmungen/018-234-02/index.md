@@ -4,7 +4,8 @@ abstimmung:
   bundestagssitzung: 234
   legislaturperiode: 18
 categories:
-- Todo
+- Bundeswehr
+- Ausland
 data:
 - title: Abstimmungsergebnis 20170518_2-data.pdf
   url: /res/abstimmungsliste/20170518_2-data.pdf
@@ -57,6 +58,8 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=464
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=464
+- title: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia_atalanta-1105-876.html
+  url: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia_atalanta-1105-876.html
 preview: "Deutscher Bundestag\n\n234. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 18. Mai 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\nBeschlussempfehlung\
   \ des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der\nBundesregierung\n\
@@ -67,6 +70,12 @@ preview: "Deutscher Bundestag\n\n234. Sitzung des Deutschen Bundestages\nam Donn
   \nNein-Stimmen:\n\n71\n\nEnthaltungen:\n\n32\n\nUngültige:\n\nBerlin, den 18.05.2017\n\
   \n0\n\nBeginn:\nEnde:\n\n19:43\n19:47\nSeite:\n\n1\n\n\f"
 tags:
-- Todo
+- EU
+- Atalanta
+- Piraterie
+- Somalia
+- UN
+- EU
+- EU NAFVOR
 title: 'Abstimmung: Bundeswehreinsatz EU NAFVOR Operation Atalanta'
 ---

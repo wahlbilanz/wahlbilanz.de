@@ -24,6 +24,7 @@ exclude: ["README.md"]
 paginate: 10
 paginate_path: "page:num"
 
+url: https://wahlbilanz.de
 
 kramdown:
   auto_ids: true

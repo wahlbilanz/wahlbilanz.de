@@ -4,7 +4,10 @@ abstimmung:
   bundestagssitzung: 237
   legislaturperiode: 18
 categories:
-- Todo
+- Arbeit
+- Soziales
+- Rente
+- Versicherung
 data:
 - title: Abstimmungsergebnis 20170601_10-data.pdf
   url: /res/abstimmungsliste/20170601_10-data.pdf
@@ -60,6 +63,8 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=474
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=474
+- title: http://www.abgeordnetenwatch.de/rentenueberleitungsgesetz-1105-882.html
+  url: http://www.abgeordnetenwatch.de/rentenueberleitungsgesetz-1105-882.html
 preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 1. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 10\n\nGesetzentwurf\
   \ der Bundesregierung\nEntwurf eines Gesetzes über den Abschluss der Rentenüberleitung\n\
@@ -68,6 +73,9 @@ preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donn
   \n56\n\nEnthaltungen:\n\n48\n\nUngültige:\n\nBerlin, den 01.06.2017\n\n0\n\nBeginn:\n\
   Ende:\n\n17:43\n17:46\nSeite:\n\n1\n\n\f"
 tags:
-- Todo
+- Ost-West
+- Rente
+- Rentenversicherung
+- Unfallversicherung
 title: 'Abstimmung: Abschluss der Rentenüberleitung'
 ---

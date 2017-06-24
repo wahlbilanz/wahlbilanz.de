@@ -4,7 +4,10 @@ abstimmung:
   bundestagssitzung: 237
   legislaturperiode: 18
 categories:
-- Todo
+- Grundgesetz
+- Haushalt
+- Finanzen
+- Steuer
 data:
 - title: Abstimmungsergebnis 20170601_5-data.pdf
   url: /res/abstimmungsliste/20170601_5-data.pdf
@@ -60,6 +63,8 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=471
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=471
+- title: Artikel 107 Grundgesetz
+  url: https://www.bundestag.de/parlament/aufgaben/rechtsgrundlagen/grundgesetz/gg_10/245148#107
 preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 1. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 5\n\nGesetzentwurf\
   \ der Bundesregierung\nEntwurf eines Gesetzes zur Änderung des Grundgesetzes\n(Artikel\
@@ -70,6 +75,8 @@ preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donn
   \n65\n\nEnthaltungen:\n\n0\n\nUngültige:\n\n0\n\nBerlin, den 01.06.2017\n\nBeginn:\n\
   Ende:\n\n12:20\n12:23\nSeite:\n\n1\n\n\f"
 tags:
-- Todo
+- Finanzausgleich
+- Bund-Länder
+- Umsatzsteuer
 title: 'Abstimmung: Artikel 1 Nummer 5 des Gesetzentwurfs in der Ausschussfassung betrifft Artikel 107 Grundgesetz'
 ---

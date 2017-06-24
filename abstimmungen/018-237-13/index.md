@@ -4,7 +4,8 @@ abstimmung:
   bundestagssitzung: 237
   legislaturperiode: 18
 categories:
-- Todo
+- Ausland
+- Inneres
 data:
 - title: Abstimmungsergebnis 20170601_13-data.pdf
   url: /res/abstimmungsliste/20170601_13-data.pdf
@@ -57,6 +58,8 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=477
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=477
+- title: http://www.abgeordnetenwatch.de/vorlaeufiger_abschiebestopp_nach_afghanistan-1105-881.html
+  url: http://www.abgeordnetenwatch.de/vorlaeufiger_abschiebestopp_nach_afghanistan-1105-881.html
 preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 1. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 13\n\nAntrag\
   \ der Fraktionen CDU/CSU und SPD\nNeue Lagebeurteilung für Afghanistan\nDrs. 18/12638\n\
@@ -64,6 +67,8 @@ preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donn
   \n68\n446\n\nNein-Stimmen:\n\n109\n\nEnthaltungen:\n\n7\n\nUngültige:\n\n0\n\nBerlin,\
   \ den 02.06.2017\n\nBeginn:\nEnde:\n\n23:25\n23:27\nSeite:\n\n1\n\n\f"
 tags:
-- Todo
+- Afghanistan
+- Bleiberecht
+- Asyl
 title: 'Abstimmung: Neue Lagebeurteilung für Afghanistan, Antrag CDU/CSU, SPD'
 ---

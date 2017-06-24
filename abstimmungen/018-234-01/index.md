@@ -4,7 +4,8 @@ abstimmung:
   bundestagssitzung: 234
   legislaturperiode: 18
 categories:
-- Todo
+- Bundeswehr
+- Ausland
 data:
 - title: Abstimmungsergebnis 20170518_1-data.pdf
   url: /res/abstimmungsliste/20170518_1-data.pdf
@@ -60,6 +61,8 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=463
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=463
+- title: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali_eutm-1105-875.html
+  url: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali_eutm-1105-875.html
 preview: "Deutscher Bundestag\n\n234. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 18. Mai 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\nBeschlussempfehlung\
   \ des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der\nBundesregierung\n\
@@ -70,6 +73,10 @@ preview: "Deutscher Bundestag\n\n234. Sitzung des Deutschen Bundestages\nam Donn
   64\n\nEnthaltungen:\n\n1\n\nUngültige:\n\n0\n\nBerlin, den 18.05.2017\n\nBeginn:\n\
   Ende:\n\n18:37\n18:40\nSeite:\n\n1\n\n\f"
 tags:
-- Todo
+- Ausbildung
+- Mali
+- EU
+- UN
+- EUTM
 title: 'Abstimmung: Bundeswehreinsatz EUTM Mali'
 ---

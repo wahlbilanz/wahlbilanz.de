@@ -4,7 +4,10 @@ abstimmung:
   bundestagssitzung: 237
   legislaturperiode: 18
 categories:
-- Todo
+- Grundgesetz
+- Haushalt
+- Finanzen
+- Bildung
 data:
 - title: Abstimmungsergebnis 20170601_3-data.pdf
   url: /res/abstimmungsliste/20170601_3-data.pdf
@@ -66,6 +69,10 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=465
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=465
+- title: Artikel 91 Grundgesetz
+  url: https://www.bundestag.de/parlament/aufgaben/rechtsgrundlagen/grundgesetz/gg_08a/245144#091b
+- title: Artikel 104 Grundgesetz
+  url: https://www.bundestag.de/parlament/aufgaben/rechtsgrundlagen/grundgesetz/gg_10/245148
 preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 1. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\nÄnderungsantrag\
   \ der Abgeordneten Kai Gehring, Katja Dörner, Özcan Mutlu, weiterer\nAbgeordneter\
@@ -78,6 +85,9 @@ preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donn
   \n4\n\nUngültige:\n\n0\n\nBerlin, den 01.06.2017\n\nBeginn:\nEnde:\n\n11:51\n11:54\n\
   Seite:\n\n1\n\n\f"
 tags:
-- Todo
+- Bund-Länder
+- Finanzausgleich
+- Kooperation
+- Finanzhilfe
 title: 'Abstimmung: Änderung von Artikel 91 b und Artikel 104c des Grundgesetzes'
 ---

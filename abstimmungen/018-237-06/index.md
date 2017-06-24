@@ -4,7 +4,11 @@ abstimmung:
   bundestagssitzung: 237
   legislaturperiode: 18
 categories:
-- Todo
+- Grundgesetz
+- Haushalt
+- Finanzen
+- Handel
+- Wirtschaft
 data:
 - title: Abstimmungsergebnis 20170601_6-data.pdf
   url: /res/abstimmungsliste/20170601_6-data.pdf
@@ -60,6 +64,8 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=466
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=466
+- title: Artikel 125 Grundgesetz
+  url: https://www.bundestag.de/parlament/aufgaben/rechtsgrundlagen/grundgesetz/gg_11/245152#125
 preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 1. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 6\n\nGesetzentwurf\
   \ der Bundesregierung\nEntwurf eines Gesetzes zur Änderung des Grundgesetzes\n(Artikel\
@@ -70,6 +76,8 @@ preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donn
   66\n\nEnthaltungen:\n\n54\n\nUngültige:\n\nBerlin, den 01.06.2017\n\n0\n\nBeginn:\n\
   Ende:\n\n12:25\n12:29\nSeite:\n\n1\n\n\f"
 tags:
-- Todo
+- Finanzausgleich
+- See
+- Schifffahrt
 title: 'Abstimmung: Artikel 1 Nummer 9 des Gesetzentwurfs in der Ausschussfassung betrifft Artikel 125c Grundgesetz'
 ---
