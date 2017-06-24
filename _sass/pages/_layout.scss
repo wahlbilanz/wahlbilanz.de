@@ -150,7 +150,9 @@
 	margin: 10px;
 }
 .alignright {
+	@include media-query($small-screen) {
 	float: right;
+	}
 }
 .alignleft {
 /* 	float: left; */
@@ -179,6 +181,11 @@ figcaption
 {
 	@include media-query($larger-screen) {
 		max-width: 1100px;
+	}
+	& .post-footer {
+		margin: 25px 8px;
+		border-top: 1px solid #f5f5f5;
+		padding-top: 20px;
 	}
 	
 }

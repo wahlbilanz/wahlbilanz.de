@@ -1,0 +1,26 @@
+
+<div class="post-meta post-footer">
+{% if page.categories.size > 0 %}
+<div id="post-categories">
+	Kategorien:
+		{% for cat in page.categories %}
+			<a class="post-cat" href="{{ site.url }}/categories/#{{ cat }}">{{ cat }}</a>
+			{% unless forloop.last %}
+			<span>/</span>
+			{% endunless %}
+		{% endfor %}
+</div>
+{% endif %}
+
+{% if page.tags.size > 0 %}
+<div id="post-tags">
+	Tags:
+		{% for tag in page.tags %}
+			<a class="post-tag" href="{{ site.url }}/tags/#{{ tag }}">#{{ tag | remove: " " }}</a>
+			{% unless forloop.last %}
+			<span>/</span>
+			{% endunless %}
+		{% endfor %}
+</div>
+{% endif %}
+</div>
