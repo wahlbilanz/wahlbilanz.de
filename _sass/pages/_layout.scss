@@ -150,7 +150,9 @@
 	margin: 10px;
 }
 .alignright {
+	@include media-query($small-screen) {
 	float: right;
+	}
 }
 .alignleft {
 /* 	float: left; */
