@@ -4,6 +4,9 @@ abstimmung:
   bundestagssitzung: 237
   legislaturperiode: 18
 categories:
+- Grundgesetz
+- Haushalt
+- Finanzen
 - Todo
 data:
 - title: Abstimmungsergebnis 20170601_9-data.pdf
@@ -74,6 +77,7 @@ preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donn
   \n62\n\nUngültige:\n\nBerlin, den 01.06.2017\n\n0\n\nBeginn:\nEnde:\n\n13:05\n13:08\n\
   Seite:\n\n1\n\n\f"
 tags:
+- Finanzausgleich
 - Todo
 title: 'Abstimmung: Änderungsantrag der Fraktion Die Linke zur Neuregelung des bundesstaatlichen Finanzausgleichssystems'
 ---

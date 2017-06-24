@@ -4,7 +4,11 @@ abstimmung:
   bundestagssitzung: 237
   legislaturperiode: 18
 categories:
-- Todo
+- Grundgesetz
+- Haushalt
+- Finanzen
+- Verkehr
+- Infrastruktur
 data:
 - title: Abstimmungsergebnis 20170601_4-data.pdf
   url: /res/abstimmungsliste/20170601_4-data.pdf
@@ -60,6 +64,10 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=478
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=478
+- title: http://www.abgeordnetenwatch.de/schaffung_einer_zentralen_gesellschaft_fuer_autobahnen_und_bundesstrassen-1105-880.html
+  url: http://www.abgeordnetenwatch.de/schaffung_einer_zentralen_gesellschaft_fuer_autobahnen_und_bundesstrassen-1105-880.html
+- title: Artikel 90 Grundgesetz
+  url: https://www.bundestag.de/parlament/aufgaben/rechtsgrundlagen/grundgesetz/gg_08/245140#090
 preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 1. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 4\n\nGesetzentwurf\
   \ der Bundesregierung\nEntwurf eines Gesetzes zur Änderung des Grundgesetzes\n(Art.\
@@ -70,6 +78,11 @@ preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donn
   146\n\nEnthaltungen:\n\n2\n\nUngültige:\n\n0\n\nBerlin, den 01.06.2017\n\nBeginn:\n\
   Ende:\n\n12:12\n12:16\nSeite:\n\n1\n\n\f"
 tags:
-- Todo
+- Privatisierung
+- Autobahn
+- Straßennetz
+- PKW
+- ÖPP
+- Finanzausgleich
 title: 'Abstimmung: Artikel 1 Nummer 1 des Gesetzentwurfs in der Ausschussfassung betrifft Artikel 90 Grundgesetz'
 ---

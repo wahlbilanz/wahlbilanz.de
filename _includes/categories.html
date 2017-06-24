@@ -16,7 +16,7 @@
 <div id="post-tags">
 	Tags:
 		{% for tag in page.tags %}
-			<a class="post-tag" href="{{ site.url }}/tags/#{{ tag }}">#{{ tag | remove: " " }}</a>
+			<a class="post-tag" href="{{ site.url }}/tags/#{{ tag }}">{{ tag | remove: " " }}</a>
 			{% unless forloop.last %}
 			<span>/</span>
 			{% endunless %}

@@ -4,7 +4,15 @@ abstimmung:
   bundestagssitzung: 237
   legislaturperiode: 18
 categories:
-- Todo
+- Grundgesetz
+- Haushalt
+- Finanzen
+- Verkehr
+- Infrastruktur
+- Handel
+- Wirtschaft
+- Steuer
+- Bildung
 data:
 - title: Abstimmungsergebnis 20170601_8-data.pdf
   url: /res/abstimmungsliste/20170601_8-data.pdf
@@ -60,6 +68,22 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=472
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=472
+- title: http://www.abgeordnetenwatch.de/neuregelung_des_bundesstaatlichen_finanzausgleichs-1105-877.html
+  url: http://www.abgeordnetenwatch.de/neuregelung_des_bundesstaatlichen_finanzausgleichs-1105-877.html
+- title: http://www.abgeordnetenwatch.de/schaffung_einer_zentralen_gesellschaft_fuer_autobahnen_und_bundesstrassen-1105-880.html
+  url: http://www.abgeordnetenwatch.de/schaffung_einer_zentralen_gesellschaft_fuer_autobahnen_und_bundesstrassen-1105-880.html
+- title: Artikel 90 Grundgesetz
+  url: https://www.bundestag.de/parlament/aufgaben/rechtsgrundlagen/grundgesetz/gg_08/245140#090
+- title: Artikel 91 Grundgesetz
+  url: https://www.bundestag.de/parlament/aufgaben/rechtsgrundlagen/grundgesetz/gg_08a/245144#091b
+- title: Artikel 104 Grundgesetz
+  url: https://www.bundestag.de/parlament/aufgaben/rechtsgrundlagen/grundgesetz/gg_10/245148
+- title: Artikel 107 Grundgesetz
+  url: https://www.bundestag.de/parlament/aufgaben/rechtsgrundlagen/grundgesetz/gg_10/245148#107
+- title: Artikel 125 Grundgesetz
+  url: https://www.bundestag.de/parlament/aufgaben/rechtsgrundlagen/grundgesetz/gg_11/245152#125
+- title: Artikel 143 Grundgesetz
+  url: https://www.bundestag.de/parlament/aufgaben/rechtsgrundlagen/grundgesetz/gg_11/245152#143
 preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 1. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 8\n\nGesetzentwurf\
   \ der Bundesregierung\nEntwurf eines Gesetzes zur Änderung des Grundgesetzes\n(Artikel\
@@ -69,6 +93,17 @@ preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donn
   \nUngültige:\n\nBerlin, den 01.06.2017\n\n0\n\nBeginn:\nEnde:\n\n12:51\n12:55\n\
   Seite:\n\n1\n\n\f"
 tags:
-- Todo
+- Privatisierung
+- Autobahn
+- Straßennetz
+- PKW
+- ÖPP
+- Finanzausgleich
+- See
+- Schifffahrt
+- Bund-Länder
+- Umsatzsteuer
+- Kooperation
+- Finanzhilfe
 title: 'Abstimmung: Entwurf eines Gesetzes zur Änderung des Grundgesetzes (Artikel 90, 91c, 104b, 104c, 107, 108, 109a, 114, 125c, 143d, 143e, 143f, 143g)'
 ---
