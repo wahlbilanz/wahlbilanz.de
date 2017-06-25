@@ -18,7 +18,7 @@ authors:
 
 
 
-{% include image.html align="alignright" url="/res/analyse/cluster-result/abstimmungscluster.pdf" img="/img/2017-06-disziplin/abstimmungscluster-preview.png" title="Übersicht über das Abstimmungsverhalten der einzelnen Parteien in der Legislatuerperiode 18 des Deutschen Bundestages" caption="**Abbildung 1:** Abstimmungsverhalten in der letzten Legislaturperiode" %}
+{% include image.html align="alignright" url="/res/analyse/cluster-result/abstimmungscluster.pdf" img="/img/2017-06-disziplin/abstimmungscluster-preview.jpg" title="Übersicht über das Abstimmungsverhalten der einzelnen Parteien in der Legislatuerperiode 18 des Deutschen Bundestages" caption="**Abbildung 1:** Abstimmungsverhalten in der letzten Legislaturperiode" %}
 
 
 Für das Projekt [DeinWal.de](https://deinwal.de) haben wir alle namentlichen Abstimmungen im Bundestag analysiert.
@@ -89,7 +89,7 @@ Mit einem [Klick auf Abbildung 1](/res/analyse/cluster-result/abstimmungscluster
 ## Was sieht man in der Heatmap?
 
 
-{% include image.html align="alignright" url="/res/analyse/cluster-result/abstimmungscluster.pdf" img="/img/2017-06-disziplin/abstimmungscluster-preview.png" title="Übersicht über das Abstimmungsverhalten der einzelnen Parteien in der Legislatuerperiode 18 des Deutschen Bundestages" caption="**Abbildung 1:** Abstimmungsverhalten in der letzten Legislaturperiode" %}
+{% include image.html align="alignright" url="/res/analyse/cluster-result/abstimmungscluster.pdf" img="/img/2017-06-disziplin/abstimmungscluster-preview.jpg" title="Übersicht über das Abstimmungsverhalten der einzelnen Parteien in der Legislatuerperiode 18 des Deutschen Bundestages" caption="**Abbildung 1:** Abstimmungsverhalten in der letzten Legislaturperiode" %}
 
 Für eine leichtere Lesbarkeit habe ich die Heatmap aus [Abbildung 1](/res/analyse/cluster-result/abstimmungscluster.pdf) hier unten einfach nochmal eingebunden.
 
