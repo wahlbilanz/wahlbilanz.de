@@ -10,7 +10,7 @@ data:
 - title: Abstimmungsergebnis 20170330_3-data.pdf
   url: /res/abstimmungsliste/20170330_3-data.pdf
 - title: Abstimmungsergebnis 20170330_3_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20170330_3_xls-data.csv
+  url: /res/abstimmungsliste/csv/20170330_3_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-228-03/1811273.pdf
   title: Drucksache 18/11273.pdf

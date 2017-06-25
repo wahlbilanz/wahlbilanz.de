@@ -11,7 +11,7 @@ data:
 - title: Abstimmungsergebnis 20160623_3-data.pdf
   url: /res/abstimmungsliste/20160623_3-data.pdf
 - title: Abstimmungsergebnis 20160623_3_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20160623_3_xls-data.csv
+  url: /res/abstimmungsliste/csv/20160623_3_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-179-03/1808041.pdf
   title: Drucksache 18/08041.pdf

@@ -10,7 +10,7 @@ data:
 - title: Abstimmungsergebnis 20140627_2-data.pdf
   url: /res/abstimmungsliste/20140627_2-data.pdf
 - title: Abstimmungsergebnis 20140627_2_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20140627_2_xls-data.csv
+  url: /res/abstimmungsliste/csv/20140627_2_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-044-02/1801304.pdf
   title: Drucksache 18/01304.pdf

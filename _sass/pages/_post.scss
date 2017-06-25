@@ -68,11 +68,18 @@ section.post {
 	}
 	.post-author {
 		text-transform: uppercase;
-		color: $warning;
+		color: $primary;
 	}
   .post-cat {
 		text-transform: uppercase;
 		color: $warning;
+	}
+  .post-tag {
+		text-transform: uppercase;
+		color: $secondary;
+		&:before {
+			content: '#';
+		}
 	}
   .read-time {
     color: $primary;

@@ -51,6 +51,52 @@ Oder du [forkst das Repository](https://github.com/wahlbilanz/wahlbilanz.de) und
 Wer Lust hat die Seite aktiv mitzugestalten kann auch gern dem [WahlBilanz.de-Team](https://github.com/orgs/wahlbilanz/teams/wahlbilanz-team) beitreten :)
 
 
+## Projekt kompilieren
+
+WahlBilanz.de basiert auf [Jekyll](http://jekyllrb.com/) und generiert eine statische Seite.
+Das ist das gleiche System, dass auch [GitHub Pages](http://jekyllrb.com/docs/github-pages/) verwendet.
+In dem Repository hier sieht man nur den Source-Code der Webseite; er ist zum größten Teil in [Markdown](https://en.wikipedia.org/wiki/Markdown) verfasst.
+Um daraus HTML-Seiten zu generieren musst du das Projekt noch "kompilieren".
+Also zunächst das Projekt von GitHub clonen:
+
+    git clone https://github.com/wahlbilanz/wahlbilanz.de
+
+Dann noch fix die Git-Submodule initialisieren:
+
+    git submodule update --recursive --init
+
+Und dann ist alles bereit zum kompilieren!
+Dafür gibt es mehrere Möglichkeiten - alle generieren am Ende ein `_site` Verzeichnis, das von einem Webserver ausgeliefert werden kann.
+
+### Typisches Setup mit Jekyll
+
+Eine Anleitung für eine Installation von Jekyll gibt es zum Beispiel auf [jekyllrb.com/docs/installation](https://jekyllrb.com/docs/installation/).
+Im Prinzip reicht der folgende Befehl:
+
+    gem install jekyll
+
+(Für [Windows-Nutzer ist es aber ein bisschen komplizierter](https://jekyllrb.com/docs/windows/).)
+
+Wenn Jekyll installiert ist, kann man die Seite ganz einfach mit dem folgenden Befehl übersetzen:
+
+    jekyll build
+
+Weitere [Tricks und Features findet ihr auf jekyllrb.com/docs/usage](https://jekyllrb.com/docs/usage/).
+
+### Benutzung mit Docker
+
+Wenn ihr [Docker](https://www.docker.com/) installiert habt ist das alles viel einfacher.
+Angenommen das WahlBilanz.de-Projekt befindet sich in `/pfad/zu/wahlbilanz.de`, dann genügt der folgende Aufruf:
+
+    docker run --rm -v /pfad/zu/wahlbilanz.de:/jekyll binfalse/jekyll
+
+Docker kümmert sich um den Rest! :)
+
+In jedem Fall solltest du jetzt ein `_site` Verzeichnis sehen in dem die Webseiten im HTML-Format liegen.
+Sollte das irgendwie nicht geklappt haben kannst du dich gern bei uns melden!
+Dann versuchen wir dir zu helfen und überarbeiten diese Anleitung :)
+
+
 ## Lizenz
 
 Die Webseite wird unter der [Creative Commons BY-SA Lizenz](http://creativecommons.org/licenses/by-sa/4.0/) entwickelt.

@@ -1,0 +1,7331 @@
+{
+  "018-003-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 300,
+      "nein": 0,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 60,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "file": "20131128_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 59,
+      "nein": 0,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 181,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-003-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 285,
+      "nein": 0,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20131128_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 168,
+      "nein": 0,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    }
+  },
+  "018-010-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 299,
+      "nein": 0,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 61,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "file": "20140129_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 4,
+      "gesamt": 63,
+      "ja": 53,
+      "nein": 2,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 170,
+      "nein": 8,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    }
+  },
+  "018-010-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 301,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 61,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "file": "20140129_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 6,
+      "gesamt": 193,
+      "ja": 166,
+      "nein": 9,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    }
+  },
+  "018-011-01": {
+    "cdu/csu": {
+      "enthaltung": 3,
+      "gesamt": 311,
+      "ja": 291,
+      "nein": 5,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20140130_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 15,
+      "gesamt": 193,
+      "ja": 160,
+      "nein": 0,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    }
+  },
+  "018-017-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 302,
+      "nein": 1,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20140220_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 14,
+      "gesamt": 63,
+      "ja": 35,
+      "nein": 10,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 161,
+      "nein": 16,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-017-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 300,
+      "nein": 1,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 53,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20140220_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 3,
+      "gesamt": 63,
+      "ja": 53,
+      "nein": 3,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 172,
+      "nein": 4,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    }
+  },
+  "018-018-01": {
+    "cdu/csu": {
+      "enthaltung": 3,
+      "gesamt": 311,
+      "ja": 293,
+      "nein": 2,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 4,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 52,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "file": "20140221_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 171,
+      "nein": 3,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    }
+  },
+  "018-018-02": {
+    "cdu/csu": {
+      "enthaltung": 7,
+      "gesamt": 311,
+      "ja": 291,
+      "nein": 3,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "file": "20140221_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 57,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 178,
+      "nein": 0,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    }
+  },
+  "018-020-01": {
+    "cdu/csu": {
+      "enthaltung": 4,
+      "gesamt": 311,
+      "ja": 269,
+      "nein": 3,
+      "nichtabgegeben": 35,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 51,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20140313_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 5,
+      "gesamt": 193,
+      "ja": 171,
+      "nein": 0,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-026-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 301,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20140403_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 168,
+      "nein": 6,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-026-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 297,
+      "nein": 0,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 55,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20140403_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 175,
+      "nein": 0,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    }
+  },
+  "018-026-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 296,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20140403_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 58,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 174,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    }
+  },
+  "018-029-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 296,
+      "nein": 0,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 18,
+      "gesamt": 64,
+      "ja": 5,
+      "nein": 35,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20140409_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 59,
+      "nein": 0,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 175,
+      "nein": 0,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-030-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 292,
+      "nein": 0,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "file": "20140410_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 2,
+      "gesamt": 63,
+      "ja": 53,
+      "nein": 0,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 169,
+      "nein": 3,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    }
+  },
+  "018-033-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 297,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 49,
+      "nein": 0,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "file": "20140508_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 59,
+      "nein": 0,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 2,
+      "nein": 168,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    }
+  },
+  "018-033-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 296,
+      "nein": 0,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 49,
+      "nein": 0,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "file": "20140508_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 59,
+      "nein": 0,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 173,
+      "nein": 0,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    }
+  },
+  "018-033-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 289,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 50,
+      "nein": 0,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    },
+    "file": "20140508_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 162,
+      "nichtabgegeben": 30,
+      "ungueltig": 0
+    }
+  },
+  "018-036-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 293,
+      "nein": 0,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20140522_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 50,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 8,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 165,
+      "nein": 8,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    }
+  },
+  "018-036-02": {
+    "cdu/csu": {
+      "enthaltung": 2,
+      "gesamt": 311,
+      "ja": 1,
+      "nein": 283,
+      "nichtabgegeben": 25,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 52,
+      "nein": 0,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "file": "20140522_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 18,
+      "gesamt": 193,
+      "ja": 4,
+      "nein": 149,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    }
+  },
+  "018-036-03": {
+    "cdu/csu": {
+      "enthaltung": 2,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 287,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 52,
+      "nein": 0,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "file": "20140522_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 170,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    }
+  },
+  "018-036-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 289,
+      "nein": 0,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 52,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "file": "20140522_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 170,
+      "nein": 0,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    }
+  },
+  "018-037-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 295,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20140523_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 178,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    }
+  },
+  "018-037-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 294,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20140523_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 177,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    }
+  },
+  "018-037-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 295,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20140523_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 178,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    }
+  },
+  "018-037-04": {
+    "cdu/csu": {
+      "enthaltung": 2,
+      "gesamt": 311,
+      "ja": 282,
+      "nein": 9,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 55,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20140523_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 3,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 178,
+      "nein": 0,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    }
+  },
+  "018-039-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 298,
+      "nein": 0,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "file": "20140605_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 5,
+      "gesamt": 63,
+      "ja": 53,
+      "nein": 1,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 180,
+      "nein": 2,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-042-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 291,
+      "nein": 0,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20140625_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 180,
+      "nein": 0,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-042-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 295,
+      "nein": 0,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20140625_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 3,
+      "gesamt": 63,
+      "ja": 53,
+      "nein": 3,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 170,
+      "nein": 4,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-042-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 294,
+      "nein": 0,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20140625_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 7,
+      "gesamt": 63,
+      "ja": 50,
+      "nein": 2,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 170,
+      "nein": 7,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    }
+  },
+  "018-042-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 286,
+      "nichtabgegeben": 25,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 50,
+      "nein": 0,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    },
+    "file": "20140625_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 4,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 163,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    }
+  },
+  "018-044-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 288,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 51,
+      "nein": 0,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20140627_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 60,
+      "nein": 0,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 183,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-044-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 286,
+      "nichtabgegeben": 25,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 51,
+      "nein": 0,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20140627_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 59,
+      "nein": 0,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 182,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-044-03": {
+    "cdu/csu": {
+      "enthaltung": 2,
+      "gesamt": 311,
+      "ja": 273,
+      "nein": 13,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 51,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20140627_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 5,
+      "gesamt": 193,
+      "ja": 174,
+      "nein": 1,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-044-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 288,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 51,
+      "nein": 0,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20140627_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 57,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 177,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-044-05": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 286,
+      "nein": 2,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 51,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20140627_5_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 60,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 179,
+      "nein": 1,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-044-06": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 287,
+      "nichtabgegeben": 24,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 49,
+      "nein": 0,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "file": "20140627_6_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 180,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    }
+  },
+  "018-044-07": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 276,
+      "nein": 0,
+      "nichtabgegeben": 35,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 45,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    },
+    "file": "20140627_7_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 171,
+      "nein": 0,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    }
+  },
+  "018-046-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 294,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 59,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20140703_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 61,
+      "nein": 0,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 187,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    }
+  },
+  "018-046-02": {
+    "cdu/csu": {
+      "enthaltung": 2,
+      "gesamt": 311,
+      "ja": 286,
+      "nein": 5,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 59,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20140703_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 61,
+      "nein": 0,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 188,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    }
+  },
+  "018-046-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 286,
+      "nichtabgegeben": 25,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 57,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20140703_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 60,
+      "nein": 0,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 181,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    }
+  },
+  "018-046-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 281,
+      "nein": 4,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 51,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20140703_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 1,
+      "gesamt": 63,
+      "ja": 1,
+      "nein": 55,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 179,
+      "nein": 0,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-046-05": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 283,
+      "nichtabgegeben": 28,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 51,
+      "nein": 0,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20140703_5_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 179,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-046-06": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 283,
+      "nein": 0,
+      "nichtabgegeben": 28,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 49,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "file": "20140703_6_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 54,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 1,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 183,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-047-01": {
+    "cdu/csu": {
+      "enthaltung": 1,
+      "gesamt": 311,
+      "ja": 271,
+      "nein": 0,
+      "nichtabgegeben": 39,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 47,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    },
+    "file": "20140704_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 53,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 166,
+      "nein": 0,
+      "nichtabgegeben": 27,
+      "ungueltig": 0
+    }
+  },
+  "018-054-01": {
+    "cdu/csu": {
+      "enthaltung": 1,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 290,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 57,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20140925_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 4,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 176,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    }
+  },
+  "018-054-02": {
+    "cdu/csu": {
+      "enthaltung": 1,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 288,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "file": "20140925_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 4,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 172,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    }
+  },
+  "018-054-03": {
+    "cdu/csu": {
+      "enthaltung": 2,
+      "gesamt": 311,
+      "ja": 288,
+      "nein": 0,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20140925_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 60,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 174,
+      "nein": 2,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-060-01": {
+    "cdu/csu": {
+      "enthaltung": 1,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 288,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 57,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20141016_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 61,
+      "nein": 0,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 187,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    }
+  },
+  "018-061-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 285,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20141017_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 179,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-061-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 284,
+      "nichtabgegeben": 27,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20141017_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 176,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-061-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 285,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20141017_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 57,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 179,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-061-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 285,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20141017_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 57,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 179,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-066-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 299,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20141113_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 183,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-066-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 300,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 54,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20141113_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 182,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    }
+  },
+  "018-066-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 299,
+      "nein": 0,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20141113_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 56,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 183,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-066-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 290,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 53,
+      "nein": 0,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20141113_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 182,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    }
+  },
+  "018-066-05": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 288,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 53,
+      "nein": 0,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20141113_5_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 56,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 182,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    }
+  },
+  "018-066-06": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 286,
+      "nichtabgegeben": 25,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 54,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20141113_6_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 181,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    }
+  },
+  "018-066-07": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 289,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 53,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20141113_7_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 180,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-066-08": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 292,
+      "nein": 0,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 54,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 1,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20141113_8_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 182,
+      "nein": 0,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    }
+  },
+  "018-066-09": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 291,
+      "nein": 0,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20141113_9_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 177,
+      "nein": 1,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    }
+  },
+  "018-066-10": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 289,
+      "nein": 0,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 53,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20141113_10_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 177,
+      "nein": 1,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-069-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 300,
+      "nein": 0,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20141126_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 60,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 185,
+      "nein": 0,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    }
+  },
+  "018-071-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 295,
+      "nein": 0,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 53,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20141128_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 60,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 179,
+      "nein": 0,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-071-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 296,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 53,
+      "nein": 0,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20141128_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 60,
+      "nein": 0,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 178,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-076-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 295,
+      "nein": 1,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20141218_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 17,
+      "gesamt": 63,
+      "ja": 9,
+      "nein": 34,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 192,
+      "ja": 168,
+      "nein": 13,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-076-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 293,
+      "nein": 0,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 1,
+      "nein": 50,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20141218_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 60,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 192,
+      "ja": 167,
+      "nein": 12,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-076-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 0,
+      "nein": 281,
+      "nichtabgegeben": 29,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 51,
+      "nein": 0,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20141218_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 59,
+      "nein": 0,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 192,
+      "ja": 0,
+      "nein": 175,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-076-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 280,
+      "nein": 0,
+      "nichtabgegeben": 30,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 51,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20141218_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 192,
+      "ja": 176,
+      "nein": 0,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    }
+  },
+  "018-082-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 295,
+      "nein": 1,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20150129_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 53,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 8,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 162,
+      "nein": 12,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    }
+  },
+  "018-082-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 287,
+      "nein": 0,
+      "nichtabgegeben": 24,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "file": "20150129_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 5,
+      "gesamt": 63,
+      "ja": 51,
+      "nein": 6,
+      "nichtabgegeben": 1,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 165,
+      "nein": 8,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    }
+  },
+  "018-088-01": {
+    "cdu/csu": {
+      "enthaltung": 1,
+      "gesamt": 311,
+      "ja": 290,
+      "nein": 0,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20150226_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 1,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 3,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 170,
+      "nein": 4,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    }
+  },
+  "018-089-01": {
+    "cdu/csu": {
+      "enthaltung": 3,
+      "gesamt": 311,
+      "ja": 262,
+      "nein": 29,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 10,
+      "gesamt": 64,
+      "ja": 41,
+      "nein": 3,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20150227_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 60,
+      "nein": 0,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 178,
+      "nein": 0,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    }
+  },
+  "018-091-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 295,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20150305_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 179,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-091-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 292,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20150305_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 177,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    }
+  },
+  "018-097-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 284,
+      "nein": 0,
+      "nichtabgegeben": 27,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 60,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "file": "20150326_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 7,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 50,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 169,
+      "nein": 5,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-097-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 276,
+      "nein": 1,
+      "nichtabgegeben": 34,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20150326_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 172,
+      "nein": 0,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    }
+  },
+  "018-098-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 282,
+      "nichtabgegeben": 29,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 59,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20150327_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 168,
+      "nichtabgegeben": 24,
+      "ungueltig": 0
+    }
+  },
+  "018-098-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 278,
+      "nichtabgegeben": 33,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 59,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20150327_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 168,
+      "nichtabgegeben": 24,
+      "ungueltig": 0
+    }
+  },
+  "018-098-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 282,
+      "nein": 0,
+      "nichtabgegeben": 29,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20150327_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 6,
+      "gesamt": 193,
+      "ja": 152,
+      "nein": 11,
+      "nichtabgegeben": 24,
+      "ungueltig": 0
+    }
+  },
+  "018-098-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 281,
+      "nichtabgegeben": 30,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 58,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20150327_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 166,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    }
+  },
+  "018-098-05": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 282,
+      "nein": 0,
+      "nichtabgegeben": 29,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20150327_5_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 12,
+      "gesamt": 193,
+      "ja": 155,
+      "nein": 0,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    }
+  },
+  "018-098-06": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 261,
+      "nichtabgegeben": 50,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20150327_6_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 55,
+      "gesamt": 63,
+      "ja": 1,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 148,
+      "nichtabgegeben": 45,
+      "ungueltig": 0
+    }
+  },
+  "018-098-07": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 262,
+      "nein": 0,
+      "nichtabgegeben": 49,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 54,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20150327_7_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 148,
+      "nein": 0,
+      "nichtabgegeben": 45,
+      "ungueltig": 0
+    }
+  },
+  "018-106-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 291,
+      "nein": 0,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20150521_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 48,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 7,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 170,
+      "nein": 8,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-106-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 293,
+      "nein": 0,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20150521_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 1,
+      "gesamt": 63,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 174,
+      "nein": 2,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    }
+  },
+  "018-107-01": {
+    "cdu/csu": {
+      "enthaltung": 8,
+      "gesamt": 311,
+      "ja": 269,
+      "nein": 16,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20150522_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 5,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 52,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 175,
+      "nein": 1,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-112-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 1,
+      "nein": 297,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "file": "20150618_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 176,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-113-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 302,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20150619_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 5,
+      "gesamt": 63,
+      "ja": 54,
+      "nein": 1,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 176,
+      "nein": 2,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-113-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 302,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20150619_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 2,
+      "gesamt": 63,
+      "ja": 55,
+      "nein": 3,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 171,
+      "nein": 5,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    }
+  },
+  "018-113-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 302,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20150619_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 6,
+      "gesamt": 63,
+      "ja": 52,
+      "nein": 2,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 173,
+      "nein": 6,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-115-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 294,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 58,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20150702_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 2,
+      "nein": 180,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-115-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 294,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20150702_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 5,
+      "nein": 176,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-115-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 293,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20150702_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 5,
+      "nein": 175,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-115-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 0,
+      "nein": 295,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20150702_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 183,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-115-05": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 291,
+      "nein": 0,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20150702_5_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 178,
+      "nein": 1,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    }
+  },
+  "018-115-06": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 311,
+      "ja": 289,
+      "nein": 2,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20150702_6_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 177,
+      "nein": 1,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-117-01": {
+    "cdu/csu": {
+      "enthaltung": 5,
+      "gesamt": 310,
+      "ja": 241,
+      "nein": 60,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 2,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 53,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20150717_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 33,
+      "gesamt": 63,
+      "ja": 23,
+      "nein": 2,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 175,
+      "nein": 4,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-117-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 0,
+      "nein": 306,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 39,
+      "gesamt": 64,
+      "ja": 16,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20150717_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 1,
+      "gesamt": 63,
+      "ja": 57,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 178,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-117-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 0,
+      "nein": 306,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 38,
+      "gesamt": 64,
+      "ja": 17,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20150717_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 57,
+      "nein": 1,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 178,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-118-01": {
+    "cdu/csu": {
+      "enthaltung": 3,
+      "gesamt": 311,
+      "ja": 228,
+      "nein": 63,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 7,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 45,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "file": "20150819_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 8,
+      "gesamt": 63,
+      "ja": 52,
+      "nein": 1,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 173,
+      "nein": 4,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    }
+  },
+  "018-127-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 287,
+      "nein": 0,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 53,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20151001_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 192,
+      "ja": 162,
+      "nein": 4,
+      "nichtabgegeben": 24,
+      "ungueltig": 0
+    }
+  },
+  "018-127-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 284,
+      "nein": 0,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 52,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "file": "20151001_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 53,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 3,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 192,
+      "ja": 167,
+      "nein": 0,
+      "nichtabgegeben": 25,
+      "ungueltig": 0
+    }
+  },
+  "018-127-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 283,
+      "nein": 0,
+      "nichtabgegeben": 27,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 51,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20151001_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 192,
+      "ja": 165,
+      "nein": 1,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    }
+  },
+  "018-128-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 260,
+      "nein": 0,
+      "nichtabgegeben": 50,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 46,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    },
+    "file": "20151002_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 53,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 142,
+      "nein": 0,
+      "nichtabgegeben": 51,
+      "ungueltig": 0
+    }
+  },
+  "018-130-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 301,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20151015_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 1,
+      "nein": 58,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 5,
+      "gesamt": 193,
+      "ja": 175,
+      "nein": 1,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    }
+  },
+  "018-130-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 300,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20151015_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 1,
+      "nein": 56,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 172,
+      "nein": 7,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    }
+  },
+  "018-130-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 300,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20151015_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 1,
+      "nein": 58,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 6,
+      "gesamt": 193,
+      "ja": 173,
+      "nein": 2,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    }
+  },
+  "018-130-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 301,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 57,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20151015_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 59,
+      "nein": 0,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 182,
+      "nein": 0,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    }
+  },
+  "018-130-05": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 301,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20151015_5_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 48,
+      "gesamt": 63,
+      "ja": 1,
+      "nein": 10,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 8,
+      "gesamt": 193,
+      "ja": 173,
+      "nein": 1,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    }
+  },
+  "018-131-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 275,
+      "nein": 0,
+      "nichtabgegeben": 35,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 52,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "file": "20151016_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 53,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 7,
+      "gesamt": 193,
+      "ja": 129,
+      "nein": 43,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-133-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 291,
+      "nein": 0,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 60,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "file": "20151105_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 56,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 170,
+      "nein": 0,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    }
+  },
+  "018-133-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 291,
+      "nein": 0,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 60,
+      "nein": 0,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "file": "20151105_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 172,
+      "nein": 0,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    }
+  },
+  "018-134-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 289,
+      "nein": 7,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 39,
+      "nein": 18,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20151106_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 29,
+      "nein": 31,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 168,
+      "nein": 5,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    }
+  },
+  "018-134-03": {
+    "cdu/csu": {
+      "enthaltung": 9,
+      "gesamt": 310,
+      "ja": 252,
+      "nein": 39,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 12,
+      "nein": 44,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "file": "20151106_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 19,
+      "nein": 41,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 77,
+      "nein": 109,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    }
+  },
+  "018-136-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 286,
+      "nein": 0,
+      "nichtabgegeben": 24,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20151112_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 173,
+      "nein": 1,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-136-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 285,
+      "nein": 0,
+      "nichtabgegeben": 25,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "file": "20151112_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 171,
+      "nein": 1,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    }
+  },
+  "018-139-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 294,
+      "nein": 0,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "file": "20151125_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 175,
+      "nein": 0,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    }
+  },
+  "018-141-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 0,
+      "nein": 287,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20151127_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 52,
+      "nein": 0,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 177,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    }
+  },
+  "018-141-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 290,
+      "nein": 0,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20151127_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 176,
+      "nein": 0,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-143-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 0,
+      "nein": 287,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20151203_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 60,
+      "nein": 0,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 174,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    }
+  },
+  "018-144-01": {
+    "cdu/csu": {
+      "enthaltung": 1,
+      "gesamt": 310,
+      "ja": 289,
+      "nein": 2,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 62,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "file": "20151204_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 3,
+      "gesamt": 63,
+      "ja": 3,
+      "nein": 53,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 153,
+      "nein": 28,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-144-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 0,
+      "nein": 292,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 62,
+      "nein": 0,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "file": "20151204_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 52,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 7,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 178,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    }
+  },
+  "018-146-01": {
+    "cdu/csu": {
+      "enthaltung": 1,
+      "gesamt": 310,
+      "ja": 299,
+      "nein": 1,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 63,
+      "nichtabgegeben": 1,
+      "ungueltig": 0
+    },
+    "file": "20151217_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 8,
+      "gesamt": 63,
+      "ja": 19,
+      "nein": 31,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 162,
+      "nein": 17,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-146-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 300,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 63,
+      "nichtabgegeben": 1,
+      "ungueltig": 0
+    },
+    "file": "20151217_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 167,
+      "nein": 12,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-152-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 283,
+      "nein": 0,
+      "nichtabgegeben": 27,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20160128_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 3,
+      "gesamt": 63,
+      "ja": 57,
+      "nein": 0,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 163,
+      "nein": 8,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    }
+  },
+  "018-152-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 283,
+      "nein": 0,
+      "nichtabgegeben": 27,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20160128_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 47,
+      "gesamt": 63,
+      "ja": 2,
+      "nein": 11,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 157,
+      "nein": 14,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    }
+  },
+  "018-154-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 0,
+      "nein": 289,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 59,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20160217_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 61,
+      "nein": 0,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 180,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-155-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 1,
+      "nein": 287,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 57,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20160218_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 57,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 179,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-158-01": {
+    "cdu/csu": {
+      "enthaltung": 2,
+      "gesamt": 310,
+      "ja": 286,
+      "nein": 0,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20160225_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 61,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 5,
+      "gesamt": 193,
+      "ja": 141,
+      "nein": 31,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    }
+  },
+  "018-158-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 287,
+      "nein": 1,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20160225_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 61,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 4,
+      "gesamt": 193,
+      "ja": 142,
+      "nein": 30,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-158-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 2,
+      "nein": 276,
+      "nichtabgegeben": 32,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20160225_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 60,
+      "nein": 0,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 170,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    }
+  },
+  "018-160-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 0,
+      "nein": 276,
+      "nichtabgegeben": 34,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 53,
+      "nein": 0,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20160316_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 58,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 170,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    }
+  },
+  "018-161-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 284,
+      "nein": 0,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 61,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "file": "20160317_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 172,
+      "nein": 6,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-164-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 282,
+      "nein": 0,
+      "nichtabgegeben": 28,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20160414_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 54,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 182,
+      "nein": 0,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    }
+  },
+  "018-167-01": {
+    "cdu/csu": {
+      "enthaltung": 3,
+      "gesamt": 310,
+      "ja": 5,
+      "nein": 282,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 61,
+      "nein": 0,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "file": "20160428_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 40,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 141,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    }
+  },
+  "018-167-02": {
+    "cdu/csu": {
+      "enthaltung": 3,
+      "gesamt": 310,
+      "ja": 286,
+      "nein": 0,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 61,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "file": "20160428_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 26,
+      "gesamt": 193,
+      "ja": 154,
+      "nein": 1,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    }
+  },
+  "018-170-01": {
+    "cdu/csu": {
+      "enthaltung": 1,
+      "gesamt": 310,
+      "ja": 0,
+      "nein": 280,
+      "nichtabgegeben": 29,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 60,
+      "nein": 0,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "file": "20160512_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 61,
+      "nein": 0,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 171,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    }
+  },
+  "018-170-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 0,
+      "nein": 278,
+      "nichtabgegeben": 32,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 59,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20160512_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 61,
+      "nein": 0,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 170,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    }
+  },
+  "018-170-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 278,
+      "nein": 0,
+      "nichtabgegeben": 32,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20160512_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 175,
+      "nein": 0,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    }
+  },
+  "018-170-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 272,
+      "nein": 0,
+      "nichtabgegeben": 38,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20160512_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 4,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 168,
+      "nein": 4,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    }
+  },
+  "018-170-05": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 272,
+      "nein": 0,
+      "nichtabgegeben": 38,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20160512_5_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 34,
+      "gesamt": 63,
+      "ja": 18,
+      "nein": 8,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 166,
+      "nein": 6,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    }
+  },
+  "018-171-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 278,
+      "nein": 0,
+      "nichtabgegeben": 32,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 61,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "file": "20160513_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 62,
+      "nichtabgegeben": 1,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 146,
+      "nein": 22,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    }
+  },
+  "018-179-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 270,
+      "nein": 0,
+      "nichtabgegeben": 40,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20160623_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 5,
+      "gesamt": 63,
+      "ja": 52,
+      "nein": 2,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 180,
+      "nein": 3,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-179-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 270,
+      "nein": 0,
+      "nichtabgegeben": 40,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20160623_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 3,
+      "gesamt": 63,
+      "ja": 51,
+      "nein": 2,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 175,
+      "nein": 6,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-179-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 0,
+      "nein": 264,
+      "nichtabgegeben": 46,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 17,
+      "gesamt": 64,
+      "ja": 39,
+      "nein": 0,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "file": "20160623_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 55,
+      "nein": 0,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 180,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-180-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 265,
+      "nein": 0,
+      "nichtabgegeben": 45,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20160624_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 60,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 181,
+      "nein": 2,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    }
+  },
+  "018-180-02": {
+    "cdu/csu": {
+      "enthaltung": 4,
+      "gesamt": 310,
+      "ja": 259,
+      "nein": 1,
+      "nichtabgegeben": 46,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 50,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    },
+    "file": "20160624_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 5,
+      "gesamt": 193,
+      "ja": 176,
+      "nein": 0,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    }
+  },
+  "018-183-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 294,
+      "nein": 0,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 59,
+      "nein": 0,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20160707_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 61,
+      "nein": 0,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 185,
+      "nein": 0,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    }
+  },
+  "018-183-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 294,
+      "nein": 0,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 1,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20160707_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 61,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 183,
+      "nein": 1,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    }
+  },
+  "018-183-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 295,
+      "nein": 0,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20160707_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 61,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 184,
+      "nein": 1,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    }
+  },
+  "018-183-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 287,
+      "nein": 0,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 52,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "file": "20160707_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 170,
+      "nein": 4,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    }
+  },
+  "018-184-01": {
+    "cdu/csu": {
+      "enthaltung": 4,
+      "gesamt": 310,
+      "ja": 276,
+      "nein": 5,
+      "nichtabgegeben": 25,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 53,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20160708_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 60,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 5,
+      "gesamt": 193,
+      "ja": 168,
+      "nein": 3,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-190-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 0,
+      "nein": 285,
+      "nichtabgegeben": 25,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 60,
+      "nein": 0,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "file": "20160922_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 6,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 8,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 176,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-190-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 1,
+      "nein": 284,
+      "nichtabgegeben": 25,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 58,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20160922_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 61,
+      "nein": 0,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 8,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 175,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-190-04": {
+    "cdu/csu": {
+      "enthaltung": 1,
+      "gesamt": 310,
+      "ja": 284,
+      "nein": 0,
+      "nichtabgegeben": 25,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 60,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "file": "20160922_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 1,
+      "nein": 60,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 12,
+      "gesamt": 193,
+      "ja": 165,
+      "nein": 6,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-193-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 291,
+      "nein": 0,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20160929_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 176,
+      "nein": 0,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-193-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 291,
+      "nein": 0,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "file": "20160929_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 57,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 175,
+      "nein": 0,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    }
+  },
+  "018-193-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 283,
+      "nein": 0,
+      "nichtabgegeben": 27,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 53,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20160929_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 53,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 158,
+      "nein": 11,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    }
+  },
+  "018-198-01": {
+    "cdu/csu": {
+      "enthaltung": 4,
+      "gesamt": 310,
+      "ja": 64,
+      "nein": 227,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 1,
+      "gesamt": 64,
+      "ja": 38,
+      "nein": 12,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20161109_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 57,
+      "nein": 1,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 95,
+      "nein": 81,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    }
+  },
+  "018-198-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 3,
+      "nein": 291,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 17,
+      "nein": 34,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20161109_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 4,
+      "gesamt": 193,
+      "ja": 49,
+      "nein": 125,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    }
+  },
+  "018-198-03": {
+    "cdu/csu": {
+      "enthaltung": 4,
+      "gesamt": 310,
+      "ja": 237,
+      "nein": 53,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 16,
+      "nein": 35,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20161109_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 4,
+      "gesamt": 193,
+      "ja": 77,
+      "nein": 96,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    }
+  },
+  "018-199-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 291,
+      "nein": 0,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20161110_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 181,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-199-02": {
+    "cdu/csu": {
+      "enthaltung": 1,
+      "gesamt": 310,
+      "ja": 289,
+      "nein": 2,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20161110_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 156,
+      "nein": 27,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-200-01": {
+    "cdu/csu": {
+      "enthaltung": 2,
+      "gesamt": 310,
+      "ja": 255,
+      "nein": 21,
+      "nichtabgegeben": 32,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 15,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 28,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    },
+    "file": "20161111_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 1,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 45,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 103,
+      "nein": 70,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-202-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 295,
+      "nein": 0,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20161123_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 61,
+      "nichtabgegeben": 2,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 184,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-204-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 282,
+      "nein": 0,
+      "nichtabgegeben": 28,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20161125_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 57,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 176,
+      "nein": 0,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    }
+  },
+  "018-206-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 275,
+      "nein": 0,
+      "nichtabgegeben": 34,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 50,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    },
+    "file": "20161201_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 49,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 167,
+      "nein": 0,
+      "nichtabgegeben": 25,
+      "ungueltig": 0
+    }
+  },
+  "018-206-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 271,
+      "nein": 0,
+      "nichtabgegeben": 38,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 44,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    },
+    "file": "20161201_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 51,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 163,
+      "nein": 0,
+      "nichtabgegeben": 30,
+      "ungueltig": 0
+    }
+  },
+  "018-209-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 282,
+      "nein": 2,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 55,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "file": "20161215_1_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 4,
+      "gesamt": 63,
+      "ja": 52,
+      "nein": 1,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 182,
+      "nein": 0,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-209-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 290,
+      "nein": 0,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 58,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "file": "20161215_2_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 57,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 183,
+      "nein": 1,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    }
+  },
+  "018-209-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 288,
+      "nein": 0,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "file": "20161215_3_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 57,
+      "nein": 0,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 181,
+      "nein": 1,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-209-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 285,
+      "nein": 0,
+      "nichtabgegeben": 25,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "file": "20161215_4_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 9,
+      "gesamt": 63,
+      "ja": 17,
+      "nein": 29,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 165,
+      "nein": 16,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    }
+  },
+  "018-209-05": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 310,
+      "ja": 283,
+      "nein": 0,
+      "nichtabgegeben": 27,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 54,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20161215_5_xls-data.xls",
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 51,
+      "nein": 0,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 175,
+      "nein": 0,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    }
+  },
+  "018-212-01": {
+    "cdu/csu": {
+      "enthaltung": 2,
+      "gesamt": 309,
+      "ja": 278,
+      "nein": 0,
+      "nichtabgegeben": 29,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 52,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "file": "20170119_1_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 1,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 55,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 1,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 169,
+      "nein": 0,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    }
+  },
+  "018-212-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 277,
+      "nein": 0,
+      "nichtabgegeben": 32,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 52,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "file": "20170119_2_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 1,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 54,
+      "nein": 1,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 167,
+      "nein": 0,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    }
+  },
+  "018-212-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 268,
+      "nein": 0,
+      "nichtabgegeben": 41,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 48,
+      "nichtabgegeben": 16,
+      "ungueltig": 0
+    },
+    "file": "20170119_3_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 1,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 52,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 156,
+      "nein": 0,
+      "nichtabgegeben": 35,
+      "ungueltig": 0
+    }
+  },
+  "018-215-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 270,
+      "nein": 0,
+      "nichtabgegeben": 39,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 47,
+      "nichtabgegeben": 17,
+      "ungueltig": 0
+    },
+    "file": "20170126_1_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 1,
+      "nein": 0,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 2,
+      "gesamt": 63,
+      "ja": 53,
+      "nein": 1,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 174,
+      "nein": 7,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    }
+  },
+  "018-215-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 273,
+      "nein": 0,
+      "nichtabgegeben": 36,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 46,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    },
+    "file": "20170126_2_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 1,
+      "nein": 0,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 46,
+      "gesamt": 63,
+      "ja": 2,
+      "nein": 9,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 168,
+      "nein": 12,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    }
+  },
+  "018-221-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 0,
+      "nein": 287,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20170309_1_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 1,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 167,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    }
+  },
+  "018-221-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 288,
+      "nein": 0,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 53,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20170309_2_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 1,
+      "nein": 0,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 56,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 172,
+      "nein": 0,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    }
+  },
+  "018-221-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 0,
+      "nein": 287,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20170309_3_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 1,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 169,
+      "nichtabgegeben": 24,
+      "ungueltig": 0
+    }
+  },
+  "018-221-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 0,
+      "nein": 290,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20170309_4_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 1,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 0,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 170,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    }
+  },
+  "018-226-01": {
+    "cdu/csu": {
+      "enthaltung": 5,
+      "gesamt": 309,
+      "ja": 259,
+      "nein": 7,
+      "nichtabgegeben": 38,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 49,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "file": "20170324_1_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 1,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 4,
+      "gesamt": 193,
+      "ja": 138,
+      "nein": 25,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    }
+  },
+  "018-226-02": {
+    "cdu/csu": {
+      "enthaltung": 2,
+      "gesamt": 309,
+      "ja": 266,
+      "nein": 4,
+      "nichtabgegeben": 37,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 49,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "file": "20170324_2_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 1,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 10,
+      "gesamt": 193,
+      "ja": 139,
+      "nein": 18,
+      "nichtabgegeben": 26,
+      "ungueltig": 0
+    }
+  },
+  "018-228-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 0,
+      "nein": 276,
+      "nichtabgegeben": 33,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 52,
+      "nein": 0,
+      "nichtabgegeben": 12,
+      "ungueltig": 0
+    },
+    "file": "20170330_1_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 1,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 50,
+      "nein": 0,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 175,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    }
+  },
+  "018-228-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 0,
+      "nein": 275,
+      "nichtabgegeben": 34,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 51,
+      "nein": 0,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "file": "20170330_2_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 1,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 50,
+      "nein": 0,
+      "nichtabgegeben": 13,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 173,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    }
+  },
+  "018-228-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 269,
+      "nein": 0,
+      "nichtabgegeben": 40,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 49,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "file": "20170330_3_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 1,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 48,
+      "nichtabgegeben": 15,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 166,
+      "nein": 5,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    }
+  },
+  "018-234-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 276,
+      "nein": 0,
+      "nichtabgegeben": 33,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 53,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20170518_1_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 1,
+      "nein": 0,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 1,
+      "gesamt": 63,
+      "ja": 56,
+      "nein": 3,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 167,
+      "nein": 8,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    }
+  },
+  "018-234-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 277,
+      "nein": 0,
+      "nichtabgegeben": 32,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20170518_2_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 1,
+      "nein": 0,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 32,
+      "gesamt": 63,
+      "ja": 20,
+      "nein": 8,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 163,
+      "nein": 9,
+      "nichtabgegeben": 21,
+      "ungueltig": 0
+    }
+  },
+  "018-237-01": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 0,
+      "nein": 303,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20170601_1_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 1,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 60,
+      "nein": 0,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 4,
+      "gesamt": 193,
+      "ja": 3,
+      "nein": 178,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    }
+  },
+  "018-237-02": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 0,
+      "nein": 303,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20170601_2_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 1,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 60,
+      "nein": 0,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 4,
+      "gesamt": 193,
+      "ja": 1,
+      "nein": 180,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    }
+  },
+  "018-237-03": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 1,
+      "nein": 302,
+      "nichtabgegeben": 6,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20170601_3_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 1,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 60,
+      "nein": 0,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 4,
+      "gesamt": 193,
+      "ja": 2,
+      "nein": 178,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-237-04": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 302,
+      "nein": 2,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 53,
+      "nichtabgegeben": 11,
+      "ungueltig": 0
+    },
+    "file": "20170601_4_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 1,
+      "nein": 0,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 1,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 152,
+      "nein": 32,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    }
+  },
+  "018-237-05": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 299,
+      "nein": 2,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20170601_5_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 1,
+      "nein": 0,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 60,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 0,
+      "gesamt": 193,
+      "ja": 182,
+      "nein": 3,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    }
+  },
+  "018-237-06": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 301,
+      "nein": 3,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 53,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 1,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20170601_6_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 1,
+      "nein": 0,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 59,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 181,
+      "nein": 3,
+      "nichtabgegeben": 8,
+      "ungueltig": 0
+    }
+  },
+  "018-237-07": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 302,
+      "nein": 2,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20170601_7_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 1,
+      "nein": 0,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 60,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 152,
+      "nein": 29,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-237-08": {
+    "cdu/csu": {
+      "enthaltung": 1,
+      "gesamt": 309,
+      "ja": 300,
+      "nein": 3,
+      "nichtabgegeben": 5,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20170601_8_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 1,
+      "nein": 0,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 59,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 1,
+      "nichtabgegeben": 3,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 154,
+      "nein": 29,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    }
+  },
+  "018-237-09": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 0,
+      "nein": 300,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 54,
+      "nein": 0,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    },
+    "file": "20170601_9_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 1,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 59,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 4,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 3,
+      "gesamt": 193,
+      "ja": 0,
+      "nein": 180,
+      "nichtabgegeben": 10,
+      "ungueltig": 0
+    }
+  },
+  "018-237-10": {
+    "cdu/csu": {
+      "enthaltung": 0,
+      "gesamt": 309,
+      "ja": 289,
+      "nein": 0,
+      "nichtabgegeben": 20,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 46,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 0,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    },
+    "file": "20170601_10_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 1,
+      "nein": 0,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 56,
+      "nichtabgegeben": 7,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 2,
+      "gesamt": 193,
+      "ja": 172,
+      "nein": 0,
+      "nichtabgegeben": 19,
+      "ungueltig": 0
+    }
+  },
+  "018-237-11": {
+    "cdu/csu": {
+      "enthaltung": 2,
+      "gesamt": 618,
+      "ja": 568,
+      "nein": 2,
+      "nichtabgegeben": 46,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 128,
+      "ja": 0,
+      "nein": 100,
+      "nichtabgegeben": 28,
+      "ungueltig": 0
+    },
+    "file": "20170601_11_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 2,
+      "ja": 2,
+      "nein": 0,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 126,
+      "ja": 0,
+      "nein": 108,
+      "nichtabgegeben": 18,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 26,
+      "gesamt": 386,
+      "ja": 308,
+      "nein": 6,
+      "nichtabgegeben": 46,
+      "ungueltig": 0
+    }
+  },
+  "018-237-13": {
+    "cdu/csu": {
+      "enthaltung": 6,
+      "gesamt": 309,
+      "ja": 279,
+      "nein": 1,
+      "nichtabgegeben": 23,
+      "ungueltig": 0
+    },
+    "die.linke": {
+      "enthaltung": 0,
+      "gesamt": 64,
+      "ja": 0,
+      "nein": 50,
+      "nichtabgegeben": 14,
+      "ungueltig": 0
+    },
+    "file": "20170601_13_xls-data.xls",
+    "fraktionslos": {
+      "enthaltung": 0,
+      "gesamt": 1,
+      "ja": 0,
+      "nein": 1,
+      "nichtabgegeben": 0,
+      "ungueltig": 0
+    },
+    "gruenen": {
+      "enthaltung": 0,
+      "gesamt": 63,
+      "ja": 0,
+      "nein": 54,
+      "nichtabgegeben": 9,
+      "ungueltig": 0
+    },
+    "spd": {
+      "enthaltung": 1,
+      "gesamt": 193,
+      "ja": 167,
+      "nein": 3,
+      "nichtabgegeben": 22,
+      "ungueltig": 0
+    }
+  }
+}

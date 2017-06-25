@@ -46,3 +46,7 @@ _site
 .sass-cache
 _drafts
 .ruby-version
+
+
+# python compiled stuff
+*.pyc

@@ -24,6 +24,7 @@ exclude: ["README.md"]
 paginate: 10
 paginate_path: "page:num"
 
+url: https://wahlbilanz.de
 
 kramdown:
   auto_ids: true
@@ -42,7 +43,7 @@ owner:
   name: WahlBilanz.de
   avatar: wahl-logo-2.png
   job: "News.Daten.Wissenswertes."
-  bio: "Informationen zum 18. Deutschen Bundestag, Legislaturperiode 2013-2017."
+  bio: "Informationen zum 18. Deutschen Bundestag. Wer hat was wann und wie entschieden? <a href='/2017/06/und-los/'>Wieso?</a>"
   email:
   disqus-shortname:
   twitter: #username
@@ -73,3 +74,24 @@ owner:
   flickr: #username
   500px: #username
   codepen: #username
+
+
+authors:
+    binfalse:
+        display_name: Martin Scharm
+        link: https://binfalse.de
+        about: Bioinformatiker und System Administrator an der Uni Rostock.
+        twitter: binfalse
+        github: binfalse
+        bitbucket: binfalse
+        facebook: 
+        image: /img/profiles/binfalse.jpg
+    tomthe:
+        display_name: Tom Theile
+        link: 
+        about: 
+        twitter: 
+        github: tomthe
+        bitbucket: tomthe
+        facebook: 
+        image: 

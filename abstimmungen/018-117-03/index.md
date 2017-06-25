@@ -10,7 +10,7 @@ data:
 - title: Abstimmungsergebnis 20150717_3-data.pdf
   url: /res/abstimmungsliste/20150717_3-data.pdf
 - title: Abstimmungsergebnis 20150717_3_xls-data.csv
-  url: /res/abstimmungsliste/analyses/20150717_3_xls-data.csv
+  url: /res/abstimmungsliste/csv/20150717_3_xls-data.csv
 ergebnis:
   cdu/csu:
     enthaltung: 0
