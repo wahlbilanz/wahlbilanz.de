@@ -12,7 +12,7 @@ layout: default
       {% if post.categories.size > 0 %}
       •
       {% for cat in post.categories %}
-        <a class="post-cat" href="{{ site.url }}/categories/#{{ cat }}">{{ cat }}</a>
+        <a class="post-cat" href="/categories/#{{ cat }}">{{ cat }}</a>
         {% unless forloop.last %}
         <span>/</span>
         {% endunless %}
@@ -30,7 +30,7 @@ layout: default
       {% endif %}
     </p>
     <h4>
-      <a href="{{ site.url }}{{ post.url }}" class="post-title" title="{{ post.title }}">{{ post.title }}</a>
+      <a href="{{ post.url }}" class="post-title" title="{{ post.title }}">{{ post.title }}</a>
       {% if post.link %}
       <a class="post-title-link" href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-external-link"></i></a>
       {% endif %}
@@ -56,7 +56,7 @@ layout: default
       {% if post.image.feature contains 'http' %}
       "{{ post.image.feature }}"
       {% else %}
-      "{{ site.url }}/img/{{ post.image.feature }}"
+      "/img/{{ post.image.feature }}"
       {% endif %}
       alt="{{ post.title }} feature image">
 

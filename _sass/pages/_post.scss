@@ -211,6 +211,20 @@ a.read-more {
     border-color: #627aac;
   }
 }
+.linkedin {
+  background-color: #0073b0;
+  color: $white;
+  border-color: #0073b0;
+  &:visited {
+    color: $white;
+    border-color: #0073b0;
+  }
+  &:hover {
+    background-color: $white;
+    color: #0073b0;
+    border-color: #0073b0;
+  }
+}
 .google-plus {
   background-color: #e36f60;
   color: $white;

@@ -3,7 +3,45 @@
  */
 
 // Google font import
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,400,400italic|Roboto+Mono);
+//@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,400,400italic|Roboto+Mono);
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro'), local('SourceSansPro'), url(/css/fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Source Sans Pro'), local('SourceSansPro'), url(/css/fonts/Source_Sans_Pro/SourceSansPro-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Source Sans Pro'), local('SourceSansPro'), url(/css/fonts/Source_Sans_Pro/SourceSansPro-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Source Sans Pro'), local('SourceSansPro'), url(/css/fonts/Source_Sans_Pro/SourceSansPro-BoldItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Code Pro'), local('SourceCodePro'), url(/css/fonts/Source_Code_Pro/SourceCodePro-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Source Code Pro'), local('SourceCodePro'), url(/css/fonts/Source_Code_Pro/SourceCodePro-Bold.ttf) format('truetype');
+}
+
+
 
 // Custom variables
 
@@ -23,7 +61,7 @@ $border-width:               .0625rem !default;
 
 $font-family-sans-serif:     "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $font-family-serif:          Georgia, "Times New Roman", Times, serif !default;
-$font-family-monospace:      "Roboto Mono", "Courier New", monospace !default;
+$font-family-monospace:      "Source Code Pro", monospace !default;
 $font-family-base:           $font-family-sans-serif !default;
 
 // Pixel value used to responsively scale all typography. Applied to the `<html>` element.
