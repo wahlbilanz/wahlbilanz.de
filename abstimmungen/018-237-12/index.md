@@ -4,7 +4,8 @@ abstimmung:
   bundestagssitzung: 237
   legislaturperiode: 18
 categories:
-- Todo
+- Ausland
+- Inneres
 data:
 - title: Abstimmungsergebnis 20170601_12-data.pdf
   url: /res/abstimmungsliste/20170601_12-data.pdf
@@ -64,6 +65,8 @@ preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donn
   \n561\n69\n52\n\nNein-Stimmen:\n\n453\n\nEnthaltungen:\n\n56\n\nUngültige:\n\nBerlin,\
   \ den 02.06.2017\n\n0\n\nBeginn:\nEnde:\n\n23:20\n23:24\nSeite:\n\n1\n\n\f"
 tags:
-- Todo
+- Afghanistan
+- Bleiberecht
+- Asyl
 title: 'Abstimmung: Sofortiger Abschiebestopp nach Afghanistan, Antrag Die Linke.'
 ---
