@@ -13,9 +13,12 @@ data:
 - title: Abstimmungsergebnis 20170623_1_xls-data.csv
   url: /res/abstimmungsliste/csv/20170623_1_xls-data.csv
 documents:
-- local: /res/abstimmungsdaten/018-241-01/
-  title: 'Drucksache '
-  url: ''
+- local: /res/abstimmungsdaten/018-241-01/1812354.pdf
+  title: 'Drucksache 18/12354'
+  url: 'http://dip21.bundestag.de/dip21/btd/18/123/1812354.pdf'
+- local: /res/abstimmungsdaten/018-241-01/1812624.pdf
+  title: 'Drucksache 18/12624'
+  url: 'http://dip21.bundestag.de/dip21/btd/18/126/1812624.pdf'
 ergebnis:
   cdu/csu:
     enthaltung: 0
@@ -55,8 +58,8 @@ ergebnis:
     ungueltig: 0
 layout: abstimmung
 links:
-- title: bundestagslink
-  url: todo
+- title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=483
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=483
 preview: "Deutscher Bundestag\n\n241. Sitzung des Deutschen Bundestages\nam Freitag,\
   \ 23. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\nGesetzentwurf\
   \ der Abgeordneten Klaus Ernst, Matthias W. Birkwald, Susanna Karawanskij,\nweiterer\
@@ -67,5 +70,5 @@ preview: "Deutscher Bundestag\n\n241. Sitzung des Deutschen Bundestages\nam Frei
   Ende:\n\n11:43\n11:45\nSeite:\n\n1\n\n\f"
 tags:
 - Todo
-title: 'Abstimmung: '
+title: 'Abstimmung: Abschaffung der sachgrundlosen Befristung'
 ---
