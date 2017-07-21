@@ -13,9 +13,9 @@ data:
 - title: Abstimmungsergebnis 20170601_12_xls-data.csv
   url: /res/abstimmungsliste/csv/20170601_12_xls-data.csv
 documents:
-- local: /res/abstimmungsdaten/018-237-12/
-  title: 'Drucksache '
-  url: ''
+- local: /res/abstimmungsdaten/018-237-12/1812639.pdf
+  title: 'Drucksache 18/12639'
+  url: 'http://dip21.bundestag.de/dip21/btd/18/126/1812639.pdf'
 ergebnis:
   cdu/csu:
     enthaltung: 0
@@ -55,8 +55,8 @@ ergebnis:
     ungueltig: 0
 layout: abstimmung
 links:
-- title: bundestagslink
-  url: todo
+- title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=476
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=476
 preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 1. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 12\n\nAntrag\
   \ der Fraktion DIE LINKE.\nSofortiger Abschiebestopp nach Afghanistan\n- Drucksache\
@@ -65,5 +65,5 @@ preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donn
   \ den 02.06.2017\n\n0\n\nBeginn:\nEnde:\n\n23:20\n23:24\nSeite:\n\n1\n\n\f"
 tags:
 - Todo
-title: 'Abstimmung: '
+title: 'Abstimmung: Sofortiger Abschiebestopp nach Afghanistan, Antrag Die Linke.'
 ---
