@@ -4,7 +4,8 @@ abstimmung:
   bundestagssitzung: 243
   legislaturperiode: 18
 categories:
-- Todo
+- Bundeswehr
+- Ausland
 data:
 - title: Abstimmungsergebnis 20170629_2-data.pdf
   url: /res/abstimmungsliste/20170629_2-data.pdf
@@ -69,6 +70,8 @@ preview: "Deutscher Bundestag\n\n243. Sitzung des Deutschen Bundestages\nam Donn
   \n59\n\nEnthaltungen:\n\n7\n\nUngültige:\n\n0\n\nBerlin, den 29.06.2017\n\nBeginn:\n\
   Ende:\n\n20:42\n20:46\nSeite:\n\n1\n\n\f"
 tags:
-- Todo
+- UNIFIL
+- Libanon
+- UN
 title: 'Abstimmung: Bundeswehreinsatz "United Nations Interim Force in Lebanon" (UNIFIL)'
 ---

@@ -66,7 +66,6 @@ preview: "Deutscher Bundestag\n\n206. Sitzung des Deutschen Bundestages\nam Donn
   99\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin, den 01.12.2016\n\nBeginn:\
   \ 18:10\nEnde: 18:12\n"
 tags:
-- Grundgesetze
 - Sozialhilfe
 title: 'Abstimmung: Ermittlung von Regelbedarfen'
 ---

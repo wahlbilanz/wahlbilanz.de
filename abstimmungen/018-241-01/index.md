@@ -4,7 +4,8 @@ abstimmung:
   bundestagssitzung: 241
   legislaturperiode: 18
 categories:
-- Todo
+- Arbeit
+- Soziales
 data:
 - title: Abstimmungsergebnis 20170623_1-data.pdf
   url: /res/abstimmungsliste/20170623_1-data.pdf
@@ -69,6 +70,8 @@ preview: "Deutscher Bundestag\n\n241. Sitzung des Deutschen Bundestages\nam Frei
   \n408\n\nEnthaltungen:\n\n58\n\nUngültige:\n\nBerlin, den 23.06.2017\n\n0\n\nBeginn:\n\
   Ende:\n\n11:43\n11:45\nSeite:\n\n1\n\n\f"
 tags:
-- Todo
+- Arbeitgeber
+- Arbeitnehmer
+- Arbeitsvertrag
 title: 'Abstimmung: Abschaffung der sachgrundlosen Befristung'
 ---

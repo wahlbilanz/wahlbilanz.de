@@ -4,7 +4,8 @@ abstimmung:
   bundestagssitzung: 240
   legislaturperiode: 18
 categories:
-- Todo
+- Grundgesetz
+- Inneres
 data:
 - title: Abstimmungsergebnis 20170622_1-data.pdf
   url: /res/abstimmungsliste/20170622_1-data.pdf
@@ -68,6 +69,7 @@ preview: "Deutscher Bundestag\n\n240. Sitzung des Deutschen Bundestages\nam Donn
   \n20\n\nUngültige:\n\nBerlin, den 22.06.2017\n\n0\n\nBeginn:\nEnde:\n\n15:51\n15:54\n\
   Seite:\n\n1\n\n\f"
 tags:
-- Todo
+- Parteienfinanzierung
+- Extremismus
 title: 'Abstimmung: Änderung von Artikel 21 des Grundgesetzes (Parteienfinanzierung)'
 ---

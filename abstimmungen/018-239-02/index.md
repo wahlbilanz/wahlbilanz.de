@@ -4,7 +4,8 @@ abstimmung:
   bundestagssitzung: 239
   legislaturperiode: 18
 categories:
-- Todo
+- Bundeswehr
+- Ausland
 data:
 - title: Abstimmungsergebnis 20170621_2-data.pdf
   url: /res/abstimmungsliste/20170621_2-data.pdf
@@ -65,6 +66,8 @@ preview: "Deutscher Bundestag\n\n239. Sitzung des Deutschen Bundestages\nam Mitt
   85\n\nEnthaltungen:\n\n23\n\nUngültige:\n\nBerlin, den 21.06.2017\n\n0\n\nBeginn:\n\
   Ende:\n\n17:42\n17:44\nSeite:\n\n1\n\n\f"
 tags:
-- Todo
+- Incirlik
+- IS
+- Türkei
 title: 'Abstimmung: Antrag zur Verlegung des Bundeswehrkontingents von Incirlik nach Al Azraq'
 ---

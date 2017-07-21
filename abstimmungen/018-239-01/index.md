@@ -4,7 +4,8 @@ abstimmung:
   bundestagssitzung: 239
   legislaturperiode: 18
 categories:
-- Todo
+- Bundeswehr
+- Ausland
 data:
 - title: Abstimmungsergebnis 20170621_1-data.pdf
   url: /res/abstimmungsliste/20170621_1-data.pdf
@@ -69,6 +70,8 @@ preview: "Deutscher Bundestag\n\n239. Sitzung des Deutschen Bundestages\nam Mitt
   \n0\n\nUngültige:\n\n0\n\nBerlin, den 21.06.2017\n\nBeginn:\nEnde:\n\n17:38\n17:41\n\
   Seite:\n\n1\n\n\f"
 tags:
-- Todo
+- Incirlik
+- IS
+- Türkei
 title: 'Abstimmung: Beschlussempfehlung zum Abzug der Bundeswehr aus Incirlik'
 ---

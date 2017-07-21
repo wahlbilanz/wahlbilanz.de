@@ -4,7 +4,9 @@ abstimmung:
   bundestagssitzung: 244
   legislaturperiode: 18
 categories:
-- Todo
+- Recht
+- Verbraucherschutz
+- Familie
 data:
 - title: Abstimmungsergebnis 20170630_1-data.pdf
   url: /res/abstimmungsliste/20170630_1-data.pdf
@@ -68,6 +70,9 @@ preview: "Deutscher Bundestag\n\n244. Sitzung des Deutschen Bundestages\nam Frei
   \n226\n\nEnthaltungen:\n\n4\n\nUngültige:\n\n0\n\nBerlin, den 30.06.2017\n\nBeginn:\n\
   Ende:\n\n8:58\n9:03\nSeite:\n\n1\n\n\f"
 tags:
-- Todo
+- Gleichgeschlechtlich
+- Diskriminierung
+- Familie
+- Gleichstellung
 title: 'Abstimmung: Eheschließung für Personen gleichen Geschlechts'
 ---
