@@ -6,6 +6,7 @@ abstimmung:
 categories:
 - Grundgesetz
 - Inneres
+- Finanzen
 data:
 - title: Abstimmungsergebnis 20170622_1-data.pdf
   url: /res/abstimmungsliste/20170622_1-data.pdf
