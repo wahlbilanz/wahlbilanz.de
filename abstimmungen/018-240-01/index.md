@@ -13,9 +13,12 @@ data:
 - title: Abstimmungsergebnis 20170622_1_xls-data.csv
   url: /res/abstimmungsliste/csv/20170622_1_xls-data.csv
 documents:
-- local: /res/abstimmungsdaten/018-240-01/
-  title: 'Drucksache '
-  url: ''
+- local: /res/abstimmungsdaten/018-240-01/1812357.pdf
+  title: 'Drucksache 18/12357'
+  url: 'http://dip21.bundestag.de/dip21/btd/18/123/1812357.pdf'
+- local: /res/abstimmungsdaten/018-240-01/1812846.pdf
+  title: 'Drucksache 18/12846'
+  url: 'http://dip21.bundestag.de/dip21/btd/18/128/1812846.pdf'
 ergebnis:
   cdu/csu:
     enthaltung: 0
@@ -55,8 +58,8 @@ ergebnis:
     ungueltig: 0
 layout: abstimmung
 links:
-- title: bundestagslink
-  url: todo
+- title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=481
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=481
 preview: "Deutscher Bundestag\n\n240. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 22. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\nGesetzentwurf\
   \ der Frankitonen CDU/CSU und SPD\nEntwurf eines Gesetzes zur Änderung des Grundgesetzes\n\
@@ -66,5 +69,5 @@ preview: "Deutscher Bundestag\n\n240. Sitzung des Deutschen Bundestages\nam Donn
   Seite:\n\n1\n\n\f"
 tags:
 - Todo
-title: 'Abstimmung: '
+title: 'Abstimmung: Änderung von Artikel 21 des Grundgesetzes (Parteienfinanzierung)'
 ---
