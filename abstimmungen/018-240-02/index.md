@@ -13,9 +13,12 @@ data:
 - title: Abstimmungsergebnis 20170622_2_xls-data.csv
   url: /res/abstimmungsliste/csv/20170622_2_xls-data.csv
 documents:
-- local: /res/abstimmungsdaten/018-240-02/
-  title: 'Drucksache '
-  url: ''
+- local: /res/abstimmungsdaten/018-240-02/1812298.pdf
+  title: 'Drucksache 18/12298'
+  url: 'http://dip21.bundestag.de/dip21/btd/18/122/1812298.pdf'
+- local: /res/abstimmungsdaten/018-240-02/1812694.pdf
+  title: 'Drucksache 18/12694'
+  url: 'http://dip21.bundestag.de/dip21/btd/18/126/1812694.pdf'
 ergebnis:
   cdu/csu:
     enthaltung: 0
@@ -55,8 +58,8 @@ ergebnis:
     ungueltig: 0
 layout: abstimmung
 links:
-- title: bundestagslink
-  url: todo
+- title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=482
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=482
 preview: "Deutscher Bundestag\n\n240. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 22. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\nBeschlussempfehlung\
   \ des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der\nBundesregierung\n\
@@ -71,5 +74,5 @@ preview: "Deutscher Bundestag\n\n240. Sitzung des Deutschen Bundestages\nam Donn
   Ende:\n\n16:51\n16:54\nSeite:\n\n1\n\n\f"
 tags:
 - Todo
-title: 'Abstimmung: '
+title: 'Abstimmung: Bundeswehreinsatz in Kosovo (KFOR)'
 ---
