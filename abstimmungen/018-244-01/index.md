@@ -13,9 +13,12 @@ data:
 - title: Abstimmungsergebnis 20170630_1_xls-data.csv
   url: /res/abstimmungsliste/csv/20170630_1_xls-data.csv
 documents:
-- local: /res/abstimmungsdaten/018-244-01/
-  title: 'Drucksache '
-  url: ''
+- local: /res/abstimmungsdaten/018-244-01/1806665.pdf
+  title: 'Drucksache 18/6665'
+  url: 'http://dip21.bundestag.de/dip21/btd/18/066/1806665.pdf'
+- local: /res/abstimmungsdaten/018-244-01/1812989.pdf
+  title: 'Drucksache 18/12989'
+  url: 'http://dip21.bundestag.de/dip21/btd/18/129/1812989.pdf'
 ergebnis:
   cdu/csu:
     enthaltung: 4
@@ -55,8 +58,8 @@ ergebnis:
     ungueltig: 0
 layout: abstimmung
 links:
-- title: bundestagslink
-  url: todo
+- title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=486
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=486
 preview: "Deutscher Bundestag\n\n244. Sitzung des Deutschen Bundestages\nam Freitag,\
   \ 30. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\nGesetzentwurf\
   \ des Bundesrates\nEntwurf eines Gesetzes zur Einführung des Rechts auf Eheschließung\
@@ -66,5 +69,5 @@ preview: "Deutscher Bundestag\n\n244. Sitzung des Deutschen Bundestages\nam Frei
   Ende:\n\n8:58\n9:03\nSeite:\n\n1\n\n\f"
 tags:
 - Todo
-title: 'Abstimmung: '
+title: 'Abstimmung: Eheschließung für Personen gleichen Geschlechts'
 ---
