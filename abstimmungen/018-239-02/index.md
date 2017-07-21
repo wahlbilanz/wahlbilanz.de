@@ -13,9 +13,9 @@ data:
 - title: Abstimmungsergebnis 20170621_2_xls-data.csv
   url: /res/abstimmungsliste/csv/20170621_2_xls-data.csv
 documents:
-- local: /res/abstimmungsdaten/018-239-02/
-  title: 'Drucksache '
-  url: ''
+- local: /res/abstimmungsdaten/018-239-02/1812779.pdf
+  title: 'Drucksache 18/12779'
+  url: 'http://dip21.bundestag.de/dip21/btd/18/127/1812779.pdf'
 ergebnis:
   cdu/csu:
     enthaltung: 0
@@ -55,8 +55,8 @@ ergebnis:
     ungueltig: 0
 layout: abstimmung
 links:
-- title: bundestagslink
-  url: todo
+- title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=480
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=480
 preview: "Deutscher Bundestag\n\n239. Sitzung des Deutschen Bundestages\nam Mittwoch,\
   \ 21. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\nAntrag\
   \ der Fraktionen CDU/CSU und SPD\nVerlegung des Bundeswehrkontingents von Incirlik\
@@ -66,5 +66,5 @@ preview: "Deutscher Bundestag\n\n239. Sitzung des Deutschen Bundestages\nam Mitt
   Ende:\n\n17:42\n17:44\nSeite:\n\n1\n\n\f"
 tags:
 - Todo
-title: 'Abstimmung: '
+title: 'Abstimmung: Antrag zur Verlegung des Bundeswehrkontingents von Incirlik nach Al Azraq'
 ---
