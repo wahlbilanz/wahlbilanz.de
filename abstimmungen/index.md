@@ -208,5 +208,16 @@ Hier findest du eine Liste aller namentlichen Abstimmungen des Bundestages in de
 * [Entwurf eines Gesetzes zur Änderung des Grundgesetzes (Artikel 90, 91c, 104b, 104c, 107, 108, 109a, 114, 125c, 143d, 143e, 143f, 143g)](018-237-08/) (237. Sitzung des Deutschen Bundestages am Donnerstag, 1. Juni 2017)
 * [Änderungsantrag der Fraktion Die Linke zur Neuregelung des bundesstaatlichen Finanzausgleichssystems](018-237-09/) (237. Sitzung des Deutschen Bundestages am Donnerstag, 1. Juni 2017)
 * [Abschluss der Rentenüberleitung](018-237-10/) (237. Sitzung des Deutschen Bundestages am Donnerstag, 1. Juni 2017)
-* [Sofortiger Abschiebestopp nach Afghanistan, Antrag Die Linke.](018-237-11/) (237. Sitzung des Deutschen Bundestages am Donnerstag, 1. Juni 2017)
+* [Abschiebung nach Afghanistan, Beschlussempfehlung zum Antrag Bündnis 90/Die Grünen](018-237-11/) (237. Sitzung des Deutschen Bundestages am Donnerstag, 1. Juni 2017)
+* [Sofortiger Abschiebestopp nach Afghanistan, Antrag Die Linke.](018-237-12/) (237. Sitzung des Deutschen Bundestages am Donnerstag, 1. Juni 2017)
 * [Neue Lagebeurteilung für Afghanistan, Antrag CDU/CSU, SPD](018-237-13/) (237. Sitzung des Deutschen Bundestages am Donnerstag, 1. Juni 2017)
+* [Beschlussempfehlung zum Abzug der Bundeswehr aus Incirlik](018-239-01/) (239. Sitzung des Deutschen Bundestages am Donnerstag, 21. Juni 2017)
+* [Antrag zur Verlegung des Bundeswehrkontingents von Incirlik nach Al Azraq](018-239-02/) (239. Sitzung des Deutschen Bundestages am Donnerstag, 21. Juni 2017)
+* [Änderung von Artikel 21 des Grundgesetzes (Parteienfinanzierung)](018-240-01/) (240. Sitzung des Deutschen Bundestages am Donnerstag, 22. Juni 2017)
+* [Bundeswehreinsatz in Kosovo (KFOR)](018-240-02/) (240. Sitzung des Deutschen Bundestages am Donnerstag, 22. Juni 2017)
+* [Abschaffung der sachgrundlosen Befristung](018-241-01/) (241. Sitzung des Deutschen Bundestages am Freitag, 23. Juni 2017)
+* [Bundeswehreinsatz EUNAVFOR MED Operation SOPHIA](018-243-01/) (243. Sitzung des Deutschen Bundestages am Donnerstag, 29. Juni 2017)
+* [Bundeswehreinsatz "United Nations Interim Force in Lebanon" (UNIFIL)](018-243-02/) (243. Sitzung des Deutschen Bundestages am Donnerstag, 29. Juni 2017)
+* [Eheschließung für Personen gleichen Geschlechts](018-244-01/) (244. Sitzung des Deutschen Bundestages am Freitag, 30. Juni 2017)
+
+
