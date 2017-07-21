@@ -209,4 +209,4 @@ Hier findest du eine Liste aller namentlichen Abstimmungen des Bundestages in de
 * [Änderungsantrag der Fraktion Die Linke zur Neuregelung des bundesstaatlichen Finanzausgleichssystems](018-237-09/) (237. Sitzung des Deutschen Bundestages am Donnerstag, 1. Juni 2017)
 * [Abschluss der Rentenüberleitung](018-237-10/) (237. Sitzung des Deutschen Bundestages am Donnerstag, 1. Juni 2017)
 * [Sofortiger Abschiebestopp nach Afghanistan, Antrag Die Linke.](018-237-11/) (237. Sitzung des Deutschen Bundestages am Donnerstag, 1. Juni 2017)
-* [Abstimmung: Neue Lagebeurteilung für Afghanistan, Antrag CDU/CSU, SPD](018-237-13/) (237. Sitzung des Deutschen Bundestages am Donnerstag, 1. Juni 2017)
+* [Neue Lagebeurteilung für Afghanistan, Antrag CDU/CSU, SPD](018-237-13/) (237. Sitzung des Deutschen Bundestages am Donnerstag, 1. Juni 2017)
