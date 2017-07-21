@@ -13,9 +13,12 @@ data:
 - title: Abstimmungsergebnis 20170629_2_xls-data.csv
   url: /res/abstimmungsliste/csv/20170629_2_xls-data.csv
 documents:
-- local: /res/abstimmungsdaten/018-243-02/
-  title: 'Drucksache '
-  url: ''
+- local: /res/abstimmungsdaten/018-243-02/1812492.pdf
+  title: 'Drucksache 18/12492'
+  url: 'http://dip21.bundestag.de/dip21/btd/18/124/1812492.pdf'
+- local: /res/abstimmungsdaten/018-243-02/1812866.pdf
+  title: 'Drucksache 18/12866'
+  url: 'http://dip21.bundestag.de/dip21/btd/18/128/1812866.pdf'
 ergebnis:
   cdu/csu:
     enthaltung: 0
@@ -55,8 +58,8 @@ ergebnis:
     ungueltig: 0
 layout: abstimmung
 links:
-- title: bundestagslink
-  url: todo
+- title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=485
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=485
 preview: "Deutscher Bundestag\n\n243. Sitzung des Deutschen Bundestages\nam Donnerstag,\
   \ 29. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\nBeschlussempfehlung\
   \ des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der\nBundesregierung\n\
@@ -67,5 +70,5 @@ preview: "Deutscher Bundestag\n\n243. Sitzung des Deutschen Bundestages\nam Donn
   Ende:\n\n20:42\n20:46\nSeite:\n\n1\n\n\f"
 tags:
 - Todo
-title: 'Abstimmung: '
+title: 'Abstimmung: Bundeswehreinsatz "United Nations Interim Force in Lebanon" (UNIFIL)'
 ---
