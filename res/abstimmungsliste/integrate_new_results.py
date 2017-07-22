@@ -175,6 +175,13 @@ for f in listdir (xls_path):
 				abst_dict[abst_key][fraktion]["ungueltig"] += int (row[rowids["ungueltig"]])
 				abst_dict[abst_key][fraktion]["nichtabgegeben"] += int (row[rowids["nichtabgegeben"]])
 				abst_dict[abst_key][fraktion]["gesamt"] += 1
+			
+			sum_votes = 0
+			for fraktion in fraktionen:
+				sum_votes += abst_dict[abst_key][fraktion]["gesamt"]
+			if sum_votes > 650:
+				print "there seems to be an error! more the 650 votes for " + f[:-3] + " (" + abst_key + ")"
+				sys.exit (1)
 				
 				
 			# create new page, see 3.1 oben
@@ -203,6 +210,17 @@ for f in listdir (xls_path):
 				else:
 					print "!!!! didn't fine pdf file for %s !!!!" % xls_file
 				abstimmung.write_abstimmung (jekyll_file)
+
+
+# double check that we do not have double entries
+for abstid in sorted (abst_dict):
+	sum_votes = 0
+	for fraktion in fraktionen:
+		if fraktion in abst_dict[abstid]:
+			sum_votes += abst_dict[abstid][fraktion]["gesamt"]
+	if sum_votes > 650:
+		print "there seems to be an error! more the 650 votes for " + abstid
+		sys.exit (1)
 
 
 # write new summary table, see 3.2 oben
