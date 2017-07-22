@@ -185,7 +185,7 @@ for f in listdir (xls_path):
 				
 				
 			# create new page, see 3.1 oben
-			jekyll_file = os.path.abspath (os.path.join (wd, "../../abstimmungen/" + abst_key + "/index.md2"))
+			jekyll_file = os.path.abspath (os.path.join (wd, "../../abstimmungen/" + abst_key + "/index.md"))
 			if not os.path.isfile (jekyll_file):
 				print "  > erstelle neue abstimmungsseite"
 				pdf_file = xls_to_pdf.sub ("\\1-data.pdf", f)
