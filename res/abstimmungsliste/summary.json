@@ -7244,44 +7244,44 @@
   },
   "018-237-11": {
     "cdu/csu": {
-      "enthaltung": 2,
-      "gesamt": 618,
-      "ja": 568,
-      "nein": 2,
-      "nichtabgegeben": 46,
+      "enthaltung": 1,
+      "gesamt": 309,
+      "ja": 284,
+      "nein": 1,
+      "nichtabgegeben": 23,
       "ungueltig": 0
     },
     "die.linke": {
       "enthaltung": 0,
-      "gesamt": 128,
+      "gesamt": 64,
       "ja": 0,
-      "nein": 100,
-      "nichtabgegeben": 28,
+      "nein": 50,
+      "nichtabgegeben": 14,
       "ungueltig": 0
     },
     "file": "20170601_11_xls-data.xls",
     "fraktionslos": {
       "enthaltung": 0,
-      "gesamt": 2,
-      "ja": 2,
+      "gesamt": 1,
+      "ja": 1,
       "nein": 0,
       "nichtabgegeben": 0,
       "ungueltig": 0
     },
     "gruenen": {
       "enthaltung": 0,
-      "gesamt": 126,
+      "gesamt": 63,
       "ja": 0,
-      "nein": 108,
-      "nichtabgegeben": 18,
+      "nein": 54,
+      "nichtabgegeben": 9,
       "ungueltig": 0
     },
     "spd": {
-      "enthaltung": 26,
-      "gesamt": 386,
-      "ja": 308,
-      "nein": 6,
-      "nichtabgegeben": 46,
+      "enthaltung": 13,
+      "gesamt": 193,
+      "ja": 154,
+      "nein": 3,
+      "nichtabgegeben": 23,
       "ungueltig": 0
     }
   },
