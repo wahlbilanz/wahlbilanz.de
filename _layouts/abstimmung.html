@@ -43,7 +43,7 @@ layout: default
 					{% for party in page.ergebnis %}
 						{% unless party[0] == "file" %}
 						<tr class="party-ergebnis party-{{party[0] | slugify }}">
-							<td><span class="party-name">{{party[0]}}</span></td>
+							<td><span class="party-name">{{party[0] | party_name}}</span></td>
 							<td><span class="party-ja">{{party[1].ja}}</span>
 							<td><span class="party-nein">{{party[1].nein}}</span>
 							<td><span class="party-enthaltung">{{party[1].enthaltung}}</span>
