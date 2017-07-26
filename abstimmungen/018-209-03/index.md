@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 209
+  datum: 15. Dezember 2016
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,16 +55,73 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=445
 - title: http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_darfur-1105-831.html
   url: http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_in_darfur-1105-831.html
-preview: "Deutscher Bundestag\n\n209. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 15.Dezember 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\
-  \nBeschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nFortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4\
-  fte an der AU/UN-HybridOperation in Darfur (UNAMID) auf Grundlage der Resolution\
-  \ 1769 (2007) des\nSicherheitsrates der Vereinten Nationen vom 31. Juli 2007 und\
-  \ folgender Resolutionen,\nzuletzt 2296 (2016) vom 29. Juni 2016\nDrs. 18/10189\
-  \ und 18/10549\n\nAbgegebene Stimmen insgesamt:\n\n587\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n43\n526\n\nNein-Stimmen:\n\n60\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\
-  \n0\n\nBerlin, den 15.12.2016\n\nBeginn: 12:56\nEnde: 12:59\n"
+preview: 'Deutscher Bundestag
+
+
+  209. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 15.Dezember 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der AU/UN-HybridOperation
+  in Darfur (UNAMID) auf Grundlage der Resolution 1769 (2007) des
+
+  Sicherheitsrates der Vereinten Nationen vom 31. Juli 2007 und folgender Resolutionen,
+
+  zuletzt 2296 (2016) vom 29. Juni 2016
+
+  Drs. 18/10189 und 18/10549
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  587
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  43
+
+  526
+
+
+  Nein-Stimmen:
+
+
+  60
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 15.12.2016
+
+
+  Beginn: 12:56
+
+  Ende: 12:59
+
+  '
 tags:
 - Dafur
 - UNAMID

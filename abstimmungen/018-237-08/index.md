@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 8
   bundestagssitzung: 237
+  datum: 1. Juni 2017
   legislaturperiode: 18
 categories:
 - Grundgesetz
@@ -23,10 +24,10 @@ data:
 documents:
 - local: /res/abstimmungsdaten/018-237-08/1811131.pdf
   title: Drucksache 18/11131.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/111/1811131.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/111/1811131.pdf
 - local: /res/abstimmungsdaten/018-237-08/1812588.pdf
   title: Drucksache 18/12588.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/125/1812588.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/125/1812588.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 1
@@ -105,5 +106,6 @@ tags:
 - Umsatzsteuer
 - Kooperation
 - Finanzhilfe
-title: 'Abstimmung: Entwurf eines Gesetzes zur Änderung des Grundgesetzes (Artikel 90, 91c, 104b, 104c, 107, 108, 109a, 114, 125c, 143d, 143e, 143f, 143g)'
+title: 'Abstimmung: Entwurf eines Gesetzes zur Änderung des Grundgesetzes (Artikel
+  90, 91c, 104b, 104c, 107, 108, 109a, 114, 125c, 143d, 143e, 143f, 143g)'
 ---

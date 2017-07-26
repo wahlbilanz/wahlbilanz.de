@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 180
+  datum: 24. Juni 2016
   legislaturperiode: 18
 categories:
 - Wirtschaft
@@ -60,14 +61,69 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=404
 - title: http://www.abgeordnetenwatch.de/fracking_neuregelung-1105-797.html
   url: http://www.abgeordnetenwatch.de/fracking_neuregelung-1105-797.html
-preview: "Deutscher Bundestag\n\n180. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 24.Juni 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\n\
-  Gesetzentwurf der Bundesregierung\nEntwurf eines Gesetzes zur \xC4nderung wasser-\
-  \ und naturschutzrechtlicher Vorschriften zur\nUntersagung und zur Risikominimierung\
-  \ bei den Verfahren der Fracking-Technologie\nDrs. 18/4713, 18/4949 und 18/8916\n\
-  \nAbgegebene Stimmen insgesamt:\n\n553\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\
-  \n77\n435\n\nNein-Stimmen:\n\n109\n\nEnthaltungen:\n\n9\n\nUng\xFCltige:\n\n0\n\n\
-  Berlin, den 24.06.2016\n\nBeginn: 11:56\nEnde: 11:59\n"
+preview: 'Deutscher Bundestag
+
+
+  180. Sitzung des Deutschen Bundestages
+
+  am Freitag, 24.Juni 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur Änderung wasser- und naturschutzrechtlicher Vorschriften
+  zur
+
+  Untersagung und zur Risikominimierung bei den Verfahren der Fracking-Technologie
+
+  Drs. 18/4713, 18/4949 und 18/8916
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  553
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  77
+
+  435
+
+
+  Nein-Stimmen:
+
+
+  109
+
+
+  Enthaltungen:
+
+
+  9
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 24.06.2016
+
+
+  Beginn: 11:56
+
+  Ende: 11:59
+
+  '
 tags:
 - Fossile Energie
 - Fracking

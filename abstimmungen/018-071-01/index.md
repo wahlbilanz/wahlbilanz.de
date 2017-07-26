@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 71
+  datum: 28. November 2014
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -75,14 +76,70 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=319
 - title: http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html
   url: http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html
-preview: "Deutscher Bundestag\n\n71. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 28.November 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nGesetzentwurf der Bundesregierung\nEntwurf eines Gesetzes \xFCber die Feststellung\
-  \ des Bundeshaushaltsplans f\xFCr das\nHaushaltsjahr 2015 (Haushaltsgesetz 2015)\n\
-  Drs. 18/2000, 18/2002, 18/2802, 18/2805 bis 18/2815, 18/2817, 18/2818, 18/2821 bis\n\
-  18/2825\n\nAbgegebene Stimmen insgesamt:\n\n588\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\
-  \n43\n474\n\nNein-Stimmen:\n\n113\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\n\
-  Berlin, den 28.11.2014\n\nBeginn: 12:48\nEnde: 12:51\n"
+preview: 'Deutscher Bundestag
+
+
+  71. Sitzung des Deutschen Bundestages
+
+  am Freitag, 28.November 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das
+
+  Haushaltsjahr 2015 (Haushaltsgesetz 2015)
+
+  Drs. 18/2000, 18/2002, 18/2802, 18/2805 bis 18/2815, 18/2817, 18/2818, 18/2821 bis
+
+  18/2825
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  588
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  43
+
+  474
+
+
+  Nein-Stimmen:
+
+
+  113
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 28.11.2014
+
+
+  Beginn: 12:48
+
+  Ende: 12:51
+
+  '
 tags:
 - Haushalt
 - Bundesregierung

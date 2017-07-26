@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 6
   bundestagssitzung: 66
+  datum: 13. November 2014
   legislaturperiode: 18
 categories:
 - Wissenschaft
@@ -56,21 +57,75 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=312
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=312
-preview: "Deutscher Bundestag\n\n66. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 13.November 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 6\n\
-  \n\xC4nderungsantrag der Abgeordneten Kai Gehring, \xD6zcan Mutlu, Katja D\xF6rner,\
-  \ weiterer\nAbgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nzu der zweiten\
-  \ Beratung des Gesetzentwurfs der Bundesregierung\nEntwurf eines F\xFCnfundzwanzigsten\
-  \ Gesetzes zur \xC4nderung des\nBundesausbildungsf\xF6rderungsgesetzes (25. BAf\xF6\
-  G\xC4ndG)\n- Drucksachen 18/2663, 18/3142 und 18/3182 -\n\nAbgegebene Stimmen insgesamt:\n\
-  Nicht abgegebene Stimmen:\nJa-Stimmen:\n\n576\n55\n55\n\nNein-Stimmen:\n\n467\n\n\
-  Enthaltungen:\n\n54\n\nUng\xFCltige:\n\nBerlin, den 13.11.2014\n\n0\n\nBeginn: 20:23\n\
-  Ende: 20:26\n"
+preview: 'Deutscher Bundestag
+
+
+  66. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 13.November 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 6
+
+
+  Änderungsantrag der Abgeordneten Kai Gehring, Özcan Mutlu, Katja Dörner, weiterer
+
+  Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Fünfundzwanzigsten Gesetzes zur Änderung des
+
+  Bundesausbildungsförderungsgesetzes (25. BAföGÄndG)
+
+  - Drucksachen 18/2663, 18/3142 und 18/3182 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  576
+
+  55
+
+  55
+
+
+  Nein-Stimmen:
+
+
+  467
+
+
+  Enthaltungen:
+
+
+  54
+
+
+  Ungültige:
+
+
+  Berlin, den 13.11.2014
+
+
+  0
+
+
+  Beginn: 20:23
+
+  Ende: 20:26
+
+  '
 tags:
 - Forschung
 - Hochschulen
 - Ausbildung
-- "BAf\xF6G"
-title: "Abstimmung: \xC4nderung des Bundesausbildungsf\xF6rderungsgesetzes, 1. \xC4\
-  nderungsantrag B\xFCndnis 90/Die Gr\xFCnen"
+- BAföG
+title: 'Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes, 1. Änderungsantrag
+  Bündnis 90/Die Grünen'
 ---

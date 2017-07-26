@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 161
+  datum: 17. März 2016
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,19 +55,80 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=390
 - title: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-788.html
   url: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-788.html
-preview: "Deutscher Bundestag\n\n161. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 17.M\xE4rz 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nBeschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nFortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4\
-  fte an der EU-gef\xFChrten\nAusbildungs- und Beratungsmissionen EUTM Somalia auf\
-  \ Grundlage des Ersuchens der\nsomalischen Regierung mit Schreiben vom 27. November\
-  \ 2012 und 11. Januar 2013 sowie\nder Beschl\xFCsse des Rates der Europ\xE4ischen\
-  \ Union vom 15. Februar 2010, 22. Januar 2013\nund 16. M\xE4rz 2015 in Verbindung\
-  \ mit den Resolutionen 1872 (2009) und 2158 (2014) des\nSicherheitsrates der Vereinten\
-  \ Nationen.\n- Drucksache 18/7556 und 18/7722 -\n\nAbgegebene Stimmen insgesamt:\n\
-  \n580\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n50\n456\n\nNein-Stimmen:\n\n\
-  123\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin, den 17.03.2016\n\nBeginn:\
-  \ 14:10\nEnde: 14:12\n"
+preview: 'Deutscher Bundestag
+
+
+  161. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 17.März 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten
+
+  Ausbildungs- und Beratungsmissionen EUTM Somalia auf Grundlage des Ersuchens der
+
+  somalischen Regierung mit Schreiben vom 27. November 2012 und 11. Januar 2013 sowie
+
+  der Beschlüsse des Rates der Europäischen Union vom 15. Februar 2010, 22. Januar
+  2013
+
+  und 16. März 2015 in Verbindung mit den Resolutionen 1872 (2009) und 2158 (2014)
+  des
+
+  Sicherheitsrates der Vereinten Nationen.
+
+  - Drucksache 18/7556 und 18/7722 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  580
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  50
+
+  456
+
+
+  Nein-Stimmen:
+
+
+  123
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 17.03.2016
+
+
+  Beginn: 14:10
+
+  Ende: 14:12
+
+  '
 tags:
 - EUTM
 - Somalia

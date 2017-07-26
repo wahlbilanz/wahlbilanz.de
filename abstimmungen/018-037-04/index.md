@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 4
   bundestagssitzung: 37
+  datum: 23. Mai 2014
   legislaturperiode: 18
 categories:
 - Rente
@@ -56,13 +57,65 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=278
 - title: http://www.abgeordnetenwatch.de/rentenpaket-1105-602.html
   url: http://www.abgeordnetenwatch.de/rentenpaket-1105-602.html
-preview: "Deutscher Bundestag\n\n37. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 23.Mai 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 4\n\nGesetzentwurf\
-  \ der Bundesregierung\nEntwurf eines Gesetzes \xFCber Leistungsverbesserungen in\
-  \ der gesetzlichen\nRentenversicherung (RV-Leistungsverbesserungsgesetz)\nDrucksachen\
-  \ 18/909 und 18/1489\n\nAbgegebene Stimmen insgesamt:\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n584\n47\n460\n\nNein-Stimmen:\n\n64\n\nEnthaltungen:\n\n60\n\nUng\xFC\
-  ltige:\n\nBerlin, den 05.06.2014\n\n0\n\nBeginn: 12:31\nEnde: 12:33\n"
+preview: 'Deutscher Bundestag
+
+
+  37. Sitzung des Deutschen Bundestages
+
+  am Freitag, 23.Mai 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes über Leistungsverbesserungen in der gesetzlichen
+
+  Rentenversicherung (RV-Leistungsverbesserungsgesetz)
+
+  Drucksachen 18/909 und 18/1489
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  584
+
+  47
+
+  460
+
+
+  Nein-Stimmen:
+
+
+  64
+
+
+  Enthaltungen:
+
+
+  60
+
+
+  Ungültige:
+
+
+  Berlin, den 05.06.2014
+
+
+  0
+
+
+  Beginn: 12:31
+
+  Ende: 12:33
+
+  '
 tags:
 - Rentenversicherung
 - Rente

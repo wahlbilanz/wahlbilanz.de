@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 160
+  datum: 16. März 2016
   legislaturperiode: 18
 categories:
 - Soziales
@@ -50,19 +51,66 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=389
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=389
-preview: "Deutscher Bundestag\n\n160. Sitzung des Deutschen Bundestages\nam Mittwoch,\
-  \ 16.M\xE4rz 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nEntschlie\xDFungsantrag der Abgeordneten Dr. Sahra Wagenknecht, Dr. Dietmar Bartsch,\n\
-  Sabine Zimmermann, weiterer Abgeordneter und der Fraktion DIE LINKE.\nzu der Abgabe\
-  \ einer Regierungserkl\xE4rung durch die Bundeskanzlerin zum Europ\xE4ischen\nRat\
-  \ am 17./18. M\xE4rz 2016 in Br\xFCssel\n- Drucksache 18/7884 -\n\nAbgegebene Stimmen\
-  \ insgesamt:\nNicht abgegebene Stimmen:\nJa-Stimmen:\nNein-Stimmen:\nEnthaltungen:\n\
-  Ung\xFCltige:\n\nBerlin, den 16.03.2016\n\n557\n73\n53\n446\n58\n0\n\nBeginn: 15:15\n\
-  Ende: 15:18\n"
+preview: 'Deutscher Bundestag
+
+
+  160. Sitzung des Deutschen Bundestages
+
+  am Mittwoch, 16.März 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Entschließungsantrag der Abgeordneten Dr. Sahra Wagenknecht, Dr. Dietmar Bartsch,
+
+  Sabine Zimmermann, weiterer Abgeordneter und der Fraktion DIE LINKE.
+
+  zu der Abgabe einer Regierungserklärung durch die Bundeskanzlerin zum Europäischen
+
+  Rat am 17./18. März 2016 in Brüssel
+
+  - Drucksache 18/7884 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+  Nein-Stimmen:
+
+  Enthaltungen:
+
+  Ungültige:
+
+
+  Berlin, den 16.03.2016
+
+
+  557
+
+  73
+
+  53
+
+  446
+
+  58
+
+  0
+
+
+  Beginn: 15:15
+
+  Ende: 15:18
+
+  '
 tags:
 - Haushalt
 - Rente
 - Todo
-title: "Abstimmung: Regierungserkl\xE4rung zum Europ\xE4ischen Rat am 17./18. M\xE4\
-  rz 2016 - Entschlie\xDFungsantrag"
+title: 'Abstimmung: Regierungserklärung zum Europäischen Rat am 17./18. März 2016
+  - Entschließungsantrag'
 ---

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 5
   bundestagssitzung: 170
+  datum: 12. Mai 2016
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,21 +55,84 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=398
 - title: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-792.html
   url: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_somalia-1105-792.html
-preview: "Deutscher Bundestag\n\n170. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 12.Mai 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 5\n\nBeschlussempfehlung\
-  \ des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag der\nBundesregierung\n\
-  Fortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4fte an der durch die\n\
-  Europ\xE4ische Union gef\xFChrten Operation EU NAVFOR Atalanta zur Bek\xE4mpfung\
-  \ der\nPiraterie vor der K\xFCste Somalias auf Grundlage des Seerechts\xFCbereinkommens\
-  \ der\nVereinten Nationen (VN) von 1982 und der Resolutionen 1814 (2008) vom 15.\
-  \ Mai 2008\nund weiterer Resolutionen, zuletzt 2246 (2015) vom 10. November 2015\
-  \ und nachfolgender\nResolutionen des Sicherheitsrates der VN in Verbindung mit\
-  \ der Gemeinsamen Aktion\n2008/851/GASP des Rates der Europ\xE4ischen Union (EU)\
-  \ vom 10. November 2008, dem\nBeschluss 2009/907/GASP des Rates der EU vom 8. Dezember\
-  \ 2009 und weiterer\nBeschl\xFCsse, zuletzt dem Beschluss 2014/827/GASP vom 21.\
-  \ November 2014\nDrs. 18/8091 und 18/8286\n\nAbgegebene Stimmen insgesamt:\n\n563\n\
-  \nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n67\n456\n\nNein-Stimmen:\n\n72\n\nEnthaltungen:\n\
-  \n35\n\nUng\xFCltige:\n\nBerlin, den 12.05.2016\n\n0\n\nBeginn: 20:18\nEnde: 20:21\n"
+preview: 'Deutscher Bundestag
+
+
+  170. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 12.Mai 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 5
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die
+
+  Europäische Union geführten Operation EU NAVFOR Atalanta zur Bekämpfung der
+
+  Piraterie vor der Küste Somalias auf Grundlage des Seerechtsübereinkommens der
+
+  Vereinten Nationen (VN) von 1982 und der Resolutionen 1814 (2008) vom 15. Mai 2008
+
+  und weiterer Resolutionen, zuletzt 2246 (2015) vom 10. November 2015 und nachfolgender
+
+  Resolutionen des Sicherheitsrates der VN in Verbindung mit der Gemeinsamen Aktion
+
+  2008/851/GASP des Rates der Europäischen Union (EU) vom 10. November 2008, dem
+
+  Beschluss 2009/907/GASP des Rates der EU vom 8. Dezember 2009 und weiterer
+
+  Beschlüsse, zuletzt dem Beschluss 2014/827/GASP vom 21. November 2014
+
+  Drs. 18/8091 und 18/8286
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  563
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  67
+
+  456
+
+
+  Nein-Stimmen:
+
+
+  72
+
+
+  Enthaltungen:
+
+
+  35
+
+
+  Ungültige:
+
+
+  Berlin, den 12.05.2016
+
+
+  0
+
+
+  Beginn: 20:18
+
+  Ende: 20:21
+
+  '
 tags:
 - EU
 - Atalanta

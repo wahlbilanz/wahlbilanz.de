@@ -2,9 +2,10 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 206
+  datum: 1. Dezember 2016
   legislaturperiode: 18
 categories:
-- "Ern\xE4hrung"
+- Ernährung
 - Landwirtschaft
 data:
 - title: Abstimmungsergebnis 20161201_2-data.pdf
@@ -54,13 +55,66 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=432
 - title: http://www.abgeordnetenwatch.de/drittes_gesetz_zur_aenderung_des_seefischereigesetzes-1105-827.html
   url: http://www.abgeordnetenwatch.de/drittes_gesetz_zur_aenderung_des_seefischereigesetzes-1105-827.html
-preview: "Deutscher Bundestag\n\n206. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 1.Dezember 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\
-  \nGesetzentwurf der Bundesregierung\nEntwurf eines Dritten Gesetzes zur \xC4nderung\
-  \ des Seefischereigesetzes\nDrs. 18/9466 und 18/10496\n\nAbgegebene Stimmen insgesamt:\n\
-  \n529\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n100\n434\n\nNein-Stimmen:\n\n\
-  0\n\nEnthaltungen:\n\n95\n\nUng\xFCltige:\n\nBerlin, den 01.12.2016\n\n0\n\nBeginn:\
-  \ 20:40\nEnde: 20:44\n"
+preview: 'Deutscher Bundestag
+
+
+  206. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 1.Dezember 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Dritten Gesetzes zur Änderung des Seefischereigesetzes
+
+  Drs. 18/9466 und 18/10496
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  529
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  100
+
+  434
+
+
+  Nein-Stimmen:
+
+
+  0
+
+
+  Enthaltungen:
+
+
+  95
+
+
+  Ungültige:
+
+
+  Berlin, den 01.12.2016
+
+
+  0
+
+
+  Beginn: 20:40
+
+  Ende: 20:44
+
+  '
 tags:
 - Fischerei
 - EU

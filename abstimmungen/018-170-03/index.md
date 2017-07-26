@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 170
+  datum: 12. Mai 2016
   legislaturperiode: 18
 categories:
 - Verkehr
@@ -54,15 +55,72 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=396
 - title: http://www.abgeordnetenwatch.de/hoehere_regionalisierungsmittel_fuer_den_bahnverkehr-1105-800.html
   url: http://www.abgeordnetenwatch.de/hoehere_regionalisierungsmittel_fuer_den_bahnverkehr-1105-800.html
-preview: "Deutscher Bundestag\n\n170. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 12.Mai 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\nBeschlussempfehlung\
-  \ des Ausschusses f\xFCr Verkehr und digitale Infrastruktur (15.\nAusschuss)\nAntrag\
-  \ der Abgeordneten Sabine Leidig, Ralph Lenkert, Caren Lay, weiterer Abgeordneter\n\
-  und der Fraktion DIE LINKE.\nDrohende Streckenstilllegungen verhindern - Regionalisierungsmittel\
-  \ erh\xF6hen\nDrs. 18/8074 und 18/8362\n\nAbgegebene Stimmen insgesamt:\n\n572\n\
-  \nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n58\n453\n\nNein-Stimmen:\n\n117\n\n\
-  Enthaltungen:\n\n2\n\nUng\xFCltige:\n\n0\n\nBerlin, den 12.05.2016\n\nBeginn: 16:02\n\
-  Ende: 16:06\n"
+preview: 'Deutscher Bundestag
+
+
+  170. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 12.Mai 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Beschlussempfehlung des Ausschusses für Verkehr und digitale Infrastruktur (15.
+
+  Ausschuss)
+
+  Antrag der Abgeordneten Sabine Leidig, Ralph Lenkert, Caren Lay, weiterer Abgeordneter
+
+  und der Fraktion DIE LINKE.
+
+  Drohende Streckenstilllegungen verhindern - Regionalisierungsmittel erhöhen
+
+  Drs. 18/8074 und 18/8362
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  572
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  58
+
+  453
+
+
+  Nein-Stimmen:
+
+
+  117
+
+
+  Enthaltungen:
+
+
+  2
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 12.05.2016
+
+
+  Beginn: 16:02
+
+  Ende: 16:06
+
+  '
 tags:
 - Bahn
 title: 'Abstimmung: Bahnstreckenstilllegungen - Beschlussempfehlung'

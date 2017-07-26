@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 112
+  datum: 18. Juni 2015
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -60,16 +61,73 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=342
 - title: http://www.abgeordnetenwatch.de/rueckwirkende_erhoehung_von_kinderfreibetrag_und_kindergeld-1105-746.html
   url: http://www.abgeordnetenwatch.de/rueckwirkende_erhoehung_von_kinderfreibetrag_und_kindergeld-1105-746.html
-preview: "Deutscher Bundestag\n\n112. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 18.Juni 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\xC4\
-  nderungsantrag der Abgeordneten Lisa Paus, Kerstin Andreae, Dr. Thomas Gambke,\n\
-  weiterer Ageordneter und der Fraktion B\xDCNDNIS 90/DIEGR\xDCNEN\nzu der zweiten\
-  \ Beratung des Gesetzentwurfs der Bundesregierung\nEntwurf eines Gesetzes zur Anhebung\
-  \ des Grundfreibetrags, des Kinderfreibetrags, des\nKindergeldes und des Kinderzuschlags\n\
-  Drucksachen 18/4649, 18/5011, 18/5244 und 18/5259\n\nAbgegebene Stimmen insgesamt:\n\
-  \n591\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n40\n116\n\nNein-Stimmen:\n\n\
-  473\n\nEnthaltungen:\n\n2\n\nUng\xFCltige:\n\n0\n\nBerlin, den 18.06.2015\n\nBeginn:\
-  \ 12:40\nEnde: 12:43\n"
+preview: 'Deutscher Bundestag
+
+
+  112. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 18.Juni 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Änderungsantrag der Abgeordneten Lisa Paus, Kerstin Andreae, Dr. Thomas Gambke,
+
+  weiterer Ageordneter und der Fraktion BÜNDNIS 90/DIEGRÜNEN
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Gesetzes zur Anhebung des Grundfreibetrags, des Kinderfreibetrags,
+  des
+
+  Kindergeldes und des Kinderzuschlags
+
+  Drucksachen 18/4649, 18/5011, 18/5244 und 18/5259
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  591
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  40
+
+  116
+
+
+  Nein-Stimmen:
+
+
+  473
+
+
+  Enthaltungen:
+
+
+  2
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 18.06.2015
+
+
+  Beginn: 12:40
+
+  Ende: 12:43
+
+  '
 tags:
 - Kinder
 - Familie

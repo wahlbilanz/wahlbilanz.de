@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 42
+  datum: 25. Juni 2014
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -58,15 +59,73 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=279
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=279
-preview: "Deutscher Bundestag\n\n42. Sitzung des Deutschen Bundestages\nam Mittwoch,\
-  \ 25.Juni 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\nBeschlussempfehlungen\
-  \ des Haushaltsauschusses (8. Ausschuss)\nzu dem Entwurf eines Gesetzes\n\xFCber\
-  \ die Feststellung des Bundeshaushaltsplans f\xFCr das Haushaltsjahr 2014\n(Haushalsgesetz\
-  \ 2014)\nhier: Einzelplan 04\nGesch\xE4ftsbereich der Bundeskanzlerin und des Bundeskanzleramtes\n\
-  - Drucksachen 18/700, 18/702, 18/1023 bis 18/1025\n\nAbgegebene Stimmen insgesamt:\n\
-  \n587\n44\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n471\n\nNein-Stimmen:\n\n\
-  116\n\nEnthaltungen:\n\n0\n\nUng\xFCltige:\n\n0\n\nBerlin, den 25.06.2014\n\nBeginn:\
-  \ 13:11\nEnde: 13:13\n"
+preview: 'Deutscher Bundestag
+
+
+  42. Sitzung des Deutschen Bundestages
+
+  am Mittwoch, 25.Juni 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlungen des Haushaltsauschusses (8. Ausschuss)
+
+  zu dem Entwurf eines Gesetzes
+
+  über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2014
+
+  (Haushalsgesetz 2014)
+
+  hier: Einzelplan 04
+
+  Geschäftsbereich der Bundeskanzlerin und des Bundeskanzleramtes
+
+  - Drucksachen 18/700, 18/702, 18/1023 bis 18/1025
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  587
+
+  44
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  471
+
+
+  Nein-Stimmen:
+
+
+  116
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 25.06.2014
+
+
+  Beginn: 13:11
+
+  Ende: 13:13
+
+  '
 tags:
 - Haushalt
 - Bundesregierung

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 4
   bundestagssitzung: 76
+  datum: 18. Dezember 2014
   legislaturperiode: 18
 categories:
 - Inneres
@@ -53,16 +54,72 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=323
 - title: http://www.abgeordnetenwatch.de/bundesdatenschutzgesetz-1105-707.html
   url: http://www.abgeordnetenwatch.de/bundesdatenschutzgesetz-1105-707.html
-preview: "Deutscher Bundestag\n\n76. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 18.Dezember 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 4\n\
-  \nGesetzentwurf der Bundesregierung\nEntwurf eines Zweiten Gesetzes zur \xC4nderung\
-  \ des Bundesdatenschutzgesetzes - St\xE4rkung\nder Unabh\xE4ngigkeit der Datenschutzaufsicht\
-  \ im Bund durch Errichtung einer obersten\nBundesbeh\xF6rde\n-Drucksachen 18/2848\
-  \ und 18/3598-\n\nAbgegebene Stimmen insgesamt:\n\n566\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n63\n456\n\nNein-Stimmen:\n\n110\n\nEnthaltungen:\n\n0\n\nUng\xFC\
-  ltige:\n\n0\n\nBerlin, den 18.12.2014\n\nBeginn: 21:18\nEnde: 21:21\n"
+preview: 'Deutscher Bundestag
+
+
+  76. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 18.Dezember 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Zweiten Gesetzes zur Änderung des Bundesdatenschutzgesetzes - Stärkung
+
+  der Unabhängigkeit der Datenschutzaufsicht im Bund durch Errichtung einer obersten
+
+  Bundesbehörde
+
+  -Drucksachen 18/2848 und 18/3598-
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  566
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  63
+
+  456
+
+
+  Nein-Stimmen:
+
+
+  110
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 18.12.2014
+
+
+  Beginn: 21:18
+
+  Ende: 21:21
+
+  '
 tags:
 - Datenschutz
 - Verbraucherschutz
-title: "Abstimmung: \xC4nderung des Bundesdatenschutzgesetzes"
+title: 'Abstimmung: Änderung des Bundesdatenschutzgesetzes'
 ---

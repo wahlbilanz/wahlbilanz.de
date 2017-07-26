@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 143
+  datum: 3. Dezember 2015
   legislaturperiode: 18
 categories:
 - Umwelt
@@ -58,17 +59,74 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=377
 - title: http://www.abgeordnetenwatch.de/umsetzung_aktionsprogramm_klimaschutz_2020-1105-778.html
   url: http://www.abgeordnetenwatch.de/umsetzung_aktionsprogramm_klimaschutz_2020-1105-778.html
-preview: "Deutscher Bundestag\n\n143. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 3.Dezember 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nEntschlie\xDFungsantrag der Abgeordneten Annalena Baerbock, B\xE4rbel H\xF6hn,\
-  \ Oliver Krischer,\nweiterer Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDC\
-  NEN\nzu der Beratung der Antwort der Bundesregierung auf die Gro\xDFe Anfrage der\
-  \ Abgeordneten\nB\xE4rbel H\xF6hn, Oliver Krischer, Annalena Baerbock, weiterer\
-  \ Abgeordneter und der Fraktion\nB\xDCNDNIS 90/DIE GR\xDCNEN\nUmsetzung des Aktionsprogramms\
-  \ Klimaschutz 2020\nDrs. 18/5489, 18/6763 und 18/6900\n\nAbgegebene Stimmen insgesamt:\n\
-  \n579\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n51\n118\n\nNein-Stimmen:\n\n\
-  461\n\nEnthaltungen:\n\n0\n\nUng\xFCltige:\n\n0\n\nBerlin, den 03.12.2015\n\nBeginn:\
-  \ 12:04\nEnde: 12:07\n"
+preview: 'Deutscher Bundestag
+
+
+  143. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 3.Dezember 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Entschließungsantrag der Abgeordneten Annalena Baerbock, Bärbel Höhn, Oliver Krischer,
+
+  weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  zu der Beratung der Antwort der Bundesregierung auf die Große Anfrage der Abgeordneten
+
+  Bärbel Höhn, Oliver Krischer, Annalena Baerbock, weiterer Abgeordneter und der Fraktion
+
+  BÜNDNIS 90/DIE GRÜNEN
+
+  Umsetzung des Aktionsprogramms Klimaschutz 2020
+
+  Drs. 18/5489, 18/6763 und 18/6900
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  579
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  51
+
+  118
+
+
+  Nein-Stimmen:
+
+
+  461
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 03.12.2015
+
+
+  Beginn: 12:04
+
+  Ende: 12:07
+
+  '
 tags:
 - Umwelt
 - Klima

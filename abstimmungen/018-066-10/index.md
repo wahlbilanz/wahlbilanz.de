@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 10
   bundestagssitzung: 66
+  datum: 13. November 2014
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,16 +55,73 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=316
 - title: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_darfur_unamid-1105-692.html
   url: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_darfur_unamid-1105-692.html
-preview: "Deutscher Bundestag\n\n66. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 13.November 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 10\n\
-  \nBeschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nFortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4\
-  fte an der AU/UN-HybridOperation in Darfur (UNAMID) auf Grundlage der Resolution\
-  \ 1769 (2007) des\nSicherheitsrates der Vereinten Nationen vom 31. Juli 2007 und\
-  \ folgender Resolutionen,\nzuletzt 2173 (2014) vom 27. August 2014\n- Drucksachen\
-  \ 18/3006 und 18/3193 -\n\nAbgegebene Stimmen insgesamt:\n\n577\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n54\n521\n\nNein-Stimmen:\n\n54\n\nEnthaltungen:\n\n2\n\
-  \nUng\xFCltige:\n\n0\n\nBerlin, den 13.11.2014\n\nBeginn: 22:50\nEnde: 22:53\n"
+preview: 'Deutscher Bundestag
+
+
+  66. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 13.November 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 10
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der AU/UN-HybridOperation
+  in Darfur (UNAMID) auf Grundlage der Resolution 1769 (2007) des
+
+  Sicherheitsrates der Vereinten Nationen vom 31. Juli 2007 und folgender Resolutionen,
+
+  zuletzt 2173 (2014) vom 27. August 2014
+
+  - Drucksachen 18/3006 und 18/3193 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  577
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  54
+
+  521
+
+
+  Nein-Stimmen:
+
+
+  54
+
+
+  Enthaltungen:
+
+
+  2
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 13.11.2014
+
+
+  Beginn: 22:50
+
+  Ende: 22:53
+
+  '
 tags:
 - Dafur
 - UNAMID

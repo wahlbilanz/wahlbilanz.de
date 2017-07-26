@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 209
+  datum: 15. Dezember 2016
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,20 +55,77 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=443
 - title: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan-1105-830.html
   url: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan-1105-830.html
-preview: "Deutscher Bundestag\n\n209. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 15.Dezember 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\
-  \nBeschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nFortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4\
-  fte an der von den Vereinten\nNationen gef\xFChrten Friedensmission in S\xFCdsudan\
-  \ (UNMISS) auf Grundlage der Resolution\n1996 (2011) des Sicherheitsrates der Vereinten\
-  \ Nationen vom 8. Juli 2011 und\nFolgeresolutionen, zuletzt 2304 (2016) vom 12.\
-  \ August 2016\n- Drucksachen 18/10188 und 18/10547 -\n\nAbgegebene Stimmen insgesamt:\n\
-  \n590\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n40\n530\n\nNein-Stimmen:\n\n\
-  59\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin, den 15.12.2016\n\nBeginn:\
-  \ 12:22\nEnde: 12:25\n"
+preview: 'Deutscher Bundestag
+
+
+  209. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 15.Dezember 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der von den Vereinten
+
+  Nationen geführten Friedensmission in Südsudan (UNMISS) auf Grundlage der Resolution
+
+  1996 (2011) des Sicherheitsrates der Vereinten Nationen vom 8. Juli 2011 und
+
+  Folgeresolutionen, zuletzt 2304 (2016) vom 12. August 2016
+
+  - Drucksachen 18/10188 und 18/10547 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  590
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  40
+
+  530
+
+
+  Nein-Stimmen:
+
+
+  59
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 15.12.2016
+
+
+  Beginn: 12:22
+
+  Ende: 12:25
+
+  '
 tags:
-- "S\xFCdsudan"
+- Südsudan
 - UNMISS
 - UN
-title: "Abstimmung: Beschlussempfehlung zu Bundeswehreinsatz in S\xFCdsudan (UNMISS)"
+title: 'Abstimmung: Beschlussempfehlung zu Bundeswehreinsatz in Südsudan (UNMISS)'
 ---

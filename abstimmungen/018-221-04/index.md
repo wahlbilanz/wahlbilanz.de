@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 4
   bundestagssitzung: 221
+  datum: 9. März 2017
   legislaturperiode: 18
 categories:
 - Recht
@@ -59,20 +60,76 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=457
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=457
-preview: "Deutscher Bundestag\n\n221. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 9. M\xE4rz 2017\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 4\n\
-  \nGesetzentwurf der Abgeordneten Renate K\xFCnast, Christian K\xFChn (T\xFCbingen),\
-  \ Luise\nAmtsberg, weiterer Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDC\
-  NEN\nEntwurf eines Gesetzes zur D\xE4mpfung des Mietanstiegs auf angespannten\n\
-  Wohnungsm\xE4rkten durch die Streichung der R\xFCgepflicht und die Schaffung eines\n\
-  Auskunftsrechts\n- Drucksachen 18/8857 und 18/11440 -\n\nAbgegebene Stimmen insgesamt:\n\
-  \n571\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n59\n110\n\nNein-Stimmen:\n\n\
-  461\n\nEnthaltungen:\n\n0\n\nUng\xFCltige:\n\n0\n\nBerlin, den 09.03.2017\n\nBeginn:\
-  \ 13:35\nEnde: 13:37\n"
+preview: 'Deutscher Bundestag
+
+
+  221. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 9. März 2017
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
+
+
+  Gesetzentwurf der Abgeordneten Renate Künast, Christian Kühn (Tübingen), Luise
+
+  Amtsberg, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  Entwurf eines Gesetzes zur Dämpfung des Mietanstiegs auf angespannten
+
+  Wohnungsmärkten durch die Streichung der Rügepflicht und die Schaffung eines
+
+  Auskunftsrechts
+
+  - Drucksachen 18/8857 und 18/11440 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  571
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  59
+
+  110
+
+
+  Nein-Stimmen:
+
+
+  461
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 09.03.2017
+
+
+  Beginn: 13:35
+
+  Ende: 13:37
+
+  '
 tags:
 - Miete
 - Wohnen
 - Mietpreisbremse
-title: "Abstimmung: Gesetzentwurf D\xE4mpfung des Mietanstiegs (Streichung R\xFCgepflicht\
-  \ / Schaffung Auskunftsrecht)"
+title: 'Abstimmung: Gesetzentwurf Dämpfung des Mietanstiegs (Streichung Rügepflicht
+  / Schaffung Auskunftsrecht)'
 ---

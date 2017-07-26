@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 152
+  datum: 28. Januar 2016
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,15 +55,72 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=383
 - title: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_nord_irak-1105-783.html
   url: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_nord_irak-1105-783.html
-preview: "Deutscher Bundestag\n\n152. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 28.Januar 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\n\
-  Beschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nFortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4\
-  fte zur\nAusbildungsunterst\xFCtzung der Sicherheitskr\xE4fte der Regierung der\
-  \ Region Kurdistan-Irak\nund der irakischen Streitkr\xE4fte\n- Drucksachen 18/7207\
-  \ und 18/7367 -\n\nAbgegebene Stimmen insgesamt:\n\n572\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n58\n442\n\nNein-Stimmen:\n\n82\n\nEnthaltungen:\n\n48\n\nUng\xFC\
-  ltige:\n\nBerlin, den 28.01.2016\n\n0\n\nBeginn: 14:01\nEnde: 14:05\n"
+preview: 'Deutscher Bundestag
+
+
+  152. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 28.Januar 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte zur
+
+  Ausbildungsunterstützung der Sicherheitskräfte der Regierung der Region Kurdistan-Irak
+
+  und der irakischen Streitkräfte
+
+  - Drucksachen 18/7207 und 18/7367 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  572
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  58
+
+  442
+
+
+  Nein-Stimmen:
+
+
+  82
+
+
+  Enthaltungen:
+
+
+  48
+
+
+  Ungültige:
+
+
+  Berlin, den 28.01.2016
+
+
+  0
+
+
+  Beginn: 14:01
+
+  Ende: 14:05
+
+  '
 tags:
 - Kurdistan
 - Irak

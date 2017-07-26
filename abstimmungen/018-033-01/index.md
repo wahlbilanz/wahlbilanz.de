@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 33
+  datum: 8. Mai 2014
   legislaturperiode: 18
 categories:
 - Energie
@@ -50,14 +51,67 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=262
 - title: http://www.abgeordnetenwatch.de/kuendigung_der_bilateralen_kooperationen_im_bereich_der_nutzung_atomarer_technologien-1105-601.html
   url: http://www.abgeordnetenwatch.de/kuendigung_der_bilateralen_kooperationen_im_bereich_der_nutzung_atomarer_technologien-1105-601.html
-preview: "Deutscher Bundestag\n\n33. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 8.Mai 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\nAntrag\
-  \ der Abgeordneten Sylvia Kotting-Uhl, J\xFCrgen Trittin, Agnieszka Brugger, weiterer\n\
-  Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nK\xFCndigung bilateraler\
-  \ Kooperationen im Bereich der Nutzung atomarer Technologien\nDrs. 18/1336 (neu)\n\
-  \nAbgegebene Stimmen insgesamt:\n\n577\n54\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\
-  \n110\n\nNein-Stimmen:\n\n465\n\nEnthaltungen:\n\n2\n\nUng\xFCltige:\n\n0\n\nBerlin,\
-  \ den 08.05.2014\n\nBeginn: 17:02\nEnde: 17:05\n"
+preview: 'Deutscher Bundestag
+
+
+  33. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 8.Mai 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Antrag der Abgeordneten Sylvia Kotting-Uhl, Jürgen Trittin, Agnieszka Brugger, weiterer
+
+  Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  Kündigung bilateraler Kooperationen im Bereich der Nutzung atomarer Technologien
+
+  Drs. 18/1336 (neu)
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  577
+
+  54
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  110
+
+
+  Nein-Stimmen:
+
+
+  465
+
+
+  Enthaltungen:
+
+
+  2
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 08.05.2014
+
+
+  Beginn: 17:02
+
+  Ende: 17:05
+
+  '
 tags:
 - Kernenergie
 - AKW

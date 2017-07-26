@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 6
   bundestagssitzung: 98
+  datum: 27. März 2015
   legislaturperiode: 18
 categories:
 - Haushalt
@@ -53,14 +54,70 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=337
 - title: http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html
   url: http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html
-preview: "Deutscher Bundestag\n\n98. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 27.M\xE4rz 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 6\n\
-  \nGesetzentwurf der Abgeordneten Dr. Gesine L\xF6tzsch, Heidrun Bluhm, Caren Lay,\
-  \ weiterer\nAbgeordneter und der Fraktion DIE LINKE.\nEntwurf eines Gesetzes zur\
-  \ Reform der Liegenschaftsver\xE4u\xDFerungen\n(Liegenschaftsver\xE4u\xDFerungsreformgesetz)\n\
-  - Drucksachen 18/2882 und 18/3873 -\n\nAbgegebene Stimmen insgesamt:\n\n519\n\n\
-  Nicht abgegebene Stimmen:\nJa-Stimmen:\n\n112\n55\n\nNein-Stimmen:\n\n409\n\nEnthaltungen:\n\
-  \n55\n\nUng\xFCltige:\n\nBerlin, den 27.03.2015\n\n0\n\nBeginn: 13:58\nEnde: 14:01\n"
+preview: 'Deutscher Bundestag
+
+
+  98. Sitzung des Deutschen Bundestages
+
+  am Freitag, 27.März 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 6
+
+
+  Gesetzentwurf der Abgeordneten Dr. Gesine Lötzsch, Heidrun Bluhm, Caren Lay, weiterer
+
+  Abgeordneter und der Fraktion DIE LINKE.
+
+  Entwurf eines Gesetzes zur Reform der Liegenschaftsveräußerungen
+
+  (Liegenschaftsveräußerungsreformgesetz)
+
+  - Drucksachen 18/2882 und 18/3873 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  519
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  112
+
+  55
+
+
+  Nein-Stimmen:
+
+
+  409
+
+
+  Enthaltungen:
+
+
+  55
+
+
+  Ungültige:
+
+
+  Berlin, den 27.03.2015
+
+
+  0
+
+
+  Beginn: 13:58
+
+  Ende: 14:01
+
+  '
 tags:
 - Liegenschaften
 - Wohnen

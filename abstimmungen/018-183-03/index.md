@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 183
+  datum: 7. Juli 2016
   legislaturperiode: 18
 categories:
 - Recht
@@ -57,18 +58,74 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=413
 - title: http://www.abgeordnetenwatch.de/reform_des_sexualstrafrechts_nein_heisst_nein-1105-802.html
   url: http://www.abgeordnetenwatch.de/reform_des_sexualstrafrechts_nein_heisst_nein-1105-802.html
-preview: "Deutscher Bundestag\n\n183. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 7.Juli 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\nGesetzentwurf\
-  \ der Bundesregierung\nEntwurf eines Gesetzes zur \xC4nderung des Strafgesetzbuches\
-  \ - Verbesserung des Schutzes\nder sexuellen Selbstbestimmung\nhier: Artikel 2 Absatz\
-  \ 3 des Gesetzentwurfs in der Ausschussfassung\nDrs. 18/8210, 18/8626 und 18/9097\n\
-  \nAbgegebene Stimmen insgesamt:\n\n600\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\
-  \n30\n479\n\nNein-Stimmen:\n\n121\n\nEnthaltungen:\n\n0\n\nUng\xFCltige:\n\n0\n\n\
-  Berlin, den 07.07.2016\n\nBeginn: 12:20\nEnde: 12:22\n"
+preview: 'Deutscher Bundestag
+
+
+  183. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 7.Juli 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur Änderung des Strafgesetzbuches - Verbesserung des Schutzes
+
+  der sexuellen Selbstbestimmung
+
+  hier: Artikel 2 Absatz 3 des Gesetzentwurfs in der Ausschussfassung
+
+  Drs. 18/8210, 18/8626 und 18/9097
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  600
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  30
+
+  479
+
+
+  Nein-Stimmen:
+
+
+  121
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 07.07.2016
+
+
+  Beginn: 12:20
+
+  Ende: 12:22
+
+  '
 tags:
 - Misshandlung
 - Vergewaltigung
-- "N\xF6tigung"
+- Nötigung
 title: 'Abstimmung: Schutz der sexuellen Selbstbestimmung: Artikel 1 Nummern 6 bis
   8, 10 und 11'
 ---

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 241
+  datum: 23. Juni 2017
   legislaturperiode: 18
 categories:
 - Arbeit
@@ -15,11 +16,11 @@ data:
   url: /res/abstimmungsliste/csv/20170623_1_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-241-01/1812354.pdf
-  title: 'Drucksache 18/12354'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/123/1812354.pdf'
+  title: Drucksache 18/12354
+  url: http://dip21.bundestag.de/dip21/btd/18/123/1812354.pdf
 - local: /res/abstimmungsdaten/018-241-01/1812624.pdf
-  title: 'Drucksache 18/12624'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/126/1812624.pdf'
+  title: Drucksache 18/12624
+  url: http://dip21.bundestag.de/dip21/btd/18/126/1812624.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 0

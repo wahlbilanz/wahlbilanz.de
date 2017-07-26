@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 193
+  datum: 29. September 2016
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,14 +55,70 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=421
 - title: http://www.abgeordnetenwatch.de/bundeswehrbeteiligung_an_nato_operation_sea_guardian-1105-815.html
   url: http://www.abgeordnetenwatch.de/bundeswehrbeteiligung_an_nato_operation_sea_guardian-1105-815.html
-preview: "Deutscher Bundestag\n\n193. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 29.September 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\
-  \nBeschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nBeteiligung bewaffneter deutscher Streitkr\xE4fte an der\
-  \ NATO-gef\xFChrten Maritimen\nSicherheitsoperation SEA GUARDIAN im Mittelmeer\n\
-  - Drs. 18/9632 und 18/9793\n\nAbgegebene Stimmen insgesamt:\n\n559\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n71\n441\n\nNein-Stimmen:\n\n117\n\nEnthaltungen:\n\n\
-  1\n\nUng\xFCltige:\n\n0\n\nBerlin, den 29.09.2016\n\nBeginn: 19:29\nEnde: 19:32\n"
+preview: 'Deutscher Bundestag
+
+
+  193. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 29.September 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen
+
+  Sicherheitsoperation SEA GUARDIAN im Mittelmeer
+
+  - Drs. 18/9632 und 18/9793
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  559
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  71
+
+  441
+
+
+  Nein-Stimmen:
+
+
+  117
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 29.09.2016
+
+
+  Beginn: 19:29
+
+  Ende: 19:32
+
+  '
 tags:
 - Mittelmeer
 - SEA GUARDIAN

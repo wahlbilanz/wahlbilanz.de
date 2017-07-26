@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 88
+  datum: 26. Februar 2015
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,19 +55,82 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=326
 - title: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali_eutm_mali-1105-714.html
   url: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_mali_eutm_mali-1105-714.html
-preview: "Deutscher Bundestag\n\n88. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 26.Februar 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nBeschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nFortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4\
-  fte an der Milit\xE4rmission der\nEurop\xE4ischen Union als Beitrag zur Ausbildung\
-  \ der malischen Streitkr\xE4fte (EUTM MALI)\nauf Grundlage des Ersuchens der malischen\
-  \ Regierung sowie der Beschl\xFCsse\n2013/34/GASP und 2013/87/GASP des Rates der\
-  \ Europ\xE4ischen Union (EU) vom 17. Januar\n2013 und vom 18. Februar 2013 in Verbindung\
-  \ mit den Resolutionen 2071 (2012), 2085\n(2012), 2100 (2013) des Sicherheitsrates\
-  \ der Vereinten Nationen sowie 2164 (2014) vom 25.\nJuni 2014\nDrs. 18/3836 und\
-  \ 18/4109\n\nAbgegebene Stimmen insgesamt:\n\n580\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n51\n516\n\nNein-Stimmen:\n\n61\n\nEnthaltungen:\n\n3\n\nUng\xFCltige:\n\
-  \n0\n\nBerlin, den 26.02.2015\n\nBeginn: 14:47\nEnde: 14:50\n"
+preview: 'Deutscher Bundestag
+
+
+  88. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 26.Februar 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Militärmission
+  der
+
+  Europäischen Union als Beitrag zur Ausbildung der malischen Streitkräfte (EUTM MALI)
+
+  auf Grundlage des Ersuchens der malischen Regierung sowie der Beschlüsse
+
+  2013/34/GASP und 2013/87/GASP des Rates der Europäischen Union (EU) vom 17. Januar
+
+  2013 und vom 18. Februar 2013 in Verbindung mit den Resolutionen 2071 (2012), 2085
+
+  (2012), 2100 (2013) des Sicherheitsrates der Vereinten Nationen sowie 2164 (2014)
+  vom 25.
+
+  Juni 2014
+
+  Drs. 18/3836 und 18/4109
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  580
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  51
+
+  516
+
+
+  Nein-Stimmen:
+
+
+  61
+
+
+  Enthaltungen:
+
+
+  3
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 26.02.2015
+
+
+  Beginn: 14:47
+
+  Ende: 14:50
+
+  '
 tags:
 - Ausbildung
 - Mali

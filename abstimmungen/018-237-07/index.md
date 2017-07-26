@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 7
   bundestagssitzung: 237
+  datum: 1. Juni 2017
   legislaturperiode: 18
 categories:
 - Grundgesetz
@@ -19,10 +20,10 @@ data:
 documents:
 - local: /res/abstimmungsdaten/018-237-07/1811131.pdf
   title: Drucksache 18/11131.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/111/1811131.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/111/1811131.pdf
 - local: /res/abstimmungsdaten/018-237-07/1812588.pdf
   title: Drucksache 18/12588.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/125/1812588.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/125/1812588.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 0
@@ -84,5 +85,6 @@ tags:
 - PKW
 - ÖPP
 - Finanzausgleich
-title: 'Abstimmung: Artikel 1 Nummer 11 des Gesetzentwurfs in der Ausschussfassung betrifft Artikel 143e Grundgesetz'
+title: 'Abstimmung: Artikel 1 Nummer 11 des Gesetzentwurfs in der Ausschussfassung
+  betrifft Artikel 143e Grundgesetz'
 ---

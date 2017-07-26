@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 183
+  datum: 7. Juli 2016
   legislaturperiode: 18
 categories:
 - Recht
@@ -57,19 +58,77 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=414
 - title: http://www.abgeordnetenwatch.de/reform_des_sexualstrafrechts_nein_heisst_nein-1105-802.html
   url: http://www.abgeordnetenwatch.de/reform_des_sexualstrafrechts_nein_heisst_nein-1105-802.html
-preview: "Deutscher Bundestag\n\n183. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 7.Juli 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\nGesetzentwurf\
-  \ der Bundesregierung\nEntwurf eines Gesetzes zur \xC4nderung des Strafgesetzbuches\
-  \ - Verbesserung des Schutzes\nder sexuellen Selbstbestimmung\nhier: Artikel 1 Nummer\
-  \ 9 - Einf\xFCgung von \xA7 184j Strafgesetzbuch des Gesetzentwurfs in der\nAusschussfassung\n\
-  - Drucksachen 18/8210, 18/8626 und 18/9097 -\n\nAbgegebene Stimmen insgesamt:\n\n\
-  598\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n32\n477\n\nNein-Stimmen:\n\n119\n\
-  \nEnthaltungen:\n\n2\n\nUng\xFCltige:\n\n0\n\nBerlin, den 07.07.2016\n\nBeginn:\
-  \ 12:16\nEnde: 12:18\n"
+preview: 'Deutscher Bundestag
+
+
+  183. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 7.Juli 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur Änderung des Strafgesetzbuches - Verbesserung des Schutzes
+
+  der sexuellen Selbstbestimmung
+
+  hier: Artikel 1 Nummer 9 - Einfügung von § 184j Strafgesetzbuch des Gesetzentwurfs
+  in der
+
+  Ausschussfassung
+
+  - Drucksachen 18/8210, 18/8626 und 18/9097 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  598
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  32
+
+  477
+
+
+  Nein-Stimmen:
+
+
+  119
+
+
+  Enthaltungen:
+
+
+  2
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 07.07.2016
+
+
+  Beginn: 12:16
+
+  Ende: 12:18
+
+  '
 tags:
 - Misshandlung
 - Vergewaltigung
-- "N\xF6tigung"
-title: "Abstimmung: Schutz der sexuellen Selbstbestimmung: Artikel 1 Nummer 9 - Einf\xFC\
-  gung von \xA7 184j Strafgesetzbuch"
+- Nötigung
+title: 'Abstimmung: Schutz der sexuellen Selbstbestimmung: Artikel 1 Nummer 9 - Einfügung
+  von § 184j Strafgesetzbuch'
 ---

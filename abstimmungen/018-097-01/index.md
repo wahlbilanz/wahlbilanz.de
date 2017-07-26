@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 97
+  datum: 26. März 2015
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -52,18 +53,78 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=330
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=330
-preview: "Deutscher Bundestag\n\n97. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 26.M\xE4rz 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nBeschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nFortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4\
-  fte an der EU-gef\xFChrten\nAusbildungs- und Beratungsmission EUTM Somalia auf Grundlage\
-  \ des Ersuchens der\nsomalischen Regierung mit Schreiben vom 27. November 2012 und\
-  \ 11. Januar 2013 sowie\nder Beschl\xFCsse des Rates der Europ\xE4ischen Union vom\
-  \ 15. Februar 2010 und 22. Januar\n2013 in Verbindung mit den Resolutionen 1872\
-  \ (2009) und 2158 (2014) des\nSicherheitsrates der Vereinten Nationen\nDrucksachen\
-  \ 18/4203 und 18/4447\n\nAbgegebene Stimmen insgesamt:\n\n577\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n54\n453\n\nNein-Stimmen:\n\n115\n\nEnthaltungen:\n\n\
-  9\n\nUng\xFCltige:\n\n0\n\nBerlin, den 26.03.2015\n\nBeginn: 15:32\nEnde: 15:35\n"
+preview: 'Deutscher Bundestag
+
+
+  97. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 26.März 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten
+
+  Ausbildungs- und Beratungsmission EUTM Somalia auf Grundlage des Ersuchens der
+
+  somalischen Regierung mit Schreiben vom 27. November 2012 und 11. Januar 2013 sowie
+
+  der Beschlüsse des Rates der Europäischen Union vom 15. Februar 2010 und 22. Januar
+
+  2013 in Verbindung mit den Resolutionen 1872 (2009) und 2158 (2014) des
+
+  Sicherheitsrates der Vereinten Nationen
+
+  Drucksachen 18/4203 und 18/4447
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  577
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  54
+
+  453
+
+
+  Nein-Stimmen:
+
+
+  115
+
+
+  Enthaltungen:
+
+
+  9
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 26.03.2015
+
+
+  Beginn: 15:32
+
+  Ende: 15:35
+
+  '
 tags:
 - EUTM
 - Somalia

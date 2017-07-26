@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 170
+  datum: 12. Mai 2016
   legislaturperiode: 18
 categories:
 - Arbeit
@@ -55,17 +56,72 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=394
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=394
-preview: "Deutscher Bundestag\n\n170. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 12.Mai 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\xC4\
-  nderungsantrag der Abgeordneten Corinna R\xFCffer, Kerstin Andreae, Markus Kurth,\n\
-  weiterer Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nzu der zweiten\
-  \ Beratung des Gesetzentwurfs der Bundesregierung\nEntwurf eines Gesetzes zur Weiterentwicklung\
-  \ des Behindertengleichstellungsrechts\nDrs. 18/7824, 18/8428 und 18/8432\n\nAbgegebene\
-  \ Stimmen insgesamt:\n\n573\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n57\n121\n\
-  \nNein-Stimmen:\n\n451\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin, den\
-  \ 12.05.2016\n\nBeginn: 14:52\nEnde: 14:55\n"
+preview: 'Deutscher Bundestag
+
+
+  170. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 12.Mai 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Änderungsantrag der Abgeordneten Corinna Rüffer, Kerstin Andreae, Markus Kurth,
+
+  weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Gesetzes zur Weiterentwicklung des Behindertengleichstellungsrechts
+
+  Drs. 18/7824, 18/8428 und 18/8432
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  573
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  57
+
+  121
+
+
+  Nein-Stimmen:
+
+
+  451
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 12.05.2016
+
+
+  Beginn: 14:52
+
+  Ende: 14:55
+
+  '
 tags:
 - Gleichstellung
 - Barrierefreiheit
-title: "Abstimmung: Behindertengleichstellungsrecht - \xC4nderungsantrag"
+title: 'Abstimmung: Behindertengleichstellungsrecht - Änderungsantrag'
 ---

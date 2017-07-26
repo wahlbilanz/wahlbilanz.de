@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 60
+  datum: 16. Oktober 2014
   legislaturperiode: 18
 categories:
 - Energie
@@ -48,21 +49,75 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=302
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=302
-preview: "Deutscher Bundestag\n\n60. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 16.Oktober 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\
-  Entschlie\xDFungsantrag der Abgeordneten Sylvia Kotting-Uhl, Oliver Krischer, Annalena\n\
-  Baerbock, weiterer Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nzu\
-  \ der Abgabe einer Regierungserkl\xE4rung durch die Bundeskanzlerin\nzum ASEM-Gipfel\
-  \ am 16./17. Oktober 2014, zum Europ\xE4ischen Rat am\n23./24. Oktober 2014 und\
-  \ zum Euro-Gipfel am 24. Oktober 2014 in Br\xFCssel\nDrs. 18/2895\n\nAbgegebene\
-  \ Stimmen insgesamt:\n\n594\n37\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n118\n\
-  \nNein-Stimmen:\n\n475\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin, den\
-  \ 16.10.2014\n\nBeginn: 11:15\nEnde: 11:18\n"
+preview: 'Deutscher Bundestag
+
+
+  60. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 16.Oktober 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Entschließungsantrag der Abgeordneten Sylvia Kotting-Uhl, Oliver Krischer, Annalena
+
+  Baerbock, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  zu der Abgabe einer Regierungserklärung durch die Bundeskanzlerin
+
+  zum ASEM-Gipfel am 16./17. Oktober 2014, zum Europäischen Rat am
+
+  23./24. Oktober 2014 und zum Euro-Gipfel am 24. Oktober 2014 in Brüssel
+
+  Drs. 18/2895
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  594
+
+  37
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  118
+
+
+  Nein-Stimmen:
+
+
+  475
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 16.10.2014
+
+
+  Beginn: 11:15
+
+  Ende: 11:18
+
+  '
 tags:
 - Kernenergie
 - AKW
 - EU
 - Hinkley Point C
-title: "Abstimmung: Entschlie\xDFungsantrag zu der Regierungserkl\xE4rung durch die\
-  \ Bundeskanzlerin"
+title: 'Abstimmung: Entschließungsantrag zu der Regierungserklärung durch die Bundeskanzlerin'
 ---

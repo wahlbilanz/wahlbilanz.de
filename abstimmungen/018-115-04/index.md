@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 4
   bundestagssitzung: 115
+  datum: 2. Juli 2015
   legislaturperiode: 18
 categories:
 - Inneres
@@ -59,19 +60,76 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=349
 - title: http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html
   url: http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html
-preview: "Deutscher Bundestag\n\n115. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 2.Juli 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 4\n\nEntschlie\xDF\
-  ungsantrag der Abgeordneten Ulla Jelpke, Sevim Dagdelen, Jan Korte, weiterer\nAbgeordneter\
-  \ und der Fraktion DIE LINKE.\nzu der dritten Beratung des Gesetzentwurfs der Bundesregierung\n\
-  Entwurf eines Gesetzes zur Neubestimmung des Bleiberechts und der\nAufenthaltsbeendigung\n\
-  - Drs. 18/4097, 18/4199, 18/5420 und 18/5427 -\n\nAbgegebene Stimmen insgesamt:\n\
-  \n593\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n38\n114\n\nNein-Stimmen:\n\n\
-  478\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin, den 02.07.2015\n\nBeginn:\
-  \ 20:47\nEnde: 20:50\n"
+preview: 'Deutscher Bundestag
+
+
+  115. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 2.Juli 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
+
+
+  Entschließungsantrag der Abgeordneten Ulla Jelpke, Sevim Dagdelen, Jan Korte, weiterer
+
+  Abgeordneter und der Fraktion DIE LINKE.
+
+  zu der dritten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Gesetzes zur Neubestimmung des Bleiberechts und der
+
+  Aufenthaltsbeendigung
+
+  - Drs. 18/4097, 18/4199, 18/5420 und 18/5427 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  593
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  38
+
+  114
+
+
+  Nein-Stimmen:
+
+
+  478
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 02.07.2015
+
+
+  Beginn: 20:47
+
+  Ende: 20:50
+
+  '
 tags:
 - Bleiberecht
 - Integration
 - Asyl
-title: "Abstimmung: Bleiberecht und Aufenthaltsbeendigung, Entschlie\xDFungsantrag\
-  \ Die Linke"
+title: 'Abstimmung: Bleiberecht und Aufenthaltsbeendigung, Entschließungsantrag Die
+  Linke'
 ---

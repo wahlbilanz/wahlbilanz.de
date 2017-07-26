@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 10
   bundestagssitzung: 237
+  datum: 1. Juni 2017
   legislaturperiode: 18
 categories:
 - Arbeit
@@ -18,10 +19,10 @@ data:
 documents:
 - local: /res/abstimmungsdaten/018-237-10/1811923.pdf
   title: Drucksache 18/11923.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/119/1811923.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/119/1811923.pdf
 - local: /res/abstimmungsdaten/018-237-10/1812584.pdf
   title: Drucksache 18/12584.pdf.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/125/1812584.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/125/1812584.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 0

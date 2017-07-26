@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 3
+  datum: 28. November 2013
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -49,15 +50,68 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=247
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=247
-preview: "Deutscher Bundestag\n\n3. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 28.November 2013\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\n\
-  Antrag der Bundesregierung\nFortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4\
-  fte an der AU/UN-HybridOperation in Darfur (UNAMID) auf Grundlage der Resolution\
-  \ 1769 (2007) des\nSicherheitsrates der Vereinten Nationen vom 31. Juli 2007 und\
-  \ folgender Resolutionen,\nzuletzt 2113 (2013) vom 30. Juli 2013\nDrucksache 18/72\n\
-  \nAbgegebene Stimmen insgesamt:\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n571\n\
-  60\n511\n\nNein-Stimmen:\n\n58\n\nEnthaltungen:\n\n2\n\nUng\xFCltige:\n\n0\n\nBerlin,\
-  \ den 28.11.2013\n\nBeginn: 16:55\nEnde: 16:59\n"
+preview: 'Deutscher Bundestag
+
+
+  3. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 28.November 2013
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Antrag der Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der AU/UN-HybridOperation
+  in Darfur (UNAMID) auf Grundlage der Resolution 1769 (2007) des
+
+  Sicherheitsrates der Vereinten Nationen vom 31. Juli 2007 und folgender Resolutionen,
+
+  zuletzt 2113 (2013) vom 30. Juli 2013
+
+  Drucksache 18/72
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  571
+
+  60
+
+  511
+
+
+  Nein-Stimmen:
+
+
+  58
+
+
+  Enthaltungen:
+
+
+  2
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 28.11.2013
+
+
+  Beginn: 16:55
+
+  Ende: 16:59
+
+  '
 tags:
 - Darfur
 - UN

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 6
   bundestagssitzung: 115
+  datum: 2. Juli 2015
   legislaturperiode: 18
 categories:
 - Energie
@@ -54,21 +55,83 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=351
 - title: http://www.abgeordnetenwatch.de/neubausubventionen_fuer_atomkraftwerke_in_der_eu_verhindern-1105-756.html
   url: http://www.abgeordnetenwatch.de/neubausubventionen_fuer_atomkraftwerke_in_der_eu_verhindern-1105-756.html
-preview: "Deutscher Bundestag\n\n115. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 2.Juli 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 6\n\nBeschlussempfehlung\
-  \ des Ausschusses f\xFCr Wirtschaft und Energie (9. Ausschuss)\nzu dem Antrag der\
-  \ Abgeordneten Sylvia Kotting-Uhl, Oliver Krischer, Annalena Baerbock,\nweiterer\
-  \ Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nSubventionen f\xFC\
-  r britisches Atomwerk Hinkley Point C stoppen und rechtliche Schritte\neinlegen\n\
-  Drs. 18/4316 und 18/5417\n\nAbgegebene Stimmen insgesamt:\n\n583\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n48\n466\n\nNein-Stimmen:\n\n115\n\nEnthaltungen:\n\n\
-  2\n\nUng\xFCltige:\n\n0\n\nBerlin, den 02.07.2015\n\nBeginn:\nEnde:\n\n0:00\n0:00\n"
+preview: 'Deutscher Bundestag
+
+
+  115. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 2.Juli 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 6
+
+
+  Beschlussempfehlung des Ausschusses für Wirtschaft und Energie (9. Ausschuss)
+
+  zu dem Antrag der Abgeordneten Sylvia Kotting-Uhl, Oliver Krischer, Annalena Baerbock,
+
+  weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  Subventionen für britisches Atomwerk Hinkley Point C stoppen und rechtliche Schritte
+
+  einlegen
+
+  Drs. 18/4316 und 18/5417
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  583
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  48
+
+  466
+
+
+  Nein-Stimmen:
+
+
+  115
+
+
+  Enthaltungen:
+
+
+  2
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 02.07.2015
+
+
+  Beginn:
+
+  Ende:
+
+
+  0:00
+
+  0:00
+
+  '
 tags:
 - Kernenergie
 - AKW
 - EU
 - Subventionen
 - Hinkley Point C
-title: "Abstimmung: Subventionen f\xFCr britisches Atomwerk Hinkley Point C stoppen,\
-  \ Beschlussempfehlung zum Antrag B\xFCndnis 90/Die Gr\xFCnen"
+title: 'Abstimmung: Subventionen für britisches Atomwerk Hinkley Point C stoppen,
+  Beschlussempfehlung zum Antrag Bündnis 90/Die Grünen'
 ---

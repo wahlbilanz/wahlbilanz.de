@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 221
+  datum: 9. März 2017
   legislaturperiode: 18
 categories:
 - Recht
@@ -59,18 +60,73 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=456
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=456
-preview: "Deutscher Bundestag\n\n221. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 9. M\xE4rz 2017\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\
-  \nGesetzentwurf der Abgeordneten Christian K\xFChn (T\xFCbingen), Renate K\xFCnast,\
-  \ Luise\nAmtsberg, weiterer Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDC\
-  NEN\nEntwurf eines Gesetzes zur D\xE4mpfung des Mietanstiegs auf angespannten\n\
-  Wohnungsm\xE4rkten bei umfassenden Modernisierungen\nDrs. 18/8856 und 18/11440\n\
-  \nAbgegebene Stimmen insgesamt:\n\n567\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\
-  \n63\n110\n\nNein-Stimmen:\n\n457\n\nEnthaltungen:\n\n0\n\nUng\xFCltige:\n\n0\n\n\
-  Berlin, den 09.03.2017\n\nBeginn: 13:31\nEnde: 13:34\n"
+preview: 'Deutscher Bundestag
+
+
+  221. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 9. März 2017
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Gesetzentwurf der Abgeordneten Christian Kühn (Tübingen), Renate Künast, Luise
+
+  Amtsberg, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  Entwurf eines Gesetzes zur Dämpfung des Mietanstiegs auf angespannten
+
+  Wohnungsmärkten bei umfassenden Modernisierungen
+
+  Drs. 18/8856 und 18/11440
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  567
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  63
+
+  110
+
+
+  Nein-Stimmen:
+
+
+  457
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 09.03.2017
+
+
+  Beginn: 13:31
+
+  Ende: 13:34
+
+  '
 tags:
 - Miete
 - Wohnen
 - Mietpreisbremse
-title: "Abstimmung: Gesetzentwurf D\xE4mpfung des Mietanstiegs (umfassende Modernisierungen)"
+title: 'Abstimmung: Gesetzentwurf Dämpfung des Mietanstiegs (umfassende Modernisierungen)'
 ---

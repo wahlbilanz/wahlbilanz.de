@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 5
   bundestagssitzung: 209
+  datum: 15. Dezember 2016
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -55,14 +56,69 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=447
 - title: http://www.abgeordnetenwatch.de/bekaempfung_der_schwarzarbeit-1105-832.html
   url: http://www.abgeordnetenwatch.de/bekaempfung_der_schwarzarbeit-1105-832.html
-preview: "Deutscher Bundestag\n\n209. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 15.Dezember 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 5\n\
-  \nGesetzentwurf der Bundesregierung\nEntwurf eines Gesetzes zur St\xE4rkung der\
-  \ Bek\xE4mpfung der Schwarzarbeit und illegalen\nBesch\xE4ftigung\nDrs. 18/9958\
-  \ und 18/10655\n\nAbgegebene Stimmen insgesamt:\n\n563\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n67\n509\n\nNein-Stimmen:\n\n0\n\nEnthaltungen:\n\n54\n\nUng\xFCltige:\n\
-  \nBerlin, den 15.12.2016\n\n0\n\nBeginn: 18:33\nEnde: 18:37\n"
+preview: 'Deutscher Bundestag
+
+
+  209. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 15.Dezember 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 5
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur Stärkung der Bekämpfung der Schwarzarbeit und illegalen
+
+  Beschäftigung
+
+  Drs. 18/9958 und 18/10655
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  563
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  67
+
+  509
+
+
+  Nein-Stimmen:
+
+
+  0
+
+
+  Enthaltungen:
+
+
+  54
+
+
+  Ungültige:
+
+
+  Berlin, den 15.12.2016
+
+
+  0
+
+
+  Beginn: 18:33
+
+  Ende: 18:37
+
+  '
 tags:
 - Schwarzarbeit
-title: "Abstimmung: Bek\xE4mpfung der Schwarzarbeit"
+title: 'Abstimmung: Bekämpfung der Schwarzarbeit'
 ---

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 4
   bundestagssitzung: 46
+  datum: 3. Juli 2014
   legislaturperiode: 18
 categories:
 - Inneres
@@ -60,15 +61,67 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=294
 - title: http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html
   url: http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html
-preview: "Deutscher Bundestag\n\n46. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 3.Juli 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 4\n\nGesetzentwurf\
-  \ der Bundesregierung\nEntwurf eines Zweiten Gesetzes zur \xC4nderung des Staatsangeh\xF6\
-  rigkeitsgesetzes\nDrs. 18/1312, 18/1759, 18/1955 und 18/2005\n\nAbgegebene Stimmen\
-  \ insgesamt:\n\n572\n59\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n461\n\nNein-Stimmen:\n\
-  \n110\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin, den 03.07.2014\n\n\
-  Beginn: 19:10\nEnde: 19:13\n"
+preview: 'Deutscher Bundestag
+
+
+  46. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 3.Juli 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Zweiten Gesetzes zur Änderung des Staatsangehörigkeitsgesetzes
+
+  Drs. 18/1312, 18/1759, 18/1955 und 18/2005
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  572
+
+  59
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  461
+
+
+  Nein-Stimmen:
+
+
+  110
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 03.07.2014
+
+
+  Beginn: 19:10
+
+  Ende: 19:13
+
+  '
 tags:
-- "Staatsangeh\xF6rigkeit"
+- Staatsangehörigkeit
 - Pass
-title: "Abstimmung: \xC4nderung des Staatsangeh\xF6rigkeitsgesetzes"
+title: 'Abstimmung: Änderung des Staatsangehörigkeitsgesetzes'
 ---

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 212
+  datum: 19. Januar 2017
   legislaturperiode: 18
 categories:
 - Arbeit
@@ -60,19 +61,75 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=451
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=451
-preview: "Deutscher Bundestag\n\n212. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 19. Januar 2017\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\
-  \nBeschlussempfehlung des Ausschusses f\xFCr Arbeit und Soziales (11. Ausschuss)\n\
-  zu dem Antrag der Abgeordneten Roland Claus, Matthias W. Birkwald, Caren Lay, weiterer\n\
-  Abgeordneter und der Fraktion DIE LINKE.\nKeine Altersarmut von Ost-Krankenschwestern\
-  \ - Gerechte Renten f\xFCr Besch\xE4ftigte im DDRGesundheits- und Sozialwesen schaffen\n\
-  - 18/8612 und 18/10779 -\n\nAbgegebene Stimmen insgesamt:\n\n551\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n79\n498\n\nNein-Stimmen:\n\n53\n\nEnthaltungen:\n\n0\n\
-  \nUng\xFCltige:\n\n0\n\nBerlin, den 19.01.2017\n\nBeginn: 15:59\nEnde: 16:02\n"
+preview: 'Deutscher Bundestag
+
+
+  212. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 19. Januar 2017
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Beschlussempfehlung des Ausschusses für Arbeit und Soziales (11. Ausschuss)
+
+  zu dem Antrag der Abgeordneten Roland Claus, Matthias W. Birkwald, Caren Lay, weiterer
+
+  Abgeordneter und der Fraktion DIE LINKE.
+
+  Keine Altersarmut von Ost-Krankenschwestern - Gerechte Renten für Beschäftigte im
+  DDRGesundheits- und Sozialwesen schaffen
+
+  - 18/8612 und 18/10779 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  551
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  79
+
+  498
+
+
+  Nein-Stimmen:
+
+
+  53
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 19.01.2017
+
+
+  Beginn: 15:59
+
+  Ende: 16:02
+
+  '
 tags:
 - Krankenschwester
 - Krankenhaus
 - Ost-West
 - Rente
-title: "Abstimmung: Rentenanspr\xFCche aus DDR-Besch\xE4ftigungszeiten (Krankenschwestern)"
+title: 'Abstimmung: Rentenansprüche aus DDR-Beschäftigungszeiten (Krankenschwestern)'
 ---

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 228
+  datum: 30. März 2017
   legislaturperiode: 18
 categories:
 - Familie
@@ -68,15 +69,70 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=460
 - title: http://www.abgeordnetenwatch.de/einfuehrung_eines_verbandsklagerechts_im_lohngerechtigkeitsgesetz-1105-863.html
   url: http://www.abgeordnetenwatch.de/einfuehrung_eines_verbandsklagerechts_im_lohngerechtigkeitsgesetz-1105-863.html
-preview: "Deutscher Bundestag\n\n228. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 30. M\xE4rz 2017\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \n\xC4nderungsantrag der Abgeordneten Beate M\xFCller-Gemmeke, Ulle Schauws, Kerstin\n\
-  Andreae, weiterer Angeordneter und der Franktion B\xDCNDNIS 90/DIE GR\xDCNEN\nzu\
-  \ der zweiten Beratung des Gesetzentwurfs der Bundesregierung\nEntwurf eines Gesetzes\
-  \ zur F\xF6rderung der Transparenz von Entgeltstrukturen\nDrs. 18/11133, 18/11727,\
-  \ 18/11733 und 18/11756\n\nAbgegebene Stimmen insgesamt:\n\n553\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n77\n102\n\nNein-Stimmen:\n\n451\n\nEnthaltungen:\n\n\
-  0\n\nUng\xFCltige:\n\n0\n\nBerlin, den 30.03.2017\n\nBeginn: 17:40\nEnde: 17:42\n"
+preview: 'Deutscher Bundestag
+
+
+  228. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 30. März 2017
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Änderungsantrag der Abgeordneten Beate Müller-Gemmeke, Ulle Schauws, Kerstin
+
+  Andreae, weiterer Angeordneter und der Franktion BÜNDNIS 90/DIE GRÜNEN
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Gesetzes zur Förderung der Transparenz von Entgeltstrukturen
+
+  Drs. 18/11133, 18/11727, 18/11733 und 18/11756
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  553
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  77
+
+  102
+
+
+  Nein-Stimmen:
+
+
+  451
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 30.03.2017
+
+
+  Beginn: 17:40
+
+  Ende: 17:42
+
+  '
 tags:
 - Gehalt
 - Entgelt

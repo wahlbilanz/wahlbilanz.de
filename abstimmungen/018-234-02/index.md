@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 234
+  datum: 18. Mai 2017
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -16,7 +17,7 @@ data:
 documents:
 - local: /res/abstimmungsdaten/018-234-02/1811621.pdf
   title: Drucksache 18/11621
-  url: 'http://dip21.bundestag.de/dip21/btd/18/116/1811621.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/116/1811621.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 0

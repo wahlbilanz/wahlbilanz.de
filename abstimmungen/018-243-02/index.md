@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 243
+  datum: 29. Juni 2017
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -15,11 +16,11 @@ data:
   url: /res/abstimmungsliste/csv/20170629_2_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-243-02/1812492.pdf
-  title: 'Drucksache 18/12492'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/124/1812492.pdf'
+  title: Drucksache 18/12492
+  url: http://dip21.bundestag.de/dip21/btd/18/124/1812492.pdf
 - local: /res/abstimmungsdaten/018-243-02/1812866.pdf
-  title: 'Drucksache 18/12866'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/128/1812866.pdf'
+  title: Drucksache 18/12866
+  url: http://dip21.bundestag.de/dip21/btd/18/128/1812866.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 0

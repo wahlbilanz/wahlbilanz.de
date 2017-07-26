@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 228
+  datum: 30. März 2017
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -61,14 +62,70 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=462
 - title: http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_somalia_eutm-1105-862.html
   url: http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_somalia_eutm-1105-862.html
-preview: "Deutscher Bundestag\n\n228. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 30. M\xE4rz 2017\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\
-  \nBeschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nFortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4\
-  fte an der EU-gef\xFChrten\nAusbildungs- und Beratungsmission EUTM Somalia\nDrs.\
-  \ 18/11273 und 18/11673\n\nAbgegebene Stimmen insgesamt:\n\n537\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n93\n435\n\nNein-Stimmen:\n\n102\n\nEnthaltungen:\n\n\
-  0\n\nUng\xFCltige:\n\n0\n\nBerlin, den 30.03.2017\n\nBeginn: 19:21\nEnde: 19:24\n"
+preview: 'Deutscher Bundestag
+
+
+  228. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 30. März 2017
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten
+
+  Ausbildungs- und Beratungsmission EUTM Somalia
+
+  Drs. 18/11273 und 18/11673
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  537
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  93
+
+  435
+
+
+  Nein-Stimmen:
+
+
+  102
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 30.03.2017
+
+
+  Beginn: 19:21
+
+  Ende: 19:24
+
+  '
 tags:
 - EUTM
 - Somalia

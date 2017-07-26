@@ -70,6 +70,18 @@ class Abstimmung:
 	
 	
 	
+	def get_datum (self):
+		return self.data["abstimmung"]["datum"]
+	
+	def set_datum (self, datum):
+		if not "abstimmung" in self.data:
+			self.data["abstimmung"] = {}
+		self.data["abstimmung"]["datum"] = datum
+	
+	
+	
+	
+	
 	def get_categories (self):
 		return self.data["categories"]
 	

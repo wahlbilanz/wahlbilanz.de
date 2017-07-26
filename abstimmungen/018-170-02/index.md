@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 170
+  datum: 12. Mai 2016
   legislaturperiode: 18
 categories:
 - Arbeit
@@ -56,18 +57,73 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=395
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=395
-preview: "Deutscher Bundestag\n\n170. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 12.Mai 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\nEntschlie\xDF\
-  ungsantrag der Abgeordneten Katrin Werner, Sigrid Hupach, Matthias W.\nBirkwald,\
-  \ weiterer Abgeordneter und der Fraktion DIE LINKE.\nzu der dritten Beratung des\
-  \ Gesetzentwurfs der Bundesregierung.\nEntwurf eines Gesetzes zur Weiterentwicklung\
-  \ des Behindertengleichstellungsrechts.\n- Drucksachen 18/7824, 18/8428 und 18/8433\
-  \ -\n\nAbgegebene Stimmen insgesamt:\n\n568\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\
-  \n62\n120\n\nNein-Stimmen:\n\n448\n\nEnthaltungen:\n\n0\n\nUng\xFCltige:\n\n0\n\n\
-  Berlin, den 12.05.2016\n\nBeginn: 15:07\nEnde: 15:10\n"
+preview: 'Deutscher Bundestag
+
+
+  170. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 12.Mai 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Entschließungsantrag der Abgeordneten Katrin Werner, Sigrid Hupach, Matthias W.
+
+  Birkwald, weiterer Abgeordneter und der Fraktion DIE LINKE.
+
+  zu der dritten Beratung des Gesetzentwurfs der Bundesregierung.
+
+  Entwurf eines Gesetzes zur Weiterentwicklung des Behindertengleichstellungsrechts.
+
+  - Drucksachen 18/7824, 18/8428 und 18/8433 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  568
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  62
+
+  120
+
+
+  Nein-Stimmen:
+
+
+  448
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 12.05.2016
+
+
+  Beginn: 15:07
+
+  Ende: 15:10
+
+  '
 tags:
 - Gleichstellung
 - Barrierefreiheit
 - Minderheiten
-title: "Abstimmung: Behindertengleichstellungsrecht - Entschlie\xDFungsantrag"
+title: 'Abstimmung: Behindertengleichstellungsrecht - Entschließungsantrag'
 ---

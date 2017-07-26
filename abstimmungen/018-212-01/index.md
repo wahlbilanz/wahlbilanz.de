@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 212
+  datum: 19. Januar 2017
   legislaturperiode: 18
 categories:
 - Arbeit
@@ -62,18 +63,74 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=448
 - title: http://www.abgeordnetenwatch.de/rentenansprueche_fuer_ddr_bergleute-1105-845.html
   url: http://www.abgeordnetenwatch.de/rentenansprueche_fuer_ddr_bergleute-1105-845.html
-preview: "Deutscher Bundestag\n\n212. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 19. Januar 2017\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nBeschlussempfehlung des Ausschusses f\xFCr Arbeit und Soziales (11. Ausschuss)\n\
-  zu dem Antrag der Abgeordneten Roland Claus, Matthias W. Birkwald, Caren Lay, weiterer\n\
-  Abgeordneter und der Fraktion DIE LINKE.\nKeine Kumpel zweiter Klasse - Rentenanspr\xFC\
-  che der Bergleute aus der DDRBraunkohleveredelung wahren\n- Drucksachen 18/7903\
-  \ und 18/10779 -\n\nAbgegebene Stimmen insgesamt:\n\n558\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n72\n447\n\nNein-Stimmen:\n\n53\n\nEnthaltungen:\n\n58\n\nUng\xFC\
-  ltige:\n\nBerlin, den 19.01.2017\n\n0\n\nBeginn: 15:55\nEnde: 15:58\n"
+preview: 'Deutscher Bundestag
+
+
+  212. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 19. Januar 2017
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Ausschusses für Arbeit und Soziales (11. Ausschuss)
+
+  zu dem Antrag der Abgeordneten Roland Claus, Matthias W. Birkwald, Caren Lay, weiterer
+
+  Abgeordneter und der Fraktion DIE LINKE.
+
+  Keine Kumpel zweiter Klasse - Rentenansprüche der Bergleute aus der DDRBraunkohleveredelung
+  wahren
+
+  - Drucksachen 18/7903 und 18/10779 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  558
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  72
+
+  447
+
+
+  Nein-Stimmen:
+
+
+  53
+
+
+  Enthaltungen:
+
+
+  58
+
+
+  Ungültige:
+
+
+  Berlin, den 19.01.2017
+
+
+  0
+
+
+  Beginn: 15:55
+
+  Ende: 15:58
+
+  '
 tags:
 - Bergbau
 - Ost-West
 - Rente
-title: "Abstimmung: Rentenanspr\xFCche aus DDR-Besch\xE4ftigungszeiten (Bergleute)"
+title: 'Abstimmung: Rentenansprüche aus DDR-Beschäftigungszeiten (Bergleute)'
 ---

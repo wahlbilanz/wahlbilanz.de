@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 98
+  datum: 27. März 2015
   legislaturperiode: 18
 categories:
 - Verkehr
@@ -56,17 +57,73 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=334
 - title: http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html
   url: http://www.abgeordnetenwatch.de/pkw_maut-1105-720.html
-preview: "Deutscher Bundestag\n\n98. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 27.M\xE4rz 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\
-  \nGesetzentwurf der Bundesregierung\nEntwurf eines Gesetzes zur Einf\xFChrung einer\
-  \ Infrastrukturabgabe f\xFCr die Benutzung von\nBundesfernstra\xDFen\nDrucksachen\
-  \ 18/3990 und 18/4455\n\nAbgegebene Stimmen insgesamt:\n\n568\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n63\n434\n\nNein-Stimmen:\n\n128\n\nEnthaltungen:\n\n\
-  6\n\nUng\xFCltige:\n\n0\n\nBerlin, den 27.03.2015\n\nBeginn: 11:48\nEnde: 11:51\n"
+preview: 'Deutscher Bundestag
+
+
+  98. Sitzung des Deutschen Bundestages
+
+  am Freitag, 27.März 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur Einführung einer Infrastrukturabgabe für die Benutzung
+  von
+
+  Bundesfernstraßen
+
+  Drucksachen 18/3990 und 18/4455
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  568
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  63
+
+  434
+
+
+  Nein-Stimmen:
+
+
+  128
+
+
+  Enthaltungen:
+
+
+  6
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 27.03.2015
+
+
+  Beginn: 11:48
+
+  Ende: 11:51
+
+  '
 tags:
 - PKW
 - Maut
-- "Stra\xDFennetz"
+- Straßennetz
 - Vignette
 title: 'Abstimmung: Pkw-Maut'
 ---

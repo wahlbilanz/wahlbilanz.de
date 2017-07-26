@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 130
+  datum: 15. Oktober 2015
   legislaturperiode: 18
 categories:
 - Inneres
@@ -53,14 +54,71 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=366
 - title: http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html
   url: http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html
-preview: "Deutscher Bundestag\n\n130. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 15.Oktober 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\
-  \nGesetzentwurf der Fraktionen der CDU/CSU und SPD\nEntwurf eines Asylverfahrensbeschleunigungsgesetzes\n\
-  hier: Artikel 1 Nummer 35 des Gesetzentwurfs in der Ausschussfassung (Neufassung\
-  \ der\nAnlage II zu \xA7 29a des Asylverfahrensgesetzes)\n- Drucksachen 18/6185\
-  \ und 18/6386 -\n\nAbgegebene Stimmen insgesamt:\n\n594\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n36\n473\n\nNein-Stimmen:\n\n118\n\nEnthaltungen:\n\n3\n\nUng\xFC\
-  ltige:\n\n0\n\nBerlin, den 15.10.2015\n\nBeginn: 12:43\nEnde: 12:46\n"
+preview: 'Deutscher Bundestag
+
+
+  130. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 15.Oktober 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Gesetzentwurf der Fraktionen der CDU/CSU und SPD
+
+  Entwurf eines Asylverfahrensbeschleunigungsgesetzes
+
+  hier: Artikel 1 Nummer 35 des Gesetzentwurfs in der Ausschussfassung (Neufassung
+  der
+
+  Anlage II zu § 29a des Asylverfahrensgesetzes)
+
+  - Drucksachen 18/6185 und 18/6386 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  594
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  36
+
+  473
+
+
+  Nein-Stimmen:
+
+
+  118
+
+
+  Enthaltungen:
+
+
+  3
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 15.10.2015
+
+
+  Beginn: 12:43
+
+  Ende: 12:46
+
+  '
 tags:
 - Asyl
 - Bleiberecht

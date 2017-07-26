@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 26
+  datum: 3. April 2014
   legislaturperiode: 18
 categories:
 - Politik
@@ -53,13 +54,64 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=257
 - title: http://www.abgeordnetenwatch.de/minderheitenrechte_im_bundestag-1105-592.html
   url: http://www.abgeordnetenwatch.de/minderheitenrechte_im_bundestag-1105-592.html
-preview: "Deutscher Bundestag\n\n26. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 3.April 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\nGesetzentwurf\
-  \ der Fraktion DIE LINKE\nEntwurf eines Gesetzes zur \xC4nderung des Grundgesetzes\
-  \ (Artikel 23, 39, 44, 45a, 93)\nDrucksachen 18/838 und 18/997\n\nAbgegebene Stimmen\
-  \ insgesamt:\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n583\n48\n55\n\nNein-Stimmen:\n\
-  \n470\n\nEnthaltungen:\n\n58\n\nUng\xFCltige:\n\nBerlin, den 03.04.2014\n\n0\n\n\
-  Beginn: 16:14\nEnde: 16:17\n"
+preview: 'Deutscher Bundestag
+
+
+  26. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 3.April 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Gesetzentwurf der Fraktion DIE LINKE
+
+  Entwurf eines Gesetzes zur Änderung des Grundgesetzes (Artikel 23, 39, 44, 45a,
+  93)
+
+  Drucksachen 18/838 und 18/997
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  583
+
+  48
+
+  55
+
+
+  Nein-Stimmen:
+
+
+  470
+
+
+  Enthaltungen:
+
+
+  58
+
+
+  Ungültige:
+
+
+  Berlin, den 03.04.2014
+
+
+  0
+
+
+  Beginn: 16:14
+
+  Ende: 16:17
+
+  '
 tags:
 - Minderheiten
 title: 'Abstimmung: Minderheitenrechte in der 18. Wahlperiode'

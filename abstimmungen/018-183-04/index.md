@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 4
   bundestagssitzung: 183
+  datum: 7. Juli 2016
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -52,14 +53,70 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=412
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=412
-preview: "Deutscher Bundestag\n\n183. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 7.Juli 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 4\n\nBeschlussempfehlung\
-  \ des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag der\nBundesregierung\n\
-  Fortsetzung und Erweiterung der Beteiligung bewaffneter deutscher Streitkr\xE4fte\
-  \ an\nEUNAVFOR MED Operation SOPHIA\nDrs. 18/8878 und 18/9035\n\nAbgegebene Stimmen\
-  \ insgesamt:\n\n569\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n61\n457\n\nNein-Stimmen:\n\
-  \n111\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin, den 07.07.2016\n\n\
-  Beginn: 19:48\nEnde: 19:51\n"
+preview: 'Deutscher Bundestag
+
+
+  183. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 7.Juli 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung und Erweiterung der Beteiligung bewaffneter deutscher Streitkräfte an
+
+  EUNAVFOR MED Operation SOPHIA
+
+  Drs. 18/8878 und 18/9035
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  569
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  61
+
+  457
+
+
+  Nein-Stimmen:
+
+
+  111
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 07.07.2016
+
+
+  Beginn: 19:48
+
+  Ende: 19:51
+
+  '
 tags:
 - EU
 - Menschenhandel

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 4
   bundestagssitzung: 42
+  datum: 25. Juni 2014
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -67,18 +68,78 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=282
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=282
-preview: "Deutscher Bundestag\n\n42. Sitzung des Deutschen Bundestages\nam Mittwoch,\
-  \ 25.Juni 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 4\n\n\xC4\
-  nderungsantrag der Abgeordneten Anja Hajduk, Sven-Christian Kindler, Ekin Delig\xF6\
-  z,\nweiterer Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nzu der zweiten\
-  \ Beratung des Gesetzentwurfs der Bundesregierung \xFCber den Entwurf eines\nGesetzes\
-  \ \xFCber die Feststellung des Bundeshaushaltsplans f\xFCr das Haushaltsjahr 2014\n\
-  (Haushaltsgesetz 2014)\nhier: Einzelplan 23\nGesch\xE4ftsbereich des Bundesministeriums\
-  \ f\xFCr wirtschaftliche Zusammenarbeit und\nEntwicklung\nDrs. 18/700, 18/702, 18/1019,\
-  \ 18/1023, 18/1024, 18/1025 und 18/1847\n\nAbgegebene Stimmen insgesamt:\n\n559\n\
-  72\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n106\n\nNein-Stimmen:\n\n449\n\n\
-  Enthaltungen:\n\n4\n\nUng\xFCltige:\n\n0\n\nBerlin, den 25.06.2014\n\nBeginn: 18:21\n\
-  Ende: 18:25\n"
+preview: 'Deutscher Bundestag
+
+
+  42. Sitzung des Deutschen Bundestages
+
+  am Mittwoch, 25.Juni 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
+
+
+  Änderungsantrag der Abgeordneten Anja Hajduk, Sven-Christian Kindler, Ekin Deligöz,
+
+  weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung über den Entwurf
+  eines
+
+  Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2014
+
+  (Haushaltsgesetz 2014)
+
+  hier: Einzelplan 23
+
+  Geschäftsbereich des Bundesministeriums für wirtschaftliche Zusammenarbeit und
+
+  Entwicklung
+
+  Drs. 18/700, 18/702, 18/1019, 18/1023, 18/1024, 18/1025 und 18/1847
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  559
+
+  72
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  106
+
+
+  Nein-Stimmen:
+
+
+  449
+
+
+  Enthaltungen:
+
+
+  4
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 25.06.2014
+
+
+  Beginn: 18:21
+
+  Ende: 18:25
+
+  '
 tags:
 - Haushalt
 - Bundesregierung

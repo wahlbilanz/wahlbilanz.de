@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 13
   bundestagssitzung: 237
+  datum: 1. Juni 2017
   legislaturperiode: 18
 categories:
 - Ausland
@@ -16,7 +17,7 @@ data:
 documents:
 - local: /res/abstimmungsdaten/018-237-13/1812638.pdf
   title: Drucksache 1812638.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/126/1812638.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/126/1812638.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 6

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 193
+  datum: 29. September 2016
   legislaturperiode: 18
 categories:
 - Recht
@@ -54,19 +55,74 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=419
 - title: http://www.abgeordnetenwatch.de/zweite_mietrechtsnovelle_vorlegen-1105-817.html
   url: http://www.abgeordnetenwatch.de/zweite_mietrechtsnovelle_vorlegen-1105-817.html
-preview: "Deutscher Bundestag\n\n193. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 29.September 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nBeschlussempfehlung des Ausschusses f\xFCr Recht und Verbraucherschutz (6. Ausschuss)\n\
-  zu dem Antrag der Abgeordneten Caren Lay, Herbert Behrens, Karin Binder, weiterer\n\
-  Abgeordneter und der Fraktion DIE LINKE.\nMieterinnen und Mieter besser sch\xFC\
-  tzen - Zweite Mietrechtsnovelle vorlegen\nDrs. 18/8863 und 18/9696\n\nAbgegebene\
-  \ Stimmen insgesamt:\n\n581\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n49\n467\n\
-  \nNein-Stimmen:\n\n114\n\nEnthaltungen:\n\n0\n\nUng\xFCltige:\n\n0\n\nBerlin, den\
-  \ 29.09.2016\n\nBeginn: 12:19\nEnde: 12:21\n"
+preview: 'Deutscher Bundestag
+
+
+  193. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 29.September 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)
+
+  zu dem Antrag der Abgeordneten Caren Lay, Herbert Behrens, Karin Binder, weiterer
+
+  Abgeordneter und der Fraktion DIE LINKE.
+
+  Mieterinnen und Mieter besser schützen - Zweite Mietrechtsnovelle vorlegen
+
+  Drs. 18/8863 und 18/9696
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  581
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  49
+
+  467
+
+
+  Nein-Stimmen:
+
+
+  114
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 29.09.2016
+
+
+  Beginn: 12:19
+
+  Ende: 12:21
+
+  '
 tags:
 - Miete
 - Wohnen
 - Makler
 - Mietpreisbremse
-title: "Abstimmung: Mieterinnen und Mieter besser sch\xFCtzen"
+title: 'Abstimmung: Mieterinnen und Mieter besser schützen'
 ---

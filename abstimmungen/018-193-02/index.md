@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 193
+  datum: 29. September 2016
   legislaturperiode: 18
 categories:
 - Haushalt
@@ -51,15 +52,72 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=420
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=420
-preview: "Deutscher Bundestag\n\n193. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 29.September 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\
-  \nBeschlussempfehlung des Haushaltsausschusses (8. Ausschuss)\nzu dem Antrag der\
-  \ Abgeordneten Dr. Gesine L\xF6tzsch, Heidrun Bluhm, Caren Lay, weiterer\nAbgeordneter\
-  \ und der Fraktion DIE LINKE.\nPrivatisierung von Bundesliegenschaften stoppen -\
-  \ Liegenschaftspolitik des Bundes\nnachhaltig reformieren\n- Drucksachen 18/4419\
-  \ und 18/6686 -\n\nAbgegebene Stimmen insgesamt:\n\n580\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n50\n466\n\nNein-Stimmen:\n\n57\n\nEnthaltungen:\n\n57\n\nUng\xFC\
-  ltige:\n\nBerlin, den 29.09.2016\n\n0\n\nBeginn: 12:23\nEnde: 12:25\n"
+preview: 'Deutscher Bundestag
+
+
+  193. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 29.September 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss)
+
+  zu dem Antrag der Abgeordneten Dr. Gesine Lötzsch, Heidrun Bluhm, Caren Lay, weiterer
+
+  Abgeordneter und der Fraktion DIE LINKE.
+
+  Privatisierung von Bundesliegenschaften stoppen - Liegenschaftspolitik des Bundes
+
+  nachhaltig reformieren
+
+  - Drucksachen 18/4419 und 18/6686 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  580
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  50
+
+  466
+
+
+  Nein-Stimmen:
+
+
+  57
+
+
+  Enthaltungen:
+
+
+  57
+
+
+  Ungültige:
+
+
+  Berlin, den 29.09.2016
+
+
+  0
+
+
+  Beginn: 12:23
+
+  Ende: 12:25
+
+  '
 tags:
 - Liegenschaften
 - Wohnen

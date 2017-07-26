@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 117
+  datum: 17. Juli 2015
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -45,16 +46,69 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=354
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=354
-preview: "Deutscher Bundestag\n\n117. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 17.Juli 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\n\
-  Antrag der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nBeschluss des Deutschen Bundestages\
-  \ nach \xA7 4 Absatz 1 Nummer 1 des ESMFinanzierungsgesetzes (ESMFinG);\nVerwendung\
-  \ der SMP-Mittel 2014 zur Absicherung einer Br\xFCckenfinanzierung\nDrs. 18/5595\n\
-  \nAbgegebene Stimmen insgesamt:\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n598\n\
-  32\n75\n\nNein-Stimmen:\n\n485\n\nEnthaltungen:\n\n38\n\nUng\xFCltige:\n\nBerlin,\
-  \ den 17.07.2015\n\n0\n\nBeginn: 13:44\nEnde: 13:47\n"
+preview: 'Deutscher Bundestag
+
+
+  117. Sitzung des Deutschen Bundestages
+
+  am Freitag, 17.Juli 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  Beschluss des Deutschen Bundestages nach § 4 Absatz 1 Nummer 1 des ESMFinanzierungsgesetzes
+  (ESMFinG);
+
+  Verwendung der SMP-Mittel 2014 zur Absicherung einer Brückenfinanzierung
+
+  Drs. 18/5595
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  598
+
+  32
+
+  75
+
+
+  Nein-Stimmen:
+
+
+  485
+
+
+  Enthaltungen:
+
+
+  38
+
+
+  Ungültige:
+
+
+  Berlin, den 17.07.2015
+
+
+  0
+
+
+  Beginn: 13:44
+
+  Ende: 13:47
+
+  '
 tags:
 - Todo
-title: "Abstimmung: Verwendung der SMP-Mittel 2014 zur Absicherung einer Br\xFCckenfinanzierung,\
-  \ Antrag der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN"
+title: 'Abstimmung: Verwendung der SMP-Mittel 2014 zur Absicherung einer Brückenfinanzierung,
+  Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN'
 ---

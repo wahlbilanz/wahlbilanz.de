@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 69
+  datum: 26. November 2014
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -60,18 +61,72 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=317
 - title: http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html
   url: http://www.abgeordnetenwatch.de/bundeshaushaltsplan_2015-1105-697.html
-preview: "Deutscher Bundestag\n\n69. Sitzung des Deutschen Bundestages\nam Mittwoch,\
-  \ 26.November 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nEntwurf eines Gesetzes \xFCber die Feststellung des Bundeshaushaltsplans f\xFC\
-  r das\nHaushaltsjahr 2015 (Haushaltsgesetz 2015)\nhier: Einzelplan 04 - Gesch\xE4\
-  ftsbereich der Bundeskanzlerin und des Bundeskanzleramtes\nDrs. 18/2000, 18/2002,\
-  \ 18/2823 und 18/2824\n\nAbgegebene Stimmen insgesamt:\n\n603\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n28\n485\n\nNein-Stimmen:\n\n118\n\nEnthaltungen:\n\n\
-  0\n\nUng\xFCltige:\n\n0\n\nBerlin, den 26.11.2014\n\nBeginn: 13:12\nEnde: 13:15\n"
+preview: 'Deutscher Bundestag
+
+
+  69. Sitzung des Deutschen Bundestages
+
+  am Mittwoch, 26.November 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das
+
+  Haushaltsjahr 2015 (Haushaltsgesetz 2015)
+
+  hier: Einzelplan 04 - Geschäftsbereich der Bundeskanzlerin und des Bundeskanzleramtes
+
+  Drs. 18/2000, 18/2002, 18/2823 und 18/2824
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  603
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  28
+
+  485
+
+
+  Nein-Stimmen:
+
+
+  118
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 26.11.2014
+
+
+  Beginn: 13:12
+
+  Ende: 13:15
+
+  '
 tags:
 - Haushalt
 - Bundesregierung
 - Entwicklung
-title: "Abstimmung: Feststellung des Bundeshaushaltsplans f\xFCr das Haushaltsjahr\
-  \ 2015 (Einzelplan 04 - Bundeskanzlerin und Bundeskanzleramt)"
+title: 'Abstimmung: Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2015
+  (Einzelplan 04 - Bundeskanzlerin und Bundeskanzleramt)'
 ---

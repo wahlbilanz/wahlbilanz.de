@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 29
+  datum: 9. April 2014
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,15 +55,15 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=260
 - title: http://www.abgeordnetenwatch.de/beteiligung_der_bundeswehr_bei_vernichtung_syrischer_chemiewaffen-1105-594.html
   url: http://www.abgeordnetenwatch.de/beteiligung_der_bundeswehr_bei_vernichtung_syrischer_chemiewaffen-1105-594.html
-preview: "Beteiligung bewaffneter deutscher Streitkr\xE4fte am maritimen Begleitschutz\
-  \ bei der Hydrolyse syrischer Chemiewaffen an Bord der CAPE RAY im Rahmen der gemeinsamen\
-  \ VN/OVCW-Mission zur Vernichtung der syrischen Chemiewaffen (Drucksachen 18/984\
-  \ und 18/1067)\n"
+preview: "Deutscher Bundestag\n\n29. Sitzung des Deutschen Bundestages\nam Mittwoch,\
+  \ 9. April 2014\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n Beteiligung\
+  \ bewaffneter deutscher Streitkräfte am maritimen Begleitschutz bei der Hydrolyse\
+  \ syrischer Chemiewaffen an Bord der CAPE RAY im Rahmen der gemeinsamen VN/OVCW-Mission\
+  \ zur Vernichtung der syrischen Chemiewaffen (Drucksachen 18/984 und 18/1067)\n"
 tags:
 - Chemiewaffen
 - Syrien
 - CAPE RAY
 - UN
-title: "Abstimmung: Beteiligung bewaffneter deutscher Streitkr\xE4fte am maritimen\
-  \ Begleitschutz"
+title: 'Abstimmung: Beteiligung bewaffneter deutscher Streitkräfte am maritimen Begleitschutz'
 ---

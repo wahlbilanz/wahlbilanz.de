@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 239
+  datum: 21. Juni 2017
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -15,8 +16,8 @@ data:
   url: /res/abstimmungsliste/csv/20170621_2_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-239-02/1812779.pdf
-  title: 'Drucksache 18/12779'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/127/1812779.pdf'
+  title: Drucksache 18/12779
+  url: http://dip21.bundestag.de/dip21/btd/18/127/1812779.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 0
@@ -69,5 +70,6 @@ tags:
 - Incirlik
 - IS
 - Türkei
-title: 'Abstimmung: Antrag zur Verlegung des Bundeswehrkontingents von Incirlik nach Al Azraq'
+title: 'Abstimmung: Antrag zur Verlegung des Bundeswehrkontingents von Incirlik nach
+  Al Azraq'
 ---

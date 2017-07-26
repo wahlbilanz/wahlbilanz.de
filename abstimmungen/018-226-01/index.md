@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 226
+  datum: 24. März 2017
   legislaturperiode: 18
 categories:
 - Verkehr
@@ -66,16 +67,69 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=458
 - title: http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html
   url: http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html
-preview: "Deutscher Bundestag\n\n226. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 24. M\xE4rz 2017\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nGesetzentwurf der Bundesregierung\nEntwurf eines Ersten Gesetzes zur \xC4nderung\
-  \ des Infrastrukturabgabengesetzes\nDrs. 18/11237, 18/11536 und 18/11646\n\nAbgegebene\
-  \ Stimmen insgesamt:\n\n541\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n89\n397\n\
-  \nNein-Stimmen:\n\n135\n\nEnthaltungen:\n\n9\n\nUng\xFCltige:\n\n0\n\nBerlin, den\
-  \ 24.03.2017\n\nBeginn: 10:15\nEnde: 10:17\n"
+preview: 'Deutscher Bundestag
+
+
+  226. Sitzung des Deutschen Bundestages
+
+  am Freitag, 24. März 2017
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Ersten Gesetzes zur Änderung des Infrastrukturabgabengesetzes
+
+  Drs. 18/11237, 18/11536 und 18/11646
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  541
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  89
+
+  397
+
+
+  Nein-Stimmen:
+
+
+  135
+
+
+  Enthaltungen:
+
+
+  9
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 24.03.2017
+
+
+  Beginn: 10:15
+
+  Ende: 10:17
+
+  '
 tags:
 - PKW
 - Maut
-- "Stra\xDFennetz"
-title: "Abstimmung: Erstes Gesetz zur \xC4nderung des Infrastrukturabgabengesetzes"
+- Straßennetz
+title: 'Abstimmung: Erstes Gesetz zur Änderung des Infrastrukturabgabengesetzes'
 ---

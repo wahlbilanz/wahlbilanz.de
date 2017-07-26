@@ -2,9 +2,10 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 36
+  datum: 22. Mai 2014
   legislaturperiode: 18
 categories:
-- "Ern\xE4hrung"
+- Ernährung
 - Verbraucherschutz
 - Landwirtschaft
 data:
@@ -52,16 +53,73 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=268
 - title: http://www.abgeordnetenwatch.de/nationale_ausnahmeregelungen_beim_anbau_von_gentechnik-1105-666.html
   url: http://www.abgeordnetenwatch.de/nationale_ausnahmeregelungen_beim_anbau_von_gentechnik-1105-666.html
-preview: "Deutscher Bundestag\n\n36. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 22.Mai 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\nAntrag\
-  \ der Abgeordneten Harald Ebner, B\xE4rbel H\xF6hn, Steffi Lemke, weiterer Abgeordneter\n\
-  und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN sowie der Abgeordneten Dr. Kirsten\n\
-  Tackmann, Caren Lay, Dr. Dietmar Bartsch, weiterer Abgeordneter und der Fraktion\
-  \ DIE\nLINKE.\nVorbehalte der Bev\xF6lkerung gegen\xFCber der Argo-Gentechnik anerkennen\
-  \ Gentechnikfreiheit im Pflanzenbau dauerhaft sichern\nDrucksache 18/1453\n\nAbgegebene\
-  \ Stimmen insgesamt:\n\n567\n64\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n107\n\
-  \nNein-Stimmen:\n\n457\n\nEnthaltungen:\n\n3\n\nUng\xFCltige:\n\n0\n\nBerlin, den\
-  \ 22.05.2014\n\nBeginn: 19:39\nEnde: 19:42\n"
+preview: 'Deutscher Bundestag
+
+
+  36. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 22.Mai 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Antrag der Abgeordneten Harald Ebner, Bärbel Höhn, Steffi Lemke, weiterer Abgeordneter
+
+  und der Fraktion BÜNDNIS 90/DIE GRÜNEN sowie der Abgeordneten Dr. Kirsten
+
+  Tackmann, Caren Lay, Dr. Dietmar Bartsch, weiterer Abgeordneter und der Fraktion
+  DIE
+
+  LINKE.
+
+  Vorbehalte der Bevölkerung gegenüber der Argo-Gentechnik anerkennen Gentechnikfreiheit
+  im Pflanzenbau dauerhaft sichern
+
+  Drucksache 18/1453
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  567
+
+  64
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  107
+
+
+  Nein-Stimmen:
+
+
+  457
+
+
+  Enthaltungen:
+
+
+  3
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 22.05.2014
+
+
+  Beginn: 19:39
+
+  Ende: 19:42
+
+  '
 tags:
 - Gentechnik
 - Pflanzenbau
