@@ -1,0 +1,27 @@
+{
+    "gruenen": {
+        "relativ": 18.873015873015827,
+        "absolut": 1189,
+        "abstimmungen": 212
+    },
+    "fraktionslos": {
+        "relativ": 13.0,
+        "absolut": 13,
+        "abstimmungen": 37
+    },
+    "cdu/csu": {
+        "relativ": 14.941042251790744,
+        "absolut": 4635,
+        "abstimmungen": 212
+    },
+    "spd": {
+        "relativ": 17.604490500863594,
+        "absolut": 3397,
+        "abstimmungen": 212
+    },
+    "die.linke": {
+        "relativ": 30.080605158730158,
+        "absolut": 1925,
+        "abstimmungen": 212
+    }
+}
