@@ -68,5 +68,6 @@ tags:
 - TTIP
 - CETA
 - EU
+- Schiedsgericht
 title: 'Abstimmung: Freihandelsabkommen der EU mit USA und Kanada'
 ---
