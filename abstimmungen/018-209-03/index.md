@@ -65,6 +65,7 @@ preview: "Deutscher Bundestag\n\n209. Sitzung des Deutschen Bundestages\nam Donn
   Ja-Stimmen:\n\n43\n526\n\nNein-Stimmen:\n\n60\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\
   \n0\n\nBerlin, den 15.12.2016\n\nBeginn: 12:56\nEnde: 12:59\n"
 tags:
+- Bundeswehr
 - Dafur
 - UNAMID
 - UN

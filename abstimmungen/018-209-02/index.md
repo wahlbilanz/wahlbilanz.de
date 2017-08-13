@@ -66,6 +66,7 @@ preview: "Deutscher Bundestag\n\n209. Sitzung des Deutschen Bundestages\nam Donn
   59\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin, den 15.12.2016\n\nBeginn:\
   \ 12:22\nEnde: 12:25\n"
 tags:
+- Bundeswehr
 - "S\xFCdsudan"
 - UNMISS
 - UN

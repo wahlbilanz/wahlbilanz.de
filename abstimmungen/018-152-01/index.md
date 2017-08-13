@@ -66,6 +66,7 @@ preview: "Deutscher Bundestag\n\n152. Sitzung des Deutschen Bundestages\nam Donn
   \n55\n503\n\nNein-Stimmen:\n\n66\n\nEnthaltungen:\n\n6\n\nUng\xFCltige:\n\n0\n\n\
   Berlin, den 28.01.2016\n\nBeginn: 13:13\nEnde: 13:16\n"
 tags:
+- Bundeswehr
 - Mali
 - MINUSMA
 - UN

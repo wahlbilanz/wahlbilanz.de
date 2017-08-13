@@ -63,6 +63,7 @@ preview: "Deutscher Bundestag\n\n10. Sitzung des Deutschen Bundestages\nam Mittw
   \ abgegebene Stimmen:\nJa-Stimmen:\n\n29\n467\n\nNein-Stimmen:\n\n129\n\nEnthaltungen:\n\
   \n6\n\nUng\xFCltige:\n\n0\n\nBerlin, den 29. Jan. 14\n\nBeginn: 17:26\nEnde: 17:29\n"
 tags:
+- Bundeswehr
 - Mittelmeer
 - OAE
 - NATO

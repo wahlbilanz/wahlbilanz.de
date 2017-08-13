@@ -65,6 +65,7 @@ preview: "Deutscher Bundestag\n\n127. Sitzung des Deutschen Bundestages\nam Donn
   \nNein-Stimmen:\n\n116\n\nEnthaltungen:\n\n2\n\nUng\xFCltige:\n\n0\n\nBerlin, den\
   \ 01.10.2015\n\nBeginn: 15:13\nEnde: 15:16\n"
 tags:
+- Bundeswehr
 - EU
 - Menschenhandel
 - Mittelmeer

@@ -76,6 +76,7 @@ preview: "Deutscher Bundestag\n\n106. Sitzung des Deutschen Bundestages\nam Donn
   72\n\nEnthaltungen:\n\n49\n\nUng\xFCltige:\n\nBerlin, den 21.05.2015\n\n0\n\nBeginn:\
   \ 19:37\nEnde: 19:39\n"
 tags:
+- Bundeswehr
 - EU
 - Atalanta
 - Piraterie

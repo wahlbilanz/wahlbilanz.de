@@ -59,6 +59,7 @@ preview: "Deutscher Bundestag\n\n3. Sitzung des Deutschen Bundestages\nam Donner
   60\n511\n\nNein-Stimmen:\n\n58\n\nEnthaltungen:\n\n2\n\nUng\xFCltige:\n\n0\n\nBerlin,\
   \ den 28.11.2013\n\nBeginn: 16:55\nEnde: 16:59\n"
 tags:
+- Bundeswehr
 - Darfur
 - UN
 title: 'Abstimmung: Bundeswehreinsatz in Darfur'

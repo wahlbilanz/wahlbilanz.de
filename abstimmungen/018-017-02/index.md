@@ -67,6 +67,7 @@ preview: "Deutscher Bundestag\n\n17. Sitzung des Deutschen Bundestages\nam Donne
   Nein-Stimmen:\n\n61\n\nEnthaltungen:\n\n4\n\nUng\xFCltige:\n\n0\n\nBerlin, den 20.02.2014\n\
   \nBeginn: 17:50\nEnde: 17:54\n"
 tags:
+- Bundeswehr
 - Ausbildung
 - Mali
 - EU

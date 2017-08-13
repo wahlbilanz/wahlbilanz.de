@@ -75,6 +75,7 @@ preview: "Deutscher Bundestag\n\n36. Sitzung des Deutschen Bundestages\nam Donne
   Enthaltungen:\n\n51\n\nUng\xFCltige:\n\nBerlin, den 22.05.2014\n\n0\n\nBeginn: 16:44\n\
   Ende: 16:47\n"
 tags:
+- Bundeswehr
 - EU
 - Atalanta
 - Piraterie

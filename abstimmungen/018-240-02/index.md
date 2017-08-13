@@ -74,6 +74,7 @@ preview: "Deutscher Bundestag\n\n240. Sitzung des Deutschen Bundestages\nam Donn
   55\n\nEnthaltungen:\n\n5\n\nUngültige:\n\n0\n\nBerlin, den 22.06.2017\n\nBeginn:\n\
   Ende:\n\n16:51\n16:54\nSeite:\n\n1\n\n\f"
 tags:
+- Bundeswehr
 - Kosovo
 - KFOR
 - UN

@@ -71,6 +71,7 @@ preview: "Deutscher Bundestag\n\n215. Sitzung des Deutschen Bundestages\nam Donn
   Ja-Stimmen:\n\n73\n444\n\nNein-Stimmen:\n\n67\n\nEnthaltungen:\n\n46\n\nUng\xFC\
   ltige:\n\nBerlin, den 26.01.2017\n\n0\n\nBeginn: 15:08\nEnde: 15:11\n"
 tags:
+- Bundeswehr
 - Kurdistan
 - Irak
 - Ausbildung

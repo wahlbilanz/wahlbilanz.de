@@ -67,6 +67,7 @@ preview: "Deutscher Bundestag\n\n179. Sitzung des Deutschen Bundestages\nam Donn
   \nNein-Stimmen:\n\n64\n\nEnthaltungen:\n\n6\n\nUng\xFCltige:\n\n0\n\nBerlin, den\
   \ 23.06.2016\n\nBeginn: 16:57\nEnde: 17:00\n"
 tags:
+- Bundeswehr
 - Kosovo
 - KFOR
 - UN

@@ -68,6 +68,7 @@ preview: "Deutscher Bundestag\n\n161. Sitzung des Deutschen Bundestages\nam Donn
   123\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin, den 17.03.2016\n\nBeginn:\
   \ 14:10\nEnde: 14:12\n"
 tags:
+- Bundeswehr
 - EUTM
 - Somalia
 - EU

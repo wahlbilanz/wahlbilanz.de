@@ -66,6 +66,7 @@ preview: "Deutscher Bundestag\n\n10. Sitzung des Deutschen Bundestages\nam Mittw
   71\n\nEnthaltungen:\n\n7\n\nUng\xFCltige:\n\n0\n\nBerlin, den 29. Jan. 14\n\nBeginn:\
   \ 16:41\nEnde: 16:44\n"
 tags:
+- Bundeswehr
 - OAF
 - "T\xFCrkei"
 - NATO

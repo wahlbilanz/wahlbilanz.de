@@ -64,6 +64,7 @@ preview: "Deutscher Bundestag\n\n152. Sitzung des Deutschen Bundestages\nam Donn
   Ja-Stimmen:\n\n58\n442\n\nNein-Stimmen:\n\n82\n\nEnthaltungen:\n\n48\n\nUng\xFC\
   ltige:\n\nBerlin, den 28.01.2016\n\n0\n\nBeginn: 14:01\nEnde: 14:05\n"
 tags:
+- Bundeswehr
 - Kurdistan
 - Irak
 - Ausbildung

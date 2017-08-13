@@ -66,6 +66,7 @@ preview: "Deutscher Bundestag\n\n106. Sitzung des Deutschen Bundestages\nam Donn
   59\n\nEnthaltungen:\n\n3\n\nUng\xFCltige:\n\n0\n\nBerlin, den 21.05.2015\n\nBeginn:\
   \ 20:42\nEnde: 20:46\n"
 tags:
+- Bundeswehr
 - UNMIL
 - Liberia
 - UN

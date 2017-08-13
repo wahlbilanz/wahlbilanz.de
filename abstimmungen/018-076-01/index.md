@@ -64,6 +64,7 @@ preview: "Deutscher Bundestag\n\n76. Sitzung des Deutschen Bundestages\nam Donne
   Ja-Stimmen:\n\n37\n472\n\nNein-Stimmen:\n\n102\n\nEnthaltungen:\n\n18\n\nUng\xFC\
   ltige:\n\nBerlin, den 18.12.2014\n\n0\n\nBeginn: 17:11\nEnde: 17:14\n"
 tags:
+- Bundeswehr
 - Afghanistan
 - ISAF
 - NATO

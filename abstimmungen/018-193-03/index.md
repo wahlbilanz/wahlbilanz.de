@@ -63,6 +63,7 @@ preview: "Deutscher Bundestag\n\n193. Sitzung des Deutschen Bundestages\nam Donn
   \ Stimmen:\nJa-Stimmen:\n\n71\n441\n\nNein-Stimmen:\n\n117\n\nEnthaltungen:\n\n\
   1\n\nUng\xFCltige:\n\n0\n\nBerlin, den 29.09.2016\n\nBeginn: 19:29\nEnde: 19:32\n"
 tags:
+- Bundeswehr
 - Mittelmeer
 - SEA GUARDIAN
 - NATO

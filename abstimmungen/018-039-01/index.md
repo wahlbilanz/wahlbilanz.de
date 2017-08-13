@@ -67,6 +67,7 @@ preview: "Deutscher Bundestag\n\n39. Sitzung des Deutschen Bundestages\nam Donne
   Enthaltungen:\n\n7\n\nUng\xFCltige:\n\n0\n\nBerlin, den 05.06.2014\n\nBeginn: 15:41\n\
   Ende: 15:44\n"
 tags:
+- Bundeswehr
 - Kosovo
 - KFOR
 - UN

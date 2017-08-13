@@ -65,6 +65,7 @@ preview: "Deutscher Bundestag\n\n179. Sitzung des Deutschen Bundestages\nam Donn
   Nicht abgegebene Stimmen:\nJa-Stimmen:\n\n63\n496\n\nNein-Stimmen:\n\n66\n\nEnthaltungen:\n\
   \n5\n\nUng\xFCltige:\n\n0\n\nBerlin, den 23.06.2016\n\nBeginn: 18:21\nEnde: 18:24\n"
 tags:
+- Bundeswehr
 - UNIFIL
 - Libanon
 - UN

@@ -68,6 +68,7 @@ preview: "Deutscher Bundestag\n\n88. Sitzung des Deutschen Bundestages\nam Donne
   Ja-Stimmen:\n\n51\n516\n\nNein-Stimmen:\n\n61\n\nEnthaltungen:\n\n3\n\nUng\xFCltige:\n\
   \n0\n\nBerlin, den 26.02.2015\n\nBeginn: 14:47\nEnde: 14:50\n"
 tags:
+- Bundeswehr
 - Ausbildung
 - Mali
 - EU

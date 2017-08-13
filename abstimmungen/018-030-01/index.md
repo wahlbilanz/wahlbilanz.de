@@ -67,6 +67,7 @@ preview: "Deutscher Bundestag\n\n30. Sitzung des Deutschen Bundestages\nam Donne
   \n576\n55\n514\n\nNein-Stimmen:\n\n59\n\nEnthaltungen:\n\n3\n\nUng\xFCltige:\n\n\
   0\n\nBerlin, den 10.04.2014\n\nBeginn: 17:58\nEnde: 18:02\n"
 tags:
+- Bundeswehr
 - Afrika
 - EU
 - UN

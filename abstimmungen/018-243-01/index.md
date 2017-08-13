@@ -70,6 +70,7 @@ preview: "Deutscher Bundestag\n\n243. Sitzung des Deutschen Bundestages\nam Donn
   116\n\nEnthaltungen:\n\n3\n\nUngültige:\n\n0\n\nBerlin, den 29.06.2017\n\nBeginn:\n\
   Ende:\n\n14:15\n14:18\nSeite:\n\n1\n\n\f"
 tags:
+- Bundeswehr
 - EU
 - Menschenhandel
 - Menschenschmuggel

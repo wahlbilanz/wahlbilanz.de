@@ -65,6 +65,7 @@ preview: "Deutscher Bundestag\n\n146. Sitzung des Deutschen Bundestages\nam Donn
   112\n\nEnthaltungen:\n\n10\n\nUng\xFCltige:\n\nBerlin, den 17.12.2015\n\n0\n\nBeginn:\
   \ 11:26\nEnde: 11:29\n"
 tags:
+- Bundeswehr
 - Ausbildung
 - NATO
 - Resolute Support

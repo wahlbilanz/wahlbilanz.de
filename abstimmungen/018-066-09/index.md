@@ -66,6 +66,7 @@ preview: "Deutscher Bundestag\n\n66. Sitzung des Deutschen Bundestages\nam Donne
   55\n\nEnthaltungen:\n\n3\n\nUng\xFCltige:\n\n0\n\nBerlin, den 13.11.2014\n\nBeginn:\
   \ 22:18\nEnde: 22:21\n"
 tags:
+- Bundeswehr
 - "S\xFCdsudan"
 - UNMISS
 - UN

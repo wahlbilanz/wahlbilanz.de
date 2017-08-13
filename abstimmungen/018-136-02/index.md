@@ -65,6 +65,7 @@ preview: "Deutscher Bundestag\n\n136. Sitzung des Deutschen Bundestages\nam Donn
   Ja-Stimmen:\n\n57\n514\n\nNein-Stimmen:\n\n57\n\nEnthaltungen:\n\n2\n\nUng\xFCltige:\n\
   \n0\n\nBerlin, den 12.11.2015\n\nBeginn: 20:59\nEnde: 21:02\n"
 tags:
+- Bundeswehr
 - Dafur
 - UNAMID
 - UN

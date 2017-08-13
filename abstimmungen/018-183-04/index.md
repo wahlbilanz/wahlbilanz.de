@@ -61,6 +61,7 @@ preview: "Deutscher Bundestag\n\n183. Sitzung des Deutschen Bundestages\nam Donn
   \n111\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin, den 07.07.2016\n\n\
   Beginn: 19:48\nEnde: 19:51\n"
 tags:
+- Bundeswehr
 - EU
 - Menschenhandel
 - Menschenschmuggel

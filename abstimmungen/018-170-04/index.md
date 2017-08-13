@@ -69,6 +69,7 @@ preview: "Deutscher Bundestag\n\n170. Sitzung des Deutschen Bundestages\nam Donn
   67\n\nEnthaltungen:\n\n2\n\nUng\xFCltige:\n\n0\n\nBerlin, den 12.05.2016\n\nBeginn:\
   \ 19:05\nEnde: 19:08\n"
 tags:
+- Bundeswehr
 - Ausbildung
 - Mali
 - EU

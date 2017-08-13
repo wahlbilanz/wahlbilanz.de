@@ -66,6 +66,7 @@ preview: "Deutscher Bundestag\n\n113. Sitzung des Deutschen Bundestages\nam Frei
   65\n\nEnthaltungen:\n\n4\n\nUng\xFCltige:\n\n0\n\nBerlin, den 19.06.2015\n\nBeginn:\
   \ 10:11\nEnde: 10:14\n"
 tags:
+- Bundeswehr
 - Mali
 - MINUSMA
 - UN

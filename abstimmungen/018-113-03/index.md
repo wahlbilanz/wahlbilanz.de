@@ -66,6 +66,7 @@ preview: "Deutscher Bundestag\n\n113. Sitzung des Deutschen Bundestages\nam Frei
   \nEnthaltungen:\n\n7\n\nUng\xFCltige:\n\n0\n\nBerlin, den 19.06.2015\n\nBeginn:\
   \ 10:46\nEnde: 10:50\n"
 tags:
+- Bundeswehr
 - UNIFIL
 - Libanon
 - UN

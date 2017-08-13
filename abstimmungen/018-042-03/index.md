@@ -65,6 +65,7 @@ preview: "Deutscher Bundestag\n\n42. Sitzung des Deutschen Bundestages\nam Mittw
   \n588\n43\n514\n\nNein-Stimmen:\n\n66\n\nEnthaltungen:\n\n8\n\nUng\xFCltige:\n\n\
   0\n\nBerlin, den 25.06.2014\n\nBeginn: 14:21\nEnde: 14:25\n"
 tags:
+- Bundeswehr
 - UNIFIL
 - Libanon
 - UN

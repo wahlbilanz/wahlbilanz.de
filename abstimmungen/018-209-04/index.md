@@ -65,6 +65,7 @@ preview: "Deutscher Bundestag\n\n209. Sitzung des Deutschen Bundestages\nam Donn
   \n101\n\nEnthaltungen:\n\n9\n\nUng\xFCltige:\n\n0\n\nBerlin, den 15.12.2016\n\n\
   Beginn: 16:57\nEnde: 17:00\n"
 tags:
+- Bundeswehr
 - Afghanistan
 - ISAF
 - NATO

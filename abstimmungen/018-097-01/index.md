@@ -65,6 +65,7 @@ preview: "Deutscher Bundestag\n\n97. Sitzung des Deutschen Bundestages\nam Donne
   \ Stimmen:\nJa-Stimmen:\n\n54\n453\n\nNein-Stimmen:\n\n115\n\nEnthaltungen:\n\n\
   9\n\nUng\xFCltige:\n\n0\n\nBerlin, den 26.03.2015\n\nBeginn: 15:32\nEnde: 15:35\n"
 tags:
+- Bundeswehr
 - EUTM
 - Somalia
 - EU

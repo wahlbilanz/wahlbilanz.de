@@ -61,6 +61,7 @@ preview: "Deutscher Bundestag\n\n146. Sitzung des Deutschen Bundestages\nam Donn
   Ja-Stimmen:\n\n29\n467\n\nNein-Stimmen:\n\n133\n\nEnthaltungen:\n\n1\n\nUng\xFC\
   ltige:\n\n0\n\nBerlin, den 17.12.2015\n\nBeginn: 12:09\nEnde: 12:12\n"
 tags:
+- Bundeswehr
 - Mittelmeer
 - OAE
 - NATO

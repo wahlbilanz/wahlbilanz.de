@@ -70,6 +70,7 @@ preview: "Deutscher Bundestag\n\n228. Sitzung des Deutschen Bundestages\nam Donn
   \ Stimmen:\nJa-Stimmen:\n\n93\n435\n\nNein-Stimmen:\n\n102\n\nEnthaltungen:\n\n\
   0\n\nUng\xFCltige:\n\n0\n\nBerlin, den 30.03.2017\n\nBeginn: 19:21\nEnde: 19:24\n"
 tags:
+- Bundeswehr
 - EUTM
 - Somalia
 - EU

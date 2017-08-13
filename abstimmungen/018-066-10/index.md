@@ -65,6 +65,7 @@ preview: "Deutscher Bundestag\n\n66. Sitzung des Deutschen Bundestages\nam Donne
   \ Stimmen:\nJa-Stimmen:\n\n54\n521\n\nNein-Stimmen:\n\n54\n\nEnthaltungen:\n\n2\n\
   \nUng\xFCltige:\n\n0\n\nBerlin, den 13.11.2014\n\nBeginn: 22:50\nEnde: 22:53\n"
 tags:
+- Bundeswehr
 - Dafur
 - UNAMID
 - UN

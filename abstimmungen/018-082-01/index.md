@@ -63,6 +63,7 @@ preview: "Deutscher Bundestag\n\n82. Sitzung des Deutschen Bundestages\nam Donne
   \ Stimmen:\nJa-Stimmen:\n\n41\n457\n\nNein-Stimmen:\n\n79\n\nEnthaltungen:\n\n54\n\
   \nUng\xFCltige:\n\nBerlin, den 29.01.2015\n\n0\n\nBeginn: 15:07\nEnde: 15:10\n"
 tags:
+- Bundeswehr
 - Kurdistan
 - Irak
 - Ausbildung

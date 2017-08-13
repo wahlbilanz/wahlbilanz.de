@@ -67,6 +67,7 @@ preview: "Deutscher Bundestag\n\n26. Sitzung des Deutschen Bundestages\nam Donne
   118\n\nEnthaltungen:\n\n2\n\nUng\xFCltige:\n\n0\n\nBerlin, den 03.04.2014\n\nBeginn:\
   \ 14:44\nEnde: 14:47\n"
 tags:
+- Bundeswehr
 - EUTM
 - Somalia
 - EU

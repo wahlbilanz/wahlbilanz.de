@@ -67,6 +67,7 @@ preview: "Deutscher Bundestag\n\n144. Sitzung des Deutschen Bundestages\nam Frei
   145\n\nEnthaltungen:\n\n7\n\nUng\xFCltige:\n\n0\n\nBerlin, den 04.12.2015\n\nBeginn:\
   \ 11:01\nEnde: 11:04\n"
 tags:
+- Bundeswehr
 - IS
 - UN
 - Syrien

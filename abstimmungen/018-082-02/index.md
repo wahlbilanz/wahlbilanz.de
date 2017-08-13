@@ -66,6 +66,7 @@ preview: "Deutscher Bundestag\n\n82. Sitzung des Deutschen Bundestages\nam Donne
   70\n\nEnthaltungen:\n\n7\n\nUng\xFCltige:\n\n0\n\nBerlin, den 29.01.2015\n\nBeginn:\
   \ 16:42\nEnde: 16:45\n"
 tags:
+- Bundeswehr
 - OAF
 - "T\xFCrkei"
 - NATO

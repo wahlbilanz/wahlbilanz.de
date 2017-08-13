@@ -65,6 +65,7 @@ preview: "Deutscher Bundestag\n\n42. Sitzung des Deutschen Bundestages\nam Mittw
   \n64\n\nEnthaltungen:\n\n5\n\nUng\xFCltige:\n\n0\n\nBerlin, den 25.06.2014\n\nBeginn:\
   \ 13:47\nEnde: 13:49\n"
 tags:
+- Bundeswehr
 - Mali
 - MINUSMA
 - UN

@@ -59,6 +59,7 @@ preview: "Beteiligung bewaffneter deutscher Streitkr\xE4fte am maritimen Begleit
   \ VN/OVCW-Mission zur Vernichtung der syrischen Chemiewaffen (Drucksachen 18/984\
   \ und 18/1067)\n"
 tags:
+- Bundeswehr
 - Chemiewaffen
 - Syrien
 - CAPE RAY

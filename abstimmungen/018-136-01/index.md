@@ -65,6 +65,7 @@ preview: "Deutscher Bundestag\n\n136. Sitzung des Deutschen Bundestages\nam Donn
   \ abgegebene Stimmen:\nJa-Stimmen:\n\n53\n517\n\nNein-Stimmen:\n\n58\n\nEnthaltungen:\n\
   \n2\n\nUng\xFCltige:\n\n0\n\nBerlin, den 12.11.2015\n\nBeginn: 19:56\nEnde: 19:58\n"
 tags:
+- Bundeswehr
 - "S\xFCdsudan"
 - UNMISS
 - UN

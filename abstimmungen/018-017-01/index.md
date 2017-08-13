@@ -66,6 +66,7 @@ preview: "Deutscher Bundestag\n\n17. Sitzung des Deutschen Bundestages\nam Donne
   Ja-Stimmen:\n\n599\n32\n498\n\nNein-Stimmen:\n\n84\n\nEnthaltungen:\n\n17\n\nUng\xFC\
   ltige:\n\nBerlin, den 20.02.2014\n\n0\n\nBeginn: 15:39\nEnde: 15:43\n"
 tags:
+- Bundeswehr
 - Afghanistan
 - ISAF
 - NATO

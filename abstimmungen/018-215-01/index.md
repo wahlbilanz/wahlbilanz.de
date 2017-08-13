@@ -73,6 +73,7 @@ preview: "Deutscher Bundestag\n\n215. Sitzung des Deutschen Bundestages\nam Donn
   \ Stimmen:\nJa-Stimmen:\n\n74\n498\n\nNein-Stimmen:\n\n55\n\nEnthaltungen:\n\n3\n\
   \nUng\xFCltige:\n\n0\n\nBerlin, den 26.01.2017\n\nBeginn: 14:10\nEnde: 14:13\n"
 tags:
+- Bundeswehr
 - Mali
 - MINUSMA
 - UN

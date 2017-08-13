@@ -68,6 +68,7 @@ preview: "Deutscher Bundestag\n\n199. Sitzung des Deutschen Bundestages\nam Donn
   \n139\n\nEnthaltungen:\n\n2\n\nUng\xFCltige:\n\n0\n\nBerlin, den 10.11.2016\n\n\
   Beginn: 17:52\nEnde: 17:55\n"
 tags:
+- Bundeswehr
 - IS
 - UN
 - Syrien

@@ -70,6 +70,7 @@ preview: "Deutscher Bundestag\n\n170. Sitzung des Deutschen Bundestages\nam Donn
   \nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n67\n456\n\nNein-Stimmen:\n\n72\n\nEnthaltungen:\n\
   \n35\n\nUng\xFCltige:\n\nBerlin, den 12.05.2016\n\n0\n\nBeginn: 20:18\nEnde: 20:21\n"
 tags:
+- Bundeswehr
 - EU
 - Atalanta
 - Piraterie

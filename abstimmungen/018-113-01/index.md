@@ -67,6 +67,7 @@ preview: "Deutscher Bundestag\n\n113. Sitzung des Deutschen Bundestages\nam Frei
   60\n\nEnthaltungen:\n\n7\n\nUng\xFCltige:\n\n0\n\nBerlin, den 19.06.2015\n\nBeginn:\n\
   Ende:\n\n9:38\n9:40\n"
 tags:
+- Bundeswehr
 - Kosovo
 - KFOR
 - UN

@@ -63,6 +63,7 @@ preview: "Deutscher Bundestag\n\n76. Sitzung des Deutschen Bundestages\nam Donne
   \ Stimmen:\nJa-Stimmen:\n\n43\n461\n\nNein-Stimmen:\n\n122\n\nEnthaltungen:\n\n\
   3\n\nUng\xFCltige:\n\n0\n\nBerlin, den 18.12.2014\n\nBeginn: 17:57\nEnde: 18:01\n"
 tags:
+- Bundeswehr
 - Mittelmeer
 - OAE
 - NATO

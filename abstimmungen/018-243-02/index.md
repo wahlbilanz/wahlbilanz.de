@@ -70,6 +70,7 @@ preview: "Deutscher Bundestag\n\n243. Sitzung des Deutschen Bundestages\nam Donn
   \n59\n\nEnthaltungen:\n\n7\n\nUngültige:\n\n0\n\nBerlin, den 29.06.2017\n\nBeginn:\n\
   Ende:\n\n20:42\n20:46\nSeite:\n\n1\n\n\f"
 tags:
+- Bundeswehr
 - UNIFIL
 - Libanon
 - UN

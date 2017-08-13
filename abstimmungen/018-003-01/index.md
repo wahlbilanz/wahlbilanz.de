@@ -61,6 +61,7 @@ preview: "Deutscher Bundestag\n\n3. Sitzung des Deutschen Bundestages\nam Donner
   \ Stimmen:\nJa-Stimmen:\n\n29\n540\n\nNein-Stimmen:\n\n60\n\nEnthaltungen:\n\n2\n\
   \nUng\xFCltige:\n\n0\n\nBerlin, den 28. Nov. 13\n\nBeginn: 11:11\nEnde: 11:16\n"
 tags:
+- Bundeswehr
 - "S\xFCdsudan"
 - UNMISS
 - UN
