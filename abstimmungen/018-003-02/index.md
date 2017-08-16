@@ -113,6 +113,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - Darfur
 - UN
 title: 'Abstimmung: Bundeswehreinsatz in Darfur'

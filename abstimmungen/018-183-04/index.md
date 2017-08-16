@@ -118,6 +118,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - EU
 - Menschenhandel
 - Menschenschmuggel

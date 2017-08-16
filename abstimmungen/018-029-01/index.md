@@ -61,6 +61,7 @@ preview: "Deutscher Bundestag\n\n29. Sitzung des Deutschen Bundestages\nam Mittw
   \ syrischer Chemiewaffen an Bord der CAPE RAY im Rahmen der gemeinsamen VN/OVCW-Mission\
   \ zur Vernichtung der syrischen Chemiewaffen (Drucksachen 18/984 und 18/1067)\n"
 tags:
+- Bundeswehr
 - Chemiewaffen
 - Syrien
 - CAPE RAY

@@ -126,6 +126,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - UNMIL
 - Liberia
 - UN

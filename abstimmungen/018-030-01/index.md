@@ -126,6 +126,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - Afrika
 - EU
 - UN

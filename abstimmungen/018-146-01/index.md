@@ -123,6 +123,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - Ausbildung
 - NATO
 - Resolute Support

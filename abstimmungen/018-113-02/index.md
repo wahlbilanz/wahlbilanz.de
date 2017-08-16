@@ -124,6 +124,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - Mali
 - MINUSMA
 - UN

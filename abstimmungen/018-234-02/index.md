@@ -71,6 +71,7 @@ preview: "Deutscher Bundestag\n\n234. Sitzung des Deutschen Bundestages\nam Donn
   \nNein-Stimmen:\n\n71\n\nEnthaltungen:\n\n32\n\nUngültige:\n\nBerlin, den 18.05.2017\n\
   \n0\n\nBeginn:\nEnde:\n\n19:43\n19:47\nSeite:\n\n1\n\n\f"
 tags:
+- Bundeswehr
 - EU
 - Atalanta
 - Piraterie

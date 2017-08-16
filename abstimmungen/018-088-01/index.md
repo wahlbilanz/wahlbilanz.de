@@ -132,6 +132,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - Ausbildung
 - Mali
 - EU

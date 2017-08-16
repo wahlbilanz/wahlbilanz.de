@@ -127,6 +127,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - EUTM
 - Somalia
 - EU

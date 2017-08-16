@@ -118,6 +118,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - Südsudan
 - UNMISS
 - UN

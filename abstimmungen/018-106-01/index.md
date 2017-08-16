@@ -147,6 +147,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - EU
 - Atalanta
 - Piraterie

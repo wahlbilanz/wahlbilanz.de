@@ -74,6 +74,7 @@ preview: "Deutscher Bundestag\n\n234. Sitzung des Deutschen Bundestages\nam Donn
   64\n\nEnthaltungen:\n\n1\n\nUngültige:\n\n0\n\nBerlin, den 18.05.2017\n\nBeginn:\n\
   Ende:\n\n18:37\n18:40\nSeite:\n\n1\n\n\f"
 tags:
+- Bundeswehr
 - Ausbildung
 - Mali
 - EU

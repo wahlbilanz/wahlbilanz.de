@@ -124,6 +124,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - Afghanistan
 - ISAF
 - NATO

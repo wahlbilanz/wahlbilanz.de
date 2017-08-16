@@ -71,6 +71,7 @@ preview: "Deutscher Bundestag\n\n239. Sitzung des Deutschen Bundestages\nam Mitt
   \n0\n\nUngültige:\n\n0\n\nBerlin, den 21.06.2017\n\nBeginn:\nEnde:\n\n17:38\n17:41\n\
   Seite:\n\n1\n\n\f"
 tags:
+- Bundeswehr
 - Incirlik
 - IS
 - Türkei

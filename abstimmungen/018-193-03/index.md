@@ -120,6 +120,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - Mittelmeer
 - SEA GUARDIAN
 - NATO

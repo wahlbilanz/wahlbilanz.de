@@ -122,6 +122,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - Kurdistan
 - Irak
 - Ausbildung

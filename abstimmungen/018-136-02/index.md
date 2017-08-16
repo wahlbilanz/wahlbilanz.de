@@ -123,6 +123,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - Dafur
 - UNAMID
 - UN

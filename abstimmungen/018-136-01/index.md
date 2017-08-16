@@ -125,6 +125,7 @@ preview: 'Deutscher Bundestag
   '
 tags:
 - Südsudan
+- Bundeswehr
 - UNMISS
 - UN
 title: 'Abstimmung: Bundeswehreinsatz in Südsudan (UNMISS)'

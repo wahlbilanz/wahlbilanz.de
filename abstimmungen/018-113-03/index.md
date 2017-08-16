@@ -125,6 +125,7 @@ preview: 'Deutscher Bundestag
 
   '
 tags:
+- Bundeswehr
 - UNIFIL
 - Libanon
 - UN
