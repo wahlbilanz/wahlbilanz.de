@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 66
+  datum: 13. November 2014
   legislaturperiode: 18
 categories:
 - Wissenschaft
@@ -54,17 +55,70 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=309
 - title: http://www.abgeordnetenwatch.de/lockerung_des_kooperationsverbotes_bei_hochschulfinanzierung-1105-691.html
   url: http://www.abgeordnetenwatch.de/lockerung_des_kooperationsverbotes_bei_hochschulfinanzierung-1105-691.html
-preview: "Deutscher Bundestag\n\n66. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 13.November 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\
-  \nGesetzentwurf der Bundesregierung\nEntwurf eines Gesetzes zur \xC4nderung des\
-  \ Grundgesetzes (Artikel 91b)\nDrs. 18/2710 und 18/3141\n\nAbgegebene Stimmen insgesamt:\n\
-  \n592\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n39\n482\n\nNein-Stimmen:\n\n\
-  54\n\nEnthaltungen:\n\n56\n\nUng\xFCltige:\n\nBerlin, den 13.11.2014\n\n0\n\nBeginn:\
-  \ 18:40\nEnde: 18:43\n"
+preview: 'Deutscher Bundestag
+
+
+  66. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 13.November 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur Änderung des Grundgesetzes (Artikel 91b)
+
+  Drs. 18/2710 und 18/3141
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  592
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  39
+
+  482
+
+
+  Nein-Stimmen:
+
+
+  54
+
+
+  Enthaltungen:
+
+
+  56
+
+
+  Ungültige:
+
+
+  Berlin, den 13.11.2014
+
+
+  0
+
+
+  Beginn: 18:40
+
+  Ende: 18:43
+
+  '
 tags:
-- "Bund-L\xE4nder"
+- Bund-Länder
 - Hochschulen
 - Kooperation
 - Forschung
-title: "Abstimmung: Bund-L\xE4nder-Wissenschaftskooperation"
+title: 'Abstimmung: Bund-Länder-Wissenschaftskooperation'
 ---

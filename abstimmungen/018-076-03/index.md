@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 76
+  datum: 18. Dezember 2014
   legislaturperiode: 18
 categories:
 - Inneres
@@ -56,19 +57,77 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=322
 - title: http://www.abgeordnetenwatch.de/bundesdatenschutzgesetz-1105-707.html
   url: http://www.abgeordnetenwatch.de/bundesdatenschutzgesetz-1105-707.html
-preview: "Deutscher Bundestag\n\n76. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 18.Dezember 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\
-  \n\xC4nderungsantrag der Abgeordneten Dr. Konstantin von Notz, Irene Mihalic, Renate\
-  \ K\xFCnast,\nweiterer Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\n\
-  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung\nEntwurf eines Zweiten\
-  \ Gesetzes zur \xC4nderung des Bundesdatenschutzgesetzes - St\xE4rkung\nder Unabh\xE4\
-  ngigkeit der Datenschutzaufsicht im Bund durch Errichtung einer obersten\nBundesbeh\xF6\
-  rde\nDrs. 18/2848, 18/3598 und 18/3601\n\nAbgegebene Stimmen insgesamt:\n\n566\n\
-  \nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n63\n110\n\nNein-Stimmen:\n\n456\n\n\
-  Enthaltungen:\n\n0\n\nUng\xFCltige:\n\n0\n\nBerlin, den 18.12.2014\n\nBeginn: 21:07\n\
-  Ende: 21:10\n"
+preview: 'Deutscher Bundestag
+
+
+  76. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 18.Dezember 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Änderungsantrag der Abgeordneten Dr. Konstantin von Notz, Irene Mihalic, Renate
+  Künast,
+
+  weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Zweiten Gesetzes zur Änderung des Bundesdatenschutzgesetzes - Stärkung
+
+  der Unabhängigkeit der Datenschutzaufsicht im Bund durch Errichtung einer obersten
+
+  Bundesbehörde
+
+  Drs. 18/2848, 18/3598 und 18/3601
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  566
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  63
+
+  110
+
+
+  Nein-Stimmen:
+
+
+  456
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 18.12.2014
+
+
+  Beginn: 21:07
+
+  Ende: 21:10
+
+  '
 tags:
 - Datenschutz
 - Verbraucherschutz
-title: "Abstimmung: \xC4nderung des Bundesdatenschutzgesetzes, \xC4nderungsantrag"
+title: 'Abstimmung: Änderung des Bundesdatenschutzgesetzes, Änderungsantrag'
 ---

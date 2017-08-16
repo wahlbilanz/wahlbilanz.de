@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 11
   bundestagssitzung: 237
+  datum: 1. Juni 2017
   legislaturperiode: 18
 categories:
 - Ausland
@@ -15,11 +16,11 @@ data:
   url: /res/abstimmungsliste/csv/20170601_11_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-237-11/1812099.pdf
-  title: 'Drucksache 18/12099'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/120/1812099.pdf'
+  title: Drucksache 18/12099
+  url: http://dip21.bundestag.de/dip21/btd/18/120/1812099.pdf
 - local: /res/abstimmungsdaten/018-237-11/1812414.pdf
-  title: 'Drucksache 18/12414'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/124/1812414.pdf'
+  title: Drucksache 18/12414
+  url: http://dip21.bundestag.de/dip21/btd/18/124/1812414.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 1
@@ -61,10 +62,71 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=475
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=475
-preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donnerstag, 1. Juni 2017\n\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 11\n\nBeschlussempfehlung des Innenausschuss (4. Ausschuss) zu dem Antrag der\nAbgeordneten Luise Amtsberg, Omid Nouripour, Volker Beck (Köln), weiterer\nAbgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN\nAbschiebung nach Afghanistan\n\n- Drucksache 18/12099 und 18/12414 -\n\nAbgegebene Stimmen insgesamt:\nNicht abgegebene Stimmen:\nJa-Stimmen:\nNein-Stimmen:\nEnthaltungen:\nUngültige:\n561\n69\n439\n108\n14\n0\nBerlin, den 02.06.2017\n\nBeginn:\nEnde:\n23:17\n23:19\nSeite:\n1"
+preview: 'Deutscher Bundestag
+
+
+  237. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 1. Juni 2017
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 11
+
+
+  Beschlussempfehlung des Innenausschuss (4. Ausschuss) zu dem Antrag der
+
+  Abgeordneten Luise Amtsberg, Omid Nouripour, Volker Beck (Köln), weiterer
+
+  Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  Abschiebung nach Afghanistan
+
+
+  - Drucksache 18/12099 und 18/12414 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+  Nein-Stimmen:
+
+  Enthaltungen:
+
+  Ungültige:
+
+  561
+
+  69
+
+  439
+
+  108
+
+  14
+
+  0
+
+  Berlin, den 02.06.2017
+
+
+  Beginn:
+
+  Ende:
+
+  23:17
+
+  23:19
+
+  Seite:
+
+  1'
 tags:
 - Afghanistan
 - Bleiberecht
 - Asyl
-title: 'Abstimmung: Abschiebung nach Afghanistan, Beschlussempfehlung zum Antrag Bündnis 90/Die Grünen'
+title: 'Abstimmung: Abschiebung nach Afghanistan, Beschlussempfehlung zum Antrag Bündnis
+  90/Die Grünen'
 ---

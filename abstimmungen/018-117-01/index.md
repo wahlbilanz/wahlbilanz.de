@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 117
+  datum: 17. Juli 2015
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -50,20 +51,82 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=352
 - title: http://www.abgeordnetenwatch.de/verhandlungsmandat_fuer_griechenland_finanzhilfen-1105-758.html
   url: http://www.abgeordnetenwatch.de/verhandlungsmandat_fuer_griechenland_finanzhilfen-1105-758.html
-preview: "Deutscher Bundestag\n\n117. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 17.Juli 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\
-  Antrag des Bundesministeriums der Finanzen\nStabilit\xE4tshilfe zugunsten Griechenlands\n\
-  Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach \xA7 4 Absatz\
-  \ 1\nNr. 1 des ESM-Finanzierungsgesetzes (ESMFinG), der Hellenischen Republik nach\
-  \ Art. 13\nAbsatz 2 des ESM-Vertrages grunds\xE4tzlich Stabilit\xE4tshilfe in Form\
-  \ eines ESM-Darlehens zu\ngew\xE4hren;\nVerwendung der SMP-Mittel 2014 zur Absicherung\
-  \ einer Br\xFCckenfinanzierung\nDrs. 18/5590\n\nAbgegebene Stimmen insgesamt:\n\n\
-  598\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n32\n439\n\nNein-Stimmen:\n\n119\n\
-  \nEnthaltungen:\n\n40\n\nUng\xFCltige:\n\nBerlin, den 17.07.2015\n\n0\n\nBeginn:\
-  \ 13:34\nEnde: 13:37\n"
+preview: 'Deutscher Bundestag
+
+
+  117. Sitzung des Deutschen Bundestages
+
+  am Freitag, 17.Juli 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Antrag des Bundesministeriums der Finanzen
+
+  Stabilitätshilfe zugunsten Griechenlands
+
+  Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 4 Absatz
+  1
+
+  Nr. 1 des ESM-Finanzierungsgesetzes (ESMFinG), der Hellenischen Republik nach Art.
+  13
+
+  Absatz 2 des ESM-Vertrages grundsätzlich Stabilitätshilfe in Form eines ESM-Darlehens
+  zu
+
+  gewähren;
+
+  Verwendung der SMP-Mittel 2014 zur Absicherung einer Brückenfinanzierung
+
+  Drs. 18/5590
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  598
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  32
+
+  439
+
+
+  Nein-Stimmen:
+
+
+  119
+
+
+  Enthaltungen:
+
+
+  40
+
+
+  Ungültige:
+
+
+  Berlin, den 17.07.2015
+
+
+  0
+
+
+  Beginn: 13:34
+
+  Ende: 13:37
+
+  '
 tags:
 - EU
 - Griechenland
 - Stabilisierung
-title: "Abstimmung: Stabilit\xE4tshilfe zugunsten Griechenlands"
+title: 'Abstimmung: Stabilitätshilfe zugunsten Griechenlands'
 ---

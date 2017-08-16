@@ -2,9 +2,10 @@
 abstimmung:
   abstimmung: 4
   bundestagssitzung: 36
+  datum: 22. Mai 2014
   legislaturperiode: 18
 categories:
-- "Ern\xE4hrung"
+- Ernährung
 - Verbraucherschutz
 - Landwirtschaft
 data:
@@ -52,13 +53,67 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=277
 - title: http://www.abgeordnetenwatch.de/nationale_ausnahmeregelungen_beim_anbau_von_gentechnik-1105-666.html
   url: http://www.abgeordnetenwatch.de/nationale_ausnahmeregelungen_beim_anbau_von_gentechnik-1105-666.html
-preview: "Deutscher Bundestag\n\n36. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 22.Mai 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 4\n\nAntrag\
-  \ der Fraktionen CDU/CSU und SPD\nGr\xFCne Gentechnik - Sorgen und Vorbehalte der\
-  \ Menschen ernst nehmen, Selbstbestimmung\nst\xE4rken, Wahlfreiheit erm\xF6glichen\n\
-  - Drucksache 18/1450 -\n\nAbgegebene Stimmen insgesamt:\n\n565\n66\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n459\n\nNein-Stimmen:\n\n106\n\nEnthaltungen:\n\n0\n\n\
-  Ung\xFCltige:\n\n0\n\nBerlin, den 05.06.2014\n\nBeginn: 19:43\nEnde: 19:46\n"
+preview: 'Deutscher Bundestag
+
+
+  36. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 22.Mai 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
+
+
+  Antrag der Fraktionen CDU/CSU und SPD
+
+  Grüne Gentechnik - Sorgen und Vorbehalte der Menschen ernst nehmen, Selbstbestimmung
+
+  stärken, Wahlfreiheit ermöglichen
+
+  - Drucksache 18/1450 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  565
+
+  66
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  459
+
+
+  Nein-Stimmen:
+
+
+  106
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 05.06.2014
+
+
+  Beginn: 19:43
+
+  Ende: 19:46
+
+  '
 tags:
 - Gentechnik
 - Pflanzenbau

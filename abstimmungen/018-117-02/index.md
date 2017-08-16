@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 117
+  datum: 17. Juli 2015
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -50,22 +51,80 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=353
 - title: http://www.abgeordnetenwatch.de/verhandlungsmandat_fuer_griechenland_finanzhilfen-1105-758.html
   url: http://www.abgeordnetenwatch.de/verhandlungsmandat_fuer_griechenland_finanzhilfen-1105-758.html
-preview: "Deutscher Bundestag\n\n117. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 17.Juli 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\n\
-  Entschlie\xDFungsantrag der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nzu der Beratung\
-  \ des Antrags des Bundesministeriums der Finanzen\nStabilit\xE4tshilfe zugunsten\
-  \ Griechenlands\nEinholung eines zustimmenden Beschlusses des Deutschen Bundestages\
-  \ nach \xA7 4 Absatz 1\nNummer 1 des ESM-Finanzierungsgesetzes (ESMFinG), der Hellenischen\
-  \ Republik nach\nArt. 13 Absatz 2 des ESM-Vertrages grunds\xE4tzlich Stabilit\xE4\
-  tshilfe in Form eines ESMDarlehens zu gew\xE4hren;\nVerwendung der SMP-Mittel 2014\
-  \ zur Absicherung einer Br\xFCckenfinanzierung\nDrs. 18/5590 und 18/5593\n\nAbgegebene\
-  \ Stimmen insgesamt:\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n598\n32\n74\n\n\
-  Nein-Stimmen:\n\n484\n\nEnthaltungen:\n\n40\n\nUng\xFCltige:\n\nBerlin, den 17.07.2015\n\
-  \n0\n\nBeginn: 13:39\nEnde: 13:42\n"
+preview: 'Deutscher Bundestag
+
+
+  117. Sitzung des Deutschen Bundestages
+
+  am Freitag, 17.Juli 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Entschließungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  zu der Beratung des Antrags des Bundesministeriums der Finanzen
+
+  Stabilitätshilfe zugunsten Griechenlands
+
+  Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 4 Absatz
+  1
+
+  Nummer 1 des ESM-Finanzierungsgesetzes (ESMFinG), der Hellenischen Republik nach
+
+  Art. 13 Absatz 2 des ESM-Vertrages grundsätzlich Stabilitätshilfe in Form eines
+  ESMDarlehens zu gewähren;
+
+  Verwendung der SMP-Mittel 2014 zur Absicherung einer Brückenfinanzierung
+
+  Drs. 18/5590 und 18/5593
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  598
+
+  32
+
+  74
+
+
+  Nein-Stimmen:
+
+
+  484
+
+
+  Enthaltungen:
+
+
+  40
+
+
+  Ungültige:
+
+
+  Berlin, den 17.07.2015
+
+
+  0
+
+
+  Beginn: 13:39
+
+  Ende: 13:42
+
+  '
 tags:
 - EU
 - Griechenland
 - Stabilisierung
-title: "Abstimmung: Stabilit\xE4tshilfe zugunsten Griechenlands, Entschlie\xDFungsantrag\
-  \ der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN"
+title: 'Abstimmung: Stabilitätshilfe zugunsten Griechenlands, Entschließungsantrag
+  der Fraktion BÜNDNIS 90/DIE GRÜNEN'
 ---

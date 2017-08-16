@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 18
+  datum: 21. Februar 2014
   legislaturperiode: 18
 categories:
 - Politik
@@ -55,15 +56,70 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=254
 - title: http://www.abgeordnetenwatch.de/diaetenerhoehung-1105-557.html
   url: http://www.abgeordnetenwatch.de/diaetenerhoehung-1105-557.html
-preview: "Deutscher Bundestag\n\n18. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 21.Februar 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\
-  Gesetzentwurf der Fraktionen CDU/CSU und SPD\nEntwurf eines Gesetzes zur \xC4nderung\
-  \ des Abgeordnetengesetzes und eines Gesetzes zur\n\xC4nderung des Europaabgeordnetengesetzes\n\
-  Drs. 18/477 und 18/619\n\nAbgegebene Stimmen insgesamt:\n\n589\n42\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n464\n\nNein-Stimmen:\n\n115\n\nEnthaltungen:\n\n10\n\n\
-  Ung\xFCltige:\n\nBerlin, den 21.02.2014\n\n0\n\nBeginn: 10:08\nEnde: 10:11\n"
+preview: 'Deutscher Bundestag
+
+
+  18. Sitzung des Deutschen Bundestages
+
+  am Freitag, 21.Februar 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Gesetzentwurf der Fraktionen CDU/CSU und SPD
+
+  Entwurf eines Gesetzes zur Änderung des Abgeordnetengesetzes und eines Gesetzes
+  zur
+
+  Änderung des Europaabgeordnetengesetzes
+
+  Drs. 18/477 und 18/619
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  589
+
+  42
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  464
+
+
+  Nein-Stimmen:
+
+
+  115
+
+
+  Enthaltungen:
+
+
+  10
+
+
+  Ungültige:
+
+
+  Berlin, den 21.02.2014
+
+
+  0
+
+
+  Beginn: 10:08
+
+  Ende: 10:11
+
+  '
 tags:
 - Rente
 - EU
-title: "Abstimmung: \xC4nderung des Abgeordnetengesetzes"
+title: 'Abstimmung: Änderung des Abgeordnetengesetzes'
 ---

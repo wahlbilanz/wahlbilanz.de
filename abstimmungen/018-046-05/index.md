@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 5
   bundestagssitzung: 46
+  datum: 3. Juli 2014
   legislaturperiode: 18
 categories:
 - Inneres
@@ -57,16 +58,71 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=295
 - title: http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html
   url: http://www.abgeordnetenwatch.de/aenderung_des_staatsangehoerigkeitsgesetzes-1105-632.html
-preview: "Deutscher Bundestag\n\n46. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 3.Juli 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 5\n\nGesetzentwurf\
-  \ der Abgeordneten jan Korte, Sevim Dagdelen, Dr. Andre Hahn, weiterer\nAbgeordneter\
-  \ und der Fraktion DIE LINKE.\nEntwurf eines Gesetzes \xFCber die Aufhebung der\
-  \ Optionsregelung im\nStaatsangeh\xF6rigkeitsrecht\nDrucksachen 18/1092, 18/1955\
-  \ und 18/2005\n\nAbgegebene Stimmen insgesamt:\n\n569\n62\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n107\n\nNein-Stimmen:\n\n462\n\nEnthaltungen:\n\n0\n\nUng\xFCltige:\n\
-  \n0\n\nBerlin, den 03.07.2014\n\nBeginn: 19:14\nEnde: 19:17\n"
+preview: 'Deutscher Bundestag
+
+
+  46. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 3.Juli 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 5
+
+
+  Gesetzentwurf der Abgeordneten jan Korte, Sevim Dagdelen, Dr. Andre Hahn, weiterer
+
+  Abgeordneter und der Fraktion DIE LINKE.
+
+  Entwurf eines Gesetzes über die Aufhebung der Optionsregelung im
+
+  Staatsangehörigkeitsrecht
+
+  Drucksachen 18/1092, 18/1955 und 18/2005
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  569
+
+  62
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  107
+
+
+  Nein-Stimmen:
+
+
+  462
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 03.07.2014
+
+
+  Beginn: 19:14
+
+  Ende: 19:17
+
+  '
 tags:
-- "Staatsangeh\xF6rigkeit"
+- Staatsangehörigkeit
 - Pass
-title: "Abstimmung: Aufhebung der Optionsregelung im Staatsangeh\xF6rigkeitsrecht"
+title: 'Abstimmung: Aufhebung der Optionsregelung im Staatsangehörigkeitsrecht'
 ---

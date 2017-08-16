@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 134
+  datum: 6. November 2015
   legislaturperiode: 18
 categories:
 - Verbraucherschutz
@@ -54,18 +55,71 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=371
 - title: http://www.abgeordnetenwatch.de/verbot_von_geschaeftsmaessiger_sterbehilfe-1105-773.html
   url: http://www.abgeordnetenwatch.de/verbot_von_geschaeftsmaessiger_sterbehilfe-1105-773.html
-preview: "Deutscher Bundestag\n\n134. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 6.November 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\
-  \nGesetzentwurf der Abgeordneten Michael Brand, Kerstin Griese, Kathrin Vogler,\
-  \ Dr. Harald\nTerpe und weiterer Abgeordneter in dritter Beratung\nEntwurf eines\
-  \ Gesetzes zur Strafbarkeit der gesch\xE4ftsm\xE4\xDFigen F\xF6rderung der Selbstt\xF6\
-  tung\n- Drucksachen 18/5373 und 18/6573\n\nAbgegebene Stimmen insgesamt:\n\n602\n\
-  \nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n28\n360\n\nNein-Stimmen:\n\n233\n\n\
-  Enthaltungen:\n\n9\n\nUng\xFCltige:\n\n0\n\nBerlin, den 06.11.2015\n\nBeginn: 12:49\n\
-  Ende: 12:53\n"
+preview: 'Deutscher Bundestag
+
+
+  134. Sitzung des Deutschen Bundestages
+
+  am Freitag, 6.November 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Gesetzentwurf der Abgeordneten Michael Brand, Kerstin Griese, Kathrin Vogler, Dr.
+  Harald
+
+  Terpe und weiterer Abgeordneter in dritter Beratung
+
+  Entwurf eines Gesetzes zur Strafbarkeit der geschäftsmäßigen Förderung der Selbsttötung
+
+  - Drucksachen 18/5373 und 18/6573
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  602
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  28
+
+  360
+
+
+  Nein-Stimmen:
+
+
+  233
+
+
+  Enthaltungen:
+
+
+  9
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 06.11.2015
+
+
+  Beginn: 12:49
+
+  Ende: 12:53
+
+  '
 tags:
 - Sterbehilfe
 - Suizid
-title: "Abstimmung: Strafbarkeit der gesch\xE4ftsm\xE4\xDFigen F\xF6rderung der Selbstt\xF6\
-  tung"
+title: 'Abstimmung: Strafbarkeit der geschäftsmäßigen Förderung der Selbsttötung'
 ---

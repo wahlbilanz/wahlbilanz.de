@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 26
+  datum: 3. April 2014
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,19 +55,79 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=259
 - title: http://www.abgeordnetenwatch.de/beteiligung_deutscher_streikraefte_an_ausbildungsmission_in_somalia-1105-590.html
   url: http://www.abgeordnetenwatch.de/beteiligung_deutscher_streikraefte_an_ausbildungsmission_in_somalia-1105-590.html
-preview: "Deutscher Bundestag\n\n26. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 3.April 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\nBeschlussempfehlung\
-  \ des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag der\nBundesregierung\n\
-  Beteiligung bewaffneter deutscher Streitkr\xE4fte an der EU-gef\xFChrten Ausbildungsmission\n\
-  EUTM Somalia auf Grundlage des Ersuchens der somalischen Regierung mit Schreiben\n\
-  vom 27. November 2012 und 11. Januar 2013 sowie der Beschl\xFCsse des Rates der\n\
-  Europ\xE4ischen Union 2010/96/GASP vom 15. Februar 2010 und 2013/44/GASP vom 22.\n\
-  Januar 2013 in Verbindung mit der Resolution 1872 (2009) des Sicherheitsrates der\n\
-  Vereinten Nationen\nDrucksachen 18/857 und 18/994\n\nAbgegebene Stimmen insgesamt:\n\
-  \n589\n42\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n469\n\nNein-Stimmen:\n\n\
-  118\n\nEnthaltungen:\n\n2\n\nUng\xFCltige:\n\n0\n\nBerlin, den 03.04.2014\n\nBeginn:\
-  \ 14:44\nEnde: 14:47\n"
+preview: 'Deutscher Bundestag
+
+
+  26. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 3.April 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Ausbildungsmission
+
+  EUTM Somalia auf Grundlage des Ersuchens der somalischen Regierung mit Schreiben
+
+  vom 27. November 2012 und 11. Januar 2013 sowie der Beschlüsse des Rates der
+
+  Europäischen Union 2010/96/GASP vom 15. Februar 2010 und 2013/44/GASP vom 22.
+
+  Januar 2013 in Verbindung mit der Resolution 1872 (2009) des Sicherheitsrates der
+
+  Vereinten Nationen
+
+  Drucksachen 18/857 und 18/994
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  589
+
+  42
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  469
+
+
+  Nein-Stimmen:
+
+
+  118
+
+
+  Enthaltungen:
+
+
+  2
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 03.04.2014
+
+
+  Beginn: 14:44
+
+  Ende: 14:47
+
+  '
 tags:
+- Bundeswehr
 - EUTM
 - Somalia
 - EU

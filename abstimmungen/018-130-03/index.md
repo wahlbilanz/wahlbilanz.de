@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 130
+  datum: 15. Oktober 2015
   legislaturperiode: 18
 categories:
 - Inneres
@@ -53,13 +54,70 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=363
 - title: http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html
   url: http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html
-preview: "Deutscher Bundestag\n\n130. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 15.Oktober 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\
-  \nGesetzentwurf der Fraktionen der CDU/CSU und SPD\nEntwurf eines Asylverfahrensbeschleunigungsgesetzes\n\
-  hier: Artikel 2 des Gesetzentwurfs in der Ausschussfassung (\xC4nderung des\nAsylbewerberleistungsgesetzes)\n\
-  - Drucksachen 18/6185 und 18/6386 -\n\nAbgegebene Stimmen insgesamt:\n\n597\n\n\
-  Nicht abgegebene Stimmen:\nJa-Stimmen:\n\n33\n474\n\nNein-Stimmen:\n\n117\n\nEnthaltungen:\n\
-  \n6\n\nUng\xFCltige:\n\n0\n\nBerlin, den 15.10.2015\n\nBeginn: 12:47\nEnde: 12:49\n"
+preview: 'Deutscher Bundestag
+
+
+  130. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 15.Oktober 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Gesetzentwurf der Fraktionen der CDU/CSU und SPD
+
+  Entwurf eines Asylverfahrensbeschleunigungsgesetzes
+
+  hier: Artikel 2 des Gesetzentwurfs in der Ausschussfassung (Änderung des
+
+  Asylbewerberleistungsgesetzes)
+
+  - Drucksachen 18/6185 und 18/6386 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  597
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  33
+
+  474
+
+
+  Nein-Stimmen:
+
+
+  117
+
+
+  Enthaltungen:
+
+
+  6
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 15.10.2015
+
+
+  Beginn: 12:47
+
+  Ende: 12:49
+
+  '
 tags:
 - Asyl
 - Bleiberecht

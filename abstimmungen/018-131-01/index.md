@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 131
+  datum: 16. Oktober 2015
   legislaturperiode: 18
 categories:
 - Recht
@@ -54,15 +55,70 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=365
 - title: http://www.abgeordnetenwatch.de/wiedereinfuehrung_der_vorratsdatenspeicherung-1105-767.html
   url: http://www.abgeordnetenwatch.de/wiedereinfuehrung_der_vorratsdatenspeicherung-1105-767.html
-preview: "Deutscher Bundestag\n\n131. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 16.Oktober 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nGesetzentwurf der Fraktionen der CDU/CSU und SPD\nEntwurf eines Gesetzes zur Einf\xFC\
-  hrung einer Speicherpflicht und einer H\xF6chstspeicherfrist\nf\xFCr Verkehrsdaten\n\
-  - Drucksachen 18/5088 und 18/6391 -\n\nAbgegebene Stimmen insgesamt:\n\n559\n\n\
-  Nicht abgegebene Stimmen:\nJa-Stimmen:\n\n71\n404\n\nNein-Stimmen:\n\n148\n\nEnthaltungen:\n\
-  \n7\n\nUng\xFCltige:\n\n0\n\nBerlin, den 16.10.2015\n\nBeginn: 10:32\nEnde: 10:35\n"
+preview: 'Deutscher Bundestag
+
+
+  131. Sitzung des Deutschen Bundestages
+
+  am Freitag, 16.Oktober 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Gesetzentwurf der Fraktionen der CDU/CSU und SPD
+
+  Entwurf eines Gesetzes zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist
+
+  für Verkehrsdaten
+
+  - Drucksachen 18/5088 und 18/6391 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  559
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  71
+
+  404
+
+
+  Nein-Stimmen:
+
+
+  148
+
+
+  Enthaltungen:
+
+
+  7
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 16.10.2015
+
+
+  Beginn: 10:32
+
+  Ende: 10:35
+
+  '
 tags:
 - Vorratsdatenspeicherung
-title: "Abstimmung: Einf\xFChrung einer Speicherpflicht und einer H\xF6chstspeicherfrist\
-  \ f\xFCr Verkehrsdaten"
+title: 'Abstimmung: Einführung einer Speicherpflicht und einer Höchstspeicherfrist
+  für Verkehrsdaten'
 ---

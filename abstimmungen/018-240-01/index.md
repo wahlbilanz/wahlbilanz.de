@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 240
+  datum: 22. Juni 2017
   legislaturperiode: 18
 categories:
 - Grundgesetz
@@ -16,11 +17,11 @@ data:
   url: /res/abstimmungsliste/csv/20170622_1_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-240-01/1812357.pdf
-  title: 'Drucksache 18/12357'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/123/1812357.pdf'
+  title: Drucksache 18/12357
+  url: http://dip21.bundestag.de/dip21/btd/18/123/1812357.pdf
 - local: /res/abstimmungsdaten/018-240-01/1812846.pdf
-  title: 'Drucksache 18/12846'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/128/1812846.pdf'
+  title: Drucksache 18/12846
+  url: http://dip21.bundestag.de/dip21/btd/18/128/1812846.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 0

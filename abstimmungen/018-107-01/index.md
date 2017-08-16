@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 107
+  datum: 22. Mai 2015
   legislaturperiode: 18
 categories:
 - Arbeit
@@ -54,12 +55,66 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=341
 - title: http://www.abgeordnetenwatch.de/tarifeinheitsgesetz-1105-730.html
   url: http://www.abgeordnetenwatch.de/tarifeinheitsgesetz-1105-730.html
-preview: "Deutscher Bundestag\n\n107. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 22.Mai 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\nGesetzentwurf\
-  \ der Bundesregierung\nEntwurf eines Gesetzes zur Tarifeinheit (Tarifeinheitsgesetz)\n\
-  Drs. 18/4062 und 18/4966\n\nAbgegebene Stimmen insgesamt:\n\n586\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n45\n444\n\nNein-Stimmen:\n\n126\n\nEnthaltungen:\n\n\
-  16\n\nUng\xFCltige:\n\nBerlin, den 22.05.2015\n\n0\n\nBeginn: 10:22\nEnde: 10:24\n"
+preview: 'Deutscher Bundestag
+
+
+  107. Sitzung des Deutschen Bundestages
+
+  am Freitag, 22.Mai 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur Tarifeinheit (Tarifeinheitsgesetz)
+
+  Drs. 18/4062 und 18/4966
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  586
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  45
+
+  444
+
+
+  Nein-Stimmen:
+
+
+  126
+
+
+  Enthaltungen:
+
+
+  16
+
+
+  Ungültige:
+
+
+  Berlin, den 22.05.2015
+
+
+  0
+
+
+  Beginn: 10:22
+
+  Ende: 10:24
+
+  '
 tags:
 - Tarif
 - Arbeitnehmer

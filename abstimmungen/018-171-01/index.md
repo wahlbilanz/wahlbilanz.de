@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 171
+  datum: 13. Mai 2016
   legislaturperiode: 18
 categories:
 - Inneres
@@ -54,14 +55,69 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=399
 - title: http://www.abgeordnetenwatch.de/einstufung_von_algerien_marokko_und_tunesien_als_sichere_herkunftsstaaten-1105-793.html
   url: http://www.abgeordnetenwatch.de/einstufung_von_algerien_marokko_und_tunesien_als_sichere_herkunftsstaaten-1105-793.html
-preview: "Deutscher Bundestag\n\n171. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 13.Mai 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\nGesetzentwurf\
-  \ der Bundesregierung\nEntwurf eines Gesetzes zur Einstufung der Demokratischen\
-  \ Volksrepublik Algerien, des\nK\xF6nigreichs Marokko und der Tunesischen Republik\
-  \ als sichere Herkunftsstaaten\nDrs. 18/8039 und 18/8311\n\nAbgegebene Stimmen insgesamt:\n\
-  \n572\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n58\n424\n\nNein-Stimmen:\n\n\
-  145\n\nEnthaltungen:\n\n3\n\nUng\xFCltige:\n\n0\n\nBerlin, den 13.05.2016\n\nBeginn:\
-  \ 10:05\nEnde: 10:08\n"
+preview: 'Deutscher Bundestag
+
+
+  171. Sitzung des Deutschen Bundestages
+
+  am Freitag, 13.Mai 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur Einstufung der Demokratischen Volksrepublik Algerien,
+  des
+
+  Königreichs Marokko und der Tunesischen Republik als sichere Herkunftsstaaten
+
+  Drs. 18/8039 und 18/8311
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  572
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  58
+
+  424
+
+
+  Nein-Stimmen:
+
+
+  145
+
+
+  Enthaltungen:
+
+
+  3
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 13.05.2016
+
+
+  Beginn: 10:05
+
+  Ende: 10:08
+
+  '
 tags:
 - Algerien
 - Marokko

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 204
+  datum: 25. November 2016
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -110,15 +111,72 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=434
 - title: http://www.abgeordnetenwatch.de/haushalt_2017-1105-826.html
   url: http://www.abgeordnetenwatch.de/haushalt_2017-1105-826.html
-preview: "Deutscher Bundestag\n\n204. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 25.November 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nGesetzentwurf der Bundesregierung\nEntwurf eines Gesetzes \xFCber die Feststellung\
-  \ des Bundeshaushaltsplans f\xFCr das\nHaushaltsjahr 2017 (Haushaltsgesetz 2017)\n\
-  - Drucksache 18/9200, 18/9202, 18/9802, 18/9805, 18/9806, 18/9807, 18/9808, 18/9809,\n\
-  18/9810, 18/9811, 18/9812, 18/9813, 18/9814, 18/9815, 18/9816, 18/9821, 18/9822,\n\
-  18/9823, 18/9824, 18/9825, 18/9826 -\n\nAbgegebene Stimmen insgesamt:\n\n573\n\n\
-  Nicht abgegebene Stimmen:\nJa-Stimmen:\n\n57\n458\n\nNein-Stimmen:\n\n115\n\nEnthaltungen:\n\
-  \n0\n\nUng\xFCltige:\n\n0\n\nBerlin, den 25.11.2016\n\nBeginn: 12:51\nEnde: 12:55\n"
+preview: 'Deutscher Bundestag
+
+
+  204. Sitzung des Deutschen Bundestages
+
+  am Freitag, 25.November 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das
+
+  Haushaltsjahr 2017 (Haushaltsgesetz 2017)
+
+  - Drucksache 18/9200, 18/9202, 18/9802, 18/9805, 18/9806, 18/9807, 18/9808, 18/9809,
+
+  18/9810, 18/9811, 18/9812, 18/9813, 18/9814, 18/9815, 18/9816, 18/9821, 18/9822,
+
+  18/9823, 18/9824, 18/9825, 18/9826 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  573
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  57
+
+  458
+
+
+  Nein-Stimmen:
+
+
+  115
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 25.11.2016
+
+
+  Beginn: 12:51
+
+  Ende: 12:55
+
+  '
 tags:
 - Haushalt
 - Bundesregierung

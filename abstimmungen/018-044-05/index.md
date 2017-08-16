@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 5
   bundestagssitzung: 44
+  datum: 27. Juni 2014
   legislaturperiode: 18
 categories:
 - Energie
@@ -60,17 +61,70 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=287
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=287
-preview: "Deutscher Bundestag\n\n44. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 27.Juni 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 5\n\nGesetzentwurf\
-  \ der Bundesregierung\nEntwurf eines Gesetzes zur Einf\xFChrung einer L\xE4nder\xF6\
-  ffnungsklausel zur Vorgabe von\nMindestabst\xE4nden zwischen Windenergieanlagen\
-  \ und zul\xE4ssigen Nutzungen\nDrs. 18/1310, 18/1580, 18/1702 Nr. 1.4 und 18/1900\n\
-  \nAbgegebene Stimmen insgesamt:\n\n582\n49\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\
-  \n465\n\nNein-Stimmen:\n\n114\n\nEnthaltungen:\n\n3\n\nUng\xFCltige:\n\n0\n\nBerlin,\
-  \ den 27.06.2014\n\nBeginn: 11:06\nEnde: 11:08\n"
+preview: 'Deutscher Bundestag
+
+
+  44. Sitzung des Deutschen Bundestages
+
+  am Freitag, 27.Juni 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 5
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur Einführung einer Länderöffnungsklausel zur Vorgabe von
+
+  Mindestabständen zwischen Windenergieanlagen und zulässigen Nutzungen
+
+  Drs. 18/1310, 18/1580, 18/1702 Nr. 1.4 und 18/1900
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  582
+
+  49
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  465
+
+
+  Nein-Stimmen:
+
+
+  114
+
+
+  Enthaltungen:
+
+
+  3
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 27.06.2014
+
+
+  Beginn: 11:06
+
+  Ende: 11:08
+
+  '
 tags:
 - Windenergie
 - Erneuerbare-Energien
 - Umwelt
-title: "Abstimmung: Einf\xFChrung einer L\xE4nder\xF6ffnungsklausel"
+title: 'Abstimmung: Einführung einer Länderöffnungsklausel'
 ---

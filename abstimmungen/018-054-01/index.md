@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 54
+  datum: 25. September 2014
   legislaturperiode: 18
 categories:
 - Handel
@@ -57,16 +58,77 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=300
 - title: http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html
   url: http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html
-preview: "Deutscher Bundestag\n\n54. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 25.September 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nEntschlie\xDFungsantrag der Abgeordneten Klaus Ernst, Susanna Karawanskij, Jutta\n\
-  Krellmann, weiterer Abgeordneter und der Fraktion DIE LINKE.\nzu der Beratung der\
-  \ Antwort der Bundesregierung auf die Gro\xDFe Anfrage der Abgeordneten\nKlaus Ernst,\
-  \ Thomas Nord, Herbert Behrens, weiterer Abgeordneter und der Fraktion DIE\nLINKE.\n\
-  Soziale \xF6kologische, \xF6konomische und politische Effekte des EU-USA\nFreihandelsabkommens\n\
-  Drs. 18/432, 18/2100 und 18/2612\n\nAbgegebene Stimmen insgesamt:\n\n585\n\nNicht\
-  \ abgegebene Stimmen:\nJa-Stimmen:\n\n46\n113\n\nNein-Stimmen:\n\n466\n\nEnthaltungen:\n\
-  \n6\n\nUng\xFCltige:\n\n0\n\nBerlin, den 25.09.2014\n\nBeginn: 13:06\nEnde: 13:09\n"
+preview: 'Deutscher Bundestag
+
+
+  54. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 25.September 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Entschließungsantrag der Abgeordneten Klaus Ernst, Susanna Karawanskij, Jutta
+
+  Krellmann, weiterer Abgeordneter und der Fraktion DIE LINKE.
+
+  zu der Beratung der Antwort der Bundesregierung auf die Große Anfrage der Abgeordneten
+
+  Klaus Ernst, Thomas Nord, Herbert Behrens, weiterer Abgeordneter und der Fraktion
+  DIE
+
+  LINKE.
+
+  Soziale ökologische, ökonomische und politische Effekte des EU-USA
+
+  Freihandelsabkommens
+
+  Drs. 18/432, 18/2100 und 18/2612
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  585
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  46
+
+  113
+
+
+  Nein-Stimmen:
+
+
+  466
+
+
+  Enthaltungen:
+
+
+  6
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 25.09.2014
+
+
+  Beginn: 13:06
+
+  Ende: 13:09
+
+  '
 tags:
 - Freihandel
 - TTIP
@@ -74,6 +136,5 @@ tags:
 - EU
 - Kanada
 - USA
-title: "Abstimmung: Freihandelsabkommen der EU mit USA und Kanada, 2. Entschlie\xDF\
-  ungsantrag"
+title: 'Abstimmung: Freihandelsabkommen der EU mit USA und Kanada, 2. Entschließungsantrag'
 ---

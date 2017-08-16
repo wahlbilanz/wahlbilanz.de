@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 244
+  datum: 30. Juni 2017
   legislaturperiode: 18
 categories:
 - Recht
@@ -16,11 +17,11 @@ data:
   url: /res/abstimmungsliste/csv/20170630_1_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-244-01/1806665.pdf
-  title: 'Drucksache 18/6665'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/066/1806665.pdf'
+  title: Drucksache 18/6665
+  url: http://dip21.bundestag.de/dip21/btd/18/066/1806665.pdf
 - local: /res/abstimmungsdaten/018-244-01/1812989.pdf
-  title: 'Drucksache 18/12989'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/129/1812989.pdf'
+  title: Drucksache 18/12989
+  url: http://dip21.bundestag.de/dip21/btd/18/129/1812989.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 4

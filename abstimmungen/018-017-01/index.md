@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 17
+  datum: 20. Februar 2014
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,18 +55,76 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=252
 - title: http://www.abgeordnetenwatch.de/fortsetzung_des_afghanistan_einsatzes_isaf-1105-552.html
   url: http://www.abgeordnetenwatch.de/fortsetzung_des_afghanistan_einsatzes_isaf-1105-552.html
-preview: "Deutscher Bundestag\n\n17. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 20.Februar 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\
-  Beschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nFortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4\
-  fte an dem Einsatz der\nInternationalen Sicherheitsunterst\xFCtzungstruppe in Afghanistan\
-  \ (International Security\nAssistance Force, ISAF) unter F\xFChrung der NATO auf\
-  \ Grundlage der Resolution 1386\n(2001) und folgender Resolutionen, zuletzt Resolution\
-  \ 2120 (2013) vom 10. Oktober 2013\ndes Sicherheitsrates der Vereinten Nationen\n\
-  Drs. 18/436 und 18/602\n\nAbgegebene Stimmen insgesamt:\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n599\n32\n498\n\nNein-Stimmen:\n\n84\n\nEnthaltungen:\n\n17\n\nUng\xFC\
-  ltige:\n\nBerlin, den 20.02.2014\n\n0\n\nBeginn: 15:39\nEnde: 15:43\n"
+preview: 'Deutscher Bundestag
+
+
+  17. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 20.Februar 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an dem Einsatz der
+
+  Internationalen Sicherheitsunterstützungstruppe in Afghanistan (International Security
+
+  Assistance Force, ISAF) unter Führung der NATO auf Grundlage der Resolution 1386
+
+  (2001) und folgender Resolutionen, zuletzt Resolution 2120 (2013) vom 10. Oktober
+  2013
+
+  des Sicherheitsrates der Vereinten Nationen
+
+  Drs. 18/436 und 18/602
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  599
+
+  32
+
+  498
+
+
+  Nein-Stimmen:
+
+
+  84
+
+
+  Enthaltungen:
+
+
+  17
+
+
+  Ungültige:
+
+
+  Berlin, den 20.02.2014
+
+
+  0
+
+
+  Beginn: 15:39
+
+  Ende: 15:43
+
+  '
 tags:
+- Bundeswehr
 - Afghanistan
 - ISAF
 - NATO

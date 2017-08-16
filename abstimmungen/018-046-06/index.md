@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 6
   bundestagssitzung: 46
+  datum: 3. Juli 2014
   legislaturperiode: 18
 categories:
 - Arbeit
@@ -55,15 +56,67 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=296
 - title: http://www.abgeordnetenwatch.de/angleichung_der_renten_in_ostdeutschland_an_westniveau-1105-647.html
   url: http://www.abgeordnetenwatch.de/angleichung_der_renten_in_ostdeutschland_an_westniveau-1105-647.html
-preview: "Deutscher Bundestag\n\n46. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 3.Juli 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 6\n\nBeschlussempfehlung\
-  \ des Ausschusses f\xFCr Arbeit und Soziales (11. Ausschuss) zu dem\nAntrag der\
-  \ Abgeordneten Matthias W. Birkwald, Sabine Zimmermann (Zwickau), Caren\nLay, weiterer\
-  \ Abgeordneter und der Fraktion DIE LINKE.\nAngleichung der Renten in Ostdeutschland\
-  \ an das Westniveau sofort auf den Weg bringen\nDr. 18/982 und 18/1994\n\nAbgegebene\
-  \ Stimmen insgesamt:\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n570\n61\n466\n\n\
-  Nein-Stimmen:\n\n50\n\nEnthaltungen:\n\n54\n\nUng\xFCltige:\n\nBerlin, den 03.07.2014\n\
-  \n0\n\nBeginn: 21:00\nEnde: 21:03\n"
+preview: 'Deutscher Bundestag
+
+
+  46. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 3.Juli 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 6
+
+
+  Beschlussempfehlung des Ausschusses für Arbeit und Soziales (11. Ausschuss) zu dem
+
+  Antrag der Abgeordneten Matthias W. Birkwald, Sabine Zimmermann (Zwickau), Caren
+
+  Lay, weiterer Abgeordneter und der Fraktion DIE LINKE.
+
+  Angleichung der Renten in Ostdeutschland an das Westniveau sofort auf den Weg bringen
+
+  Dr. 18/982 und 18/1994
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  570
+
+  61
+
+  466
+
+
+  Nein-Stimmen:
+
+
+  50
+
+
+  Enthaltungen:
+
+
+  54
+
+
+  Ungültige:
+
+
+  Berlin, den 03.07.2014
+
+
+  0
+
+
+  Beginn: 21:00
+
+  Ende: 21:03
+
+  '
 tags:
 - Ost-West
 - Rente

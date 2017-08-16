@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 76
+  datum: 18. Dezember 2014
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,16 +55,74 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=320
 - title: http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_afghanistan-1105-704.html
   url: http://www.abgeordnetenwatch.de/bundeswehreinsatz_in_afghanistan-1105-704.html
-preview: "Deutscher Bundestag\n\n76. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 18.Dezember 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nBeschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nEntsendung bewaffneter deutscher Streitkr\xE4fte am NATO-gef\xFC\
-  hrten Einsatz Resolute\nSupport Mission f\xFCr die Ausbildung, Beratung und Unterst\xFC\
-  tzung der afghanischen\nnationalen Sicherheitskr\xE4fte in Afghanistan\nDrs. 18/3246\
-  \ und 18/3583\n\nAbgegebene Stimmen insgesamt:\n\n592\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n37\n472\n\nNein-Stimmen:\n\n102\n\nEnthaltungen:\n\n18\n\nUng\xFC\
-  ltige:\n\nBerlin, den 18.12.2014\n\n0\n\nBeginn: 17:11\nEnde: 17:14\n"
+preview: 'Deutscher Bundestag
+
+
+  76. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 18.Dezember 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Entsendung bewaffneter deutscher Streitkräfte am NATO-geführten Einsatz Resolute
+
+  Support Mission für die Ausbildung, Beratung und Unterstützung der afghanischen
+
+  nationalen Sicherheitskräfte in Afghanistan
+
+  Drs. 18/3246 und 18/3583
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  592
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  37
+
+  472
+
+
+  Nein-Stimmen:
+
+
+  102
+
+
+  Enthaltungen:
+
+
+  18
+
+
+  Ungültige:
+
+
+  Berlin, den 18.12.2014
+
+
+  0
+
+
+  Beginn: 17:11
+
+  Ende: 17:14
+
+  '
 tags:
+- Bundeswehr
 - Afghanistan
 - ISAF
 - NATO

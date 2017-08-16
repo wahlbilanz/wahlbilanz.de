@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 66
+  datum: 13. November 2014
   legislaturperiode: 18
 categories:
 - Wissenschaft
@@ -55,20 +56,73 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=308
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=308
-preview: "Deutscher Bundestag\n\n66. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 13.November 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\
-  \n\xC4nderungsantrag der Abgeordneten Kai Gehring, \xD6zcan Mutlu, Katja D\xF6rner,\
-  \ weiterer\nAbgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nzu der zweiten\
-  \ Beratung des Gesetzentwurfs der Bundesregierung\nEntwurf eines Gesetzes zur \xC4\
-  nderung des Grundgesetzes (Artikel 91b)\nDrs. 18/2710, 18/3141 und 18/3163\n\nAbgegebene\
-  \ Stimmen insgesamt:\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n592\n39\n56\n\n\
-  Nein-Stimmen:\n\n482\n\nEnthaltungen:\n\n54\n\nUng\xFCltige:\n\nBerlin, den 13.11.2014\n\
-  \n0\n\nBeginn: 18:26\nEnde: 18:29\n"
+preview: 'Deutscher Bundestag
+
+
+  66. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 13.November 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Änderungsantrag der Abgeordneten Kai Gehring, Özcan Mutlu, Katja Dörner, weiterer
+
+  Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Gesetzes zur Änderung des Grundgesetzes (Artikel 91b)
+
+  Drs. 18/2710, 18/3141 und 18/3163
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  592
+
+  39
+
+  56
+
+
+  Nein-Stimmen:
+
+
+  482
+
+
+  Enthaltungen:
+
+
+  54
+
+
+  Ungültige:
+
+
+  Berlin, den 13.11.2014
+
+
+  0
+
+
+  Beginn: 18:26
+
+  Ende: 18:29
+
+  '
 tags:
-- "Bund-L\xE4nder"
+- Bund-Länder
 - Hochschulen
 - Kooperation
 - Forschung
-title: "Abstimmung: Bund-L\xE4nder-Wissenschaftskooperation, \xC4nderungsantrag B\xFC\
-  ndnis 90/Die Gr\xFCnen"
+title: 'Abstimmung: Bund-Länder-Wissenschaftskooperation, Änderungsantrag Bündnis
+  90/Die Grünen'
 ---

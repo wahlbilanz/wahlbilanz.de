@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 5
   bundestagssitzung: 66
+  datum: 13. November 2014
   legislaturperiode: 18
 categories:
 - Wissenschaft
@@ -56,20 +57,75 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=311
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=311
-preview: "Deutscher Bundestag\n\n66. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 13.November 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 5\n\
-  \n\xC4nderungsantrag der Abgeordneten Nicole Gohlke, Dr. Rosemarie Hein, Sigrid\
-  \ Hupach,\nweiterer Abgeordneter und der Fraktion DIE LINKE.\nzu der zweiten Beratung\
-  \ des Gesetzentwurfs der Bundesregierung\nEntwurf eines F\xFCnfundzwanzigsten Gesetzes\
-  \ zur \xC4nderung des\nBundesausbildungsf\xF6rderungsgesetzes (25. BAf\xF6G\xC4\
-  ndG)\nDrs. 18/2663, 18/3142 und 18/3181\n\nAbgegebene Stimmen insgesamt:\nNicht\
-  \ abgegebene Stimmen:\nJa-Stimmen:\n\n579\n52\n53\n\nNein-Stimmen:\n\n470\n\nEnthaltungen:\n\
-  \n56\n\nUng\xFCltige:\n\nBerlin, den 13.11.2014\n\n0\n\nBeginn: 20:20\nEnde: 20:23\n"
+preview: 'Deutscher Bundestag
+
+
+  66. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 13.November 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 5
+
+
+  Änderungsantrag der Abgeordneten Nicole Gohlke, Dr. Rosemarie Hein, Sigrid Hupach,
+
+  weiterer Abgeordneter und der Fraktion DIE LINKE.
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Fünfundzwanzigsten Gesetzes zur Änderung des
+
+  Bundesausbildungsförderungsgesetzes (25. BAföGÄndG)
+
+  Drs. 18/2663, 18/3142 und 18/3181
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  579
+
+  52
+
+  53
+
+
+  Nein-Stimmen:
+
+
+  470
+
+
+  Enthaltungen:
+
+
+  56
+
+
+  Ungültige:
+
+
+  Berlin, den 13.11.2014
+
+
+  0
+
+
+  Beginn: 20:20
+
+  Ende: 20:23
+
+  '
 tags:
 - Forschung
 - Hochschulen
 - Ausbildung
-- "BAf\xF6G"
-title: "Abstimmung: \xC4nderung des Bundesausbildungsf\xF6rderungsgesetzes, 2. \xC4\
-  nderungsantrag Die Linke"
+- BAföG
+title: 'Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes, 2. Änderungsantrag
+  Die Linke'
 ---

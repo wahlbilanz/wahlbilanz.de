@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 237
+  datum: 1. Juni 2017
   legislaturperiode: 18
 categories:
 - Grundgesetz
@@ -19,16 +20,16 @@ data:
 documents:
 - local: /res/abstimmungsdaten/018-237-01/1811131.pdf
   title: Drucksache 18/11131.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/111/1811131.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/111/1811131.pdf
 - local: /res/abstimmungsdaten/018-237-01/1811186.pdf
   title: Drucksache 18/11186.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/111/1811186.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/111/1811186.pdf
 - local: /res/abstimmungsdaten/018-237-01/1812588.pdf
   title: Drucksache 18/12588.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/125/1812588.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/125/1812588.pdf
 - local: /res/abstimmungsdaten/018-237-01/1812594.pdf
   title: Drucksache 18/12594.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/125/1812594.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/125/1812594.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 0

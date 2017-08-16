@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 167
+  datum: 28. April 2016
   legislaturperiode: 18
 categories:
 - Wirtschaft
@@ -55,18 +56,74 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=392
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=392
-preview: "Deutscher Bundestag\n\n167. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 28.April 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\
-  Gesetzentwurf der Abgeordneten Dr. Julia Verlinden, Annalena Baerbock, Peter Meiwald,\n\
-  weiterer Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nEntwurf eines\
-  \ Gesetzes zur \xC4nderung des Bundesberggesetzes zur Untersagung der\nFracking-Technik\n\
-  Drs. 18/7551 und 18/8125\n\nAbgegebene Stimmen insgesamt:\n\n591\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n39\n125\n\nNein-Stimmen:\n\n423\n\nEnthaltungen:\n\n\
-  43\n\nUng\xFCltige:\n\nBerlin, den 28.04.2016\n\n0\n\nBeginn: 13:45\nEnde: 13:47\n"
+preview: 'Deutscher Bundestag
+
+
+  167. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 28.April 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Gesetzentwurf der Abgeordneten Dr. Julia Verlinden, Annalena Baerbock, Peter Meiwald,
+
+  weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  Entwurf eines Gesetzes zur Änderung des Bundesberggesetzes zur Untersagung der
+
+  Fracking-Technik
+
+  Drs. 18/7551 und 18/8125
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  591
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  39
+
+  125
+
+
+  Nein-Stimmen:
+
+
+  423
+
+
+  Enthaltungen:
+
+
+  43
+
+
+  Ungültige:
+
+
+  Berlin, den 28.04.2016
+
+
+  0
+
+
+  Beginn: 13:45
+
+  Ende: 13:47
+
+  '
 tags:
 - Fossile Energie
 - Fracking
 - Gesundheit
 - Umwelt
-title: "Abstimmung: \xC4nderung des Bundesberggesetzes zur Untersagung der Fracking-Technik"
+title: 'Abstimmung: Änderung des Bundesberggesetzes zur Untersagung der Fracking-Technik'
 ---

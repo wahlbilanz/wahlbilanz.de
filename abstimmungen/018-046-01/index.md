@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 46
+  datum: 3. Juli 2014
   legislaturperiode: 18
 categories:
 - Arbeit
@@ -57,20 +58,74 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=292
 - title: http://www.abgeordnetenwatch.de/flaechendeckender_mindestlohn_von_8_50_euro-1105-627.html
   url: http://www.abgeordnetenwatch.de/flaechendeckender_mindestlohn_von_8_50_euro-1105-627.html
-preview: "Deutscher Bundestag\n\n46. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 3.Juli 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\xC4\
-  nderungsantrag der Abgeordneten Jutta Krellmann, Klaus Ernst, Sabine Zimmermann\n\
-  (Zwickau), weiterer Abgeordneter und der Fraktion DIE LINKE.\nzu der zweiten Beratung\
-  \ des Gesetzentwurfs der Bundesregierung\nEntwurf eines Gesetzes zur St\xE4rkung\
-  \ der Tarifautonomie (Tarifautonomiest\xE4rkungsgesetz)\nDrs.: 18/1558, 18/2010\
-  \ (neu) und 18/2019\n\nAbgegebene Stimmen insgesamt:\n\n601\n30\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n120\n\nNein-Stimmen:\n\n481\n\nEnthaltungen:\n\n0\n\n\
-  Ung\xFCltige:\n\n0\n\nBerlin, den 03.07.2014\n\nBeginn: 12:44\nEnde: 12:47\n"
+preview: 'Deutscher Bundestag
+
+
+  46. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 3.Juli 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Änderungsantrag der Abgeordneten Jutta Krellmann, Klaus Ernst, Sabine Zimmermann
+
+  (Zwickau), weiterer Abgeordneter und der Fraktion DIE LINKE.
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Gesetzes zur Stärkung der Tarifautonomie (Tarifautonomiestärkungsgesetz)
+
+  Drs.: 18/1558, 18/2010 (neu) und 18/2019
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  601
+
+  30
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  120
+
+
+  Nein-Stimmen:
+
+
+  481
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 03.07.2014
+
+
+  Beginn: 12:44
+
+  Ende: 12:47
+
+  '
 tags:
 - Gehalt
 - Mindestlohn
 - Tarif
 - Arbeitnehmer
 - Arbeitgeber
-title: "Abstimmung: Einf\xFChrung eines Mindestlohnes - \xC4nderungsantrag"
+title: 'Abstimmung: Einführung eines Mindestlohnes - Änderungsantrag'
 ---

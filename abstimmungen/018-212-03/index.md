@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 212
+  datum: 19. Januar 2017
   legislaturperiode: 18
 categories:
 - Haushalt
@@ -61,14 +62,70 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=450
 - title: http://www.abgeordnetenwatch.de/verkauf_des_dragoner_areals-1105-844.html
   url: http://www.abgeordnetenwatch.de/verkauf_des_dragoner_areals-1105-844.html
-preview: "Deutscher Bundestag\n\n212. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 19. Januar 2017\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\
-  \nBeschlussempfehlung des Haushaltsausschusses (8. Ausschuss) zu dem Antrag der\n\
-  Abgeordneten Caren Lay, Dr. Gesine L\xF6tzsch, Halina Wawzyniak, weiterer Abgeordneter\n\
-  und der Fraktion DIE LINKE.\nDragoner-Areal dem Land Berlin zum Kauf anbieten\n\
-  - Drucksachen 18/9790 und 18/10658 -\n\nAbgegebene Stimmen insgesamt:\n\n526\n\n\
-  Nicht abgegebene Stimmen:\nJa-Stimmen:\n\n104\n424\n\nNein-Stimmen:\n\n100\n\nEnthaltungen:\n\
-  \n2\n\nUng\xFCltige:\n\n0\n\nBerlin, den 19.01.2017\n\nBeginn: 18:42\nEnde: 18:45\n"
+preview: 'Deutscher Bundestag
+
+
+  212. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 19. Januar 2017
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss) zu dem Antrag der
+
+  Abgeordneten Caren Lay, Dr. Gesine Lötzsch, Halina Wawzyniak, weiterer Abgeordneter
+
+  und der Fraktion DIE LINKE.
+
+  Dragoner-Areal dem Land Berlin zum Kauf anbieten
+
+  - Drucksachen 18/9790 und 18/10658 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  526
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  104
+
+  424
+
+
+  Nein-Stimmen:
+
+
+  100
+
+
+  Enthaltungen:
+
+
+  2
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 19.01.2017
+
+
+  Beginn: 18:42
+
+  Ende: 18:45
+
+  '
 tags:
 - Dragoner-Areal
 - Liegenschaften

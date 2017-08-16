@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 4
   bundestagssitzung: 130
+  datum: 15. Oktober 2015
   legislaturperiode: 18
 categories:
 - Inneres
@@ -53,14 +54,71 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=362
 - title: http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html
   url: http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_i-1105-766.html
-preview: "Deutscher Bundestag\n\n130. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 15.Oktober 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 4\n\
-  \nGesetzentwurf der Fraktionen der CDU/CSU und SPD\nEntwurf eines Asylverfahrensbeschleunigungsgesetzes\n\
-  hier: Artikel 8 und Artikel 12 des Gesetzentwurfs in der Ausschussfassung (\xC4\
-  nderung des\nFinanzausgleichsgesetzes und des Entflechtungsgesetzes)\n- Drucksachen\
-  \ 18/6185 und 18/6386\n\nAbgegebene Stimmen insgesamt:\n\n599\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n31\n542\n\nNein-Stimmen:\n\n0\n\nEnthaltungen:\n\n57\n\
-  \nUng\xFCltige:\n\nBerlin, den 15.10.2015\n\n0\n\nBeginn: 12:50\nEnde: 12:53\n"
+preview: 'Deutscher Bundestag
+
+
+  130. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 15.Oktober 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
+
+
+  Gesetzentwurf der Fraktionen der CDU/CSU und SPD
+
+  Entwurf eines Asylverfahrensbeschleunigungsgesetzes
+
+  hier: Artikel 8 und Artikel 12 des Gesetzentwurfs in der Ausschussfassung (Änderung
+  des
+
+  Finanzausgleichsgesetzes und des Entflechtungsgesetzes)
+
+  - Drucksachen 18/6185 und 18/6386
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  599
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  31
+
+  542
+
+
+  Nein-Stimmen:
+
+
+  0
+
+
+  Enthaltungen:
+
+
+  57
+
+
+  Ungültige:
+
+
+  Berlin, den 15.10.2015
+
+
+  0
+
+
+  Beginn: 12:50
+
+  Ende: 12:53
+
+  '
 tags:
 - Asyl
 - Bleiberecht

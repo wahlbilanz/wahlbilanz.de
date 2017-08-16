@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 115
+  datum: 2. Juli 2015
   legislaturperiode: 18
 categories:
 - Inneres
@@ -59,20 +60,76 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=347
 - title: http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html
   url: http://www.abgeordnetenwatch.de/neubestimmung_bleiberecht_und_aufenthaltsbeendigung_fuer_fluechtlinge-1105-757.html
-preview: "Deutscher Bundestag\n\n115. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 2.Juli 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\n\xC4\
-  nderungsantrag der Abgeordneten Volker Beck (K\xF6ln), Luise Amtsberg, Brigitte\
-  \ Pothmer,\nweiterer Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\n\
-  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung\nEntwurf eines Gesetzes\
-  \ zur Neubestimmung des Bleiberechts und der\nAufenthaltsbeendigung\n- Druckensachen\
-  \ 18/4097, 18/4199, 18/5420 und 18/5424 -\n\nAbgegebene Stimmen insgesamt:\n\n592\n\
-  \nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n39\n119\n\nNein-Stimmen:\n\n470\n\n\
-  Enthaltungen:\n\n3\n\nUng\xFCltige:\n\n0\n\nBerlin, den 02.07.2015\n\nBeginn: 20:26\n\
-  Ende: 20:29\n"
+preview: 'Deutscher Bundestag
+
+
+  115. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 2.Juli 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Änderungsantrag der Abgeordneten Volker Beck (Köln), Luise Amtsberg, Brigitte Pothmer,
+
+  weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Gesetzes zur Neubestimmung des Bleiberechts und der
+
+  Aufenthaltsbeendigung
+
+  - Druckensachen 18/4097, 18/4199, 18/5420 und 18/5424 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  592
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  39
+
+  119
+
+
+  Nein-Stimmen:
+
+
+  470
+
+
+  Enthaltungen:
+
+
+  3
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 02.07.2015
+
+
+  Beginn: 20:26
+
+  Ende: 20:29
+
+  '
 tags:
 - Bleiberecht
 - Integration
 - Asyl
-title: "Abstimmung: Bleiberecht und Aufenthaltsbeendigung, 2. \xC4nderungsantrag B\xFC\
-  ndnis 90/Die Gr\xFCnen"
+title: 'Abstimmung: Bleiberecht und Aufenthaltsbeendigung, 2. Änderungsantrag Bündnis
+  90/Die Grünen'
 ---

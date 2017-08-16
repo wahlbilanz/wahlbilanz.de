@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 184
+  datum: 8. Juli 2016
   legislaturperiode: 18
 categories:
 - Energie
@@ -54,14 +55,69 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=411
 - title: http://www.abgeordnetenwatch.de/reform_des_erneuerbare_energien_gesetzes_eeg-1105-803.html
   url: http://www.abgeordnetenwatch.de/reform_des_erneuerbare_energien_gesetzes_eeg-1105-803.html
-preview: "Deutscher Bundestag\n\n184. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 8.Juli 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\nGesetzentwurf\
-  \ der Fraktionen der CDU/CSU und SPD\nEntwurf eines Gesetzes zur Einf\xFChrung von\
-  \ Ausschreibungen f\xFCr Strom aus erneuerbaren\nEnergien und zu weiteren \xC4nderungen\
-  \ des Rechts der erneuerbaren Energien (ErneuerbareEnergie-Gesetz - EEG 2016)\n\
-  Drs. 18/8860 und 18/9096\n\nAbgegebene Stimmen insgesamt:\n\n574\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n56\n444\n\nNein-Stimmen:\n\n121\n\nEnthaltungen:\n\n\
-  9\n\nUng\xFCltige:\n\n0\n\nBerlin, den 08.07.2016\n\nBeginn: 10:37\nEnde: 10:40\n"
+preview: 'Deutscher Bundestag
+
+
+  184. Sitzung des Deutschen Bundestages
+
+  am Freitag, 8.Juli 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Gesetzentwurf der Fraktionen der CDU/CSU und SPD
+
+  Entwurf eines Gesetzes zur Einführung von Ausschreibungen für Strom aus erneuerbaren
+
+  Energien und zu weiteren Änderungen des Rechts der erneuerbaren Energien (ErneuerbareEnergie-Gesetz
+  - EEG 2016)
+
+  Drs. 18/8860 und 18/9096
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  574
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  56
+
+  444
+
+
+  Nein-Stimmen:
+
+
+  121
+
+
+  Enthaltungen:
+
+
+  9
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 08.07.2016
+
+
+  Beginn: 10:37
+
+  Ende: 10:40
+
+  '
 tags:
 - Erneuerbare-Energien
 - Nachhaltigkeit

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 158
+  datum: 25. Februar 2016
   legislaturperiode: 18
 categories:
 - Inneres
@@ -56,16 +57,69 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=386
 - title: http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_ii-1105-786.html
   url: http://www.abgeordnetenwatch.de/verschaerfung_des_asylrechts_asylpaket_ii-1105-786.html
-preview: "Deutscher Bundestag\n\n158. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 25.Februar 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\
-  \nGesetzentwurf der Fraktionen der CDU/CSU und SPD\nEntwurf eines Gesetzes zur Einf\xFC\
-  hrung beschleunigter Asylverfahren\nDrs. 18/7538, 18/7645 und 18/7685\n\nAbgegebene\
-  \ Stimmen insgesamt:\n\n580\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n50\n429\n\
-  \nNein-Stimmen:\n\n147\n\nEnthaltungen:\n\n4\n\nUng\xFCltige:\n\n0\n\nBerlin, den\
-  \ 25.02.2016\n\nBeginn: 10:55\nEnde: 10:58\n"
+preview: 'Deutscher Bundestag
+
+
+  158. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 25.Februar 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Gesetzentwurf der Fraktionen der CDU/CSU und SPD
+
+  Entwurf eines Gesetzes zur Einführung beschleunigter Asylverfahren
+
+  Drs. 18/7538, 18/7645 und 18/7685
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  580
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  50
+
+  429
+
+
+  Nein-Stimmen:
+
+
+  147
+
+
+  Enthaltungen:
+
+
+  4
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 25.02.2016
+
+
+  Beginn: 10:55
+
+  Ende: 10:58
+
+  '
 tags:
 - Bleiberecht
 - Integration
 - Asyl
-title: "Abstimmung: Einf\xFChrung beschleunigter Asylverfahren - Gesetzentwurf"
+title: 'Abstimmung: Einführung beschleunigter Asylverfahren - Gesetzentwurf'
 ---

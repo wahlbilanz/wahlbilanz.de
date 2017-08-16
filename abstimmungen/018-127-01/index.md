@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 127
+  datum: 1. Oktober 2015
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,17 +55,77 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=356
 - title: http://www.abgeordnetenwatch.de/bundeswehreinsatz_zur_bekaempfung_von_menschenschmuggel_im_mittelmeer_eunafor_med-1105-764.html
   url: http://www.abgeordnetenwatch.de/bundeswehreinsatz_zur_bekaempfung_von_menschenschmuggel_im_mittelmeer_eunafor_med-1105-764.html
-preview: "Deutscher Bundestag\n\n127. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 1.Oktober 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\
-  Beschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nBeteiligung bewaffneter deutscher Streitkr\xE4fte an der\
-  \ EU-Operation EUNAVFOR MED als\nein Teil der Gesamtinitiative der EU zur Unterbindung\
-  \ des Gesch\xE4ftsmodells der\nMenschenschmuggel- und Menschenhandelsnetzwerke im\
-  \ s\xFCdlichen und zentralen\nMittelmeer\nDrs. 18/6013 und 18/6189\n\nAbgegebene\
-  \ Stimmen insgesamt:\n\n567\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n62\n449\n\
-  \nNein-Stimmen:\n\n116\n\nEnthaltungen:\n\n2\n\nUng\xFCltige:\n\n0\n\nBerlin, den\
-  \ 01.10.2015\n\nBeginn: 15:13\nEnde: 15:16\n"
+preview: 'Deutscher Bundestag
+
+
+  127. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 1.Oktober 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Beteiligung bewaffneter deutscher Streitkräfte an der EU-Operation EUNAVFOR MED
+  als
+
+  ein Teil der Gesamtinitiative der EU zur Unterbindung des Geschäftsmodells der
+
+  Menschenschmuggel- und Menschenhandelsnetzwerke im südlichen und zentralen
+
+  Mittelmeer
+
+  Drs. 18/6013 und 18/6189
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  567
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  62
+
+  449
+
+
+  Nein-Stimmen:
+
+
+  116
+
+
+  Enthaltungen:
+
+
+  2
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 01.10.2015
+
+
+  Beginn: 15:13
+
+  Ende: 15:16
+
+  '
 tags:
+- Bundeswehr
 - EU
 - Menschenhandel
 - Mittelmeer

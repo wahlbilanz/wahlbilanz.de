@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 141
+  datum: 27. November 2015
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -73,14 +74,70 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=376
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=376
-preview: "Deutscher Bundestag\n\n141. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 27.November 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\
-  \nGesetzentwurf der Bundesregierung\nEntwurf eines Gesetzes \xFCber die Feststellung\
-  \ des Bundeshaushaltsplans f\xFCr das\nHaushaltsjahr 2016 (Haushaltsgesetz 2016)\n\
-  - Drucksachen 18/5500, 18/5502, 18/6102, 18/6105 bis 18/6115, 18/6119, 18/6120 und\n\
-  18/6122 bis 18/6126 -\n\nAbgegebene Stimmen insgesamt:\n\n580\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n50\n466\n\nNein-Stimmen:\n\n114\n\nEnthaltungen:\n\n\
-  0\n\nUng\xFCltige:\n\n0\n\nBerlin, den 27.11.2015\n\nBeginn: 12:48\nEnde: 12:51\n"
+preview: 'Deutscher Bundestag
+
+
+  141. Sitzung des Deutschen Bundestages
+
+  am Freitag, 27.November 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das
+
+  Haushaltsjahr 2016 (Haushaltsgesetz 2016)
+
+  - Drucksachen 18/5500, 18/5502, 18/6102, 18/6105 bis 18/6115, 18/6119, 18/6120 und
+
+  18/6122 bis 18/6126 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  580
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  50
+
+  466
+
+
+  Nein-Stimmen:
+
+
+  114
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 27.11.2015
+
+
+  Beginn: 12:48
+
+  Ende: 12:51
+
+  '
 tags:
 - Haushalt
 - Bundesregierung

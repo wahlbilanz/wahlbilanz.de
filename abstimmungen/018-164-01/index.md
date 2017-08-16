@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 164
+  datum: 14. April 2016
   legislaturperiode: 18
 categories:
 - Recht
@@ -55,15 +56,68 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=391
 - title: http://www.abgeordnetenwatch.de/bekaempfung_von_korruption_im_gesundheitswesen-1105-789.html
   url: http://www.abgeordnetenwatch.de/bekaempfung_von_korruption_im_gesundheitswesen-1105-789.html
-preview: "Deutscher Bundestag\n\n164. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 14.April 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\
-  Gesetzentwurf der Bundesregierung\nEntwurf eines Gesetzes zur Bek\xE4mpfung von\
-  \ Korruption im Gesundheitswesen\nDrs. 18/6446 und 18/8106\n\nAbgegebene Stimmen\
-  \ insgesamt:\n\n576\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n54\n464\n\nNein-Stimmen:\n\
-  \n58\n\nEnthaltungen:\n\n54\n\nUng\xFCltige:\n\nBerlin, den 14.04.2016\n\n0\n\n\
-  Beginn: 17:19\nEnde: 17:22\n"
+preview: 'Deutscher Bundestag
+
+
+  164. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 14.April 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur Bekämpfung von Korruption im Gesundheitswesen
+
+  Drs. 18/6446 und 18/8106
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  576
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  54
+
+  464
+
+
+  Nein-Stimmen:
+
+
+  58
+
+
+  Enthaltungen:
+
+
+  54
+
+
+  Ungültige:
+
+
+  Berlin, den 14.04.2016
+
+
+  0
+
+
+  Beginn: 17:19
+
+  Ende: 17:22
+
+  '
 tags:
 - Korruption
 - Bestechung
-title: "Abstimmung: Bek\xE4mpfung von Korruption im Gesundheitswesen"
+title: 'Abstimmung: Bekämpfung von Korruption im Gesundheitswesen'
 ---

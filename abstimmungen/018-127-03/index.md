@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 127
+  datum: 1. Oktober 2015
   legislaturperiode: 18
 categories:
 - Arbeit
@@ -52,19 +53,74 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=358
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=358
-preview: "Deutscher Bundestag\n\n127. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 1.Oktober 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\n\
-  Beschlussempfehlung des Ausschusses f\xFCr Arbeit und Soziales (11. Ausschuss)\n\
-  zu dem Antrag der Abgeordneten Dr. Wolfgang Strengmann-Kuhn, Beate M\xFCller-Gemmeke,\n\
-  Markus Kurth, weiterer Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\n\
-  Existenzminimum und Teilhabe sicherstellen - Sanktionsmoratorium jetzt\nDrs. 18/1963\
-  \ und 6128\n\nAbgegebene Stimmen insgesamt:\n\n556\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n73\n448\n\nNein-Stimmen:\n\n57\n\nEnthaltungen:\n\n51\n\nUng\xFC\
-  ltige:\n\nBerlin, den 01.10.2015\n\n0\n\nBeginn: 16:11\nEnde: 16:14\n"
+preview: 'Deutscher Bundestag
+
+
+  127. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 1.Oktober 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Beschlussempfehlung des Ausschusses für Arbeit und Soziales (11. Ausschuss)
+
+  zu dem Antrag der Abgeordneten Dr. Wolfgang Strengmann-Kuhn, Beate Müller-Gemmeke,
+
+  Markus Kurth, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  Existenzminimum und Teilhabe sicherstellen - Sanktionsmoratorium jetzt
+
+  Drs. 18/1963 und 6128
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  556
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  73
+
+  448
+
+
+  Nein-Stimmen:
+
+
+  57
+
+
+  Enthaltungen:
+
+
+  51
+
+
+  Ungültige:
+
+
+  Berlin, den 01.10.2015
+
+
+  0
+
+
+  Beginn: 16:11
+
+  Ende: 16:14
+
+  '
 tags:
 - Hartz IV
 - Sozialhilfe
 - Sanktionen
-title: "Abstimmung: Sanktionen bei Hartz IV und Sozialhilfe, Antrag B\xFCndnis 90/Die\
-  \ Gr\xFCnen"
+title: 'Abstimmung: Sanktionen bei Hartz IV und Sozialhilfe, Antrag Bündnis 90/Die
+  Grünen'
 ---

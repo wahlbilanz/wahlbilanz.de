@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 33
+  datum: 8. Mai 2014
   legislaturperiode: 18
 categories:
 - Todo
@@ -50,15 +51,70 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=264
 - title: http://www.abgeordnetenwatch.de/transparenz_bei_ruestungsexportentscheidungen-1105-600.html
   url: http://www.abgeordnetenwatch.de/transparenz_bei_ruestungsexportentscheidungen-1105-600.html
-preview: "Deutscher Bundestag\n\n33. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 8.Mai 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\nAntrag\
-  \ der Abgeordneten Agnieszka Brugger, Katja Keul, Dr. Frithjof Schmidt, weiterer\n\
-  Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nEchte Transparenz und\
-  \ parlamentarische Beteiligung bei R\xFCstungsexportentscheidungen\nherstellen\n\
-  Drs. 18/1360 (neu)\n\nAbgegebene Stimmen insgesamt:\n\n556\n75\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n104\n\nNein-Stimmen:\n\n451\n\nEnthaltungen:\n\n1\n\n\
-  Ung\xFCltige:\n\n0\n\nBerlin, den 08.05.2014\n\nBeginn: 19:29\nEnde: 19:33\n"
+preview: 'Deutscher Bundestag
+
+
+  33. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 8.Mai 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Antrag der Abgeordneten Agnieszka Brugger, Katja Keul, Dr. Frithjof Schmidt, weiterer
+
+  Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  Echte Transparenz und parlamentarische Beteiligung bei Rüstungsexportentscheidungen
+
+  herstellen
+
+  Drs. 18/1360 (neu)
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  556
+
+  75
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  104
+
+
+  Nein-Stimmen:
+
+
+  451
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 08.05.2014
+
+
+  Beginn: 19:29
+
+  Ende: 19:33
+
+  '
 tags:
 - Todo
-title: "Abstimmung: Transparenz bei R\xFCstungsexportentscheidungen"
+title: 'Abstimmung: Transparenz bei Rüstungsexportentscheidungen'
 ---

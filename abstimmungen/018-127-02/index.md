@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 127
+  datum: 1. Oktober 2015
   legislaturperiode: 18
 categories:
 - Arbeit
@@ -52,15 +53,70 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=357
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=357
-preview: "Deutscher Bundestag\n\n127. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 1.Oktober 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\n\
-  Beschlussempfehlung des Ausschusses f\xFCr Arbeit und Soziales (11. Ausschuss)\n\
-  zu dem Antrag der Abgeordneten Katja Kipping, Sabine Zimmermann (Zwickau), Matthias\n\
-  W. Birkwald, weiterer Abgeordneter und der Fraktion DIE LINKE.\nSanktionen bei Hartz\
-  \ IV und Leistungseinschr\xE4nkungen bei der Sozialhilfe abschaffen\n- Drucksachen\
-  \ 18/1115 und 18/6128 -\n\nAbgegebene Stimmen insgesamt:\n\n559\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n70\n451\n\nNein-Stimmen:\n\n55\n\nEnthaltungen:\n\n53\n\
-  \nUng\xFCltige:\n\nBerlin, den 01.10.2015\n\n0\n\nBeginn: 16:08\nEnde: 16:10\n"
+preview: 'Deutscher Bundestag
+
+
+  127. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 1.Oktober 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Beschlussempfehlung des Ausschusses für Arbeit und Soziales (11. Ausschuss)
+
+  zu dem Antrag der Abgeordneten Katja Kipping, Sabine Zimmermann (Zwickau), Matthias
+
+  W. Birkwald, weiterer Abgeordneter und der Fraktion DIE LINKE.
+
+  Sanktionen bei Hartz IV und Leistungseinschränkungen bei der Sozialhilfe abschaffen
+
+  - Drucksachen 18/1115 und 18/6128 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  559
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  70
+
+  451
+
+
+  Nein-Stimmen:
+
+
+  55
+
+
+  Enthaltungen:
+
+
+  53
+
+
+  Ungültige:
+
+
+  Berlin, den 01.10.2015
+
+
+  0
+
+
+  Beginn: 16:08
+
+  Ende: 16:10
+
+  '
 tags:
 - Hartz IV
 - Sozialhilfe

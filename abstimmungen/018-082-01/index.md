@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 82
+  datum: 29. Januar 2015
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,18 +55,75 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=324
 - title: http://www.abgeordnetenwatch.de/ausbildungsunterstuetzungseinsatz_kurdistan_irak-1105-711.html
   url: http://www.abgeordnetenwatch.de/ausbildungsunterstuetzungseinsatz_kurdistan_irak-1105-711.html
-preview: "Deutscher Bundestag\n\n82. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 29.Januar 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\
-  Beschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nAusbildungsunterst\xFCtzung der Sicherheitskr\xE4fte der\
-  \ Regierung der Region Kurdistan-Irak\nund der irakischen Streitkr\xE4fte\nDrs.\
-  \ 18/3561 und 18/3857\n\nAbgegebene Stimmen insgesamt:\n\n590\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n41\n457\n\nNein-Stimmen:\n\n79\n\nEnthaltungen:\n\n54\n\
-  \nUng\xFCltige:\n\nBerlin, den 29.01.2015\n\n0\n\nBeginn: 15:07\nEnde: 15:10\n"
+preview: 'Deutscher Bundestag
+
+
+  82. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 29.Januar 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Ausbildungsunterstützung der Sicherheitskräfte der Regierung der Region Kurdistan-Irak
+
+  und der irakischen Streitkräfte
+
+  Drs. 18/3561 und 18/3857
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  590
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  41
+
+  457
+
+
+  Nein-Stimmen:
+
+
+  79
+
+
+  Enthaltungen:
+
+
+  54
+
+
+  Ungültige:
+
+
+  Berlin, den 29.01.2015
+
+
+  0
+
+
+  Beginn: 15:07
+
+  Ende: 15:10
+
+  '
 tags:
+- Bundeswehr
 - Kurdistan
 - Irak
 - Ausbildung
 - UN
-title: "Abstimmung: Ausbildungsunterst\xFCtzungeinsatz Kurdistan-Irak"
+title: 'Abstimmung: Ausbildungsunterstützungeinsatz Kurdistan-Irak'
 ---

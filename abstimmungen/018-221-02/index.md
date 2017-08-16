@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 221
+  datum: 9. März 2017
   legislaturperiode: 18
 categories:
 - Recht
@@ -61,14 +62,71 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=455
 - title: http://www.abgeordnetenwatch.de/verbesserung_der_mietpreisbremse-1105-859.html
   url: http://www.abgeordnetenwatch.de/verbesserung_der_mietpreisbremse-1105-859.html
-preview: "Deutscher Bundestag\n\n221. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 9. M\xE4rz 2017\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\
-  \nBeschlussempfehlung des Ausschusses f\xFCr Recht und Verbraucherschutz (6. Ausschuss)\
-  \ zu\ndem Antrag der Abgeordneten Caren Lay, Halina Wawzyniak, Frank Tempel, weiterer\n\
-  Abgeordneter und der Fraktion DIE LINKE.\nMietpreisbremse wirkungsvoll ausgestalten\n\
-  - Drucksachen 18/9123 und 18/10089 -\n\nAbgegebene Stimmen insgesamt:\n\n570\n\n\
-  Nicht abgegebene Stimmen:\nJa-Stimmen:\n\n60\n461\n\nNein-Stimmen:\n\n53\n\nEnthaltungen:\n\
-  \n56\n\nUng\xFCltige:\n\nBerlin, den 09.03.2017\n\n0\n\nBeginn: 13:26\nEnde: 13:29\n"
+preview: 'Deutscher Bundestag
+
+
+  221. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 9. März 2017
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Beschlussempfehlung des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)
+  zu
+
+  dem Antrag der Abgeordneten Caren Lay, Halina Wawzyniak, Frank Tempel, weiterer
+
+  Abgeordneter und der Fraktion DIE LINKE.
+
+  Mietpreisbremse wirkungsvoll ausgestalten
+
+  - Drucksachen 18/9123 und 18/10089 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  570
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  60
+
+  461
+
+
+  Nein-Stimmen:
+
+
+  53
+
+
+  Enthaltungen:
+
+
+  56
+
+
+  Ungültige:
+
+
+  Berlin, den 09.03.2017
+
+
+  0
+
+
+  Beginn: 13:26
+
+  Ende: 13:29
+
+  '
 tags:
 - Miete
 - Wohnen

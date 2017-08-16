@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 3
+  datum: 28. November 2013
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -51,18 +52,75 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=248
 - title: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan_unmiss-1105-542.html
   url: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_suedsudan_unmiss-1105-542.html
-preview: "Deutscher Bundestag\n\n3. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 28.November 2013\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\
-  Antrag der Bundesregierung\nFortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4\
-  fte an der von den\nVereinten Nationen gef\xFChrten Friedensmission in S\xFCdsudan\
-  \ (UNMISS) auf\nGrundlage der Resolution 1996 (2011) des Sicherheitsrates der Vereinten\
-  \ Nationen\nvom 8. Juli 2011 und Folgeresolutionen, zuletzt 2109 (2013) vom 11.\
-  \ Juli 2013\nDrucksache 18/71\n\nAbgegebene Stimmen insgesamt:\n\n602\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n29\n540\n\nNein-Stimmen:\n\n60\n\nEnthaltungen:\n\n2\n\
-  \nUng\xFCltige:\n\n0\n\nBerlin, den 28. Nov. 13\n\nBeginn: 11:11\nEnde: 11:16\n"
+preview: 'Deutscher Bundestag
+
+
+  3. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 28.November 2013
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Antrag der Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der von den
+
+  Vereinten Nationen geführten Friedensmission in Südsudan (UNMISS) auf
+
+  Grundlage der Resolution 1996 (2011) des Sicherheitsrates der Vereinten Nationen
+
+  vom 8. Juli 2011 und Folgeresolutionen, zuletzt 2109 (2013) vom 11. Juli 2013
+
+  Drucksache 18/71
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  602
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  29
+
+  540
+
+
+  Nein-Stimmen:
+
+
+  60
+
+
+  Enthaltungen:
+
+
+  2
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 28. Nov. 13
+
+
+  Beginn: 11:11
+
+  Ende: 11:16
+
+  '
 tags:
-- "S\xFCdsudan"
+- Bundeswehr
+- Südsudan
 - UNMISS
 - UN
-title: "Abstimmung: Bundeswehreinsatz in S\xFCdsudan"
+title: 'Abstimmung: Bundeswehreinsatz in Südsudan'
 ---

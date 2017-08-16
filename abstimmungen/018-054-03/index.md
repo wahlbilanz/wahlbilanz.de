@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 54
+  datum: 25. September 2014
   legislaturperiode: 18
 categories:
 - Handel
@@ -54,19 +55,74 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=301
 - title: http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html
   url: http://www.abgeordnetenwatch.de/ablehnung_von_schiedsgerichten_bei_ttip_und_ceta-1105-670.html
-preview: "Deutscher Bundestag\n\n54. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 25.September 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\
-  \nBeschlussempfehlung des Ausschusses f\xFCr Wirtschaft und Energie (9. Ausschuss)\n\
-  zu dem Antrag der Abgeordneten Katharina Dr\xF6ge, Katja Keul, B\xE4rbel H\xF6hn,\
-  \ weiterer\nAbgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nF\xFCr fairen\
-  \ Handel ohne Klageprivilegien f\xFCr Konzerne\nDrs. 18/1458 und 18/2646\n\nAbgegebene\
-  \ Stimmen insgesamt:\n\n583\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n48\n462\n\
-  \nNein-Stimmen:\n\n119\n\nEnthaltungen:\n\n2\n\nUng\xFCltige:\n\n0\n\nBerlin, den\
-  \ 25.09.2014\n\nBeginn: 13:13\nEnde: 13:17\n"
+preview: 'Deutscher Bundestag
+
+
+  54. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 25.September 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Beschlussempfehlung des Ausschusses für Wirtschaft und Energie (9. Ausschuss)
+
+  zu dem Antrag der Abgeordneten Katharina Dröge, Katja Keul, Bärbel Höhn, weiterer
+
+  Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  Für fairen Handel ohne Klageprivilegien für Konzerne
+
+  Drs. 18/1458 und 18/2646
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  583
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  48
+
+  462
+
+
+  Nein-Stimmen:
+
+
+  119
+
+
+  Enthaltungen:
+
+
+  2
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 25.09.2014
+
+
+  Beginn: 13:13
+
+  Ende: 13:17
+
+  '
 tags:
 - Freihandel
 - TTIP
 - CETA
 - EU
+- Schiedsgericht
 title: 'Abstimmung: Freihandelsabkommen der EU mit USA und Kanada'
 ---

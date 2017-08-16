@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 240
+  datum: 22. Juni 2017
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -15,11 +16,11 @@ data:
   url: /res/abstimmungsliste/csv/20170622_2_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-240-02/1812298.pdf
-  title: 'Drucksache 18/12298'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/122/1812298.pdf'
+  title: Drucksache 18/12298
+  url: http://dip21.bundestag.de/dip21/btd/18/122/1812298.pdf
 - local: /res/abstimmungsdaten/018-240-02/1812694.pdf
-  title: 'Drucksache 18/12694'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/126/1812694.pdf'
+  title: Drucksache 18/12694
+  url: http://dip21.bundestag.de/dip21/btd/18/126/1812694.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 0
@@ -74,6 +75,7 @@ preview: "Deutscher Bundestag\n\n240. Sitzung des Deutschen Bundestages\nam Donn
   55\n\nEnthaltungen:\n\n5\n\nUngültige:\n\n0\n\nBerlin, den 22.06.2017\n\nBeginn:\n\
   Ende:\n\n16:51\n16:54\nSeite:\n\n1\n\n\f"
 tags:
+- Bundeswehr
 - Kosovo
 - KFOR
 - UN

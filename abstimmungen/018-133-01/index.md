@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 133
+  datum: 5. November 2015
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -52,19 +53,76 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=368
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=368
-preview: "Deutscher Bundestag\n\n133. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 5.November 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nBeschlussempfehlung des Ausschusses f\xFCr Familie, Senioren, Frauen und Jugend\
-  \ (13.\nAusschuss)\nzu dem Antrag der Abgeordneten Norbert M\xFCller (Potsdam),\
-  \ Sigrid Hupach, Nicole Gohlke,\nweiterer Abgeordneter und der Fraktion DIE LINKE.\n\
-  Betreuungsgeld f\xFCr den Kitaausbau nutzen\nDrucksache 18/6041 und 6200\n\nAbgegebene\
-  \ Stimmen insgesamt:\n\n577\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n53\n461\n\
-  \nNein-Stimmen:\n\n60\n\nEnthaltungen:\n\n56\n\nUng\xFCltige:\n\nBerlin, den 05.11.2015\n\
-  \n0\n\nBeginn: 17:06\nEnde: 17:09\n"
+preview: 'Deutscher Bundestag
+
+
+  133. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 5.November 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Ausschusses für Familie, Senioren, Frauen und Jugend (13.
+
+  Ausschuss)
+
+  zu dem Antrag der Abgeordneten Norbert Müller (Potsdam), Sigrid Hupach, Nicole Gohlke,
+
+  weiterer Abgeordneter und der Fraktion DIE LINKE.
+
+  Betreuungsgeld für den Kitaausbau nutzen
+
+  Drucksache 18/6041 und 6200
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  577
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  53
+
+  461
+
+
+  Nein-Stimmen:
+
+
+  60
+
+
+  Enthaltungen:
+
+
+  56
+
+
+  Ungültige:
+
+
+  Berlin, den 05.11.2015
+
+
+  0
+
+
+  Beginn: 17:06
+
+  Ende: 17:09
+
+  '
 tags:
 - Familie
 - Kinder
 - Betreuungsgeld
 - Kita
-title: "Abstimmung: Betreuungsgeld f\xFCr den Kitaausbau nutzen"
+title: 'Abstimmung: Betreuungsgeld für den Kitaausbau nutzen'
 ---

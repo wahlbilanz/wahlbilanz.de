@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 46
+  datum: 3. Juli 2014
   legislaturperiode: 18
 categories:
 - Arbeit
@@ -54,18 +55,71 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=297
 - title: http://www.abgeordnetenwatch.de/abschaffung_der_sachgrundlosen_befristung-1105-633.html
   url: http://www.abgeordnetenwatch.de/abschaffung_der_sachgrundlosen_befristung-1105-633.html
-preview: "Deutscher Bundestag\n\n46. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 3.Juli 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\nGesetzentwurf\
-  \ der Abgerodneten Klaus Ernst, Susanna Karawanskij, Jutta Krellmann,\nweiterer\
-  \ Abgeordneter und der Fraktion DIE LINKE.\nEntwurf eines Gesetzes zur Abschaffung\
-  \ der sachgrundlosen Befristung\nDrs. 18/7 und 18/879\n\nAbgegebene Stimmen insgesamt:\n\
-  \n585\n46\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n118\n\nNein-Stimmen:\n\n\
-  467\n\nEnthaltungen:\n\n0\n\nUng\xFCltige:\n\n0\n\nBerlin, den 04.07.2014\n\nBeginn:\
-  \ 15:51\nEnde: 15:54\n"
+preview: 'Deutscher Bundestag
+
+
+  46. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 3.Juli 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Gesetzentwurf der Abgerodneten Klaus Ernst, Susanna Karawanskij, Jutta Krellmann,
+
+  weiterer Abgeordneter und der Fraktion DIE LINKE.
+
+  Entwurf eines Gesetzes zur Abschaffung der sachgrundlosen Befristung
+
+  Drs. 18/7 und 18/879
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  585
+
+  46
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  118
+
+
+  Nein-Stimmen:
+
+
+  467
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 04.07.2014
+
+
+  Beginn: 15:51
+
+  Ende: 15:54
+
+  '
 tags:
 - Befristung
 - Arbeitsvertrag
 - Arbeitnehmer
 - Arbeitgeber
-title: "Abstimmung: Befristung von Arbeitsverh\xE4ltnissen"
+title: 'Abstimmung: Befristung von Arbeitsverhältnissen'
 ---

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 141
+  datum: 27. November 2015
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -69,14 +70,16 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=375
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=375
-preview: "\xC4nderungsantrag der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN zu der zweiten\
-  \ Beratung des Gesetzentwurfs der Bundesregierung Entwurf eines Gesetzes \xFCber\
-  \ die Feststellung des Bundeshaushaltsplans f\xFCr das Haushaltsjahr 2016 (Haushaltsgesetz\
-  \ 2016) hier: Einzelplan 12 Gesch\xE4ftsbereich des Bundesministeriums f\xFCr Verkehr\
-  \ und digitale Infrastruktur (Drucksachen 18/5500, 18/5502, 18/6112, 18/6124, 18/6125,\
-  \ 18/6126 und 18/6804)\n"
+preview: "Deutscher Bundestag\n\n141. Sitzung des Deutschen Bundestages\nam Freitag,\
+  \ 27. November 2015\nEndgültiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\
+  \ Änderungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN zu der zweiten Beratung des\
+  \ Gesetzentwurfs der Bundesregierung Entwurf eines Gesetzes über die Feststellung\
+  \ des Bundeshaushaltsplans für das Haushaltsjahr 2016 (Haushaltsgesetz 2016) hier:\
+  \ Einzelplan 12 Geschäftsbereich des Bundesministeriums für Verkehr und digitale\
+  \ Infrastruktur (Drucksachen 18/5500, 18/5502, 18/6112, 18/6124, 18/6125, 18/6126\
+  \ und 18/6804)\n"
 tags:
-- "Stra\xDFennetz"
+- Straßennetz
 - PKW
 - Maut
 title: 'Abstimmung: Etat Verkehr und digitale Infrastruktur'

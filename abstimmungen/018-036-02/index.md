@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 36
+  datum: 22. Mai 2014
   legislaturperiode: 18
 categories:
 - Familie
@@ -58,16 +59,71 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=276
 - title: http://www.abgeordnetenwatch.de/aenderungsantrag_gesetz_zur_sukzessivadoption_durch_lebenspartner-1105-619.html
   url: http://www.abgeordnetenwatch.de/aenderungsantrag_gesetz_zur_sukzessivadoption_durch_lebenspartner-1105-619.html
-preview: "Deutscher Bundestag\n\n36. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 22.Mai 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\n\xC4\
-  nderungsantrag der Abgeordneten Volker Beck (K\xF6ln), Ulle Schauws, Luise Amtsberg,\n\
-  weiterer Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nzu der zweiten\
-  \ Beratung des Gesetzentwurfs der Bundesregierung\nEntwurf eines Gesetzes zur Umsetzung\
-  \ der Entscheidung des Bundesverfassungsgerichts\nzur Sukzessivadoption durch Lebenspartner\n\
-  - Drucksachen 18/1285, 18/1488 und 18/1494 -\n\nAbgegebene Stimmen insgesamt:\n\n\
-  563\n68\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n111\n\nNein-Stimmen:\n\n432\n\
-  \nEnthaltungen:\n\n20\n\nUng\xFCltige:\n\nBerlin, den 05.06.2014\n\n0\n\nBeginn:\
-  \ 18:36\nEnde: 18:40\n"
+preview: 'Deutscher Bundestag
+
+
+  36. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 22.Mai 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Änderungsantrag der Abgeordneten Volker Beck (Köln), Ulle Schauws, Luise Amtsberg,
+
+  weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Gesetzes zur Umsetzung der Entscheidung des Bundesverfassungsgerichts
+
+  zur Sukzessivadoption durch Lebenspartner
+
+  - Drucksachen 18/1285, 18/1488 und 18/1494 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  563
+
+  68
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  111
+
+
+  Nein-Stimmen:
+
+
+  432
+
+
+  Enthaltungen:
+
+
+  20
+
+
+  Ungültige:
+
+
+  Berlin, den 05.06.2014
+
+
+  0
+
+
+  Beginn: 18:36
+
+  Ende: 18:40
+
+  '
 tags:
 - Todo
 - Adoptionsrechts

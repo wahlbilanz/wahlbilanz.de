@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 7
   bundestagssitzung: 66
+  datum: 13. November 2014
   legislaturperiode: 18
 categories:
 - Wissenschaft
@@ -56,20 +57,69 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=313
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=313
-preview: "Deutscher Bundestag\n\n66. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 13.November 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 7\n\
-  \n\xC4nderungsantrag der Abgeordneten Kai Gehring, \xD6zcan Mutlu, Katja D\xF6rner,\
-  \ weiterer\nAbgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nzu der zweiten\
-  \ Beratung des Gesetzentwurfs der Bundesregierung\nEntwurf eines F\xFCnfundzwanzigsten\
-  \ Gesetzes zur \xC4nderung des\nBundesausbildungsf\xF6rderungsgesetzes (25. BAf\xF6\
-  G\xC4ndG)\n- Drucksachen 18/2663, 18/3142 und 18/3183 -\n\nAbgegebene Stimmen insgesamt:\n\
-  Nicht abgegebene Stimmen:\nJa-Stimmen:\nNein-Stimmen:\nEnthaltungen:\nUng\xFCltige:\n\
-  \nBerlin, den 13.11.2014\n\n578\n53\n56\n469\n53\n0\n\nBeginn: 20:26\nEnde: 20:29\n"
+preview: 'Deutscher Bundestag
+
+
+  66. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 13.November 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 7
+
+
+  Änderungsantrag der Abgeordneten Kai Gehring, Özcan Mutlu, Katja Dörner, weiterer
+
+  Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Fünfundzwanzigsten Gesetzes zur Änderung des
+
+  Bundesausbildungsförderungsgesetzes (25. BAföGÄndG)
+
+  - Drucksachen 18/2663, 18/3142 und 18/3183 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+  Nein-Stimmen:
+
+  Enthaltungen:
+
+  Ungültige:
+
+
+  Berlin, den 13.11.2014
+
+
+  578
+
+  53
+
+  56
+
+  469
+
+  53
+
+  0
+
+
+  Beginn: 20:26
+
+  Ende: 20:29
+
+  '
 tags:
 - Forschung
 - Hochschulen
 - Ausbildung
-- "BAf\xF6G"
-title: "Abstimmung: \xC4nderung des Bundesausbildungsf\xF6rderungsgesetzes, 2. \xC4\
-  nderungsantrag B\xFCndnis 90/Die Gr\xFCnen"
+- BAföG
+title: 'Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes, 2. Änderungsantrag
+  Bündnis 90/Die Grünen'
 ---

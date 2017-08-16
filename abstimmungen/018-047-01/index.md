@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 47
+  datum: 4. Juli 2014
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -52,15 +53,70 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=298
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=298
-preview: "Deutscher Bundestag\n\n47. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 4.Juli 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\nBeschlussempfehlung\
-  \ des Finanzausschusses (7. Ausschuss) zu dem Antrag der\nAbgeordneten Susanna Karawanskij,\
-  \ Matthias W. Birkwald, Dr. Axel Troost, weiterer\nAbgeordneter und der Fraktion\
-  \ DIE LINKE.\nLebensversicherungen auf den Pr\xFCfstand stellen - Kein Schnellverfahren\
-  \ zu Lasten der\nVersicherten\nDrs. 18/1815 und 18/2016\n\nAbgegebene Stimmen insgesamt:\n\
-  Nicht abgegebene Stimmen:\nJa-Stimmen:\n\n538\n93\n437\n\nNein-Stimmen:\n\n47\n\n\
-  Enthaltungen:\n\n54\n\nUng\xFCltige:\n\nBerlin, den 04.07.2014\n\n0\n\nBeginn: 14:31\n\
-  Ende: 14:33\n"
+preview: 'Deutscher Bundestag
+
+
+  47. Sitzung des Deutschen Bundestages
+
+  am Freitag, 4.Juli 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Finanzausschusses (7. Ausschuss) zu dem Antrag der
+
+  Abgeordneten Susanna Karawanskij, Matthias W. Birkwald, Dr. Axel Troost, weiterer
+
+  Abgeordneter und der Fraktion DIE LINKE.
+
+  Lebensversicherungen auf den Prüfstand stellen - Kein Schnellverfahren zu Lasten
+  der
+
+  Versicherten
+
+  Drs. 18/1815 und 18/2016
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  538
+
+  93
+
+  437
+
+
+  Nein-Stimmen:
+
+
+  47
+
+
+  Enthaltungen:
+
+
+  54
+
+
+  Ungültige:
+
+
+  Berlin, den 04.07.2014
+
+
+  0
+
+
+  Beginn: 14:31
+
+  Ende: 14:33
+
+  '
 tags:
 - Lebensversicherung
 title: 'Abstimmung: Lebensversicherungsreformgesetz'

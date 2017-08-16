@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 243
+  datum: 29. Juni 2017
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -15,11 +16,11 @@ data:
   url: /res/abstimmungsliste/csv/20170629_1_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-243-01/1812491.pdf
-  title: 'Drucksache 18/12491'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/124/1812491.pdf'
+  title: Drucksache 18/12491
+  url: http://dip21.bundestag.de/dip21/btd/18/124/1812491.pdf
 - local: /res/abstimmungsdaten/018-243-01/1812868.pdf
-  title: 'Drucksache 18/12868'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/128/1812868.pdf'
+  title: Drucksache 18/12868
+  url: http://dip21.bundestag.de/dip21/btd/18/128/1812868.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 0
@@ -70,6 +71,7 @@ preview: "Deutscher Bundestag\n\n243. Sitzung des Deutschen Bundestages\nam Donn
   116\n\nEnthaltungen:\n\n3\n\nUngültige:\n\n0\n\nBerlin, den 29.06.2017\n\nBeginn:\n\
   Ende:\n\n14:15\n14:18\nSeite:\n\n1\n\n\f"
 tags:
+- Bundeswehr
 - EU
 - Menschenhandel
 - Menschenschmuggel

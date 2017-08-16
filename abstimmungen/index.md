@@ -7,6 +7,8 @@ sidebar: true
 
 Hier findest du eine Liste aller namentlichen Abstimmungen des Bundestages in der Legislaturperiode 2013-2017.
 
+Du möchtest die Abstimmungen automatisch auswerten oder mit einer Software parsen? Dann [schau mal auf Github](https://github.com/wahlbilanz/wahlbilanz.de/tree/master/abstimmungen#readme): Wir haben eine kleine Bibliothek vorbereitet :)
+
 * [Bundeswehreinsatz in Südsudan](018-003-01/) (3. Sitzung des Deutschen Bundestages am Donnerstag, 28.November 2013)
 * [Bundeswehreinsatz in Darfur](018-003-02/) (3. Sitzung des Deutschen Bundestages am Donnerstag, 28.November 2013)
 * [Bundeswehreinsatz OAF (Türkei)](018-010-01/) (10. Sitzung des Deutschen Bundestages am Mittwoch, 29.Januar 2014)

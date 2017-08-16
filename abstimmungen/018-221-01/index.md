@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 221
+  datum: 9. März 2017
   legislaturperiode: 18
 categories:
 - Todo
@@ -60,19 +61,76 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=454
 - title: http://www.abgeordnetenwatch.de/keine_erhoehung_der_verteidigungsausgaben_auf_2_prozent_des_bip-1105-860.html
   url: http://www.abgeordnetenwatch.de/keine_erhoehung_der_verteidigungsausgaben_auf_2_prozent_des_bip-1105-860.html
-preview: "Deutscher Bundestag\n\n221. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 9. M\xE4rz 2017\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nEntschlie\xDFungsantrag der Abgeordneten Dr. Alexander Neu, Wolfgang Gehrke, Jan\
-  \ van\nAken, weiterer Abgeordneter und der Fraktion DIE LINKE.\nzu der Abgabe einer\
-  \ Regierungserkl\xE4rung durch die Bundeskanzlerin zum Europ\xE4ischen\nRat am 9.\
-  \ M\xE4rz 2017 und zum Vorbereitungstreffen der 27 Staats- und Regierungschefs f\xFC\
-  r\nden Jubil\xE4umsgipfel in Rom am 25. M\xE4rz 2017\nDrs. 18/11429\n\nAbgegebene\
-  \ Stimmen insgesamt:\n\n565\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n65\n110\n\
-  \nNein-Stimmen:\n\n455\n\nEnthaltungen:\n\n0\n\nUng\xFCltige:\n\n0\n\nBerlin, den\
-  \ 09.03.2017\n\nBeginn: 11:52\nEnde: 11:54\n"
+preview: 'Deutscher Bundestag
+
+
+  221. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 9. März 2017
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Entschließungsantrag der Abgeordneten Dr. Alexander Neu, Wolfgang Gehrke, Jan van
+
+  Aken, weiterer Abgeordneter und der Fraktion DIE LINKE.
+
+  zu der Abgabe einer Regierungserklärung durch die Bundeskanzlerin zum Europäischen
+
+  Rat am 9. März 2017 und zum Vorbereitungstreffen der 27 Staats- und Regierungschefs
+  für
+
+  den Jubiläumsgipfel in Rom am 25. März 2017
+
+  Drs. 18/11429
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  565
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  65
+
+  110
+
+
+  Nein-Stimmen:
+
+
+  455
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 09.03.2017
+
+
+  Beginn: 11:52
+
+  Ende: 11:54
+
+  '
 tags:
 - Verteidigung
 - EU
 - NATO
-title: "Abstimmung: Entschlie\xDFungsantrag zum Europ\xE4ischen Rat"
+title: 'Abstimmung: Entschließungsantrag zum Europäischen Rat'
 ---

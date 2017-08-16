@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 226
+  datum: 24. März 2017
   legislaturperiode: 18
 categories:
 - Verkehr
@@ -66,16 +67,69 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=459
 - title: http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html
   url: http://www.abgeordnetenwatch.de/anpassung_der_pkw_maut-1105-861.html
-preview: "Deutscher Bundestag\n\n226. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 24. M\xE4rz 2017\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\
-  \nGesetzentwurf der Bundesregierung\nEntwurf eines Gesetzes zur \xC4nderung des\
-  \ Zweiten Verkehrsteuer\xE4nderungsgesetzes\n- Drucksachen 18/11235, 18/11560 und\
-  \ 18/11643 -\n\nAbgegebene Stimmen insgesamt:\n\n542\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n88\n405\n\nNein-Stimmen:\n\n125\n\nEnthaltungen:\n\n12\n\nUng\xFC\
-  ltige:\n\nBerlin, den 24.03.2017\n\n0\n\nBeginn: 10:21\nEnde: 10:23\n"
+preview: 'Deutscher Bundestag
+
+
+  226. Sitzung des Deutschen Bundestages
+
+  am Freitag, 24. März 2017
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur Änderung des Zweiten Verkehrsteueränderungsgesetzes
+
+  - Drucksachen 18/11235, 18/11560 und 18/11643 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  542
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  88
+
+  405
+
+
+  Nein-Stimmen:
+
+
+  125
+
+
+  Enthaltungen:
+
+
+  12
+
+
+  Ungültige:
+
+
+  Berlin, den 24.03.2017
+
+
+  0
+
+
+  Beginn: 10:21
+
+  Ende: 10:23
+
+  '
 tags:
 - PKW
 - Maut
-- "Stra\xDFennetz"
-title: "Abstimmung: \xC4nderung des Zweiten Verkehrsteuer\xE4nderungsgesetzes"
+- Straßennetz
+title: 'Abstimmung: Änderung des Zweiten Verkehrsteueränderungsgesetzes'
 ---

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 4
   bundestagssitzung: 44
+  datum: 27. Juni 2014
   legislaturperiode: 18
 categories:
 - Energie
@@ -60,20 +61,76 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=286
 - title: http://www.abgeordnetenwatch.de/novelle_des_eeg-1105-629.html
   url: http://www.abgeordnetenwatch.de/novelle_des_eeg-1105-629.html
-preview: "Deutscher Bundestag\n\n44. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 27.Juni 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 4\n\nEntschlie\xDF\
-  ungsantrag der Abgeordneten Caren Lay, Eva Bulling-Schr\xF6ter, Dr. Dietmar\nBartsch,\
-  \ weiterer Abgeordneter und der Fraktion DIE LINKE.\nzu der dritten Beratung des\
-  \ Gesetzentwurfs der Bundesregierung\nEntwurf eines Gesetzes zur grundlegenden Reform\
-  \ des Erneuerbare-Energien-Gesetzes und\nzur \xC4nderung weiterer Bestimmungen des\
-  \ Energiewirtschaftsrechts\n- Drucksachen 18/1304, 18/1573, 18/1891 und 18/1901\
-  \ -\n\nAbgegebene Stimmen insgesamt:\n\n575\n56\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\
-  \n109\n\nNein-Stimmen:\n\n465\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin,\
-  \ den 27.06.2014\n\nBeginn: 10:58\nEnde: 11:01\n"
+preview: 'Deutscher Bundestag
+
+
+  44. Sitzung des Deutschen Bundestages
+
+  am Freitag, 27.Juni 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
+
+
+  Entschließungsantrag der Abgeordneten Caren Lay, Eva Bulling-Schröter, Dr. Dietmar
+
+  Bartsch, weiterer Abgeordneter und der Fraktion DIE LINKE.
+
+  zu der dritten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Gesetzes zur grundlegenden Reform des Erneuerbare-Energien-Gesetzes
+  und
+
+  zur Änderung weiterer Bestimmungen des Energiewirtschaftsrechts
+
+  - Drucksachen 18/1304, 18/1573, 18/1891 und 18/1901 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  575
+
+  56
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  109
+
+
+  Nein-Stimmen:
+
+
+  465
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 27.06.2014
+
+
+  Beginn: 10:58
+
+  Ende: 11:01
+
+  '
 tags:
 - Erneuerbare-Energien
 - Nachhaltigkeit
 - Umwelt
-title: "Abstimmung: Reform des Erneuerbare-Energien-Gesetzes / Entschlie\xDFungsantrag\
-  \ Die Linke"
+title: 'Abstimmung: Reform des Erneuerbare-Energien-Gesetzes / Entschließungsantrag
+  Die Linke'
 ---

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 139
+  datum: 25. November 2015
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -61,15 +62,73 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=374
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=374
-preview: "Deutscher Bundestag\n\n139. Sitzung des Deutschen Bundestages\nam Mittwoch,\
-  \ 25.November 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nBeschlussempfehlung des Haushaltsausschusses (8. Ausschuss)\nzu dem Entwurf eines\
-  \ Gesetzes \xFCber die Feststellung des Bundeshaushaltsplans f\xFCr das\nHaushaltsjahr\
-  \ 2016 (Haushaltsgesetz 2016)\nhier: Einzelplan 04\nGesch\xE4ftsbereich der Bundeskanzlerin\
-  \ und des Bundeskanzleramtes\nDrucksachen 18/5500, 18/5502, 18/6124, 18/6125 und\
-  \ 18/6126\n\nAbgegebene Stimmen insgesamt:\n\n581\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n49\n469\n\nNein-Stimmen:\n\n112\n\nEnthaltungen:\n\n0\n\nUng\xFC\
-  ltige:\n\n0\n\nBerlin, den 25.11.2015\n\nBeginn: 13:02\nEnde: 13:05\n"
+preview: 'Deutscher Bundestag
+
+
+  139. Sitzung des Deutschen Bundestages
+
+  am Mittwoch, 25.November 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss)
+
+  zu dem Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für
+  das
+
+  Haushaltsjahr 2016 (Haushaltsgesetz 2016)
+
+  hier: Einzelplan 04
+
+  Geschäftsbereich der Bundeskanzlerin und des Bundeskanzleramtes
+
+  Drucksachen 18/5500, 18/5502, 18/6124, 18/6125 und 18/6126
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  581
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  49
+
+  469
+
+
+  Nein-Stimmen:
+
+
+  112
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 25.11.2015
+
+
+  Beginn: 13:02
+
+  Ende: 13:05
+
+  '
 tags:
 - Haushalt
 - Bundesregierung

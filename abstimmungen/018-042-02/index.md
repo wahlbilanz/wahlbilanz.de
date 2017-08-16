@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 42
+  datum: 25. Juni 2014
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,17 +55,74 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=280
 - title: http://www.abgeordnetenwatch.de/verlaengerung_der_bundeswehrbeteiligung_an_un_mission_in_mali_unterstuetzungsmission-1105-628.html
   url: http://www.abgeordnetenwatch.de/verlaengerung_der_bundeswehrbeteiligung_an_un_mission_in_mali_unterstuetzungsmission-1105-628.html
-preview: "Deutscher Bundestag\n\n42. Sitzung des Deutschen Bundestages\nam Mittwoch,\
-  \ 25.Juni 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\nBeschlussempfehlung\
-  \ des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag der\nBundesregierung\n\
-  Fortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4fte an der Multidimensionalen\n\
-  Integrierten Stabilisierungsmission der Vereinten Nationen in Mali (MINUSMA) auf\n\
-  Grundlage der Resolution 2100 (2013) des Sicherheitsrates der Vereinten Nationen\
-  \ vom 25.\nApril 2013\n- Drucksachen 18/1416 und 18/1811 -\n\nAbgegebene Stimmen\
-  \ insgesamt:\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n587\n44\n518\n\nNein-Stimmen:\n\
-  \n64\n\nEnthaltungen:\n\n5\n\nUng\xFCltige:\n\n0\n\nBerlin, den 25.06.2014\n\nBeginn:\
-  \ 13:47\nEnde: 13:49\n"
+preview: 'Deutscher Bundestag
+
+
+  42. Sitzung des Deutschen Bundestages
+
+  am Mittwoch, 25.Juni 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Multidimensionalen
+
+  Integrierten Stabilisierungsmission der Vereinten Nationen in Mali (MINUSMA) auf
+
+  Grundlage der Resolution 2100 (2013) des Sicherheitsrates der Vereinten Nationen
+  vom 25.
+
+  April 2013
+
+  - Drucksachen 18/1416 und 18/1811 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  587
+
+  44
+
+  518
+
+
+  Nein-Stimmen:
+
+
+  64
+
+
+  Enthaltungen:
+
+
+  5
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 25.06.2014
+
+
+  Beginn: 13:47
+
+  Ende: 13:49
+
+  '
 tags:
+- Bundeswehr
 - Mali
 - MINUSMA
 - UN

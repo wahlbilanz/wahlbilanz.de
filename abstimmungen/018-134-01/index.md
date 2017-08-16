@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 134
+  datum: 6. November 2015
   legislaturperiode: 18
 categories:
 - Todo
@@ -44,12 +45,67 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=370
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=370
-preview: "Deutscher Bundestag\n\n134. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 6.November 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nAnwendung des Stimmzettelverfahrens unter Abweichung von der Gesch\xE4ftsordnung\n\
-  \nAbgegebene Stimmen insgesamt:\n\n586\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\
-  \n44\n525\n\nNein-Stimmen:\n\n61\n\nEnthaltungen:\n\n0\n\nUng\xFCltige:\n\n0\n\n\
-  Berlin, den 06.11.2015\n\nBeginn:\nEnde:\n\n9:10\n9:13\n"
+preview: 'Deutscher Bundestag
+
+
+  134. Sitzung des Deutschen Bundestages
+
+  am Freitag, 6.November 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Anwendung des Stimmzettelverfahrens unter Abweichung von der Geschäftsordnung
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  586
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  44
+
+  525
+
+
+  Nein-Stimmen:
+
+
+  61
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 06.11.2015
+
+
+  Beginn:
+
+  Ende:
+
+
+  9:10
+
+  9:13
+
+  '
 tags:
 - Todo
 title: 'Abstimmung: Anwendung des Stimmzettelverfahrens'

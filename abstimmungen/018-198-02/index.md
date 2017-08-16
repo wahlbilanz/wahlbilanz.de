@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 198
+  datum: 9. November 2016
   legislaturperiode: 18
 categories:
 - Gesundheit
@@ -60,19 +61,70 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=440
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=440
-preview: "Deutscher Bundestag\n\n198. Sitzung des Deutschen Bundestages\nam Mittwoch,\
-  \ 9.November 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\
-  \n\xC4nderungsantrag der Abgeordneten Hilde Mattheis und Sabine Dittmar\nzur der\
-  \ zweiten Beratung des Gesetzentwurfs der Bundesregierung\nEntwurf eines Vierten\
-  \ Gesetzes zur \xC4nderung arzneimittelrechtlicher und anderer\nVorschriften\n-\
-  \ Drucksachen 18/8034, 18/8333, 18/8461 Nr. 1.5, 18/10056 und 18/10234 -\n\nAbgegebene\
-  \ Stimmen insgesamt:\nNicht abgegebene Stimmen:\nJa-Stimmen:\nNein-Stimmen:\n\n\
-  581\n49\n69\n508\n\nEnthaltungen:\n\n4\n\nUng\xFCltige:\n\n0\n\nBerlin, den 09.11.2016\n\
-  \nBeginn: 15:17\nEnde: 15:19\n"
+preview: 'Deutscher Bundestag
+
+
+  198. Sitzung des Deutschen Bundestages
+
+  am Mittwoch, 9.November 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Änderungsantrag der Abgeordneten Hilde Mattheis und Sabine Dittmar
+
+  zur der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer
+
+  Vorschriften
+
+  - Drucksachen 18/8034, 18/8333, 18/8461 Nr. 1.5, 18/10056 und 18/10234 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+  Nein-Stimmen:
+
+
+  581
+
+  49
+
+  69
+
+  508
+
+
+  Enthaltungen:
+
+
+  4
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 09.11.2016
+
+
+  Beginn: 15:17
+
+  Ende: 15:19
+
+  '
 tags:
 - Arzneimittel
 - Good Clinical Practice
 - Apotheken
-title: "Abstimmung: \xC4nderungsantrag der Abgeordneten Hilde Mattheis und Sabine\
-  \ Dittmar zur 4. \xC4nderung arzneimittelrechtlicher und anderer Vorschriften"
+title: 'Abstimmung: Änderungsantrag der Abgeordneten Hilde Mattheis und Sabine Dittmar
+  zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften'
 ---

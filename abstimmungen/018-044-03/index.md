@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 44
+  datum: 27. Juni 2014
   legislaturperiode: 18
 categories:
 - Energie
@@ -57,13 +58,68 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=285
 - title: http://www.abgeordnetenwatch.de/novelle_des_eeg-1105-629.html
   url: http://www.abgeordnetenwatch.de/novelle_des_eeg-1105-629.html
-preview: "Deutscher Bundestag\n\n44. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 27.Juni 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\nGesetzentwurf\
-  \ der Bundesregierung\nEntwurf eines Gesetzes zur grundlegenden Reform des Erneuerbare-Energien-Gesetzes\
-  \ und\nzur \xC4nderung weiterer Bestimmungen des Energiewirtschaftsrechts\n- Drucksachen\
-  \ 18/1304, 18/1573 und 18/1891 -\n\nAbgegebene Stimmen insgesamt:\n\n578\n53\n\n\
-  Nicht abgegebene Stimmen:\nJa-Stimmen:\n\n447\n\nNein-Stimmen:\n\n124\n\nEnthaltungen:\n\
-  \n7\n\nUng\xFCltige:\n\n0\n\nBerlin, den 27.06.2014\n\nBeginn: 10:54\nEnde: 10:57\n"
+preview: 'Deutscher Bundestag
+
+
+  44. Sitzung des Deutschen Bundestages
+
+  am Freitag, 27.Juni 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur grundlegenden Reform des Erneuerbare-Energien-Gesetzes
+  und
+
+  zur Änderung weiterer Bestimmungen des Energiewirtschaftsrechts
+
+  - Drucksachen 18/1304, 18/1573 und 18/1891 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  578
+
+  53
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  447
+
+
+  Nein-Stimmen:
+
+
+  124
+
+
+  Enthaltungen:
+
+
+  7
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 27.06.2014
+
+
+  Beginn: 10:54
+
+  Ende: 10:57
+
+  '
 tags:
 - Erneuerbare-Energien
 - Nachhaltigkeit

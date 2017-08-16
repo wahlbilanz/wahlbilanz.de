@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 7
   bundestagssitzung: 98
+  datum: 27. März 2015
   legislaturperiode: 18
 categories:
 - Haushalt
@@ -53,15 +54,70 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=338
 - title: http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html
   url: http://www.abgeordnetenwatch.de/nachhaltige_und_zukunftsweisende_liegenschaftspolitik-1105-724.html
-preview: "Deutscher Bundestag\n\n98. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 27.M\xE4rz 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 7\n\
-  \nBeschlussempfehlung des Haushaltsausschusses (8. Ausschuss) zu dem Antrag der\n\
-  Abgeordneten Christian K\xFChn (T\xFCbingen), Dr. Tobias Lindner, Britta Ha\xDF\
-  elmann, weiterer\nAbgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nF\xFC\
-  r eine nachhaltige und zukunftsweisende Liegenschaftspolitik des Bundes\nDrucksachen\
-  \ 18/3044 und 18/3873\n\nAbgegebene Stimmen insgesamt:\n\n520\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n111\n410\n\nNein-Stimmen:\n\n56\n\nEnthaltungen:\n\n\
-  54\n\nUng\xFCltige:\n\nBerlin, den 27.03.2015\n\n0\n\nBeginn: 14:03\nEnde: 14:05\n"
+preview: 'Deutscher Bundestag
+
+
+  98. Sitzung des Deutschen Bundestages
+
+  am Freitag, 27.März 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 7
+
+
+  Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss) zu dem Antrag der
+
+  Abgeordneten Christian Kühn (Tübingen), Dr. Tobias Lindner, Britta Haßelmann, weiterer
+
+  Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  Für eine nachhaltige und zukunftsweisende Liegenschaftspolitik des Bundes
+
+  Drucksachen 18/3044 und 18/3873
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  520
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  111
+
+  410
+
+
+  Nein-Stimmen:
+
+
+  56
+
+
+  Enthaltungen:
+
+
+  54
+
+
+  Ungültige:
+
+
+  Berlin, den 27.03.2015
+
+
+  0
+
+
+  Beginn: 14:03
+
+  Ende: 14:05
+
+  '
 tags:
 - Liegenschaften
 - Wohnen

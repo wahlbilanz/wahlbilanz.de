@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 118
+  datum: 19. August 2015
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -50,19 +51,77 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=355
 - title: http://www.abgeordnetenwatch.de/gewaehrung_eines_86_mrd_euro_kreditpakets_fuer_griechenland-1105-762.html
   url: http://www.abgeordnetenwatch.de/gewaehrung_eines_86_mrd_euro_kreditpakets_fuer_griechenland-1105-762.html
-preview: "Deutscher Bundestag\n\n118. Sitzung des Deutschen Bundestages\nam Mittwoch,\
-  \ 19.August 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\
-  Antrag des Bundesministeriums der Finanzen\nStabilit\xE4tshilfe zugunsten Griechenlands\n\
-  Einholung eines zustimmenden Beschlusses des Deutschen Bundestages, der Hellenischen\n\
-  Republik Stabilit\xE4tshilfe in Form einer Finanzhilfefazilit\xE4t zu gew\xE4hren\
-  \ sowie zur\nVereinbarung \xFCber ein Memorandum of Understanding zwischen der Hellenischen\n\
-  Republik und dem Europ\xE4ischen Stabiltit\xE4tsmechanismus (ESM)\nDrucksache 18/5780\n\
-  \nAbgegebene Stimmen insgesamt:\n\n584\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\
-  \n47\n453\n\nNein-Stimmen:\n\n113\n\nEnthaltungen:\n\n18\n\nUng\xFCltige:\n\nBerlin,\
-  \ den 19.08.2015\n\n0\n\nBeginn: 12:00\nEnde: 12:03\n"
+preview: 'Deutscher Bundestag
+
+
+  118. Sitzung des Deutschen Bundestages
+
+  am Mittwoch, 19.August 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Antrag des Bundesministeriums der Finanzen
+
+  Stabilitätshilfe zugunsten Griechenlands
+
+  Einholung eines zustimmenden Beschlusses des Deutschen Bundestages, der Hellenischen
+
+  Republik Stabilitätshilfe in Form einer Finanzhilfefazilität zu gewähren sowie zur
+
+  Vereinbarung über ein Memorandum of Understanding zwischen der Hellenischen
+
+  Republik und dem Europäischen Stabiltitätsmechanismus (ESM)
+
+  Drucksache 18/5780
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  584
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  47
+
+  453
+
+
+  Nein-Stimmen:
+
+
+  113
+
+
+  Enthaltungen:
+
+
+  18
+
+
+  Ungültige:
+
+
+  Berlin, den 19.08.2015
+
+
+  0
+
+
+  Beginn: 12:00
+
+  Ende: 12:03
+
+  '
 tags:
 - EU
 - Griechenland
 - Stabilisierung
-title: "Abstimmung: Stabilit\xE4tshilfe zugunsten Griechenlands"
+title: 'Abstimmung: Stabilitätshilfe zugunsten Griechenlands'
 ---

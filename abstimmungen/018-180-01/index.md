@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 180
+  datum: 24. Juni 2016
   legislaturperiode: 18
 categories:
 - Steuer
@@ -57,14 +58,68 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=403
 - title: http://www.abgeordnetenwatch.de/erbschaftssteuerreform-1105-798.html
   url: http://www.abgeordnetenwatch.de/erbschaftssteuerreform-1105-798.html
-preview: "Deutscher Bundestag\n\n180. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 24.Juni 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\
-  Gesetzentwurf der Bundesregierung\nEntwurf eines Gesetzes zur Anpassung des Erbschaftssteuer-\
-  \ und\nSchenkungssteuergesetzes an die Rechtsprechung des Bundesverfassungsgerichts\n\
-  - Drucksachen 18/5923, 18/6279 und 18/8911 -\n\nAbgegebene Stimmen insgesamt:\n\n\
-  568\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n62\n446\n\nNein-Stimmen:\n\n119\n\
-  \nEnthaltungen:\n\n3\n\nUng\xFCltige:\n\n0\n\nBerlin, den 24.06.2016\n\nBeginn:\
-  \ 10:35\nEnde: 10:37\n"
+preview: 'Deutscher Bundestag
+
+
+  180. Sitzung des Deutschen Bundestages
+
+  am Freitag, 24.Juni 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur Anpassung des Erbschaftssteuer- und
+
+  Schenkungssteuergesetzes an die Rechtsprechung des Bundesverfassungsgerichts
+
+  - Drucksachen 18/5923, 18/6279 und 18/8911 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  568
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  62
+
+  446
+
+
+  Nein-Stimmen:
+
+
+  119
+
+
+  Enthaltungen:
+
+
+  3
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 24.06.2016
+
+
+  Beginn: 10:35
+
+  Ende: 10:37
+
+  '
 tags:
 - Erbschaft
 - Schenkung

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 9
   bundestagssitzung: 237
+  datum: 1. Juni 2017
   legislaturperiode: 18
 categories:
 - Grundgesetz
@@ -18,13 +19,13 @@ data:
 documents:
 - local: /res/abstimmungsdaten/018-237-09/1811135.pdf
   title: Drucksache 18/11135.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/111/1811135.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/111/1811135.pdf
 - local: /res/abstimmungsdaten/018-237-09/1811185.pdf
   title: Drucksache 18/11185.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/111/1811185.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/111/1811185.pdf
 - local: /res/abstimmungsdaten/018-237-09/1812589.pdf
   title: Drucksache 18/12589.pdf
-  url: 'http://dip21.bundestag.de/dip21/btd/18/125/1812589.pdf'
+  url: http://dip21.bundestag.de/dip21/btd/18/125/1812589.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 0
@@ -79,5 +80,6 @@ preview: "Deutscher Bundestag\n\n237. Sitzung des Deutschen Bundestages\nam Donn
 tags:
 - Finanzausgleich
 - Todo
-title: 'Abstimmung: Änderungsantrag der Fraktion Die Linke zur Neuregelung des bundesstaatlichen Finanzausgleichssystems'
+title: 'Abstimmung: Änderungsantrag der Fraktion Die Linke zur Neuregelung des bundesstaatlichen
+  Finanzausgleichssystems'
 ---

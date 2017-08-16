@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 198
+  datum: 9. November 2016
   legislaturperiode: 18
 categories:
 - Gesundheit
@@ -60,21 +61,77 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=439
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=439
-preview: "Deutscher Bundestag\n\n198. Sitzung des Deutschen Bundestages\nam Mittwoch,\
-  \ 9.November 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\
-  \n\xC4nderungsantrag der Abgeordneten Dr. Georg N\xFC\xDFlein, Dr. Karl Lauterbach,\
-  \ Maria\nMichalk, Hermann Gr\xF6he, Ingrid Fischbach, Annette Widmann-Mauz und Rufolf\
-  \ Henke\nzu der zweiten Beratung des Gesetzentwurfs der Bundesregierung\nEntwurf\
-  \ eines Vierten Gesetzes zur \xC4nderung arzneimittelrechtlicher und anderer\nVorschriften\n\
-  Drs. 18/8034, 18/8333, 18/8461 Nr. 1.5, 18/10056 und 18/10235\n\nAbgegebene Stimmen\
-  \ insgesamt:\n\n580\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n50\n330\n\nNein-Stimmen:\n\
-  \n242\n\nEnthaltungen:\n\n8\n\nUng\xFCltige:\n\n0\n\nBerlin, den 09.11.2016\n\n\
-  Beginn: 15:27\nEnde: 15:31\n"
+preview: 'Deutscher Bundestag
+
+
+  198. Sitzung des Deutschen Bundestages
+
+  am Mittwoch, 9.November 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Änderungsantrag der Abgeordneten Dr. Georg Nüßlein, Dr. Karl Lauterbach, Maria
+
+  Michalk, Hermann Gröhe, Ingrid Fischbach, Annette Widmann-Mauz und Rufolf Henke
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer
+
+  Vorschriften
+
+  Drs. 18/8034, 18/8333, 18/8461 Nr. 1.5, 18/10056 und 18/10235
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  580
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  50
+
+  330
+
+
+  Nein-Stimmen:
+
+
+  242
+
+
+  Enthaltungen:
+
+
+  8
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 09.11.2016
+
+
+  Beginn: 15:27
+
+  Ende: 15:31
+
+  '
 tags:
 - Arzneimittel
 - Good Clinical Practice
 - Apotheken
-title: "Abstimmung: \xC4nderungsantrag der Abgeordneten Dr. Georg N\xFC\xDFlein, Dr.\
-  \ Karl Lauterbach, Maria Michalk, Hermann Gr\xF6he, Ingrid Fischbach, Annette Widmann-Mauz\
-  \ und Rudolf Henke zur 4. \xC4nderung arzneimittelrechtlicher und anderer Vorschriften"
+title: 'Abstimmung: Änderungsantrag der Abgeordneten Dr. Georg Nüßlein, Dr. Karl Lauterbach,
+  Maria Michalk, Hermann Gröhe, Ingrid Fischbach, Annette Widmann-Mauz und Rudolf
+  Henke zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften'
 ---

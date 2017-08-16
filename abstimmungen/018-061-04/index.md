@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 4
   bundestagssitzung: 61
+  datum: 17. Oktober 2014
   legislaturperiode: 18
 categories:
 - Versicherung
@@ -60,22 +61,78 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=306
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=306
-preview: "Deutscher Bundestag\n\n61. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 17.Oktober 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 4\n\
-  \nEntschlie\xDFungsantrag der Abgeordneten Elisabeth Scharfenberg, Maria Klein-Schmeink,\n\
-  Kordula Schulz-Asche, weiterer Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE\n\
-  GR\xDCNEN\nzu der dritten Beratung des Gesetzentwurfs der Bundesregierung\nEntwurf\
-  \ eines F\xFCnften Gesetzes zur \xC4nderung des Elften Buches Sozialgesetzbuch Leistungsausweitung\
-  \ f\xFCr Pflegebed\xFCrftige, Pflegevorsorgefonds (F\xFCnftes SGB XI\xC4nderungsgesetz\
-  \ - 5. SGB XI-\xC4ndG)\n- Drucksachen 18/1798, 18/2379, 18/2909 und 18/2917 -\n\n\
-  Abgegebene Stimmen insgesamt:\n\n576\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\
-  \n55\n112\n\nNein-Stimmen:\n\n464\n\nEnthaltungen:\n\n0\n\nUng\xFCltige:\n\n0\n\n\
-  Berlin, den 17.10.2014\n\nBeginn: 11:22\nEnde: 11:24\n"
+preview: 'Deutscher Bundestag
+
+
+  61. Sitzung des Deutschen Bundestages
+
+  am Freitag, 17.Oktober 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 4
+
+
+  Entschließungsantrag der Abgeordneten Elisabeth Scharfenberg, Maria Klein-Schmeink,
+
+  Kordula Schulz-Asche, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE
+
+  GRÜNEN
+
+  zu der dritten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Fünften Gesetzes zur Änderung des Elften Buches Sozialgesetzbuch Leistungsausweitung
+  für Pflegebedürftige, Pflegevorsorgefonds (Fünftes SGB XIÄnderungsgesetz - 5. SGB
+  XI-ÄndG)
+
+  - Drucksachen 18/1798, 18/2379, 18/2909 und 18/2917 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  576
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  55
+
+  112
+
+
+  Nein-Stimmen:
+
+
+  464
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 17.10.2014
+
+
+  Beginn: 11:22
+
+  Ende: 11:24
+
+  '
 tags:
 - Pflegeversicherung
 - Pflege
 - Gesundheit
 - Demographie
-title: "Abstimmung: Pflegeversicherung, Entschlie\xDFungsantrag B\xFCndnis 90/Die\
-  \ Gr\xFCnen"
+title: 'Abstimmung: Pflegeversicherung, Entschließungsantrag Bündnis 90/Die Grünen'
 ---

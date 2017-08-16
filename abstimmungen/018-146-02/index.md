@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 146
+  datum: 17. Dezember 2015
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -52,15 +53,72 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=381
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=381
-preview: "Deutscher Bundestag\n\n146. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 17.Dezember 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\
-  \nBeschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nFortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4\
-  fte an der NATO-gef\xFChrten\nOperation ACTIVE ENDEAVOUR im Mittelmeer\nDrs. 18/6742\
-  \ und 18/6945\n\nAbgegebene Stimmen insgesamt:\n\n601\n\nNicht abgegebene Stimmen:\n\
-  Ja-Stimmen:\n\n29\n467\n\nNein-Stimmen:\n\n133\n\nEnthaltungen:\n\n1\n\nUng\xFC\
-  ltige:\n\n0\n\nBerlin, den 17.12.2015\n\nBeginn: 12:09\nEnde: 12:12\n"
+preview: 'Deutscher Bundestag
+
+
+  146. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 17.Dezember 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten
+
+  Operation ACTIVE ENDEAVOUR im Mittelmeer
+
+  Drs. 18/6742 und 18/6945
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  601
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  29
+
+  467
+
+
+  Nein-Stimmen:
+
+
+  133
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 17.12.2015
+
+
+  Beginn: 12:09
+
+  Ende: 12:12
+
+  '
 tags:
+- Bundeswehr
 - Mittelmeer
 - OAE
 - NATO

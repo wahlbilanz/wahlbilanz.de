@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 66
+  datum: 13. November 2014
   legislaturperiode: 18
 categories:
 - Wissenschaft
@@ -55,20 +56,70 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=307
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=307
-preview: "Deutscher Bundestag\n\n66. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 13.November 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \n\xC4nderungsantrag der Abgeordneten Dr. Rosemarie Hein, Nicole Gohlke, Sigrid\
-  \ Hupach,\nweiterer Abgeordneter und der Fraktion DIE LINKE.\nzu der zweiten Beratung\
-  \ des Gesetzentwurfs der Bundesregierung\nEntwurf eines Gesetzes zur \xC4nderung\
-  \ des Grundgesetzes (Artikel 91b)\nDrs. 18/2710, 18/3141 und 18/3162\n\nAbgegebene\
-  \ Stimmen insgesamt:\nNicht abgegebene Stimmen:\nJa-Stimmen:\nNein-Stimmen:\n\n\
-  592\n39\n54\n538\n\nEnthaltungen:\n\n0\n\nUng\xFCltige:\n\n0\n\nBerlin, den 13.11.2014\n\
-  \nBeginn: 18:22\nEnde: 18:25\n"
+preview: 'Deutscher Bundestag
+
+
+  66. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 13.November 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Änderungsantrag der Abgeordneten Dr. Rosemarie Hein, Nicole Gohlke, Sigrid Hupach,
+
+  weiterer Abgeordneter und der Fraktion DIE LINKE.
+
+  zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung
+
+  Entwurf eines Gesetzes zur Änderung des Grundgesetzes (Artikel 91b)
+
+  Drs. 18/2710, 18/3141 und 18/3162
+
+
+  Abgegebene Stimmen insgesamt:
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+  Nein-Stimmen:
+
+
+  592
+
+  39
+
+  54
+
+  538
+
+
+  Enthaltungen:
+
+
+  0
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 13.11.2014
+
+
+  Beginn: 18:22
+
+  Ende: 18:25
+
+  '
 tags:
-- "Bund-L\xE4nder"
+- Bund-Länder
 - Hochschulen
 - Kooperation
 - Forschung
-title: "Abstimmung: Bund-L\xE4nder-Wissenschaftskooperation, \xC4nderungsantrag Die\
-  \ Linke"
+title: 'Abstimmung: Bund-Länder-Wissenschaftskooperation, Änderungsantrag Die Linke'
 ---

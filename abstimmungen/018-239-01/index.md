@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 239
+  datum: 21. Juni 2017
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -15,11 +16,11 @@ data:
   url: /res/abstimmungsliste/csv/20170621_1_xls-data.csv
 documents:
 - local: /res/abstimmungsdaten/018-239-01/1812372.pdf
-  title: 'Drucksache 18/12372'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/123/1812372.pdf'
+  title: Drucksache 18/12372
+  url: http://dip21.bundestag.de/dip21/btd/18/123/1812372.pdf
 - local: /res/abstimmungsdaten/018-239-01/1812817.pdf
-  title: 'Drucksache 18/12817'
-  url: 'http://dip21.bundestag.de/dip21/btd/18/128/1812817.pdf'
+  title: Drucksache 18/12817
+  url: http://dip21.bundestag.de/dip21/btd/18/128/1812817.pdf
 ergebnis:
   cdu/csu:
     enthaltung: 0
@@ -70,6 +71,7 @@ preview: "Deutscher Bundestag\n\n239. Sitzung des Deutschen Bundestages\nam Mitt
   \n0\n\nUngültige:\n\n0\n\nBerlin, den 21.06.2017\n\nBeginn:\nEnde:\n\n17:38\n17:41\n\
   Seite:\n\n1\n\n\f"
 tags:
+- Bundeswehr
 - Incirlik
 - IS
 - Türkei

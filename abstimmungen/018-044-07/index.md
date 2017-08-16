@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 7
   bundestagssitzung: 44
+  datum: 27. Juni 2014
   legislaturperiode: 18
 categories:
 - Finanzen
@@ -106,15 +107,71 @@ layout: abstimmung
 links:
 - title: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=289
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=289
-preview: "Deutscher Bundestag\n\n44. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 27.Juni 2014\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 7\n\nGesetzentwurf\
-  \ der Bundesregierungen\nEntwurf eines Gesetzes \xFCber die Feststellung des Bundeshaushaltsplans\
-  \ f\xFCr das\nHaushaltsjahr 2014 (Haushaltsgesetz 2014);\nDrs. 18/700, 18/702, 18/1002,\
-  \ 18/1005, 18/1006, 18/1007, 18/1008, 18/1009, 18/1010,\n18/1011, 18/1012, 18/1016,\
-  \ 18/1017, 18/1019, 18/1020, 18/1021, 18/1022, 18/1023,\n18/1024, 18/1025\n\nAbgegebene\
-  \ Stimmen insgesamt:\n\n549\n82\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n447\n\
-  \nNein-Stimmen:\n\n101\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin, den\
-  \ 27.06.2014\n\nBeginn: 15:29\nEnde: 15:32\n"
+preview: 'Deutscher Bundestag
+
+
+  44. Sitzung des Deutschen Bundestages
+
+  am Freitag, 27.Juni 2014
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 7
+
+
+  Gesetzentwurf der Bundesregierungen
+
+  Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das
+
+  Haushaltsjahr 2014 (Haushaltsgesetz 2014);
+
+  Drs. 18/700, 18/702, 18/1002, 18/1005, 18/1006, 18/1007, 18/1008, 18/1009, 18/1010,
+
+  18/1011, 18/1012, 18/1016, 18/1017, 18/1019, 18/1020, 18/1021, 18/1022, 18/1023,
+
+  18/1024, 18/1025
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  549
+
+  82
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  447
+
+
+  Nein-Stimmen:
+
+
+  101
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 27.06.2014
+
+
+  Beginn: 15:29
+
+  Ende: 15:32
+
+  '
 tags:
 - Haushalt
 - Bundesregierung

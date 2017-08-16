@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 144
+  datum: 4. Dezember 2015
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,19 +55,79 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=378
 - title: http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-777.html
   url: http://www.abgeordnetenwatch.de/einsatz_deutscher_streitkraefte_gegen_den_is_in_syrien-1105-777.html
-preview: "Deutscher Bundestag\n\n144. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 4.Dezember 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nBeschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nEinsatz bewaffneter deutscher Streitkr\xE4fte zur Verh\xFC\
-  tung und Unterbindung terroristischer\nHandlungen durch die Terrororganisation IS\
-  \ auf Grundlage von Artikel 51 der Satzung der\nVereinten Nationen in Verbindung\
-  \ mit Artikel 42 Absatz 7 des Vertrages \xFCber die\nEurop\xE4ische Union sowie\
-  \ den Resolutionen 2170 (2014), 2199 (2015), 2249 (2015) des\nSicherheitsrates der\
-  \ Vereinten Nationen\nDrs. 18/6866 und 18/6912\n\nAbgegebene Stimmen insgesamt:\n\
-  \n597\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n33\n445\n\nNein-Stimmen:\n\n\
-  145\n\nEnthaltungen:\n\n7\n\nUng\xFCltige:\n\n0\n\nBerlin, den 04.12.2015\n\nBeginn:\
-  \ 11:01\nEnde: 11:04\n"
+preview: 'Deutscher Bundestag
+
+
+  144. Sitzung des Deutschen Bundestages
+
+  am Freitag, 4.Dezember 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Einsatz bewaffneter deutscher Streitkräfte zur Verhütung und Unterbindung terroristischer
+
+  Handlungen durch die Terrororganisation IS auf Grundlage von Artikel 51 der Satzung
+  der
+
+  Vereinten Nationen in Verbindung mit Artikel 42 Absatz 7 des Vertrages über die
+
+  Europäische Union sowie den Resolutionen 2170 (2014), 2199 (2015), 2249 (2015) des
+
+  Sicherheitsrates der Vereinten Nationen
+
+  Drs. 18/6866 und 18/6912
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  597
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  33
+
+  445
+
+
+  Nein-Stimmen:
+
+
+  145
+
+
+  Enthaltungen:
+
+
+  7
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 04.12.2015
+
+
+  Beginn: 11:01
+
+  Ende: 11:04
+
+  '
 tags:
+- Bundeswehr
 - IS
 - UN
 - Syrien

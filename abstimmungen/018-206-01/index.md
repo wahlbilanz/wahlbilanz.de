@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 206
+  datum: 1. Dezember 2016
   legislaturperiode: 18
 categories:
 - Soziales
@@ -57,14 +58,68 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=433
 - title: http://www.abgeordnetenwatch.de/ermittlung_von_regelbedarfen-1105-828.html
   url: http://www.abgeordnetenwatch.de/ermittlung_von_regelbedarfen-1105-828.html
-preview: "Deutscher Bundestag\n\n206. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 1.Dezember 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\
-  \nGesetzentwurf der Bundesregierung\nEntwurf eines Gesetzes zur Ermittlung von Regelbedarfen\
-  \ sowie zur \xC4nderung des Zweiten\nund Zw\xF6lften Buches Sozialgesetzbuch\n-\
-  \ Drucksachen 18/9984, 18/10349 und 18/10519 -\n\nAbgegebene Stimmen insgesamt:\n\
-  \n542\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n87\n442\n\nNein-Stimmen:\n\n\
-  99\n\nEnthaltungen:\n\n1\n\nUng\xFCltige:\n\n0\n\nBerlin, den 01.12.2016\n\nBeginn:\
-  \ 18:10\nEnde: 18:12\n"
+preview: 'Deutscher Bundestag
+
+
+  206. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 1.Dezember 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Gesetzentwurf der Bundesregierung
+
+  Entwurf eines Gesetzes zur Ermittlung von Regelbedarfen sowie zur Änderung des Zweiten
+
+  und Zwölften Buches Sozialgesetzbuch
+
+  - Drucksachen 18/9984, 18/10349 und 18/10519 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  542
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  87
+
+  442
+
+
+  Nein-Stimmen:
+
+
+  99
+
+
+  Enthaltungen:
+
+
+  1
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 01.12.2016
+
+
+  Beginn: 18:10
+
+  Ende: 18:12
+
+  '
 tags:
 - Sozialhilfe
 title: 'Abstimmung: Ermittlung von Regelbedarfen'

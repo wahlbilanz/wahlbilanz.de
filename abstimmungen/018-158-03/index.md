@@ -2,9 +2,10 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 158
+  datum: 25. Februar 2016
   legislaturperiode: 18
 categories:
-- "Ern\xE4hrung"
+- Ernährung
 - Landwirtschaft
 - Verbraucherschutz
 - Gesundheit
@@ -53,13 +54,68 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=388
 - title: http://www.abgeordnetenwatch.de/neuzulassung_von_glyphosat_verhindern-1105-787.html
   url: http://www.abgeordnetenwatch.de/neuzulassung_von_glyphosat_verhindern-1105-787.html
-preview: "Deutscher Bundestag\n\n158. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 25.Februar 2016\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 3\n\
-  \nAntrag der Abgeordneten Harald Ebner, Nicole Maisch, Friedrich Ostendorff, weiterer\n\
-  Abgeordneter und der Fraktion B\xDCNDNIS 90/DIE GR\xDCNEN\nVoreilige Neuzulassung\
-  \ von Glyphosat stoppen\nDrs. 18/7675\n\nAbgegebene Stimmen insgesamt:\n\n566\n\n\
-  Nicht abgegebene Stimmen:\nJa-Stimmen:\n\n64\n117\n\nNein-Stimmen:\n\n446\n\nEnthaltungen:\n\
-  \n3\n\nUng\xFCltige:\n\n0\n\nBerlin, den 25.02.2016\n\nBeginn: 13:27\nEnde: 13:30\n"
+preview: 'Deutscher Bundestag
+
+
+  158. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 25.Februar 2016
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 3
+
+
+  Antrag der Abgeordneten Harald Ebner, Nicole Maisch, Friedrich Ostendorff, weiterer
+
+  Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN
+
+  Voreilige Neuzulassung von Glyphosat stoppen
+
+  Drs. 18/7675
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  566
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  64
+
+  117
+
+
+  Nein-Stimmen:
+
+
+  446
+
+
+  Enthaltungen:
+
+
+  3
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 25.02.2016
+
+
+  Beginn: 13:27
+
+  Ende: 13:30
+
+  '
 tags:
 - IARC
 - Glyphosat

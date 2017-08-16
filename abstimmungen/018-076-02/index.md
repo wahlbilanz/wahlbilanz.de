@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 76
+  datum: 18. Dezember 2014
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,15 +55,72 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=321
 - title: http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_mittelmeer_active_endeavour-1105-708.html
   url: http://www.abgeordnetenwatch.de/fortsetzung_des_bundeswehreinsatzes_im_mittelmeer_active_endeavour-1105-708.html
-preview: "Deutscher Bundestag\n\n76. Sitzung des Deutschen Bundestages\nam Donnerstag,\
-  \ 18.Dezember 2014\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 2\n\
-  \nBeschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nFortsetzung der Beteiligung bewaffneter deutscher Streitkr\xE4\
-  fte an der NATO-gef\xFChrten\nOperation ACTIVE ENDEAVOUR im Mittelmeer\n-Drucksachen\
-  \ 18/3247 und 18/3584-\n\nAbgegebene Stimmen insgesamt:\n\n586\n\nNicht abgegebene\
-  \ Stimmen:\nJa-Stimmen:\n\n43\n461\n\nNein-Stimmen:\n\n122\n\nEnthaltungen:\n\n\
-  3\n\nUng\xFCltige:\n\n0\n\nBerlin, den 18.12.2014\n\nBeginn: 17:57\nEnde: 18:01\n"
+preview: 'Deutscher Bundestag
+
+
+  76. Sitzung des Deutschen Bundestages
+
+  am Donnerstag, 18.Dezember 2014
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 2
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten
+
+  Operation ACTIVE ENDEAVOUR im Mittelmeer
+
+  -Drucksachen 18/3247 und 18/3584-
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  586
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  43
+
+  461
+
+
+  Nein-Stimmen:
+
+
+  122
+
+
+  Enthaltungen:
+
+
+  3
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 18.12.2014
+
+
+  Beginn: 17:57
+
+  Ende: 18:01
+
+  '
 tags:
+- Bundeswehr
 - Mittelmeer
 - OAE
 - NATO

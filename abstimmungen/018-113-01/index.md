@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 113
+  datum: 19. Juni 2015
   legislaturperiode: 18
 categories:
 - Bundeswehr
@@ -54,19 +55,85 @@ links:
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=343
 - title: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_kosovo_kfor-1105-739.html
   url: http://www.abgeordnetenwatch.de/verlaengerung_des_bundeswehreinsatzes_in_kosovo_kfor-1105-739.html
-preview: "Deutscher Bundestag\n\n113. Sitzung des Deutschen Bundestages\nam Freitag,\
-  \ 19.Juni 2015\n\nEndg\xFCltiges Ergebnis der Namentlichen Abstimmung Nr. 1\n\n\
-  Beschlussempfehlung des Ausw\xE4rtigen Ausschusses (3. Ausschuss) zu dem Antrag\
-  \ der\nBundesregierung\nFortsetzung der Beteiligung an der internationalen Sicherheitspr\xE4\
-  senz in Kosovo auf\nGrundlage der Resolution 1244 (1999) des Sicherheitsrates der\
-  \ Vereinten Nationen vom 10.\nJuni 1999 und des Milit\xE4risch-Technischen Abkommens\
-  \ zwischen der internationalen\nSicherheitspr\xE4senz (KFOR) und den Regierungen\
-  \ der Bundesrepublik Jugoslawien (jetzt:\nRepublik Serbien) und der Republik Serbien\
-  \ vom 9. Juni 1999\n- Drucksachen 18/5052 und 18/5248 -\n\nAbgegebene Stimmen insgesamt:\n\
-  \n599\n\nNicht abgegebene Stimmen:\nJa-Stimmen:\n\n32\n532\n\nNein-Stimmen:\n\n\
-  60\n\nEnthaltungen:\n\n7\n\nUng\xFCltige:\n\n0\n\nBerlin, den 19.06.2015\n\nBeginn:\n\
-  Ende:\n\n9:38\n9:40\n"
+preview: 'Deutscher Bundestag
+
+
+  113. Sitzung des Deutschen Bundestages
+
+  am Freitag, 19.Juni 2015
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der
+
+  Bundesregierung
+
+  Fortsetzung der Beteiligung an der internationalen Sicherheitspräsenz in Kosovo
+  auf
+
+  Grundlage der Resolution 1244 (1999) des Sicherheitsrates der Vereinten Nationen
+  vom 10.
+
+  Juni 1999 und des Militärisch-Technischen Abkommens zwischen der internationalen
+
+  Sicherheitspräsenz (KFOR) und den Regierungen der Bundesrepublik Jugoslawien (jetzt:
+
+  Republik Serbien) und der Republik Serbien vom 9. Juni 1999
+
+  - Drucksachen 18/5052 und 18/5248 -
+
+
+  Abgegebene Stimmen insgesamt:
+
+
+  599
+
+
+  Nicht abgegebene Stimmen:
+
+  Ja-Stimmen:
+
+
+  32
+
+  532
+
+
+  Nein-Stimmen:
+
+
+  60
+
+
+  Enthaltungen:
+
+
+  7
+
+
+  Ungültige:
+
+
+  0
+
+
+  Berlin, den 19.06.2015
+
+
+  Beginn:
+
+  Ende:
+
+
+  9:38
+
+  9:40
+
+  '
 tags:
+- Bundeswehr
 - Kosovo
 - KFOR
 - UN
