@@ -17,6 +17,10 @@
     position: initial;
     top: 0;
   }
+  .post {
+		border-bottom: 10px dashed $background-color;
+		padding-bottom: 30px;
+	}
 }
 
 .image-credit {
