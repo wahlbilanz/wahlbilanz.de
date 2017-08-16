@@ -13,6 +13,24 @@ Na, was denkt ihr: Welche Partei schwänzt am öftesten die namentlichen Abstimm
 
 Dank der Computer-lesbaren Abstimmungsdateien im Wahlbilanz-Projekt (siehe [Erläuterungen auf Github](https://github.com/wahlbilanz/wahlbilanz.de/tree/master/abstimmungen#readme)) können wir das relativ einfach herausfinden.
 Also gucken wir doch mal nach!
+Mit einem sehr einfachen Script konnte ich folgendes Balkendiagram generieren:
+
+
+{% include image.html url='/res/analyse/schwaenzer/schwaenzer-bars-absolut.pdf' img='/img/schwaenzer/schwaenzer-bars-absolut.jpg' title='Wer schwänzt am meisten?' caption='Wer schwänzt am meisten?' %}
+
+
+**Boar was!?
+CDU/CDU haben weit mehr als 4000 mal geschwänzt!?!?**
+
+Wer das jetzt denkt sollte wirklich kritischer mit solchen Artikeln umgehen!
+Das ist doch bisher nur ein "Bild".
+Wo kommen denn die Daten her?
+
+## Die Skripte
+
+Ich will hier gar nicht so viele technische Details bringen.
+Um die Daten zu erzeugen habe ich ein [Python-Programm](https://github.com/wahlbilanz/wahlbilanz.de/blob/master/abstimmungen/applications/schwaenzer.py) geschrieben, das mit Hilfe des [Abstimmungsparsers](https://github.com/wahlbilanz/wahlbilanz.de/blob/master/abstimmungen/abstimmungsparser.py) die Abstimmungen des Bundestags analysiert: Es trägt für jede Abstimmung die Zahl der *nicht abgegebenen* Stimmen pro Bundestagspartei zusammen und gibt [das Ergbnis in JSON-Format](https://github.com/wahlbilanz/wahlbilanz.de/blob/master/res/analyse/schwaenzer/data.json) aus.
+Ein zweites [R-Programm](https://github.com/wahlbilanz/wahlbilanz.de/blob/master/res/analyse/schwaenzer/visualiser.R) liest das Resultat und generiert Grafiken.
 
 
 

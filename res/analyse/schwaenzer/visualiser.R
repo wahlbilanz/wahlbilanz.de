@@ -30,9 +30,16 @@ pdf ("schwaenzer-bars-absolut.pdf", width=8, height=6)
 barplot (m[,2], col=c("#e0001a","#ff481f","#19a329","#000000","#999999"))
 dev.off ()
 
+png ("schwaenzer-bars-absolut.png", width=800, height=600)
+barplot (m[,2], col=c("#e0001a","#ff481f","#19a329","#000000","#999999"))
+dev.off ()
 
 
 pdf ("schwaenzer-bars-relativ.pdf", width=8, height=6)
+barplot (m[,1], col=c("#e0001a","#ff481f","#19a329","#000000","#999999"))
+dev.off ()
+
+png ("schwaenzer-bars-relativ.png", width=800, height=600)
 barplot (m[,1], col=c("#e0001a","#ff481f","#19a329","#000000","#999999"))
 dev.off ()
 
