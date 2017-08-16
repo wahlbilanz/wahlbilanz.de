@@ -15,7 +15,7 @@ authors:
   - binfalse
 ---
 
-Na, was denkt ihr: Welche Partei schwänzt am öftesten die namentlichen Abstimmungen!?
+Na, was denkt ihr: **Welche Partei schwänzt am öftesten die namentlichen Abstimmungen!?**
 
 Dank der Computer-lesbaren Abstimmungsdateien im Wahlbilanz-Projekt (siehe [Erläuterungen auf Github](https://github.com/wahlbilanz/wahlbilanz.de/tree/master/abstimmungen#readme)) können wir das relativ einfach herausfinden.
 Also gucken wir doch mal nach!
@@ -25,6 +25,7 @@ Mit einem sehr einfachen Script konnte ich folgendes Balkendiagram generieren:
 {% include image.html url='/res/analyse/schwaenzer/schwaenzer-bars-absolut.pdf' img='/img/schwaenzer/schwaenzer-bars-absolut.png' title='Wer schwänzt am meisten?' caption='Wer schwänzt am meisten?' %}
 
 
+Sieht cool aus, oder? Aber...  
 **Boar was!?
 CDU/CDU haben weit mehr als 4000 mal geschwänzt!?!?**
 
@@ -37,6 +38,8 @@ Wo kommen denn die Daten her?
 Ich will hier gar nicht so viele technische Details bringen.
 Um die Daten zu erzeugen habe ich ein [Python-Programm](https://github.com/wahlbilanz/wahlbilanz.de/blob/master/abstimmungen/applications/schwaenzer.py) geschrieben, das mit Hilfe des [Abstimmungsparsers](https://github.com/wahlbilanz/wahlbilanz.de/blob/master/abstimmungen/abstimmungsparser.py) die Abstimmungen des Bundestags analysiert: Es trägt für jede Abstimmung die Zahl der *nicht abgegebenen* Stimmen pro Bundestagspartei zusammen und gibt [das Ergbnis in JSON-Format](https://github.com/wahlbilanz/wahlbilanz.de/blob/master/res/analyse/schwaenzer/data.json) aus.
 Ein zweites [R-Programm](https://github.com/wahlbilanz/wahlbilanz.de/blob/master/res/analyse/schwaenzer/visualiser.R) liest das Resultat und generiert Grafiken.
+
+Wer mehr darüber wissen möchte guckt sich am besten die Skripte an oder [kontaktiert mich direkt](https://binfalse.de/contact/).
 
 
 ## Die Daten
@@ -73,7 +76,7 @@ Die absoluten Zahlen sind also nicht geeignet um eine Solche Frage zu beantworte
 Aus der Tabelle oben könnt ihr die relativen Ergebnisse schon ablesen.
 Da sich die Werte in einer Grafik aber leichter vergleichen lassen:
 
-{% include image.html url='/res/analyse/schwaenzer/schwaenzer-bars-relativ.pdf' img='/img/schwaenzer/schwaenzer-bars-relativ.png' title='Wer schwänzt am meisten?' caption='Wer schwänzt am meisten?' %}
+{% include image.html url='/res/analyse/schwaenzer/schwaenzer-bars-relativ.pdf' img='/img/schwaenzer/schwaenzer-bars-relativ.png' title='Wer schwänzt am meisten?' caption='Wer schwänzt am meisten? Also relativ gesehen, jetzt...' %}
 
 
 Ja, also relativ gesehen hatte Einstein wohl recht: Da sieht die Sache plötzlich ganz anders aus.
@@ -107,8 +110,7 @@ Abgeordnete sind sicher auch viel unterwegs und können oft aus beruflichen oder
 
 Ich werde euch jetzt auch nicht sagen **wer der Abgeordnete ist, der am häufigsten geschwänzt hat!**
 Das müsst ihr schon selbst herausfinden!
-Aber die Daten auf dieser Webseite werden euch natürlich unterstützen ;-)
-
+Aber die Daten auf dieser Webseite werden euch natürlich unterstützen ;-)  
 Wer es herausgefunden hat kann uns gern [eine Mail schreiben!](https://wahlbilanz.de/about/)
 
 

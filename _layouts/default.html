@@ -12,7 +12,7 @@
     </div>
     <div class="col s12 m9">
       <div class="post-listing">
-        {{ content }}
+        {{ content | replace: '“', '„' | replace: '”', '“' }}
         {% include footer.html %}
       </div>
     </div>
