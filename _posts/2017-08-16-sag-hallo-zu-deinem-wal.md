@@ -98,7 +98,7 @@ Zu schön um war zu sein -- wären da nicht einige Einschränkungen.
 Dein Wal funktioniert ausschließlich für Parteien die in der letzten Legislaturperiode in den Bundestag gewählt wurden.
 Zu Parteien wie der FDP, AFD, Piratenpartei oder Die PARTEI haben wir leider keine Abstimmungsergebnisse.
 
-Des weiteren gibt es zwischen CDU/CSU und SPD eine Koalitionsvertrag, an den sich beide Fraktionen halten wollen/müssen.
+Des Weiteren gibt es zwischen CDU/CSU und SPD eine Koalitionsvertrag, an den sich beide Fraktionen halten wollen/müssen.
 Wenn SPD für X stimmt, muss das also nicht heißen, dass sie X bevorzugen.
 Vielleicht hatte X bei den Verhandlungen nur geringere Priorität als Y, und es war ihnen wichtiger, dass CDU/CSU für Y stimmen (siehe [Über Fraktionsdisziplin und den Koalitionsvertrag](https://wahlbilanz.de/2017/06/ueber-fraktionsdisziplin-und-den-koalitionsvertrag/)).
 Und umgekehrt natürlich..
@@ -119,5 +119,5 @@ Auch wenn die Webseite schonmal ganz gut funktioniert können wir deine Hilfe im
 Egal ob du einen Bug gefunden hast oder uns nur sagst wie lange du für das Quiz gebraucht hast und ob was (un)erwartetes herausgekommen ist -- **dein Feedback ist sehr Willkommen! :)**  
 Erstelle ein [Ticket auf GitHub](https://github.com/wahlbilanz/DeinWal.de/issues/new) oder [schick uns eine Mail](https://deinwal.de/impressum).
 
-
+**Und natürlich weiter sagen!** Liken, teilen, forken, featuren, pluseinsen, usw..
 
