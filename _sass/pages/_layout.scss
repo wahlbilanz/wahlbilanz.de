@@ -141,9 +141,11 @@
 .image-wrapper {
 	text-align: center;
 /* 	border: 1px solid #aaa; */
-	padding: 5px;
 	background-color: #fff;
-	margin:8px;
+	@include media-query($small-screen) {
+		margin: 8px;
+		padding: 5px;
+	}
 }
 .image-caption {
 	color: #999;
@@ -166,6 +168,10 @@
 figure
 {
 	display: table;
+	@include media-query-reverse($small-screen) {
+		margin: 1em 0 !important;
+	}
+	
 }
 figcaption
 {
