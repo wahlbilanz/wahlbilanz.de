@@ -28,6 +28,12 @@
     }
 }
 
+@mixin media-query-reverse($device) {
+    @media only screen and (max-width: $device) {
+        @content;
+    }
+}
+
 /**
  * Webkit-style focus
  */
