@@ -5,7 +5,7 @@
 #
 title: WahlBilanz.de
 email:
-description: Informationen zum 18. Deutschen Bundestag, Legislaturperiode 2013-2017.
+description: Informationen zur Politik.
 url: # the base hostname & protocol for your site
 
 
@@ -43,7 +43,7 @@ owner:
   name: WahlBilanz.de
   avatar: wahl-logo.jpg
   job: "News.Daten.Wissenswertes."
-  bio: "Informationen zum 18. Deutschen Bundestag. Wer hat was wann und wie entschieden? <a href='/2017/06/und-los/'>Wieso?</a>"
+  bio: "Informationen zur Politik. Wer hat was wann und wie entschieden? <a href='/2017/06/und-los/'>Wieso?</a>"
   email:
   disqus-shortname:
   twitter: #username
