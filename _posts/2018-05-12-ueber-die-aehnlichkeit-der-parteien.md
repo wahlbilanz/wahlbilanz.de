@@ -14,7 +14,6 @@ authors:
 
 
 
-{% include image.html align="alignright" url="/res/analyse/kw-kiel-2018/clusteranalysis/abstimmungscluster.pdf" img="/res/analyse/kw-kiel-2018/clusteranalysis/abstimmungscluster.png" title="Übersicht über das Abstimmungsverhalten der einzelnen Parteien zur Kommunalwahl in Kiel" caption="**Abbildung 1:** Abstimmungsverhalten zur Kommunalwahl in Kiel" %}
 
 Wir wurden gebeten, die *N&auml;he der politischen Parteien* zu analysieren, die bei den [Kommunalwahlen 2018 in Kiel](https://de.wikipedia.org/wiki/Ergebnisse_der_Kommunalwahlen_in_Kiel) angetreten sind.
 Speziell geht es um die Antworten der Parteien [SPD](https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands), [CDU](https://de.wikipedia.org/wiki/Christlich_Demokratische_Union_Deutschlands), [Die Grünen](https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen), [Die Linke](https://de.wikipedia.org/wiki/Die_Linke), [FPD](https://de.wikipedia.org/wiki/Freie_Demokratische_Partei), [AfD](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland), [SSW](https://de.wikipedia.org/wiki/S%C3%BCdschleswigscher_W%C3%A4hlerverband), [Die Partei](https://de.wikipedia.org/wiki/Partei_f%C3%BCr_Arbeit,_Rechtsstaat,_Tierschutz,_Elitenf%C3%B6rderung_und_basisdemokratische_Initiative), und [Piratenpartei](https://de.wikipedia.org/wiki/Piratenpartei_Deutschland) auf die 30 Fragen des Lokal-O-Mat.
@@ -22,6 +21,8 @@ Die [Ergebnisse der Wahl](https://www.kiel.de/de/politik_verwaltung/meldung.php?
 
 
 ## Parteien und Themen analysieren
+
+{% include image.html align="alignright" url="/res/analyse/kw-kiel-2018/clusteranalysis/abstimmungscluster.pdf" img="/res/analyse/kw-kiel-2018/clusteranalysis/abstimmungscluster.png" title="Übersicht über das Abstimmungsverhalten der einzelnen Parteien zur Kommunalwahl in Kiel" caption="**Abbildung 1:** Abstimmungsverhalten zur Kommunalwahl in Kiel" %}
 
 Analog zur Analyse [*&uuml;ber Fraktionsdisziplin und den Koalitionsvertrag*](https://wahlbilanz.de/2017/06/ueber-fraktionsdisziplin-und-den-koalitionsvertrag/) habe ich die Antwortmatrix in einer [Heatmap](https://de.wikipedia.org/wiki/Heatmap) visualisiert.
 Die Methode zu adaptieren war einfach, hier ist das neue R-Script:
@@ -36,38 +37,47 @@ Die Zeilen in der Heatmap entsprechen den Themengebieten (siehe Beschriftung rec
 Die Spalten repr&auml;sentieren die Parteien (siehe Parteinamen unter der Heatmap).
 Die Farbe in einer Zelle der Heatmap zeigt, wie die jeweilige Partei bei dem entsprechenden Themengebiet gestimmt hat:
 *Gelb* bedeutet *Ja*, *Orange* bedeutet *Neutral* und *Rot* bedeutet *Nein*.
-Zur *Unterbringung von Gefl&uuml;chteten* (erste Zeile in der Heatmap) hat die AfD beispielsweise mit *Nein* gestimmt, w&auml;hrend alle anderen Parteien mit *Ja* gestimmt haben.
+Zur *Unterbringung von Gefl&uuml;chteten* (erste Zeile in der Heatmap) hat die *AfD* beispielsweise mit *Nein* gestimmt, w&auml;hrend alle anderen Parteien mit *Ja* gestimmt haben.
 
 Die Methode gruppiert auch Parteien und Themen nach &auml;hnlichen Mustern, was in den [Dendrogrammen](https://de.wikipedia.org/wiki/Hierarchische_Clusteranalyse#Dendrogramm) links und oben zu sehen ist.
-Je k&uuml;rzer der Pfad, desto &auml;hnlicher die Parteien oder Abstimmungsergebnisse zu einem Thema.
-Man sieht beispielsweise, dass die Distanz zwischen *Die Gr&uuml;nen* und *Die Linke* sehr klein ist (die beiden Parteien zeigen ein &auml;hnliches Abstimmungsverhalten), w&auml;hrend die AfD sehr weit weg von den anderen Parteien ist.
+Je k&uuml;rzer der Pfad, desto &auml;hnlicher sind sich die Parteien oder Abstimmungsergebnisse.
+Man sieht beispielsweise, dass die Distanz zwischen *Die Gr&uuml;nen* und *Die Linke* sehr klein ist (die beiden Parteien zeigen ein &auml;hnliches Abstimmungsverhalten), w&auml;hrend die *AfD* sehr weit weg von den anderen Parteien ist.
 
 Aus der Heatmap kann man auch ablesen, wie kontrovers ein Thema ist -- oder wie sehr es uns hilft die Parteien zu unterscheiden.
 W&auml;hrend die Varianz in den Antworten zu *Pavillons am Alten Markt* oder zur *Unterbringung von Geflüchteten* sehr klein ist (die Parteien sind sich fast einig), ist die Varianz zum *Flughafen Kiel Holtenau* oder zum *Messe- und Kongresszentrum* sehr hoch (die Antworten der Parteien unterscheiden sich stark).
 
 
-Die Heatmap ist komplex und bietet viele detaillierte Informationen in einer einzelnen Abbildung -- jedenfalls fuer das geschulte Auge.
+Die Heatmap ist komplex und bietet viele detaillierte Informationen in einer einzelnen Abbildung -- zumindest f&uuml;r das geschulte Auge.
 Aus dem Feedback zur Bundestagswahl haben wir jedoch gelernt, dass diese Art der Visualisierung sehr schwer zu verstehen ist, wenn man nicht regelm&auml;ssig mit Heatmaps in Kontakt kommt.
-Unser Ziel war es also, eine Grafik mit kleinerer Informationsdichte zu entwickeln, die einfacher zu lesen ist.
+Unser Ziel ist es also, eine Grafik mit kleinerer Informationsdichte zu entwickeln, die einfacher zu lesen ist.
 
 
-## Parteikreise
 
-Zusammen mit einigen anderen Mitarbeitern des [Lehrstuhls f&uuml;r Systembiologie und Bioinformatik](https://www.sbi.uni-rostock.de/) an der [Universit&auml;t Rostock](https://www.uni-rostock.de/) haben wir die Parteikreise entwickelt.
-Ein Parteikreis zeigt, wie stark die Position einer Partei mit den Positionen der anderen Parteien &uuml;bereinstimmt.
-Abbildung 3 pr&auml;sentiert ein Beispiel f&uuml;r die SSW:
+## Parteienkreise visualisieren die &Auml;hnlichkeit von Parteipositionen
 
-{% include image.html align="alignleft" url="/res/analyse/kw-kiel-2018/pies/pie-ssw.svg" img="/res/analyse/kw-kiel-2018/pies/pie-ssw-demo.png" title="Parteikreis der SSW" caption="**Abbildung 3:** Parteikreis der SSW" %}
+Zusammen mit einigen Kollegen am [Lehrstuhl f&uuml;r Systembiologie und Bioinformatik](https://www.sbi.uni-rostock.de/) an der [Universit&auml;t Rostock](https://www.uni-rostock.de/) haben wir die Parteienkreise entwickelt.
+Ein Parteienkreis zeigt, wie stark die Position einer Partei mit den Positionen der anderen Parteien &uuml;bereinstimmt.
+Abbildung 3 pr&auml;sentiert ein Beispiel f&uuml;r die *SSW* in Kiel:
+
+{% include image.html align="alignleft" url="/res/analyse/kw-kiel-2018/pies/pie-ssw.svg" img="/res/analyse/kw-kiel-2018/pies/pie-ssw-demo.png" title="Parteienkreis der SSW" caption="**Abbildung 2:** Parteienkreis der SSW" %}
 
 
-Der &auml;ssere blaue Kreis steht f&uuml;r die Position der SSW zu den 30 Themengebieten des Lokal-O-Mat.
-Die inneren bunten Kreissektoren repr&auml;sentieren die anderen Parteien.
+Der &auml;u&szlig;ere blaue Kreis steht f&uuml;r die Position der *SSW* zu den 30 Themengebieten des Lokal-O-Mat.
+Die bunten Kreissektoren im Inneren repr&auml;sentieren die anderen Parteien.
 Der Radius eines Kreissektors entspricht dabei der Anzahl an &uuml;bereinstimmenden Antworten der beiden Parteien.
 Es gilt also: Je gr&ouml;sser der Radius des Kreissektors, desto &auml;nlicher sind sich die Parteipositionen in den 30 Themen.
+An den Grenzen der Kreissektoren sind Skalen angedeutet, an denen man die Anzahl der &Uuml;bereinstimmungen ablesen kann.
+Die horizontale Achse nach rechts ist zudem beschriftet.
+In dem Parteienkreis f&uuml;r die *SSW* sieht man also, dass die *CDU* 12-mal und *Die Gr&uuml;nen* 17-mal so gestimmt haben wie die *SSW*.
+Es ist auch ersichtlich, dass *Die Partei* und *Die Linke* die gr&ouml;ssten &Uuml;bereinstimmungen haben: Beide haben 21-mal genau wie die *SSW* abgestimmt.
+Auf der anderen Seite hat die *SSW* die kleinste Gemeinsamkeit mit der *AfD*:
+Die beiden Parteien haben in nur 11 F&auml;llen gleich gestimmt.  
+H&auml;tte eine Partei alle Fragen genau wie die *SSW* beantwortet, dann w&uuml;rde der entsprechende Kreissektor den &auml;u&szlig;eren Kreis ber&uuml;hren.
 
 
-Bei der Entwicklung der Abbildung hatten wir professionelle Hilfe von einigen Mitarbeitern des [Lehrstuhls fuer Systembiologie und Bioinformatik](https://www.sbi.uni-rostock.de/) an der [Universit&auml;t Rostock](https://www.uni-rostock.de/).
-Hier sind die Kreise f&uuml;r alle Parteien, &uuml;eber die Links unter den Kreisen gelangt ihr zu hochaufl&ouml;senden Versionen in [PNG](https://de.wikipedia.org/wiki/Portable_Network_Graphics) und [SVG](https://de.wikipedia.org/wiki/Scalable_Vector_Graphics) Format:
+Der Parteienkreis zeigt also die &Auml;hnlichkeit einer Partei zu den anderen Parteien.
+Hier folgen nun die Kreise f&uuml;r alle Parteien zur Kommunalwahl in Kiel.
+&Uuml;ber die Links unter den Kreisen gelangt ihr zu hochaufl&ouml;senden Versionen in [PNG](https://de.wikipedia.org/wiki/Portable_Network_Graphics) und [SVG](https://de.wikipedia.org/wiki/Scalable_Vector_Graphics) Format.
 
 
 {% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/pies/pie-afd.svg" img="/res/analyse/kw-kiel-2018/pies/pie-afd-preview.png" title="AfD" caption="AfD ([PNG](/res/analyse/kw-kiel-2018/pies/pie-afd.png)/[SVG](/res/analyse/kw-kiel-2018/pies/pie-afd.svg))" %}
@@ -83,7 +93,21 @@ Hier sind die Kreise f&uuml;r alle Parteien, &uuml;eber die Links unter den Krei
 <div style="clear: both;"></div>
 
 
-{% include image.html align="alignright" url="/res/analyse/kw-kiel-2018/pies/parteivergleich.svg" img="/res/analyse/kw-kiel-2018/pies/parteivergleich-preview.png" title="Parteipositionen" caption="**Abbildung 2:** Parteipositionen" %}
+
+Ihr k&ouml;nnt die Kreise gern unter der [Creative Commons BY-SA 4.0 Lizenz](http://creativecommons.org/licenses/by-sa/4.0/) f&uuml;r eigene Abbildungen und Kompositionen verwenden.
+Bei der Entwicklung der Abbildung haben die Datenwissenschaftler 
+[Patrick Schopohl](https://www.sbi.uni-rostock.de/team/detail/dr-patrick-schopohl),
+[Saptarshi Bej](https://www.sbi.uni-rostock.de/team/detail/saptarshi-bej),
+[Tom Gebhardt](https://www.sbi.uni-rostock.de/team/detail/tom-gebhardt),
+[Markus Wolfien](https://www.sbi.uni-rostock.de/team/detail/markus-wolfien),
+[Ali Salehzadeh-Yazdi](https://www.sbi.uni-rostock.de/team/detail/ali-salehzadeh-yazdi) und 
+[Olaf Wolkenhauer](https://www.sbi.uni-rostock.de/team/detail/prof-olaf-wolkenhauer)
+maßgeblich mitgewirkt.
+Zusammen haben wir auch die folgende Collage entwickelt:
+
+
+
+{% include image.html align="alignleft" url="/res/analyse/kw-kiel-2018/pies/parteivergleich.svg" img="/res/analyse/kw-kiel-2018/pies/parteivergleich-preview.png" title="Parteienkreise zur Kommunalwahl in Kiel 2018" caption="**Abbildung 3:** Parteienkreise zur Kommunalwahl in Kiel 2018 ([PNG](/res/analyse/kw-kiel-2018/pies/parteivergleich.png)/[SVG](/res/analyse/kw-kiel-2018/pies/parteivergleich.svg))" %}
 
 
 
@@ -95,7 +119,7 @@ Hier sind die Kreise f&uuml;r alle Parteien, &uuml;eber die Links unter den Krei
 
 ## Disclaimer
 
-Ich habe mich mit der Kieler Politik nicht besch&auml;ftigt und kann daher &uuml;ber die konkreten Inhalte nur spekulieren, aber die Politik soll hier auch eher eine untergeordnete Rolle spielen.
+Ich habe mich mit der Kieler Politik nicht besch&auml;ftigt und kann daher &uuml;ber die konkreten Inhalte der Themengebiete nur spekulieren, aber die Politik soll hier auch eine eher untergeordnete Rolle spielen.
 
 
 
@@ -106,19 +130,5 @@ Ich habe mich mit der Kieler Politik nicht besch&auml;ftigt und kann daher &uuml
 
 
 
-
-
-
-{% include image.html align='alignright' url='/assets/media/pics/2018/' img='/assets/media/pics/2018/' title='ALT' caption='CAPTION' maxwidth='300px' %}
-
-{% highlight bash %}
-some code
-{% endhighlight %}
-
-*italics*
-
-**strong**
-
-[link](url)
 
 
