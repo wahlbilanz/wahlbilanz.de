@@ -1,0 +1,10 @@
+"SPD" "CDU" "Grüne" "FDP" "Linke" "SSW" "Piratenpartei" "Die.Partei" "AFD"
+"SPD" 0 5 9 4 10 14 -2 11 -2
+"CDU" 12 0 -10 5 -9 3 -6 -6 5
+"Grüne" 17 7 0 -4 18 10 9 13 -16
+"FDP" 13 13 7 0 -3 10 -2 5 2
+"Linke" 16 6 24 9 0 15 11 20 -15
+"SSW" 18 12 17 17 21 0 2 13 -8
+"Piratenpartei" 8 7 16 9 17 14 0 14 -8
+"Die.Partei" 16 7 18 14 23 21 21 0 -11
+"AFD" 10 13 4 13 6 11 9 9 0
