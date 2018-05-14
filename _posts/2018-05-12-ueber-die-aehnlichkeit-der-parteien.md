@@ -59,7 +59,7 @@ Zusammen mit einigen Kollegen am [Lehrstuhl f&uuml;r Systembiologie und Bioinfor
 Ein Parteienkreis zeigt, wie stark die Position einer Partei mit den Positionen der anderen Parteien &uuml;bereinstimmt.
 Abbildung 3 pr&auml;sentiert ein Beispiel f&uuml;r die *SSW* in Kiel:
 
-{% include image.html align="alignleft" url="/res/analyse/kw-kiel-2018/pies/pie-ssw.svg" img="/res/analyse/kw-kiel-2018/pies/pie-ssw-demo.png" title="Parteienkreis der SSW" caption="**Abbildung 2:** Parteienkreis der SSW" %}
+{% include image.html align="alignleft" url="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-ssw.svg" img="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-ssw-demo.png" title="Parteienkreis der SSW" caption="**Abbildung 2:** Parteienkreis der SSW" %}
 
 
 Der &auml;u&szlig;ere blaue Kreis steht f&uuml;r die Position der *SSW* zu den 30 Themengebieten des Lokal-O-Mat.
@@ -80,15 +80,15 @@ Hier folgen nun die Kreise f&uuml;r alle Parteien zur Kommunalwahl in Kiel.
 &Uuml;ber die Links unter den Kreisen gelangt ihr zu hochaufl&ouml;senden Versionen in [PNG](https://de.wikipedia.org/wiki/Portable_Network_Graphics) und [SVG](https://de.wikipedia.org/wiki/Scalable_Vector_Graphics) Format.
 
 
-{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/pies/pie-afd.svg" img="/res/analyse/kw-kiel-2018/pies/pie-afd-preview.png" title="AfD" caption="AfD ([PNG](/res/analyse/kw-kiel-2018/pies/pie-afd.png)/[SVG](/res/analyse/kw-kiel-2018/pies/pie-afd.svg))" %}
-{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/pies/pie-cdu.svg" img="/res/analyse/kw-kiel-2018/pies/pie-cdu-preview.png" title="CDU" caption="CDU ([PNG](/res/analyse/kw-kiel-2018/pies/pie-cdu.png)/[SVG](/res/analyse/kw-kiel-2018/pies/pie-cdu.svg))" %}
-{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/pies/pie-die-partei.svg" img="/res/analyse/kw-kiel-2018/pies/pie-die-partei-preview.png" title="Die Partei" caption="Die Partei ([PNG](/res/analyse/kw-kiel-2018/pies/pie-die-partei.png)/[SVG](/res/analyse/kw-kiel-2018/pies/pie-die-partei.svg))" %}
-{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/pies/pie-fdp.svg" img="/res/analyse/kw-kiel-2018/pies/pie-fdp-preview.png" title="FDP" caption="FDP ([PNG](/res/analyse/kw-kiel-2018/pies/pie-fdp.png)/[SVG](/res/analyse/kw-kiel-2018/pies/pie-fdp.svg))" %}
-{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/pies/pie-gruene.svg" img="/res/analyse/kw-kiel-2018/pies/pie-gruene-preview.png" title="Die Grünen" caption="Die Grünen ([PNG](/res/analyse/kw-kiel-2018/pies/pie-gruene.png)/[SVG](/res/analyse/kw-kiel-2018/pies/pie-gruene.svg))" %}
-{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/pies/pie-linke.svg" img="/res/analyse/kw-kiel-2018/pies/pie-linke-preview.png" title="Die Linke" caption="Die Linke ([PNG](/res/analyse/kw-kiel-2018/pies/pie-linke.png)/[SVG](/res/analyse/kw-kiel-2018/pies/pie-linke.svg))" %}
-{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/pies/pie-piraten.svg" img="/res/analyse/kw-kiel-2018/pies/pie-piraten-preview.png" title="Piratenpartei" caption="Piratenpartei ([PNG](/res/analyse/kw-kiel-2018/pies/pie-piraten.png)/[SVG](/res/analyse/kw-kiel-2018/pies/pie-piraten.svg))" %}
-{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/pies/pie-spd.svg" img="/res/analyse/kw-kiel-2018/pies/pie-spd-preview.png" title="SPD" caption="SPD ([PNG](/res/analyse/kw-kiel-2018/pies/pie-spd.png)/[SVG](/res/analyse/kw-kiel-2018/pies/pie-spd.svg))" %}
-{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/pies/pie-ssw.svg" img="/res/analyse/kw-kiel-2018/pies/pie-ssw-preview.png" title="SSW" caption="SSW ([PNG](/res/analyse/kw-kiel-2018/pies/pie-ssw.png)/[SVG](/res/analyse/kw-kiel-2018/pies/pie-ssw.svg))" %}
+{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-afd.svg" img="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-afd-preview.png" title="AfD" caption="AfD ([PNG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-afd.png)/[SVG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-afd.svg))" %}
+{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-cdu.svg" img="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-cdu-preview.png" title="CDU" caption="CDU ([PNG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-cdu.png)/[SVG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-cdu.svg))" %}
+{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-die-partei.svg" img="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-die-partei-preview.png" title="Die Partei" caption="Die Partei ([PNG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-die-partei.png)/[SVG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-die-partei.svg))" %}
+{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-fdp.svg" img="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-fdp-preview.png" title="FDP" caption="FDP ([PNG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-fdp.png)/[SVG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-fdp.svg))" %}
+{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-gruene.svg" img="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-gruene-preview.png" title="Die Grünen" caption="Die Grünen ([PNG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-gruene.png)/[SVG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-gruene.svg))" %}
+{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-linke.svg" img="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-linke-preview.png" title="Die Linke" caption="Die Linke ([PNG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-linke.png)/[SVG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-linke.svg))" %}
+{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-piraten.svg" img="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-piraten-preview.png" title="Piratenpartei" caption="Piratenpartei ([PNG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-piraten.png)/[SVG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-piraten.svg))" %}
+{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-spd.svg" img="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-spd-preview.png" title="SPD" caption="SPD ([PNG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-spd.png)/[SVG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-spd.svg))" %}
+{% include image.html align="floatleft" url="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-ssw.svg" img="/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-ssw-preview.png" title="SSW" caption="SSW ([PNG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-ssw.png)/[SVG](/res/analyse/kw-kiel-2018/parteienkreise/parteienkreis-ssw.svg))" %}
 
 <div style="clear: both;"></div>
 
@@ -107,7 +107,7 @@ Zusammen haben wir auch die folgende Collage entwickelt:
 
 
 
-{% include image.html align="alignleft" url="/res/analyse/kw-kiel-2018/pies/parteivergleich.svg" img="/res/analyse/kw-kiel-2018/pies/parteivergleich-preview.png" title="Parteienkreise zur Kommunalwahl in Kiel 2018" caption="**Abbildung 3:** Parteienkreise zur Kommunalwahl in Kiel 2018 ([PNG](/res/analyse/kw-kiel-2018/pies/parteivergleich.png)/[SVG](/res/analyse/kw-kiel-2018/pies/parteivergleich.svg))" %}
+{% include image.html align="alignleft" url="/res/analyse/kw-kiel-2018/parteienkreise/parteivergleich.svg" img="/res/analyse/kw-kiel-2018/parteienkreise/parteivergleich-preview.png" title="Parteienkreise zur Kommunalwahl in Kiel 2018" caption="**Abbildung 3:** Parteienkreise zur Kommunalwahl in Kiel 2018 ([PNG](/res/analyse/kw-kiel-2018/parteienkreise/parteivergleich.png)/[SVG](/res/analyse/kw-kiel-2018/parteienkreise/parteivergleich.svg))" %}
 
 
 
