@@ -10,33 +10,6 @@ m=as.matrix (votes[,2:11])
 rownames(m)<-votes[,1]
 
 
-# rename the coloumns -> proper party names
-# colnames(m)<-sapply (colnames(m), function (x) {
-# 	if (startsWith (x, "grue"))
-# 	{
-# 		"Bündnis 90/Die Grünen"
-# 	}
-# 	else if (startsWith (x, "cdu"))
-# 	{
-# 		"CDU/CSU"
-# 	}
-# 	else if (startsWith (x, "die"))
-# 	{
-# 		"DIE LINKE"
-# 	}
-# 	else if (startsWith (x, "frak"))
-# 	{
-# 		"Fraktionslos"
-# 	}
-# 	else if (startsWith (x, "spd"))
-# 	{
-# 		"SPD"
-# 	}
-# 	else
-# 	{
-# 		x
-# 	}
-# })
 
 m[m==-1]=NA
 
@@ -46,8 +19,3 @@ colfunc <- colorRampPalette(c("#FF0000FF", "#FFFF00FF"))
 heatmap.2 (m, tracecol=1, cexCol=.9, margins=c(12,17),
            na.rm=TRUE, col=colfunc(15), na.color="#DDDDDDFF")
 dev.off ()
-
-
-RowVar <- function(x, ...) {
-  rowSums((x - rowMeans(x, na.rm=T,  ...))^2, na.rm=T, ...)/(dim(x)[2] - 1)
-}
