@@ -1,0 +1,618 @@
+{
+    "profile": {
+        "committees": [],
+        "constituency": {
+            "name": "Nordrhein-Westfalen",
+            "number": "1",
+            "result": null,
+            "uuid": "ba767c1b-6831-411b-885a-87bc5f4db248",
+            "won": false
+        },
+        "fraction": "CDU/CSU (EVP)",
+        "list": [],
+        "meta": {
+            "answers": 9,
+            "edited": "2017-11-30 14:27",
+            "questions": 11,
+            "standard_replies": 1,
+            "status": "1",
+            "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul",
+            "username": "herbert-reul",
+            "uuid": "9615c9c8-5a5e-4486-854d-33053b2d968a"
+        },
+        "parliament": {
+            "name": "EU-Parlament 2014-2019",
+            "retired": "2017-07-06",
+            "uuid": "18ea3bc2-8348-4824-8695-e0c2864fd126"
+        },
+        "party": "CDU",
+        "personal": {
+            "birthyear": "1952",
+            "degree": null,
+            "education": "Studienrat",
+            "first_name": "Herbert",
+            "gender": "male",
+            "last_name": "Reul",
+            "location": {
+                "city": "Leichlingen",
+                "country": "DE",
+                "postal_code": "42799",
+                "state": "NW"
+            },
+            "picture": {
+                "copyright": "EVP-Fraktion",
+                "url": "https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/reul_herbert.jpg"
+            },
+            "profession": "MdEP"
+        },
+        "questions": [
+            {
+                "answers": [],
+                "category": "Wirtschaft",
+                "date": "2017-04-14",
+                "id": "24588",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2017-04-14/24588"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-02-14",
+                        "summary": ""
+                    }
+                ],
+                "category": "Europa",
+                "date": "2017-02-12",
+                "id": "24089",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2017-02-12/24089"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-06-09",
+                        "summary": "<p>(...) <strong>Glyphosat</strong> ist schon sehr lange auf dem Markt und relativ gut erforscht. Da bisher noch nicht ausreichend nachgewiesen wurde, dass das Mittel krebserregend ist, spreche ich mich <strong>f\u00fcr eine Wiederzulassung</strong> aus. (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2016-05-18",
+                "id": "22149",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2016-05-18/22149"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-02-02",
+                        "summary": "<p>(...) Die <strong>Fl\u00fcchtlings- und Asylpolitik der AfD</strong> ist f\u00fcr mich v\u00f6llig unverst\u00e4ndlich. Das Recht auf Asyl ist im Grundgesetz festgeschrieben und kein Mensch verl\u00e4sst freiwillig seine Heimat. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2016-01-26",
+                "id": "20077",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2016-01-26/20077"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-01-29",
+                        "summary": "<p>(...) Ein Richtlinienvorschlag f\u00fcr die gesamte EU tr\u00e4gt dabei auch immer das Risiko, einzelne mitgliedstaatlichen Regelungen zu beeintr\u00e4chtigen. Die <strong>Waffengesetzgebung in Europa</strong> ist teils unterschiedlich, und in Deutschland gelten bereits heute mit die strengsten Regeln. In anderen Mitgliedstaaten gibt es bspw. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-01-07",
+                "id": "20021",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2016-01-07/20021"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-11-13",
+                        "summary": ""
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2015-10-30",
+                "id": "19825",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2015-10-30/19825"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-07-20",
+                        "summary": "<p>(...) Aufw\u00e4rts ging es auch in <strong>Griechenland</strong>, bis die aktuelle Regierung an die Macht kam. Sie hat in einem halben Jahr nicht nur viele bereits ergriffene Reformen zur\u00fcckgeschraubt, sondern durch ihr Verhalten auch leichtfertig zerst\u00f6rt,  worauf sich die EU auch gr\u00fcndet: das gegenseitige Vertrauen. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2015-07-16",
+                "id": "18757",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2015-07-16/18757"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-06-29",
+                        "summary": "<p>(...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-19",
+                "id": "18613",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2015-06-19/18613"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-06-18",
+                        "summary": "<p>(...) Der Internationale W\u00e4hrungsfonds ist eine <strong>Sonderorganisation der UN mit gew\u00e4hlten Strukturen</strong>. In den Gremien sitzen f\u00fcr Deutschland beispielsweise Bundesbankpr\u00e4sident Weidmann oder Finanzminister Sch\u00e4uble. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-13",
+                "id": "18592",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2015-06-13/18592"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-04-30",
+                        "summary": "<p>(...) Sie haben Recht, wir m\u00fcssen etwas tun. Um <strong>solche Katastrophen in Zukunft zu vermeiden</strong>, werden seitens der EU derzeit verschiedene Ma\u00dfnahmen und Optionen diskutiert. Hier sind umfassendere Programme L\u00f6sungen n\u00f6tig, mehr Geld alleine reicht nicht. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2015-04-21",
+                "id": "18136",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2015-04-21/18136"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-12-02",
+                        "summary": "<p>(...) Das sehe ich nicht so. <strong>Interessen der Wirtschaft</strong> sind meist auch die Interessen von einfachen B\u00fcrgern. Wenn es Unternehmen gut geht, sichert das und schafft Arbeitspl\u00e4tze. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-11-27",
+                "id": "10784",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-11-27/10784"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-06-04",
+                        "summary": "<p>(...) Deshalb finde ich es wichtig, dass die Europ\u00e4ische Union sich nicht \u00fcberm\u00e4\u00dfig nur einer Hauptsprache wie dem Englischen bedient. Ich glaube die EU muss f\u00fcr alle B\u00fcrger transparent und zug\u00e4nglich sein, was sich auch in der <strong>Mehrsprachigkeit</strong> der Arbeitsweise der Institutionen und den Verf\u00fcgbaren Informationen wiederspiegeln muss. Daf\u00fcr setze ich mich in meiner Funktion als Abgeordneter ein. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-05-23",
+                "id": "7995",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-05-23/7995"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-23",
+                        "summary": "<p>(...) Gerade zwei Punkte wurden zuletzt in der \u00d6ffentlichkeit verst\u00e4rkt thematisiert: das sogenannte Investitionsschutzabkommen und die vermeintliche Absenkung der europ\u00e4ischen Lebensmittelstandards. Hierzu ist zu sagen, dass diese Themen sehr ernst genommen werden und es <strong>kein Abkommen um jeden Preis</strong> geben wird, bei dem bestehende Standards untergraben werden w\u00fcrden. Die Europ\u00e4ische Kommission, welche die Verhandlungen f\u00fcr die Europ\u00e4ische Union f\u00fchrt, hat mehrfach klargestellt, dass hierbei kein Verhandlungsspielraum besteht. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2014-05-23",
+                "id": "7978",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-05-23/7978"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-23",
+                        "summary": "<p>(...) Wir arbeiten in der <strong>EVP-Fraktion</strong> sehr gut und vertrauensvoll mit den ungarischen Fidesz-Abgeordneten zusammen. Die Kollegen sind sehr engagierte Europ\u00e4er. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-05-21",
+                "id": "7921",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-05-21/7921"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-21",
+                        "summary": "<p>(...) Um dies zu tun, m\u00fcssen die Daten vorher gespeichert werden. Die CDU/CSU-Gruppe im Europ\u00e4ischen Parlament setzt sich klar f\u00fcr eine <strong>Vorratsdatenspeicherung</strong> ein. Diese muss jedoch kontrolliert erfolgen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-05-19",
+                "id": "7761",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-05-19/7761"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-23",
+                        "summary": "<p>(...) Dennoch bin ich der gleichen Meinung wie unser Spitzenkandidat Jean-Claude Juncker, dass wir bei aller Kritik an der EU, sei sie nun berechtig oder auch nicht, nie vergessen d\u00fcrfen, was das prim\u00e4re Ziel und die gr\u00f6\u00dfte Errungenschaft der <strong>europ\u00e4ischen Einigung</strong> waren: Frieden, Wohlstand und Freiheit in Europa. Dieses Gut k\u00f6nnen wir gar nicht genug w\u00fcrdigen. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-05-17",
+                "id": "7727",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-05-17/7727"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-21",
+                        "summary": "<p>(...) Wir Christdemokraten haben immer gefordert, dass <strong>Entscheidungsmechanismen</strong> und Gesetzgebung der EU transparenter sein m\u00fcssen und zwar unter Ber\u00fccksichtigung von Privatsph\u00e4re, Datenschutz und Schutz von Gesch\u00e4ftsgeheimnissen und sensiblen Informationen. Das betrifft vor allem Gerichtsverhandlungen, Wettbewerbsverfahren und Personalunterlagen der EU-Institutionen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-05-17",
+                "id": "7724",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-05-17/7724"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-14",
+                        "summary": "<p>(...) Grunds\u00e4tzlich finde ich es gut, wenn sich B\u00fcrgerinnen und B\u00fcrger politisch engagieren. Wenn solche Demonstrationen aber <strong>Blau\u00e4ugigkeit und totale Nachgiebigkeit</strong> gegen\u00fcber Russland fordern, wie es sie auch schon w\u00e4hrend des Kalten Krieges gab, sehe ich keinen Grund, eine Teilnahme daran zu erw\u00e4gen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-05-12",
+                "id": "7607",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-05-12/7607"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-16",
+                        "summary": "<p>(...) Jedoch muss man auch der Tatsache ins Auge sehen, dass wir in Deutschland einen immer gr\u00f6\u00dferen <strong>Fachkr\u00e4ftemangel </strong>haben. Dieser wird durch die ung\u00fcnstige demographische Entwicklung in unserem Land verst\u00e4rkt. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-05-12",
+                "id": "7561",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-05-12/7561"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-16",
+                        "summary": "<p>(...) Ich bin kein Gesundheitspolitiker, aber grunds\u00e4tzlich davon \u00fcberzeugt, dass Geld in Forschung zu investieren sinnvoll ist. Wenn es sinnvolle Forschungsprojekte f\u00fcr <strong>alternative Medizin </strong>gibt, und diese die Anforderungen von Horizont 2020 erf\u00fcllen, sehe ich keinen Grund, warum diese nicht auch europ\u00e4isch gef\u00f6rdert werden sollen! (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2014-05-12",
+                "id": "7557",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-05-12/7557"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-13",
+                        "summary": "<p>(...) Dies halte ich f\u00fcr richtig, da sowohl der Energiemix in nationaler Zust\u00e4ndigkeit liegt und auch die derzeitige Situation in der Ukraine uns nachdr\u00fccklich vor Augen f\u00fchrt, dass die Gas-Abh\u00e4ngigkeit von Russland alles andere als ideal ist. Die F\u00f6rderung von Gas <strong>mithilfe von Fracking</strong> kann dabei eine M\u00f6glichkeiten sein, diese Abh\u00e4ngigkeit zu verringern, solange sichergestellt ist, dass die Bohrungen unter den gr\u00f6\u00dftm\u00f6glichen Umweltstandards durchgef\u00fchrt werden. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2014-05-09",
+                "id": "7480",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-05-09/7480"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-07",
+                        "summary": "<p>(...) Die Intergruppe Tierschutz des Europ\u00e4ischen Parlaments hat Pr\u00e4sident Basescu zwei Briefe geschrieben in denen er auffordert wird tragf\u00e4hige L\u00f6sungen f\u00fcr das <strong>Problem der Streunerhunde</strong> zu finden. Die Briefe und unsere Aufforderungen blieben leider ungeh\u00f6rt. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-05-05",
+                "id": "7333",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-05-05/7333"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-05",
+                        "summary": "<p>(...) Deshalb gilt es dieses Europa <strong>realistisch und pragmatisch f\u00fcr die Zukunft</strong> weiterzuentwickeln, mal mit mehr, mal auch mit weniger Kompetenzen auf EU-Ebene. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-04-30",
+                "id": "7157",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-04-30/7157"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-04-29",
+                        "summary": "<p>(...) Ich bin \u00fcberzeugt, dass die EU sich weiter <strong>kontinuierlich weiterentwickeln</strong> wird. Wo das dann genau hinf\u00fchren wird, und ob man das entstehende Gebilde dann \"Staatenbund\" oder \"Bundesstaat\" nennen wird, ist meiner Meinung nach mehr eine theoretische Diskussion und dabei nicht die entscheidende Frage: Es geht darum, wie wir die Herausforderungen und Probleme der Zukunft am besten meistern. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-04-28",
+                "id": "7034",
+                "url": "https://www.abgeordnetenwatch.de/profile/herbert-reul/question/2014-04-28/7034"
+            }
+        ],
+        "roles": [],
+        "sidejobs": [],
+        "votes": [
+            {
+                "date": "2015-03-05",
+                "title": "Netzneutralit\u00e4t sichern - Rettet das freie Internet!",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/petitionen/netzneutralitat-sichern-rettet-das-freie-internet",
+                "uuid": "c73d817d-e0e9-4c2b-84dc-0375e8c4934d",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Kritische Neubewertung der Beziehungen zu Russland",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kritische-neubewertung-der-beziehungen-zu-russland",
+                "uuid": "34d2fd08-9bbf-4948-88c6-183864116d6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Wiederaufnahme der Friedensbem\u00fchungen im Nahen Osten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wiederaufnahme-der-friedensbemuehungen-im-nahen-osten",
+                "uuid": "0fa40696-9a07-4770-bddd-338db1509a69",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Ma\u00dfnahmen zur Fl\u00fcchtlingspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-fluechtlingspolitik",
+                "uuid": "a98d55d5-26c3-4a51-a99a-8bd0e525b628",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Hindernisse f\u00fcr soziale Unternehmen beseitigen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/hindernisse-fuer-soziale-unternehmen-beseitigen",
+                "uuid": "c0f955e0-82d9-46b4-9f16-77f508963b6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Schaffung eines wettbewerbf\u00e4higen Arbeitsmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-wettbewerbfaehigen-arbeitsmarkts",
+                "uuid": "f42b1ba1-d57a-4ee0-83e2-a83134df2ef4",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "F\u00f6rderung junger Unternehmer",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/foerderung-junger-unternehmer",
+                "uuid": "94bf3f53-5ee6-4747-a47e-c2c132156c26",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verurteilung von CIA-Foltermethoden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-von-cia-foltermethoden",
+                "uuid": "a7bfb784-f0e3-4dea-9ee5-a63024adff6f",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Kennzeichnung des Ursprungslands von Fleisch",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kennzeichnung-des-ursprungslands-von-fleisch",
+                "uuid": "1e33c664-17d7-4631-bb13-d50eea58837f",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Ausweitung des digitalen Binnenmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/ausweitung-des-digitalen-binnenmarkts",
+                "uuid": "8b59269f-b5f6-4221-b113-2b7a6a7ea708",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verl\u00e4ngerung der Senkung von Z\u00f6llen auf ukrainische Waren ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verlaengerung-der-senkung-von-zoellen-auf-ukrainische-waren",
+                "uuid": "608d1653-952d-4039-8021-61a089c3fb6e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "EU-Sicherheitspolitik im Nahen Osten und Nordafrika",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-sicherheitspolitik-im-nahen-osten-und-nordafrika",
+                "uuid": "2b962506-401b-45b7-8a4d-c3a12b35ceef",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "Expo 2015 in Mailand",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/expo-2015-mailand",
+                "uuid": "5f314d77-4e55-49d2-8f28-18356d3e1250",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Ma\u00dfnahmen zur Terrorismusbek\u00e4mpfung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-terrorismusbekaempfung",
+                "uuid": "e0cd7654-49f3-49b6-87dc-d8ec90003919",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Verurteilung der Boko Haram-Angriffe in Nigeria",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-der-boko-haram-angriffe-nigeria",
+                "uuid": "78c330d6-09c6-47a4-982f-a67146262776",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Antrag zur Bek\u00e4mpfung der Jugendarbeitslosigkeit",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/antrag-zur-bekaempfung-der-jugendarbeitslosigkeit",
+                "uuid": "4cf62b4b-59a5-4a9c-aae9-17ebf3700446",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Wahl der EU-Kommission",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wahl-der-eu-kommission",
+                "uuid": "2c27f2a1-ba90-4067-bc52-a114e55acada",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Anerkennung Pal\u00e4stinas",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anerkennung-palaestinas",
+                "uuid": "91aee230-2ac2-4bca-a90b-3c9c11ded2b3",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Kreditvergabe an die Ukraine",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kreditvergabe-die-ukraine",
+                "uuid": "dd9837cd-1699-4929-9539-7ccd6546c103",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Umsetzung der gemeinsamen Sicherheits- und Verteidigungspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-der-gemeinsamen-sicherheits-und-verteidigungspolitik",
+                "uuid": "83ca30d0-39f2-488a-b244-91a92720d57f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Eu-Strategie zur Gleichstellung zwischen M\u00e4nnern und Frauen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-strategie-zur-gleichstellung-zwischen-maennern-und-frauen",
+                "uuid": "72c8d5e7-e7d1-4b31-99c3-99644c7adff3",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Sicherung des Urheberechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/sicherung-des-urheberechts",
+                "uuid": "fe2780f4-81e2-419d-a7f1-61776c547cfa",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Parlamentarische Empfehlung bzgl. TTIP Handelabkommen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/parlamentarische-empfehlung-bzgl-ttip-handelabkommen",
+                "uuid": "f1a0b307-e891-4e17-9e10-1e811474b2bc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Schaffung eines Europ\u00e4ischen Struktur- und Investitionsfonds (EFSI)",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-europaeischen-struktur-und-investitionsfonds",
+                "uuid": "2436eb70-9eb4-4cb6-999f-b6d2ad59782e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-12-03",
+                "title": "Gemeinsame Strategie zur Pr\u00e4vention von Radikalisierung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gemeinsame-strategie-zur-praevention-von-radikalisierung",
+                "uuid": "43b62e8f-afef-4083-a71b-753ccdbecd6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Verringerung des Lohngef\u00e4lles zwischen Frauen und M\u00e4nnern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verringerung-des-lohngefaelles-zwischen-frauen-und-maennern",
+                "uuid": "e2dfb814-8dc6-4132-b354-a4b0dffdde4b",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Schadstoffaussto\u00df mittelgro\u00dfer Verbrennungsanlagen begrenzen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schadstoffausstoss-mittelgrosser-verbrennungsanlagen-begrenzen",
+                "uuid": "03d5024e-7b73-40ff-9e69-1ac7e6cc2882",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-22",
+                "title": "Auszahlung von Griechenlandhilfen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/auszahlung-von-griechenlandhilfen",
+                "uuid": "de2c3caf-d77b-457a-8e02-73bcdb60abad",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-10-28",
+                "title": "Schutz geografischer Herkunftsangaben der EU auf nichtlandwirtschaftliche Erzeugnisse",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-geografischer-herkunftsangaben-der-eu-auf",
+                "uuid": "3017adbf-e55e-4914-ad2f-47744e7719f7",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-05-12",
+                "title": "Resolution zur Neuzulassung des Herbizids Glyphosat",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/resolution-zur-neuzulassung-des-herbizids-glyphosat",
+                "uuid": "20b545ab-e31f-4404-ba34-fed1f163cce2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-11-11",
+                "title": "Umsetzung des Bologna-Prozesses - Steigerung studentischer Auslandsmobilit\u00e4t ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-bologna-prozesses-steigerung-studentischer",
+                "uuid": "393d3eed-93b5-4cc8-a656-f261daa90351",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-11-19",
+                "title": "\u00c4nderung des Wahlrechts zum EU-Parlament",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aenderung-des-wahlrechts-zum-eu-parlament",
+                "uuid": "844ed2e1-303f-49bb-a63f-b7adb938593a",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-05-19",
+                "title": "Lebensmittelverschwendung",
+                "url": "https://www.abgeordnetenwatch.de/eu/petitionen/eu-verpflichtet-supermarkte-ihr-unverkauftes-essen-zu-spenden",
+                "uuid": "50cd10af-ac29-4d4b-9fb8-7e6eaee69163",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-11-24",
+                "title": "EU-Beitrittsverhandlungen mit der T\u00fcrkei einfrieren",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-beitrittsverhandlungen-mit-der-tuerkei-einfrieren",
+                "uuid": "5ec1c8eb-b80b-4a18-a0cb-c2054067ba2e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-12-01",
+                "title": "Menschenrechte und Migration in Drittl\u00e4ndern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/menschenrechte-und-migration-drittlaendern",
+                "uuid": "72d19836-8d9d-4f95-a8bb-0c0b89be5c06",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-02-05",
+                "title": "Anbau von gentechnisch ver\u00e4nderten Sojabohnen in der Europ\u00e4ischen Union",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anbau-von-gentechnisch-veraenderten-sojabohnen-der-europaeischen",
+                "uuid": "83f43a49-c047-4390-aaee-14cbe5a55525",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-04-25",
+                "title": "EU-Richtlinien \u00fcber Verwendung von Fluggastdaten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-richtlinien-ueber-verwendung-von-fluggastdaten",
+                "uuid": "9bbf91f1-b259-4dbb-bfd9-d3c3bc5f9ec1",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2017-02-17",
+                "title": "Umsetzung des Handelsabkommens CETA mit Kanada",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-handelsabkommens-ceta-mit-kanada",
+                "uuid": "f22c10c4-e5eb-481a-ae8d-9d8a42a604ba",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-09-28",
+                "title": "Unterst\u00fctzung von Frauen im digitalen Zeitalter",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/unterstuetzung-von-frauen-im-digitalen-zeitalter",
+                "uuid": "29160dca-2641-436f-b9b3-dc07b633454c",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2016-09-30",
+                "title": "Zugang der \u00d6ffentlichkeit zu Dokumenten aus den Jahren 2014-2015",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/zugang-der-oeffentlichkeit-zu-dokumenten-aus-den-jahren-2014-2015",
+                "uuid": "0705670c-1e29-4056-b4f2-6c2ff82a9e47",
+                "vote": "dagegen gestimmt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1793 @@
+{
+    "profile": {
+        "committees": [
+            {
+                "name": "Ausschuss f\u00fcr Binnenmarkt und Verbraucherschutz",
+                "role": "Member",
+                "uuid": "1356bf56-0b1c-4609-b84a-bcc04e95ef63"
+            },
+            {
+                "name": "Ausschuss f\u00fcr Wirtschaft und W\u00e4hrung",
+                "role": "Alternate member",
+                "uuid": "e3aad223-691c-473f-82c1-556c100e83b2"
+            }
+        ],
+        "constituency": {
+            "name": "Baden-W\u00fcrttemberg",
+            "number": "1",
+            "result": null,
+            "uuid": "d8d48c84-6fc3-4877-8fdd-3813c3dc3307",
+            "won": false
+        },
+        "fraction": "CDU/CSU (EVP)",
+        "list": [],
+        "meta": {
+            "answers": 72,
+            "edited": "2015-05-13 16:18",
+            "questions": 75,
+            "standard_replies": 0,
+            "status": "1",
+            "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/archive/78029",
+            "username": "dr-andreas-schwab",
+            "uuid": "fb33fc96-d152-4419-b135-43d73033c4b1"
+        },
+        "parliament": {
+            "name": "EU-Parlament 2014-2019",
+            "uuid": "18ea3bc2-8348-4824-8695-e0c2864fd126"
+        },
+        "party": "CDU",
+        "personal": {
+            "birthyear": "1973",
+            "degree": "Dr.",
+            "education": "Jurist",
+            "first_name": "Andreas",
+            "gender": "male",
+            "last_name": "Schwab",
+            "location": {
+                "city": "Freiburg",
+                "country": "DE",
+                "postal_code": "79098",
+                "state": "BW"
+            },
+            "picture": {
+                "copyright": "",
+                "url": "https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/schwab_andreas_1.jpg"
+            },
+            "profession": "MdEP"
+        },
+        "questions": [
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-03-23",
+                "id": "312134",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2019-03-23/312134"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-03-22",
+                "id": "312114",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2019-03-22/312114"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-28",
+                        "summary": "<p>(...) Die Urheberrechtsreform dient der Meinungs- und Informationsfreiheit, indem sie sicherstellt, dass K\u00fcnstler, Musiker und Journalisten an den finanziellen Gewinnen, die durch ihre Inhalte erwirtschaftet werden, beteiligt werden. Denn nur so k\u00f6nnen wir die Vielfalt an Kultu<strong>Vielfalt an Kultur-</strong> und Kreativinhalten auch in der Zukunft sicherstellen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-03-06",
+                "id": "311159",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2019-03-06/311159"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-03-05",
+                "id": "311094",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2019-03-05/311094"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-26",
+                        "summary": "<p>(...) Illegale Inhalte d\u00fcrften nicht mehr verf\u00fcgbar gemacht werden, legale Inhalte m\u00fcssen aber weiterhin zug\u00e4nglich sein. Dies stellt eine <strong>deutliche Verbesserung der Rechtslage</strong> dar, gerade weil bereits heutzutage auf vielen Plattformen maschinelle \u00dcberpr\u00fcfungen von Inhalten stattfinden, bisher ohne rechtliche Vorgaben. Bisher sind es die Plattformen, die entscheiden welche Inhalte sie hochladen oder blockieren. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-03-01",
+                "id": "310884",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2019-03-01/310884"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-01",
+                        "summary": "<p>(...) Gerne m\u00f6chte ich zus\u00e4tzlich darauf hinweisen, dass eine technische \u00dcberpr\u00fcfung durch sogenannte <strong>Uploadfilter</strong> auch nur in dem vom Richtlinientext vorgegebenen rechtlichen Rahmen m\u00f6glich w\u00e4re. Die Richtlinie legt explizit fest, dass das Publizieren von Inhalten, die die Urheberrechte nicht verletzen, nicht verhindert werden darf, und dass bei Beschwerden durch Nutzer im Falle einer Nichtver\u00f6ffentlichung eine erneute, nicht-maschinelle, manuelle Pr\u00fcfung des Inhalts vorzunehmen ist. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2019-02-27",
+                "id": "310759",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2019-02-27/310759"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-01",
+                        "summary": "<p>(...) Zu Ihren Fragen m\u00f6chte ich Folgendes anmerken: Der Koalitionsvertrag zwischen CDU/CSU und SPD von 2018, f\u00fchrt an: \u201eEine Verpflichtung von Plattformen zum Einsatz von Upload-Filtern, um von Nutzern hochgeladene Inhalte nach urheberrechtsverletzenden Inhalten zu \u201efiltern\u201c, lehnen wir als unverh\u00e4ltnism\u00e4\u00dfig ab\u201c. Die sogenannten \u201e<strong>Upload-Filter</strong>\u201c sind im Richtlinientext, der derzeit verhandelt wird, aber auch nicht vorgegeben. Den Internetplattformen wird lediglich die Pflicht auferlegt, Lizenzvereinbarungen mit Rechteinhabern abzuschlie\u00dfen und daf\u00fcr Sorge zu tragen, dass Werke, f\u00fcr die keine Lizenzen vorliegen, nicht auf der Plattform verbreitet werden. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-02-23",
+                "id": "310615",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2019-02-23/310615"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-01",
+                        "summary": "<p>(...) <strong>Artikel 13</strong> der Urheberrechterichtlinie soll Online-Plattformen, die die Verbreitung urheberrechtlich gesch\u00fctzter Inhalte erlauben, verpflichten, auch den Schutz der Autorenrechte zu garantieren. In der Praxis soll dies gelingen, indem in einzelnen F\u00e4llen gepr\u00fcft wird, ob ein hochgeladener Inhalt urheberrechtlich gesch\u00fctzt ist. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-02-18",
+                "id": "310418",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2019-02-18/310418"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-02-07",
+                        "summary": "<p>(...) In der <strong>Europ\u00e4ischen Union gibt es derzeit noch Schlupfl\u00f6cher</strong> im Steuerrecht, die es Gro\u00dfunternehmen erm\u00f6glichen, ihre Steuerschuld zu Lasten der \u00f6ffentlichen Haushalte und der kleinen und mittleren Unternehmen drastisch zu verringern. F\u00fcr die EVP-Fraktion ist dies nicht hinnehmbar. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2019-02-02",
+                "id": "309555",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2019-02-02/309555"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-02-12",
+                        "summary": "<p>(...) Das Gesch\u00e4ft der <strong>Postdienstleistungen </strong>steht durch die fortschreitende Digitalisierung vor weitreichenden Ver\u00e4nderungen. So werden auf der einen Seite immer weniger Briefe versandt, aber auf der anderen Seite deutlich mehr Pakete. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2019-01-13",
+                "id": "308969",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2019-01-13/308969"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-12-06",
+                        "summary": "<p>(...) Zun\u00e4chst m\u00f6chte ich betonen, dass ich das <strong>Handelsabkommen mit Japan</strong> als gro\u00dfe Chance f\u00fcr alle Beteiligten sehe. Bereits heute exportieren EU-Firmen j\u00e4hrlich Waren im Wert von 58 Milliarden Euro und Dienstleistungen im Wert von 28 Milliarden Euro nach Japan. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2018-11-11",
+                "id": "306750",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-11-11/306750"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-10-25",
+                        "summary": "<p>(...) haben Sie vielen Dank f\u00fcr Ihre E-Mail vom 14.09.2018. Gerne m\u00f6chte ich auf Ihre Fragen bez\u00fcglich der <strong>L\u00e4rmbel\u00e4stigung </strong>durch den Flugverkehr antworten und hierzu Stellung beziehen. (...)</p>"
+                    }
+                ],
+                "category": "Verkehr und Infrastruktur",
+                "date": "2018-09-14",
+                "id": "302914",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-09-14/302914"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-09-21",
+                        "summary": "<p>(...) Mir ist in dieser Debatte daran gelegen, dass wir die Vor- und <strong>Nachteile</strong> analysieren und auf der Basis dieser Analyse entschieden wird. Wir sollten auf jeden Fall verhindern, dass es zu einer Zersplitterung des Binnenmarktes kommt und damit erhebliche Nachteile f\u00fcr unsere B\u00fcrger und die Wirtschaft entstehen. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-09-03",
+                "id": "302166",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-09-03/302166"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-09-03",
+                        "summary": "<p>(...) Wie Sie in Ihrem Schreiben richtig wiedergeben, sind <strong>Leistungen der betrieblichen Altersvorsorge</strong> sowie andere mit der Rente vergleichbare Einnahmen bzw. Versorgungsbez\u00fcge nach \u00a7229 SGB V beitragspflichtig. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2018-08-24",
+                "id": "301732",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-08-24/301732"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-18",
+                        "summary": "<p>(...) Als EVP halten wir am Schutz der kreativen Freiheit und Vielf\u00e4ltigkeit im Internet fest. Dazu ist es dringend erforderlich, die <strong>Urheberrechte zu st\u00e4rken und M\u00f6glichkeiten der Durchsetzung zu schaffen</strong>. Wir sind daher von der Notwendigkeit dieses Gesetzes \u00fcberzeugt und werden dies auch in den weiteren Beratungen deutlich machen. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-07-05",
+                "id": "300582",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-07-05/300582"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-16",
+                        "summary": "<p>(...) Das Ziel der neuen <strong>Urheberrechtsrichtlinie </strong>ist es, dass die Online-Plattform-Dienstleistern mehr Verantwortung f\u00fcr die hochgeladenen Inhalte \u00fcbernehmen und es zu einem fairen Ausgleich mit den Urhebern der Inhalte kommt. Dabei richtet sich die Richtlinie an Anbieter, deren Gesch\u00e4ftsmodell darauf beruht, dass Nutzer urheberrechtlich gesch\u00fctzte Inhalte online stellen und abrufen. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2018-07-04",
+                "id": "300537",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-07-04/300537"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-10",
+                        "summary": "<p>(...) Zudem wird der Zeitplan f\u00fcr die Erarbeitung, Beratung und Abstimmung eines <strong>Gesetzesvorschlags </strong>schon einige Zeit im Voraus festgelegt und unabh\u00e4ngig vom Zeitplan sportlicher Gro\u00dfereignisse erarbeitet. F\u00fcr alle Bundesl\u00e4nder gilt dar\u00fcber hinaus, dass der \u00fcberwiegende Anteil der Sommerferien mit der parlamentarischen Sommerpause zusammenf\u00e4llt. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-07-04",
+                "id": "300523",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-07-04/300523"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-04",
+                        "summary": "<p>(...) Gerade weil wir als EVP die Tragf\u00e4higkeit und die Vielfalt der europ\u00e4ischen Kreativ-, Kulturwirtschaft und Presse erhalten wollen, ist es uns ein Anliegen das oben beschriebene sogenannte <strong>\u201eValue Gap\u201c zu schlie\u00dfen</strong>. Denn nur wenn auch in Zukunft mit Musik-, Film-, und Presseerzeugnissen ein Gewinn erzielt werden kann, k\u00f6nnen wir sicherstellen, dass solche Inhalte auch weiterhin geschaffen werden. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2018-06-29",
+                "id": "300361",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-29/300361"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-04",
+                        "summary": "<p>(...) Als EVP-Fraktion wollen wir daher gerade zur Wahrung der kulturellen und journalistischen Vielfalt sicherstellen, dass Sch\u00f6pfer von Inhalten an den generierten Gewinnen beteiligt werden. Wir denken, dass Online-Plattform-Anbieter, die es Benutzern erm\u00f6glichen urheberrechtlich gesch\u00fctzte Inhalte hochzuladen, ihre Verantwortung f\u00fcr den <strong>Schutz der Urheberrechte</strong> tragen m\u00fcssen. Das ist im Interesse der kulturellen und journalistischen Vielfalt in Europa und schr\u00e4nkt in keinster Weise die Grundrechte von B\u00fcrgern ein. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300340",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-29/300340"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-05",
+                        "summary": "<p>(...) Es geht dabei nicht darum, das <strong>Hochladen bestimmter Inhalte zu unterbinden</strong>, sondern vielmehr darum, eine angemessene Entlohnung der Sch\u00f6pfer der Inhalte zu gew\u00e4hrleisten. Als EVP-Fraktion wollen wir gerade kleinere und mittlere Musikunternehmen, K\u00fcnstler und Journalisten am Gewinn der mit ihrem Werken erzielt wird, beteiligen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300315",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-29/300315"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-17",
+                        "summary": "<p>(...) Sie tragen zur Informations- und Meinungsbildung von B\u00fcrgerinnen und B\u00fcrgern in gro\u00dfem Ma\u00dfe bei. Wenn Newsaggregatoren Presseausschnitte frei nutzen und damit einen Gewinn generieren, hat dies zur Folge, dass die Presse mit ihren Inhalten <strong>keinen eigenen Gewinn mehr generieren</strong> kann. (...)</p>"
+                    },
+                    {
+                        "date": "2018-07-18",
+                        "summary": "<p>(...) Es geht also nicht darum, prinzipiell das Hochladen bestimmter Inhalte zu unterbinden oder die <strong>Meinungsfreiheit zu begrenzen</strong>, sondern vielmehr darum, eine gerechte Entlohnung der Urheber zu gew\u00e4hrleisten. Genauso wie Printmedien sich an Urheberrechte halten m\u00fcssen, sollen auch die Kreativen, deren Werke im Internet verbreitet werden, ein europaweit gesetzlich verankertes Urheberrecht haben, das auch online durchgesetzt wird. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300293",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-29/300293"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-18",
+                        "summary": "<p><strong></strong>Sehr geehrter Herr <span class=\"crypto-font\">Zneiva Fg.</span>, (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300282",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-29/300282"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-12",
+                        "summary": "<p>(...) Der Artikel 13 der neuen Urheberrechtsrichtlinie dient dem Zweck, einen fairen Ausgleich zu schaffen zwischen Online-Plattform-Diensten, die es Nutzern erm\u00f6glichen, <strong>urheberrechtlich gesch\u00fctzte Inhalte</strong> hochzuladen und abzurufen, und den Urhebern und K\u00fcnstlern als Sch\u00f6pfer dieser Inhalte. Das sogenannte \u201eValue-Gap\u201c, das entsteht, wenn die Plattformen die Sch\u00f6pfer der hochgeladenen Inhalte nicht an den finanziellen Gewinnen beteiligen, muss geschlossen werden. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300266",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-29/300266"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-17",
+                        "summary": "<p>(...) Dennoch besteht ein Problem, wenn gro\u00dfe Plattformen ihr Gesch\u00e4ftsmodell darauf aufbauen, dass sie einen gro\u00dfen Gewinn daraus ziehen, dass ihre Nutzer urheberrechtlich gesch\u00fctzte Werke hochladen und abrufen. Die EVP will daher einen <strong>fairen Ausgleich schaffen</strong> zwischen Online-Plattform-Dienstleistern und den Urhebern und K\u00fcnstlern als Sch\u00f6pfer der Inhalte. Dazu werden Plattformen k\u00fcnftig im Artikel 13 und im Erw\u00e4gungsgrund 38 der Richtlinie verpflichtet, \u201eangemessene und geeignete\u201c Ma\u00dfnahmen zu ergreifen, um sicherzustellen, dass hochgeladene Werke das Urheberrecht nicht verletzten. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300237",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-29/300237"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-12",
+                        "summary": "<p>(...) Dabei geht es uns darum, gro\u00dfe Plattformen, deren Gesch\u00e4ftsmodell darauf beruht, <strong>urheberrechtlich gesch\u00fctzte Werke</strong>, die durch Dritte hochgeladen werden, verf\u00fcgbar zu machen und dadurch einen Gewinn zu erziehen, in die Verantwortung zu nehmen. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300174",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-28/300174"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-16",
+                        "summary": "<p>(...) haben Sie vielen Dank f\u00fcr Ihre Anfrage bez\u00fcglich der geplanten <strong>Urheberrechterichtlinie</strong>. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300172",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-28/300172"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-12",
+                        "summary": "<p>(...) Das Ziel des Gesetzesentwurfes ist es, einen fairen Ausgleich zu schaffen zwischen digitalen Plattformen, die <strong>urheberechtlich gesch\u00fctzte Inhalte</strong> anzeigen, und den jeweiligen Autoren und Urhebern, die oftmals nicht an den finanziellen Gewinnen der Plattformen beteiligt werden. Diesen sogenannten \u201eValue-Gap\u201c gilt es zu schlie\u00dfen, um auch in Zukunft den K\u00fcnstlern die Aus\u00fcbung Ihrer T\u00e4tigkeit zu erlauben. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300156",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-28/300156"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-12",
+                        "summary": "<p>(...) Ein vollst\u00e4ndiger Verzicht auf die <strong>Pr\u00fcfung von Urheberrechten</strong> durch die Plattformen kommt f\u00fcr mich nicht in Frage. Gesch\u00e4ftsmodelle, die auf Urheberrechtsverletzungen basieren, m\u00fcssen unterbunden werden. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300112",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-28/300112"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-05",
+                        "summary": "<p>(...) Zu Artikel 13: Wie Sie sicherlich wissen, machen einige Plattformen urheberrechtlich gesch\u00fctzte Inhalte, die von ihren Nutzern hochgeladen werden, \u00f6ffentlich zug\u00e4nglich und erzielen dadurch hohe Gewinne. Als EVP-Fraktion wollen wir daf\u00fcr sorgen, dass solche Plattformbetreiber in die Pflicht genommen werden und sicherstellen m\u00fcssen, dass ihr Angebot so gestaltet ist, dass sie <strong>effektiv gegen Urheberrechtsverletzungen vorgehen</strong> k\u00f6nnen. Offline erwarten wir ja auch bereits heute, dass Dienste nur verf\u00fcgbar gemacht werden d\u00fcrfen, wenn die Rechte Dritter dadurch nicht verletzt werden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-06-28",
+                "id": "300113",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-28/300113"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-05",
+                        "summary": "<p>(...) Artikel 13 der neuen Urheberrechterichtlinie legt fest, dass Plattformen k\u00fcnftig \u201eangemessene und verh\u00e4ltnism\u00e4\u00dfige Ma\u00dfnahmen\u201c ergreifen m\u00fcssen, um sicherzustellen, dass urheberrechtlich gesch\u00fctzte Inhalte durch Nutzer nicht mehr online gestellt werden. Es geht dabei nicht darum, einen <strong>\u201eUpload-Filter\u201c einzuf\u00fchren</strong> oder das Hochladen bestimmter Inhalte zu unterbinden. Vielmehr geht es darum, eine angemessene Entlohnung der Rechteinhaber zu gew\u00e4hrleisten. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2018-06-28",
+                "id": "300099",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-28/300099"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-12",
+                        "summary": "<p>(...) Das ist wichtig, denn einige Plattformen machen <strong>urheberrechtlich gesch\u00fctzte Inhalte</strong>, die von ihren Nutzern hochgeladen werden, \u00f6ffentlich zug\u00e4nglich und erzielen dadurch hohe Gewinne. Mit der Urheberrechterichtlinie sollen solche Plattformbetreiber daher in die Pflicht genommen werden und verpflichtet werden, sicherzustellen, dass ihr Angebot so gestaltet ist, dass sie effektiv gegen Urheberrechtsverletzungen vorgehen k\u00f6nnen. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300087",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-28/300087"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-12",
+                        "summary": "<p>(...) Zun\u00e4chst einmal dient die neue Richtlinie dem Zweck, einen fairen Ausgleich zu schaffen zwischen Online-Plattform-Betreibern, die es Nutzern erm\u00f6glichen, <strong>urheberrechtlich gesch\u00fctzte Inhalte hochzuladen</strong> und abzurufen, und den Urhebern und K\u00fcnstlern als Sch\u00f6pfer dieser Inhalte. W\u00e4hrend die Plattformbetreiber von den Einnahmen profitieren, gehen die K\u00fcnstler oftmals leer aus. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300083",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-28/300083"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-22",
+                        "summary": "<p>(...) Ein sogenannter \u201e<strong>Upload-Filter</strong>\u201c k\u00f6nnte in diesem Zusammenhang den Rechteinhabern eine gr\u00f6\u00dfere Kontrolle \u00fcber die Vermarktung ihrer Inhalte verschaffen, da hochgeladene Inhalte auf ihren urheberrechtlichen Status \u00fcberpr\u00fcft werden k\u00f6nnten. Es geht dabei allerdings keinesfalls um die Einschr\u00e4nkung der Verbreitungsm\u00f6glichkeiten von digitalen Medieninhalten, sondern um eine transparente und faire Ausgestaltung der Nutzung und Verbreitung von k\u00fcnstlerischen Erzeugnissen. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-13",
+                "id": "299442",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-13/299442"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-22",
+                        "summary": "<p>(...) Mit der neuen Urheberrechtsrichtlinie soll daher die <strong>Verantwortung der Online-Plattformen</strong> neu definiert werden. Dienstleister, die die Verbreitung urheberrechtlich gesch\u00fctzter Inhalte erlauben, m\u00fcssen auch den Schutz der Autorenrechte garantieren. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-13",
+                "id": "299426",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-13/299426"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-21",
+                        "summary": "<p>(...) Die USA haben im M\u00e4rz dieses Jahres damit begonnen, <strong>Z\u00f6lle auf Stahl und Aluminium</strong> zu verh\u00e4ngen. Anfangs waren einige Staaten von der protektionistischen Ma\u00dfnahme ausgenommen, darunter Kanada, Mexiko sowie die EU. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2018-06-12",
+                "id": "299335",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-06-12/299335"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-05-18",
+                        "summary": "<p>(...) In der EVP-Fraktion besch\u00e4ftigen wir uns derzeit ebenfalls intensiv mit den Umsetzungsm\u00f6glichkeiten dieser <strong>Vorhaben</strong>, auch im Rahmen der einschl\u00e4gigen Ausschussarbeit. Die Strategiebesprechungen hierzu sind noch in vollem Gange. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2018-05-09",
+                "id": "298580",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-05-09/298580"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-04-12",
+                        "summary": "<p>(...) Sie ist eine Werteunion mit einem gemeinsamen Fundament, an welchem es nicht zu r\u00fctteln gilt! Diese Tatsache hat auch <strong>Ungarn</strong> mit dem offiziellen Beitritt zur EU vor 14 Jahren akzeptiert. Jetzt muss dar\u00fcber nachgedacht werden, wie besser daf\u00fcr gesorgt werden kann, dass alle Regeln eingehalten werden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-04-09",
+                "id": "298077",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-04-09/298077"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-02-21",
+                        "summary": "<p>(...) Die Frage um die Beibehaltung der <strong>Sommerzeit </strong>steht weiterhin offen und kann auch mit guten Gr\u00fcnden, wie u.a. den von Ihnen angesprochenen Vorteilen f\u00fcr die Landwirtschaft bejaht werden. (...)</p>"
+                    }
+                ],
+                "category": "Agrarpolitik",
+                "date": "2018-02-15",
+                "id": "297012",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2018-02-15/297012"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-11-06",
+                        "summary": "<p>(...) Vor zwei Wochen hatte sich der Umweltausschuss mehrheitlich f\u00fcr ein Totalverbot ab 2020 ausgesprochen. Meine Fraktion hatte sich hierzu im Ausschuss enthalten, da wir den Einsatz von Glyphosat zwar begrenzen und keine weitere Zulassung f\u00fcr 10 Jahre unterst\u00fctzen wollen, jedoch davon \u00fcberzeugt sind, dass die <strong>Landwirtschaft vorerst nicht auf das Mittel verzichten kann</strong>. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2017-10-23",
+                "id": "294180",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2017-10-23/294180"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-05-11",
+                        "summary": "<p>(...) Gemeinsam mit meinen Kollegen in der EVP-Fraktion strebe ich die weltweite Abschaffung der Todesstrafe an. Die Europ\u00e4ische Union lehnt die <strong>Todesstrafe </strong>ebenso kategorisch ab und arbeitet auch auf deren weltweite Abschaffung hin. So hat die EU die vollst\u00e4ndige Abschaffung der Todesstrafe auch zur Aufnahmebedingung f\u00fcr neue Mitgliedsl\u00e4nder erhoben und betont dies gegenw\u00e4rtig in den Diskussionen \u00fcber den m\u00f6glichen Beitritt der T\u00fcrkei vehement. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2017-05-05",
+                "id": "25253",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2017-05-05/25253"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-04-24",
+                        "summary": "<p>(...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2017-04-06",
+                "id": "24486",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2017-04-06/24486"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-01-31",
+                        "summary": "<p>(...) Hinsichtlich des <strong>Abgasskandals von VW</strong> ist es leider so, dass nach deutschem Recht Schadensersatzanspr\u00fcche gegen VW ausscheiden. Zudem m\u00fcsste nach deutschem Recht der Anspruchsteller beweisen, dass er zu Sch\u00e4den gekommen ist und der Autohersteller diese verursacht hat. (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2017-01-20",
+                "id": "23983",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2017-01-20/23983"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-12-07",
+                        "summary": "<p>(...) <strong>Erneut m\u00f6chte ich darauf hinweisen</strong>, <strong>dass CETA ein gelungenes Abkommen mit enormen Chancen f\u00fcr die EU und Kanada ist.</strong> W\u00e4hrend der f\u00fcnfj\u00e4hrigen Verhandlungen wurde das Abkommen durch die Kommission, das demokratisch gew\u00e4hlte Parlament und den Rat detailliert gepr\u00fcft und umfassend bewertet. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-11-29",
+                "id": "23848",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2016-11-29/23848"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-29",
+                        "summary": ""
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-11-24",
+                "id": "23818",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2016-11-24/23818"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-21",
+                        "summary": "<p>(...) Die <strong>Freihandelsabkommen TTIP und CETA</strong> bieten f\u00fcr Europa zahlreiche Vorteile. Nicht nur werden Z\u00f6lle und Zugangsbeschr\u00e4nkungen bei \u00f6ffentlichen Auftr\u00e4gen beseitigt, sondern auch Investoren verl\u00e4ssliche Bedingungen geboten und die illegale Nachahmung von EU-Innovationen und traditionellen Erzeugnissen wird erschwert. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2016-11-16",
+                "id": "23785",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2016-11-16/23785"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-14",
+                        "summary": "<p>(...) Mit TiSA sollen M\u00e4rkte ge\u00f6ffnet und die Regelungen in Bereichen wie Lizensierung, Finanzdienstleistungen, Telekommunikation, elektronischer Handel, Seeverkehr und grenz\u00fcberschreitende Arbeitnehmermobilit\u00e4t im Dienstleistungssektor verbessert werden. <strong>TiSA</strong> ist insofern zun\u00e4chst einmal positiv zu bewerten. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2016-11-10",
+                "id": "23659",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2016-11-10/23659"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-10-20",
+                        "summary": "<p>(...) Da zu Beginn des Trilogs - wie unter Punkt 6 erw\u00e4hnt - die Positionen von Rat, Kommission und Parlament bereits feststehen und es nur noch zu einer Kompromissfindung kommt, bleibt der <strong>Einfluss von Lobbyisten</strong> in diesem Stadium des Verfahrens eher gering. Denn es sind ja neben den Abgeordneten auch die Vertreter des Rates und die Vertreter der Kommission beteiligt. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2016-10-07",
+                "id": "23607",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2016-10-07/23607"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-06-15",
+                        "summary": "<p>(...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2016-06-07",
+                "id": "22211",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2016-06-07/22211"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-05-24",
+                        "summary": "<p>(...) Die wissenschaftlichen Erkenntnisse zu Glyphosat sind umstritten, weswegen wir uns als CDU/CSU im Europ\u00e4ischen Parlament f\u00fcr eine lediglich befristete Verl\u00e4ngerung der Zulassung unter sehr strengen Auflagen eingesetzt haben. Der Kompromissvorschlag, den wir im Europ\u00e4ischen Parlament durchsetzen konnten sieht eine <strong>Zulassung um 7 weitere Jahre</strong> vor, anstelle von 15 Jahren, wie urspr\u00fcnglich von der Europ\u00e4ischen Kommission vorgeschlagen. Unser Kompromissvorschlag sieht zudem vor, dass die Europ\u00e4ische Kommission die Genehmigung f\u00fcr Glyphosat bei Vorliegen neuer wissenschaftlicher Erkenntnisse vor Ablauf der 7 Jahre entziehen kann. (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2016-05-18",
+                "id": "22148",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2016-05-18/22148"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-04-29",
+                        "summary": "<p>(...) Derzeit gibt es noch <strong>keine Alternative zu Glyphosat</strong>, insofern h\u00e4tte ein sofortiges Verbot den Einsatz noch sch\u00e4dlicherer Pflanzenschutzmittel gef\u00f6rdert. Zum jetzigen Zeitpunkt m\u00fcssen wir vor allem daf\u00fcr sorgen, dass Glyphosat nur in dem von uns bestimmten strikten rechtlichen Rahmen eingesetzt wird. (...)</p>"
+                    }
+                ],
+                "category": "Agrarpolitik",
+                "date": "2016-04-19",
+                "id": "22062",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2016-04-19/22062"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-04-29",
+                        "summary": "<p><strong></strong>Sehr geehrter Herr <span class=\"crypto-font\">Wbfg</span>, (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2016-04-13",
+                "id": "22034",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2016-04-13/22034"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-04-21",
+                        "summary": "<p>(...) Ich verstehe nat\u00fcrlich Ihre Sorgen bez\u00fcglich des <strong>CETA-Abkommens</strong>, es gibt aber auch Vorteile. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2016-04-03",
+                "id": "21994",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2016-04-03/21994"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-03-01",
+                        "summary": "<p>(...) Die die Europ\u00e4ische Kommission und die Mitgliedsstaaten arbeiten deshalb an der <strong>Beseitigung von zus\u00e4tzlichen direkten und indirekten Steuern</strong>, die auf EU-B\u00fcrger zukommen, wenn diese von einem EU-Land in ein anderes umziehen. Dies beinhaltet auch die Vorsorgeleistungen, von denen Sie betroffen sind. (...)</p>"
+                    }
+                ],
+                "category": "Arbeit",
+                "date": "2016-02-15",
+                "id": "20537",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2016-02-15/20537"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-01-14",
+                        "summary": "<p>(...) Ich werde im Rahmen der anstehenden Beratungen alles daran setzen, \u00fcberm\u00e4\u00dfige B\u00fcrokratie und Belastungen zu vermeiden. Das Augenmerk liegt vielmehr darauf, die Sicherheit beim <strong>legalen Besitz und Gebrauch </strong>von Schusswaffen zu garantieren und illegalen Waffenbesitz und -gebrauch zu bek\u00e4mpfen. Ziel ist es, auf Regelungen hinzuwirken, die einen tats\u00e4chlichen Sicherheitsmehrwert versprechen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-12-30",
+                "id": "19998",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-12-30/19998"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-12-09",
+                        "summary": "<p>(...) haben Sie vielen Dank f\u00fcr Ihre Zuschrift im Hinblick auf den Vorschlag der EU-Kommission zur <strong>\u00dcberarbeitung der Richtlinie \u00fcber Schusswaffen</strong>, der im Gesetzgebungsverfahren ins Europ\u00e4ische Parlament kommen wird. (...) Ich werde im Rahmen der anstehenden Beratungen <strong>alles daran setzen</strong>, \u00fcberm\u00e4\u00dfige B\u00fcrokratie und Belastungen insbesondere auch f\u00fcr J\u00e4ger oder Sportsch\u00fctzen zu vermeiden. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-12-07",
+                "id": "19964",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-12-07/19964"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-07-21",
+                        "summary": "<p>(...) Das Europ\u00e4ische Parlament hat am 9. Juli mit einer gro\u00dfen Mehrheit eine Entschlie\u00dfung zur Reform des <strong>Urheberrechts</strong> angenommen, die der EU-Kommission wegweisende Empfehlungen f\u00fcr die neue EU-Gesetzgebung gibt. Ziel ist, das Urheberrecht auf europ\u00e4ischer Ebene unter anderem an das digitale Zeitalter anzupassen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-07-17",
+                "id": "18761",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-07-17/18761"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-07-07",
+                        "summary": "<p>(...) In der vergangenen Woche haben sich so gut wie alle Fraktionen im Europ\u00e4ischen Parlament darauf geeinigt, den umstrittenen Absatz zur <strong>Panoramafreiheit</strong> aus dem Berichtsentwurf herauszustimmen. Somit wird sich die EVP-Fraktion in diesem Sinne bei der Abstimmung am 9. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-07-07",
+                "id": "18701",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-07-07/18701"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-07-02",
+                        "summary": "<p>(...) Der EVP-Fraktion ist es ein wichtiges Anliegen, an dem derzeit in Deutschland geltenden Rahmen bez\u00fcglich der <strong>Panoramafreiheit</strong> festzuhalten. Der von unserer Seite bevorzugte, weniger restriktive Vorschlag war im Rechtsausschuss bislang leider nicht mehrheitsf\u00e4hig. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-29",
+                "id": "18664",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-06-29/18664"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-06-16",
+                        "summary": "<p>(...) Dann kann es zu einem Verlust der Anonymit\u00e4t bei Eink\u00e4ufen und somit zu einem Verlust von Privatheit kommen. F\u00fcr \u00e4u\u00dferst problematisch halte ich ebenfalls der mit der <strong>bargeldlosen Bezahlung</strong> einhergehende Anstieg der Cyber-Kriminalit\u00e4t. Denn durch das Abfangen von Passw\u00f6rtern und anderen Informationen, die im bargeldlosen Zahlungsverkehr benutzt werden, k\u00f6nnen Geld\u00fcberweisungen manipuliert werden. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-06-04",
+                "id": "18558",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-06-04/18558"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-26",
+                        "summary": "<p>(...) Wussten Sie, dass bei ca. 90 Prozent der <strong>Schiedsgerichtsverfahren</strong> kleine und mittelst\u00e4ndische Unternehmen klagen? Oft geht es um allt\u00e4gliche Dinge, wie zum Beispiel die Vorenthaltung einer Lizenz oder \u00e4hnliches. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-05-23",
+                "id": "18498",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-05-23/18498"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-21",
+                        "summary": "<p>(...) This translates to an extra \u20ac545 in disposable income each year for a family of 4 in the EU, on average, and \u20ac655 per family in the US.\" Die Studie geht somit bei einem anspruchsvollen Szenario \u2013 d.h. einem ehrgeizigen und umfassenden Abkommen \u2013 von <strong>j\u00e4hrlichen wirtschaftlichen Gewinnen</strong> in H\u00f6he von 119 Mrd. Euro f\u00fcr die gesamte EU aus. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2015-05-20",
+                "id": "18487",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-05-20/18487"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-08",
+                        "summary": "<p>(...) Die zunehmende Schleuserkriminalit\u00e4t stellt in der Fl\u00fcchtlingsproblematik jedoch nach wie vor eines der Hauptprobleme dar. Neben den in Punkt 2 des Plans gemachten Vorschl\u00e4ge wird zurzeit au\u00dferdem \u00fcber <strong>M\u00f6glichkeiten legaler Einwanderung</strong> diskutiert. Mit Hilfe der UNO und des Roten Kreuzes k\u00f6nnten Auffanglager in Nordafrika eingerichtet werden, die Fl\u00fcchtlinge \u00fcber andere Wege legaler Einwanderung informieren und die gef\u00e4hrliche \u00dcberfahrt nach Europa mit kriminellen Schlepperbanden verhindern w\u00fcrden. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-04-24",
+                "id": "18194",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-04-24/18194"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-04-28",
+                        "summary": "<p>(...) Ich bin davon \u00fcberzeugt, dass wir, um zu einer L\u00f6sung der Fl\u00fcchtlingsprobleme beitragen zu k\u00f6nnen, mit der Bek\u00e4mpfung der Schleuserkriminalit\u00e4t beginnen m\u00fcssen. Im Rahmen eines UNO-Mandats k\u00f6nnte die Europ\u00e4ische Union die libysche Polizei bei der <strong>Fahndung krimineller Schleuserbanden</strong> unterst\u00fctzen, Schl\u00fcsselpersonen festnehmen und deren Geldtransfers aufkl\u00e4ren und stoppen. Dar\u00fcber hinaus m\u00fcssen Fl\u00fcchtlinge in Migrations- und Fl\u00fcchtlingszentren vor Ort \u00fcber die Gefahren einer \u00dcberfahrt nach Europa mit kriminellen Organisationen aufgekl\u00e4rt werden. (...)</p>"
+                    }
+                ],
+                "category": "Soziales",
+                "date": "2015-04-20",
+                "id": "18117",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-04-20/18117"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-04-28",
+                        "summary": "<p>(...) Ein zentrales Anliegen ist dabei, durch weitere finanzielle Mittel f\u00fcr das Projekt Triton, die europ\u00e4ische Seenotrettung auszubauen und effektiver zu gestalten. Dar\u00fcber hinaus m\u00fcssen neue Wege der Fl\u00fcchtlingspolitik, insbesondere zur verbesserten Aufteilung der <strong>Fl\u00fcchtlinge in Europa</strong>, durch Pilotprojekte getestet werden. Dabei m\u00fcssen die verschiedenen Beh\u00f6rden besser zusammenarbeiten. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-04-20",
+                "id": "18100",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-04-20/18100"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-04-23",
+                        "summary": "<p>(...) f\u00fcr Ihr freundliches Schreiben vom 19. April, in dem Sie sich auf die immer dramatischere <strong>Fl\u00fcchtlingssituation</strong> im Mittelmeer beziehen, m\u00f6chte ich mich bei Ihnen herzlich bedanken. Auch ich war ersch\u00fcttert, als ich von den Meldungen \u00fcber weitere gekenterte und gesunkene Fl\u00fcchtlingsboote h\u00f6rte. (...)</p>"
+                    }
+                ],
+                "category": "Gleichstellung und Integration",
+                "date": "2015-04-19",
+                "id": "18088",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-04-19/18088"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-03-09",
+                        "summary": "<p>(...) Hinsichtlich der von Ihnen angesprochenen <strong>Transparenz der Verhandlungen</strong> gilt grunds\u00e4tzlich, dass die Mitgliedsstaaten, also auch Deutschland, der EU das Mandat \u00fcbertragen haben, in internationalen Handelsfragen f\u00fcr die Mitgliedsstaaten aktiv zu werden. Die EU hat dadurch die Kompetenz, Freihandelsabkommen mit Drittstaaten - auch das Transatlantische Freihandelsabkommen - abzuschlie\u00dfen. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2015-03-03",
+                "id": "16996",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-03-03/16996"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-03-20",
+                        "summary": "<p>(...) Die ukrainische Wirtschaft wurde durch den Ausbruch des bewaffneten Konflikts im Osten des Landes erheblich geschw\u00e4cht und befindet sich derzeit in einer tiefen Rezession. Angesichts dieser Lage baten die ukrainischen Beh\u00f6rden Ende des letzten Jahres die EU um <strong>Makrofinanzhilfen</strong> in H\u00f6he von 2 Mrd. Euro. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2015-03-03",
+                "id": "16993",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2015-03-03/16993"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-10-16",
+                        "summary": "<p>(...) Grunds\u00e4tzlich bin ich davon \u00fcberzeugt, dass der <strong>erfolgreiche Abschluss dieses Abkommens f\u00fcr die EU und die USA eine gro\u00dfe Chance darstellen kann</strong>. Ein solches Abkommen w\u00fcrde unsere beiden Wirtschaftsr\u00e4ume enger vernetzen und somit mehr Wirtschaftswachstum und Arbeitspl\u00e4tze schaffen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-10-15",
+                "id": "8939",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2014-10-15/8939"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-10-15",
+                        "summary": "<p>(...) Deswegen kann ich Ihre Kritik nicht ganz nachvollziehen. Weiter sei Ihnen versichert, dass ein Arbeitstag der Abgeordneten des Europ\u00e4ischen Parlaments nicht nur die <strong>Zeiten einer Plenartagung</strong> umfasst. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-10-11",
+                "id": "8935",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2014-10-11/8935"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-09-01",
+                        "summary": "<p>(...) Mir ist bewusst, dass die Europ\u00e4ische Union nicht immer die <strong>richtige Balance</strong> zwischen B\u00fcrgern\u00e4he und der notwendigen Einheitlichkeit der europ\u00e4ischen Regelungen gefunden hat. Bei aller berechtigten Kritik gilt es jedoch auch anzuerkennen, dass die EU schon viel erreicht hat und uns als B\u00fcrgern auch viele Vorteile bietet. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-08-31",
+                "id": "8728",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2014-08-31/8728"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-10-01",
+                        "summary": "<p>(...) Ob im Verein, Elternbeirat oder in einer Partei, es  gibt immer mal Sitzungen, die etwas l\u00e4nger aber auch einmal etwas k\u00fcrzer ausfallen. Da bildet das <strong>Europ\u00e4ische Parlament </strong>gerade zu  Beginn einer neuen Legislaturperiode keine Ausnahme. Insofern ist es in der Tat ausnahmsweise auch schon einmal vorgekommen, dass Sitzungen mal z\u00fcgig und schnell beendet wurden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-08-29",
+                "id": "8715",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2014-08-29/8715"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-10-01",
+                        "summary": "<p>(...) Die allgemeine Lebenseinsicht, dass unsere heutigen Freunde vielleicht morgen unsere Feinde sind, darf einer verantwortlichen Entscheidung  in der gegenw\u00e4rtigen Notlage aber nicht entgegenstehen. Daher unterst\u00fctze ich den Beschluss der Bundesregierung, neben humanit\u00e4ren Ma\u00dfnahmen auch Hilfe unter Einschluss von <strong>Waffenlieferungen</strong> zu leisten. Eine so weitreichende Destabilisierung einer ganzen Region, wie sie durch den IS-Terror angerichtet wird, wirkt sich auch auf Deutschland und Europa aus. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2014-08-27",
+                "id": "8674",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2014-08-27/8674"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-09-08",
+                        "summary": "<p>(...) Bei allen wirtschaftlichen Vorteilen ist jedoch eins f\u00fcr mich klar: Unsere hohen Standards d\u00fcrfen weder durch die \u201e<strong>Hintert\u00fcr</strong>\u201c umgangen, noch in irgendeiner Form gelockert oder verw\u00e4ssert werden. Dies gilt sowohl f\u00fcr die Bereiche Umwelt, Gesundheit und Lebensmittelsicherheit als auch f\u00fcr unseren Datenschutz und unsere Arbeitnehmer- und Verbraucherrechte. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2014-08-12",
+                "id": "8372",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2014-08-12/8372"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-07-31",
+                        "summary": "<p>(...) Die Frage, ob eine solche Beschr\u00e4nkung der Freiz\u00fcgigkeit gerechtfertigt sein kann, kommt jedoch am Ende auf den Einzelfall an. Insbesondere seit dem <strong>Bosman-Urteil</strong> gab es viele Versuche, in Sportlervertr\u00e4gen bestimmte Aspekte \u2013 wie etwa abl\u00f6sefreie Wechsel von Spielern oder Quoten f\u00fcr Spieler aus anderen Mitgliedstaaten \u2013 zu regeln. Zudem hatte erst im April der Pr\u00e4sident der Fifa, Sepp Blatter, selbst noch einmal die Einf\u00fchrung einer so genannten \"6+5 Regelung\" ins Spiel gebracht, die zu Beginn jeder Begegnung den Einsatz sechs einheimischer Spieler vorsieht und die 2010 aufgrund der Unvereinbarkeit mit dem EU-Arbeitsrecht zun\u00e4chst wieder fallen gelassen wurde. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-07-30",
+                "id": "8106",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2014-07-30/8106"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-07-30",
+                        "summary": "<p>(...) herzlichen Dank f\u00fcr Ihre Nachricht. Ich stimme Ihnen zu, dass die <strong>T\u00f6tung der Stra\u00dfentiere in Rum\u00e4nien</strong> in dieser Weise nicht akzeptabel ist. Gleichzeitig darf ich Ihnen aber versichern, dass dieses Vorgehen nicht durch Mittel der EU finanziert wird. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2014-07-22",
+                "id": "8090",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2014-07-22/8090"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-26",
+                        "summary": "<p>(...) So setze ich mich gemeinsam mit den CDU-Abgeordneten aus Baden-W\u00fcrttemberg f\u00fcr die Fortf\u00fchrung der Anstrengungen zum B\u00fcrokratieabbau und eine St\u00e4rkung einer einheitlichen und konsequenten Anwendung von bestehendem EU-Recht in allen Mitgliedstaaten ein. Au\u00dferdem fordern wir eine \u00dcberpr\u00fcfung aller europ\u00e4ischen Gesetze auf ihre Notwendigkeit, grunds\u00e4tzlich schlanke Strukturen innerhalb der EU und eine bessere Nutzung des EU-Haushalts f\u00fcr grenz\u00fcberschreitende Zusammenarbeit, etwa im Kampf gegen die <strong>Jugendarbeitslosigkeit oder die Integration</strong> von Zuwanderern. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-05-22",
+                "id": "7943",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2014-05-22/7943"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-19",
+                        "summary": "<p>(...) 65% unserer baden-w\u00fcrttembergischen Exporte gehen in den europ\u00e4ischen Binnenmarkt. Der <strong>freie Handel</strong> und die offenen Grenzen innerhalb Europas haben gerade unserer exportorientierten Region Vorteile und den Verbrauchern eine gro\u00dfe Produktvielfalt gebracht. F\u00fcr einen funktionierenden Binnenmarkt setze ich mich vor allem f\u00fcr die Belange unserer B\u00fcrgerinnen und B\u00fcrger ein und habe in den letzten f\u00fcnf Jahren viel erreicht: beispielsweise eine erstmalige europaweite Anerkennung des deutschen Modells der dualen Ausbildung, erleichtertes grenz\u00fcberschreitendes Einkaufen oder ein neues europ\u00e4isches IT-Sicherheitsgesetz. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-05-18",
+                "id": "7753",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2014-05-18/7753"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-16",
+                        "summary": "<p>(...) Der <strong>Europa-Direktwahlak</strong>t sieht jedoch grunds\u00e4tzlich rechtlich auch die M\u00f6glichkeit vor, dass das Europ\u00e4ische Parlament das Recht hat, die Initiative zur \u00c4nderung seiner eigenen Zusammensetzung zu ergreifen und seine Zustimmung dazu zu erteilen. Es gibt grunds\u00e4tzlich Bestrebungen seitens des Parlaments sowie der Europ\u00e4ischen Kommission, das Europawahlrecht zu \"europ\u00e4isieren\". (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-05-14",
+                "id": "7647",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2014-05-14/7647"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-04-29",
+                        "summary": "<p>(...) Und als einzige EU-Institution, die aus direkten Wahlen hervorgeht, entscheiden somit auch die W\u00e4hlerinnen und W\u00e4hler in der EU mit! Insofern ist es nicht richtig, dass die B\u00fcrgerinnen und B\u00fcrger <strong>nicht mitentscheiden k\u00f6nnen</strong>, denn bei den anstehenden Europawahlen im Mai haben auch Sie selbst die M\u00f6glichkeit, die Europ\u00e4ische Union konkret mitzugestalten, indem Sie Ihre Stimme abgeben. (...)</p>"
+                    }
+                ],
+                "category": "Arbeit",
+                "date": "2014-04-27",
+                "id": "7008",
+                "url": "https://www.abgeordnetenwatch.de/profile/dr-andreas-schwab/question/2014-04-27/7008"
+            }
+        ],
+        "roles": [],
+        "sidejobs": [],
+        "votes": [
+            {
+                "date": "2015-03-05",
+                "title": "Netzneutralit\u00e4t sichern - Rettet das freie Internet!",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/petitionen/netzneutralitat-sichern-rettet-das-freie-internet",
+                "uuid": "c73d817d-e0e9-4c2b-84dc-0375e8c4934d",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Kritische Neubewertung der Beziehungen zu Russland",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kritische-neubewertung-der-beziehungen-zu-russland",
+                "uuid": "34d2fd08-9bbf-4948-88c6-183864116d6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Wiederaufnahme der Friedensbem\u00fchungen im Nahen Osten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wiederaufnahme-der-friedensbemuehungen-im-nahen-osten",
+                "uuid": "0fa40696-9a07-4770-bddd-338db1509a69",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Ma\u00dfnahmen zur Fl\u00fcchtlingspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-fluechtlingspolitik",
+                "uuid": "a98d55d5-26c3-4a51-a99a-8bd0e525b628",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Hindernisse f\u00fcr soziale Unternehmen beseitigen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/hindernisse-fuer-soziale-unternehmen-beseitigen",
+                "uuid": "c0f955e0-82d9-46b4-9f16-77f508963b6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Schaffung eines wettbewerbf\u00e4higen Arbeitsmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-wettbewerbfaehigen-arbeitsmarkts",
+                "uuid": "f42b1ba1-d57a-4ee0-83e2-a83134df2ef4",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "F\u00f6rderung junger Unternehmer",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/foerderung-junger-unternehmer",
+                "uuid": "94bf3f53-5ee6-4747-a47e-c2c132156c26",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verurteilung von CIA-Foltermethoden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-von-cia-foltermethoden",
+                "uuid": "a7bfb784-f0e3-4dea-9ee5-a63024adff6f",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Kennzeichnung des Ursprungslands von Fleisch",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kennzeichnung-des-ursprungslands-von-fleisch",
+                "uuid": "1e33c664-17d7-4631-bb13-d50eea58837f",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Ausweitung des digitalen Binnenmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/ausweitung-des-digitalen-binnenmarkts",
+                "uuid": "8b59269f-b5f6-4221-b113-2b7a6a7ea708",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verl\u00e4ngerung der Senkung von Z\u00f6llen auf ukrainische Waren ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verlaengerung-der-senkung-von-zoellen-auf-ukrainische-waren",
+                "uuid": "608d1653-952d-4039-8021-61a089c3fb6e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "EU-Sicherheitspolitik im Nahen Osten und Nordafrika",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-sicherheitspolitik-im-nahen-osten-und-nordafrika",
+                "uuid": "2b962506-401b-45b7-8a4d-c3a12b35ceef",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "Expo 2015 in Mailand",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/expo-2015-mailand",
+                "uuid": "5f314d77-4e55-49d2-8f28-18356d3e1250",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Ma\u00dfnahmen zur Terrorismusbek\u00e4mpfung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-terrorismusbekaempfung",
+                "uuid": "e0cd7654-49f3-49b6-87dc-d8ec90003919",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Verurteilung der Boko Haram-Angriffe in Nigeria",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-der-boko-haram-angriffe-nigeria",
+                "uuid": "78c330d6-09c6-47a4-982f-a67146262776",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Antrag zur Bek\u00e4mpfung der Jugendarbeitslosigkeit",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/antrag-zur-bekaempfung-der-jugendarbeitslosigkeit",
+                "uuid": "4cf62b4b-59a5-4a9c-aae9-17ebf3700446",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Wahl der EU-Kommission",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wahl-der-eu-kommission",
+                "uuid": "2c27f2a1-ba90-4067-bc52-a114e55acada",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Anerkennung Pal\u00e4stinas",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anerkennung-palaestinas",
+                "uuid": "91aee230-2ac2-4bca-a90b-3c9c11ded2b3",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Kreditvergabe an die Ukraine",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kreditvergabe-die-ukraine",
+                "uuid": "dd9837cd-1699-4929-9539-7ccd6546c103",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Umsetzung der gemeinsamen Sicherheits- und Verteidigungspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-der-gemeinsamen-sicherheits-und-verteidigungspolitik",
+                "uuid": "83ca30d0-39f2-488a-b244-91a92720d57f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Eu-Strategie zur Gleichstellung zwischen M\u00e4nnern und Frauen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-strategie-zur-gleichstellung-zwischen-maennern-und-frauen",
+                "uuid": "72c8d5e7-e7d1-4b31-99c3-99644c7adff3",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Parlamentarische Empfehlung bzgl. TTIP Handelabkommen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/parlamentarische-empfehlung-bzgl-ttip-handelabkommen",
+                "uuid": "f1a0b307-e891-4e17-9e10-1e811474b2bc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Schaffung eines Europ\u00e4ischen Struktur- und Investitionsfonds (EFSI)",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-europaeischen-struktur-und-investitionsfonds",
+                "uuid": "2436eb70-9eb4-4cb6-999f-b6d2ad59782e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-12-03",
+                "title": "Gemeinsame Strategie zur Pr\u00e4vention von Radikalisierung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gemeinsame-strategie-zur-praevention-von-radikalisierung",
+                "uuid": "43b62e8f-afef-4083-a71b-753ccdbecd6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Verringerung des Lohngef\u00e4lles zwischen Frauen und M\u00e4nnern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verringerung-des-lohngefaelles-zwischen-frauen-und-maennern",
+                "uuid": "e2dfb814-8dc6-4132-b354-a4b0dffdde4b",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Schadstoffaussto\u00df mittelgro\u00dfer Verbrennungsanlagen begrenzen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schadstoffausstoss-mittelgrosser-verbrennungsanlagen-begrenzen",
+                "uuid": "03d5024e-7b73-40ff-9e69-1ac7e6cc2882",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-22",
+                "title": "Auszahlung von Griechenlandhilfen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/auszahlung-von-griechenlandhilfen",
+                "uuid": "de2c3caf-d77b-457a-8e02-73bcdb60abad",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2015-10-28",
+                "title": "Schutz geografischer Herkunftsangaben der EU auf nichtlandwirtschaftliche Erzeugnisse",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-geografischer-herkunftsangaben-der-eu-auf",
+                "uuid": "3017adbf-e55e-4914-ad2f-47744e7719f7",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-05-12",
+                "title": "Resolution zur Neuzulassung des Herbizids Glyphosat",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/resolution-zur-neuzulassung-des-herbizids-glyphosat",
+                "uuid": "20b545ab-e31f-4404-ba34-fed1f163cce2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-11-11",
+                "title": "Umsetzung des Bologna-Prozesses - Steigerung studentischer Auslandsmobilit\u00e4t ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-bologna-prozesses-steigerung-studentischer",
+                "uuid": "393d3eed-93b5-4cc8-a656-f261daa90351",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-11-19",
+                "title": "\u00c4nderung des Wahlrechts zum EU-Parlament",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aenderung-des-wahlrechts-zum-eu-parlament",
+                "uuid": "844ed2e1-303f-49bb-a63f-b7adb938593a",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-05-19",
+                "title": "Lebensmittelverschwendung",
+                "url": "https://www.abgeordnetenwatch.de/eu/petitionen/eu-verpflichtet-supermarkte-ihr-unverkauftes-essen-zu-spenden",
+                "uuid": "50cd10af-ac29-4d4b-9fb8-7e6eaee69163",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-11-24",
+                "title": "EU-Beitrittsverhandlungen mit der T\u00fcrkei einfrieren",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-beitrittsverhandlungen-mit-der-tuerkei-einfrieren",
+                "uuid": "5ec1c8eb-b80b-4a18-a0cb-c2054067ba2e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-12-01",
+                "title": "Menschenrechte und Migration in Drittl\u00e4ndern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/menschenrechte-und-migration-drittlaendern",
+                "uuid": "72d19836-8d9d-4f95-a8bb-0c0b89be5c06",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-02-05",
+                "title": "Anbau von gentechnisch ver\u00e4nderten Sojabohnen in der Europ\u00e4ischen Union",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anbau-von-gentechnisch-veraenderten-sojabohnen-der-europaeischen",
+                "uuid": "83f43a49-c047-4390-aaee-14cbe5a55525",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-04-25",
+                "title": "EU-Richtlinien \u00fcber Verwendung von Fluggastdaten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-richtlinien-ueber-verwendung-von-fluggastdaten",
+                "uuid": "9bbf91f1-b259-4dbb-bfd9-d3c3bc5f9ec1",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2017-02-17",
+                "title": "Umsetzung des Handelsabkommens CETA mit Kanada",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-handelsabkommens-ceta-mit-kanada",
+                "uuid": "f22c10c4-e5eb-481a-ae8d-9d8a42a604ba",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-09-28",
+                "title": "Unterst\u00fctzung von Frauen im digitalen Zeitalter",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/unterstuetzung-von-frauen-im-digitalen-zeitalter",
+                "uuid": "29160dca-2641-436f-b9b3-dc07b633454c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2017-09-27",
+                "title": "Strengere Transparenzstandards in der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/strengere-transparenzstandards-der-eu",
+                "uuid": "30a68fb6-4749-43c6-9f39-a1c19912cfa6",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-09-30",
+                "title": "Zugang der \u00d6ffentlichkeit zu Dokumenten aus den Jahren 2014-2015",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/zugang-der-oeffentlichkeit-zu-dokumenten-aus-den-jahren-2014-2015",
+                "uuid": "0705670c-1e29-4056-b4f2-6c2ff82a9e47",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-02-07",
+                "title": "Reform des Europawahlrechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/reform-des-europawahlrechts",
+                "uuid": "6282ec4d-e41f-4aa9-b000-ccdff599e0a2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-02-13",
+                "title": "Reform der Dublin-Verordnung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/reform-der-dublin-verordnung",
+                "uuid": "75998fad-a01d-4538-8145-5ecae20b5ec4",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-04",
+                "title": "F\u00f6rderung von Energie aus erneuerbaren Quellen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/foerderung-von-energie-aus-erneuerbaren-quellen",
+                "uuid": "de62a93e-52ef-4c52-af30-88ee2c9fdbe2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-07",
+                "title": "Leitlinien f\u00fcr die Beziehungen mit dem Vereinigten K\u00f6nigreich",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/leitlinien-fuer-die-beziehungen-mit-dem-vereinigten-koenigreich",
+                "uuid": "683bc9be-d2c9-428f-b57f-b02f22f7b81a",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-12",
+                "title": "Bek\u00e4mpfung der Terrorismusfinanzierung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/bekaempfung-der-terrorismusfinanzierung",
+                "uuid": "e558742d-efc7-47ac-bdc2-4b56ff5d4dd1",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-13",
+                "title": "Lage der Grundrechte in der EU 2016",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/lage-der-grundrechte-der-eu-2016",
+                "uuid": "fbf77ecf-2d7f-414f-83d0-3d55e6eeb186",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-14",
+                "title": " Agenda f\u00fcr die Zukunft der Weltmeere",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/agenda-fuer-die-zukunft-der-weltmeere",
+                "uuid": "13befa08-99ea-4b67-9db2-34d9e3f128a8",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-22",
+                "title": "Ein Instrument f\u00fcr europ\u00e4ische Werte zur Unterst\u00fctzung zivilgesellschaftlicher Organisationen f\u00f6rdern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/ein-instrument-fuer-europaeische-werte-zur-unterstuetzung",
+                "uuid": "5b7adca6-5b6b-45a7-a5da-d0ed94d3448d",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-06-22",
+                "title": "Gleichstellung der Geschlechter in Handelsabkommen der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gleichstellung-der-geschlechter-handelsabkommen-der-eu",
+                "uuid": "5dcedeae-936b-4e51-8798-b6c83a65cd77",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-25",
+                "title": "Umsetzung des Siebten Umweltaktionsprogramms",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-siebten-umweltaktionsprogramms",
+                "uuid": "fdf2cb7b-4680-4015-b527-3ab21fd8a49f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-26",
+                "title": "St\u00e4rkung der Rolle von Frauen und M\u00e4dchen durch die Digitalwirtschaft",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/staerkung-der-rolle-von-frauen-und-maedchen-durch-die",
+                "uuid": "27b03a00-5b8d-4565-8e58-afafb546c255",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-26",
+                "title": "Freiheit und Pluralismus der Medien in der EU ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/freiheit-und-pluralismus-der-medien-der-eu",
+                "uuid": "7f9f7412-a2ed-4105-90ff-bc4d93ddfd23",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-27",
+                "title": "Festsetzung des Zeitraums f\u00fcr die neunte  Wahl des EU Parlaments",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/festsetzung-des-zeitraums-fuer-die-neunte-wahl-des-eu-parlaments",
+                "uuid": "896d73ab-7180-4f96-a891-f3f34d080470",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-27",
+                "title": "Fortschritte beim globalen Pakt f\u00fcr Fl\u00fcchtlinge",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/fortschritte-beim-globalen-pakt-fuer-fluechtlinge",
+                "uuid": "ac895b89-d823-4d68-bac8-f12f6720387f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-28",
+                "title": "Manipulation des Kilometerz\u00e4hlers in Kraftfahrzeugen",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/manipulation-des-kilometerzaehlers-kraftfahrzeugen",
+                "uuid": "23d630ef-fd10-4f95-8caa-254d08280541",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-28",
+                "title": "Cyber Abwehr",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/cyber-abwehr",
+                "uuid": "29540433-69b2-4a60-9d7b-5bf47bed9ee8",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-28",
+                "title": "Schutz unbegleiteter minderj\u00e4hriger Gefl\u00fcchteter",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-unbegleiteter-minderjaehriger-gefluechteter",
+                "uuid": "5901f8e8-6515-4b71-8b49-0b6a93c87279",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-07-04",
+                "title": "Weltweites Verbot von Tierversuchen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/weltweites-verbot-von-tierversuchen",
+                "uuid": "299d2467-520f-4d6c-9273-93b2f95719f8",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-05",
+                "title": "Verletzung der Rechte indigener V\u00f6lker",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verletzung-der-rechte-indigener-voelker",
+                "uuid": "22c576c1-0bcb-4107-acce-510f147e66dc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-05",
+                "title": "Klimadiplomatie",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/klimadiplomatie",
+                "uuid": "5bc9e83c-7c2a-4771-8872-6efcbeb00e8d",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-06-27",
+                "title": " EU-Urheberrechtsreform",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-urheberrechtsreform",
+                "uuid": "e0573489-7fb9-45f0-93ec-b6f4f33c7d4b",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-16",
+                "title": "Abkommen zwischen der EU und Aserbaidschan",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/abkommen-zwischen-der-eu-und-aserbaidschan",
+                "uuid": "b9ff31f2-2c6f-4747-bf1a-816275aef4dc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-11",
+                "title": "Wahlrechtsreform EU Parlament",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wahlrechtsreform-eu-parlament",
+                "uuid": "79827e13-54e9-48c4-a249-c2190a01e5b6",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-18",
+                "title": "Externe EU-Strategie gegen Fr\u00fch- und Zwangsverheiratung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/externe-eu-strategie-gegen-frueh-und-zwangsverheiratung",
+                "uuid": "d8c26d11-f8ff-419f-a200-dfa7e5d9696e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-19",
+                "title": "Unterst\u00fctzung europ\u00e4ischer Investitionsvorhaben im Iran",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/unterstuetzung-europaeischer-investitionsvorhaben-im-iran",
+                "uuid": "8828c12c-acef-4a91-bf01-fa1decad442f",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-07-19",
+                "title": "Die Rolle der St\u00e4dte im institutionellen Gef\u00fcge der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/die-rolle-der-staedte-im-institutionellen-gefuege-der-eu",
+                "uuid": "a20356f9-a8f6-4093-ab58-1cf336d4f871",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-20",
+                "title": "Strafrechtliche Ma\u00dfnahmen gegen die Beihilfe zu unerlaubter Einreise",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/strafrechtliche-massnahmen-gegen-die-beihilfe-zu-unerlaubter",
+                "uuid": "0770479e-7b07-4b2b-acd0-6eb16890d047",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-09-12",
+                "title": "EU-Urheberrechtsreform - Uploadfilter",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-urheberrechtsreform-uploadfilter",
+                "uuid": "6df607b7-8f25-47d5-903e-36f6560f592c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-09-13",
+                "title": "Rechtsstaatsverfahren gegen Ungarn ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/rechtsstaatsverfahren-gegen-ungarn",
+                "uuid": "e581a2f9-992a-401e-b488-732037fb9028",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-10-29",
+                "title": "Verbot von Einwegplastik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verbot-von-einwegplastik",
+                "uuid": "277599c2-6d75-4593-9a33-dd94d25871dd",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-10-29",
+                "title": "Verbesserung des europ\u00e4ischen Trinkwassers",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/verbesserung-des-europaeischen-trinkwassers",
+                "uuid": "5a8c8da9-aec3-4170-9d52-8f051e68123f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-10-30",
+                "title": "Statut f\u00fcr Sozial- und Solidarunternehmen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/statut-fuer-sozial-und-solidarunternehmen",
+                "uuid": "911f414b-f2cb-4656-9a38-cfb189a5e594",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-01",
+                "title": "Entsendung von Arbeitnehmern im Rahmen der Erbringung von Dienstleistungen ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/entsendung-von-arbeitnehmern-im-rahmen-der-erbringung-von",
+                "uuid": "eb867da0-2d64-4489-a1f7-1cb1786da00c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-05",
+                "title": "Nutzung der Daten von Facebook-Usern durch Cambridge Analytica",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/nutzung-der-daten-von-facebook-usern-durch-cambridge-analytica",
+                "uuid": "98056b77-4079-4c08-b4a7-69036c4bcaf5",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-11-05",
+                "title": "Zunahme neofaschistischer Gewalttaten in Europa",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/zunahme-neofaschistischer-gewalttaten-europa",
+                "uuid": "3c2af2c6-bac0-4374-ae06-ce80d7948180",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-11-06",
+                "title": "Schutz der finanziellen Interessen der EU ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-der-finanziellen-interessen-der-eu",
+                "uuid": "7365b1f6-26f2-4241-83d2-12c712fbf2a4",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-06",
+                "title": "Aufbau der Infrastruktur f\u00fcr alternative Kraftstoffe in der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aufbau-der-infrastruktur-fuer-alternative-kraftstoffe-der-eu",
+                "uuid": "9deacc77-87c2-4830-a3d6-10f2effb82aa",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-14",
+                "title": "Mindestnormen f\u00fcr den Schutz von Minderheiten in der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/mindestnormen-fuer-den-schutz-von-minderheiten-der-eu",
+                "uuid": "c8ae2d7c-7a0b-459c-99c6-7ddcb9f22adb",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-15",
+                "title": "Entwicklungshilfe der EU f\u00fcr das Bildungswesen ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/entwicklungshilfe-der-eu-fuer-das-bildungswesen",
+                "uuid": "e784ad92-3bf7-45b4-884d-e8c7320dd90c",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-11-13",
+                "title": "EU-Japan Freihandelsabkommen (JEFTA)",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-japan-freihandelsabkommen-jefta",
+                "uuid": "456abc02-d2e1-4600-8727-f374dbedb3d3",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-17",
+                "title": "Verbesserung der Gleichstellung der Geschlechter ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verbesserung-der-gleichstellung-der-geschlechter",
+                "uuid": "9183f4af-06fa-42ad-8bc2-0e412ff32f75",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2018-12-18",
+                "title": "Rolle des Deutschen Jugendamts bei grenz\u00fcberschreitenden Familienangelegenheiten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/rolle-des-deutschen-jugendamts-bei-grenzueberschreitenden",
+                "uuid": "06056f7f-4eba-45df-959d-ffeb94e950ec",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-12-19",
+                "title": "Wie geht es mit der Welthandelsorganisation weiter?",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wie-geht-es-mit-der-welthandelsorganisation-weiter",
+                "uuid": "1b17aff5-1e52-441b-b34f-c3857cecd1b2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-20",
+                "title": "Digitales Europa",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/digitales-europa",
+                "uuid": "035b8ba0-376f-48cf-93ce-d6b395c7811b",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-17",
+                "title": "Visa aus humanit\u00e4ren Gr\u00fcnden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/visa-aus-humanitaeren-gruenden",
+                "uuid": "cfad47a6-dc9f-40a4-926c-61040ea27f20",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-12-18",
+                "title": "Errichtung des Europ\u00e4ischen Verteidigungsfonds",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/errichtung-des-europaeischen-verteidigungsfonds",
+                "uuid": "55617778-d77e-4532-be49-1cf9f1e168f4",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-18",
+                "title": "Haushaltsplan 2019",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/haushaltsplan-2019",
+                "uuid": "bd8e7e4b-6fab-4bdb-aa95-0598ad7de73c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-20",
+                "title": "Angemessenheit des Datenschutzniveaus in Japan ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/angemessenheit-des-datenschutzniveaus-japan",
+                "uuid": "c4bfb817-ccc5-425f-b00b-cc43756ccf5d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-18",
+                "title": "Weltraumprogramm der Europ\u00e4ischen Union",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/weltraumprogramm-der-europaeischen-union",
+                "uuid": "4ce57300-12e9-4079-911a-3bf65871298e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-20",
+                "title": "Persistente organische Schadstoffe",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/persistente-organische-schadstoffe",
+                "uuid": "c0e9abc0-cd9f-41ad-b41d-2e8c8c55dd79",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-20",
+                "title": "Assoziierungsabkommen zwischen EU und Ukraine - Wie geht es weiter?",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/assoziierungsabkommen-zwischen-eu-und-ukraine-wie-geht-es-weiter",
+                "uuid": "9dbbef87-3615-47e9-8833-f0546631ab79",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-21",
+                "title": "Transparenz und Nachhaltigkeit in der Lebensmittelkette ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/transparenz-und-nachhaltigkeit-der-lebensmittelkette",
+                "uuid": "209e4dd1-0634-45a3-a549-45dd274a0b0e",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2019-01-02",
+                "title": "Beschleunigte Beilegung von Handelsstreitigkeiten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/beschleunigte-beilegung-von-handelsstreitigkeiten",
+                "uuid": "81be5756-48ca-4d46-a437-1134480aeba8",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-01-04",
+                "title": "Situation von Frauen mit Behinderungen st\u00e4rken",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/situation-von-frauen-mit-behinderungen-staerken",
+                "uuid": "d2e26a08-e58f-4fbb-8cce-641ff0298d72",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2019-01-15",
+                "title": "Schutz der akademischen Freiheit ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-der-akademischen-freiheit",
+                "uuid": "482a257f-d807-494a-98ff-b94b0626582a",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-01-16",
+                "title": "Gender Mainstreaming",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gender-mainstreaming",
+                "uuid": "8c23a915-76f3-4599-adee-16ddbe5e041f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-01-16",
+                "title": "Gleichstellung der Geschlechter in der Steuerpolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/gleichstellung-der-geschlechter-in-der-steuerpolitik",
+                "uuid": "0aa8e687-5c86-4150-a0b3-0d7d46d22fc0",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2019-01-23",
+                "title": "R\u00fcckgabe von Beutekunst aus bewaffneten Konflikten und Kriegen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/rueckgabe-von-beutekunst-aus-bewaffneten-konflikten-und-kriegen",
+                "uuid": "c36af239-8398-412b-838d-44ff7570f11c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-01-17",
+                "title": "Autonomes Fahren im europ\u00e4ischen Verkehrswesen ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/autonomes-fahren-im-europaeischen-verkehrswesen",
+                "uuid": "0121929c-458c-44f3-af9a-67a546905497",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-02-15",
+                "title": "Nachhaltige Verwendung von Pestiziden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/nachhaltige-verwendung-von-pestiziden",
+                "uuid": "2de4d4d2-838d-42e9-851d-d09d7c1354cd",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2019-02-26",
+                "title": "Mindestanforderungen f\u00fcr die Wasserwiederverwendung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/mindestanforderungen-fuer-die-wasserwiederverwendung",
+                "uuid": "22d29168-1eee-4865-9006-66414e114f91",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2019-02-28",
+                "title": "Finanzierung der Stillegung kerntechnischer Anlagen und der Entsorgung radioaktiver Abf\u00e4lle",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/finanzierung-der-stillegung-kerntechnischer-anlagen-und-der",
+                "uuid": "28303e58-b43e-40ab-83e6-96f76c9b4d54",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-02-27",
+                "title": "Abkommen \u00fcber die \"Verhinderung der Hochseefischerei in der Arktis\" angenommen",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/abkommen-ueber-die-verhinderung-der-hochseefischerei-in-der-arktis-angenommen",
+                "uuid": "272f1ffc-bc80-416a-91f9-e87d71219cba",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-02-28",
+                "title": "Freihandelsabkommen mit Singapur",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/freihandelsabkommen-mit-singapur",
+                "uuid": "754286a2-6b56-4ded-84f9-9e3ee92c374a",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-01",
+                "title": "\u00c4nderung des Zulassungsverfahrens f\u00fcr Pestizide",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aenderung-des-zulassungsverfahrens-fuer-pestizide",
+                "uuid": "36c62c37-0c47-4a7a-b031-9e0636c07955",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-01",
+                "title": "Einf\u00fchrung einer Europ\u00e4ischen Industriepolitik f\u00fcr K\u00fcnstliche Intelligenz und Robotik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/einfuehrung-einer-europaeischen-industriepolitik-fuer",
+                "uuid": "33a6a8e2-4054-4aee-a29e-49605822df7b",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-04",
+                "title": "EU-R\u00fcckkehrausweise aktualisieren",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-rueckkehrausweise-aktualisieren",
+                "uuid": "e793adfd-9b59-46ff-8f09-24d6eec763ec",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-04",
+                "title": "Verhinderung von unverh\u00e4ltnism\u00e4\u00dfiger Gewalt bei friedlichen Protesten",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/verhinderung-von-unverhaeltnismaessiger-gewalt-bei-friedlichen-protesten",
+                "uuid": "45917026-c95e-4086-976e-5764bfd65f3c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-05",
+                "title": "Schutz von Tieren beim Transport st\u00e4rken",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-von-tieren-beim-transport-staerken",
+                "uuid": "e4de7b49-e163-47f4-8f27-56addd2839e1",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2019-03-20",
+                "title": "Handelsverhandlungen zwischen der EU und den USA",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/handelsverhandlungen-zwischen-der-eu-und-den-usa",
+                "uuid": "7591c2fc-0669-4f8f-88be-8ab7e0116a1b",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2019-03-21",
+                "title": "Saubere Luft f\u00fcr alle",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/saubere-luft-fuer-alle",
+                "uuid": "73324002-c088-419c-a04d-a5cf88a88465",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2019-03-20",
+                "title": "Reform des Urheberrechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/reform-des-urheberrechts",
+                "uuid": "20ef0ba6-4336-4f20-98c3-9493dee4e314",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-04-01",
+                "title": "Zeitumstellung abschaffen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/zeitumstellung-abschaffen",
+                "uuid": "fa3b937b-f7ee-4e28-9172-02034bc92a40",
+                "vote": "enthalten"
+            }
+        ]
+    }
+}

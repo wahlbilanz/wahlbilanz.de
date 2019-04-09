@@ -1,0 +1,375 @@
+{
+    "profile": {
+        "committees": [],
+        "constituency": {
+            "name": "Bundesliste",
+            "number": "1",
+            "result": null,
+            "uuid": "8de5b1d9-424a-4690-82da-6edd94c42fce",
+            "won": false
+        },
+        "fraction": "SPD (S&D)",
+        "list": [],
+        "meta": {
+            "answers": 0,
+            "edited": "2018-07-11 14:09",
+            "questions": 0,
+            "standard_replies": 0,
+            "status": "1",
+            "url": "https://www.abgeordnetenwatch.de/profile/jutta-steinruck",
+            "username": "jutta-steinruck",
+            "uuid": "35148008-0c89-4734-9ac1-78402c99ec3f"
+        },
+        "parliament": {
+            "name": "EU-Parlament 2014-2019",
+            "retired": "2017-12-31",
+            "uuid": "18ea3bc2-8348-4824-8695-e0c2864fd126"
+        },
+        "party": "SPD",
+        "personal": {
+            "birthyear": "1962",
+            "degree": null,
+            "education": "Dipl.-Betriebswirtin (B.A.)",
+            "first_name": "Jutta",
+            "gender": "female",
+            "last_name": "Steinruck",
+            "location": {
+                "city": "Ludwigshafen am Rhein",
+                "country": "DE",
+                "postal_code": "67059",
+                "state": ""
+            },
+            "picture": {
+                "copyright": "<p>SPD Europa</p>",
+                "url": "https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/pressefoto_1_web_0.jpg"
+            },
+            "profession": "MdEP"
+        },
+        "questions": [
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-06",
+                        "summary": "<p>(...) Zudem haben wir mit unserem sozialdemokratischen Berichterstatter David Martin in diesen Verfahrensregeln ein <strong>gro\u00dfes Ma\u00df an Transparenz</strong> durchgesetzt und deutlich das Recht der Gesetzgebung im Interesse der B\u00fcrgerinnen und B\u00fcrger (\"right to regulate\") priorit\u00e4r vor allen ISDS Verabredungen verankert. Andere Parteien haben sich an den Verhandlungen gar nicht beteiligt und damit nicht f\u00fcr die Rechte der B\u00fcrgerinnen und B\u00fcrger gek\u00e4mpft. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-05-04",
+                "id": "7275",
+                "url": "https://www.abgeordnetenwatch.de/profile/jutta-steinruck/question/2014-05-04/7275"
+            }
+        ],
+        "roles": [],
+        "sidejobs": [],
+        "votes": [
+            {
+                "date": "2015-03-05",
+                "title": "Netzneutralit\u00e4t sichern - Rettet das freie Internet!",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/petitionen/netzneutralitat-sichern-rettet-das-freie-internet",
+                "uuid": "c73d817d-e0e9-4c2b-84dc-0375e8c4934d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Kritische Neubewertung der Beziehungen zu Russland",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kritische-neubewertung-der-beziehungen-zu-russland",
+                "uuid": "34d2fd08-9bbf-4948-88c6-183864116d6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Wiederaufnahme der Friedensbem\u00fchungen im Nahen Osten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wiederaufnahme-der-friedensbemuehungen-im-nahen-osten",
+                "uuid": "0fa40696-9a07-4770-bddd-338db1509a69",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Ma\u00dfnahmen zur Fl\u00fcchtlingspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-fluechtlingspolitik",
+                "uuid": "a98d55d5-26c3-4a51-a99a-8bd0e525b628",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Hindernisse f\u00fcr soziale Unternehmen beseitigen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/hindernisse-fuer-soziale-unternehmen-beseitigen",
+                "uuid": "c0f955e0-82d9-46b4-9f16-77f508963b6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Schaffung eines wettbewerbf\u00e4higen Arbeitsmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-wettbewerbfaehigen-arbeitsmarkts",
+                "uuid": "f42b1ba1-d57a-4ee0-83e2-a83134df2ef4",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "F\u00f6rderung junger Unternehmer",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/foerderung-junger-unternehmer",
+                "uuid": "94bf3f53-5ee6-4747-a47e-c2c132156c26",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verurteilung von CIA-Foltermethoden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-von-cia-foltermethoden",
+                "uuid": "a7bfb784-f0e3-4dea-9ee5-a63024adff6f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Kennzeichnung des Ursprungslands von Fleisch",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kennzeichnung-des-ursprungslands-von-fleisch",
+                "uuid": "1e33c664-17d7-4631-bb13-d50eea58837f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Ausweitung des digitalen Binnenmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/ausweitung-des-digitalen-binnenmarkts",
+                "uuid": "8b59269f-b5f6-4221-b113-2b7a6a7ea708",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verl\u00e4ngerung der Senkung von Z\u00f6llen auf ukrainische Waren ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verlaengerung-der-senkung-von-zoellen-auf-ukrainische-waren",
+                "uuid": "608d1653-952d-4039-8021-61a089c3fb6e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "EU-Sicherheitspolitik im Nahen Osten und Nordafrika",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-sicherheitspolitik-im-nahen-osten-und-nordafrika",
+                "uuid": "2b962506-401b-45b7-8a4d-c3a12b35ceef",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "Expo 2015 in Mailand",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/expo-2015-mailand",
+                "uuid": "5f314d77-4e55-49d2-8f28-18356d3e1250",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Ma\u00dfnahmen zur Terrorismusbek\u00e4mpfung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-terrorismusbekaempfung",
+                "uuid": "e0cd7654-49f3-49b6-87dc-d8ec90003919",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Verurteilung der Boko Haram-Angriffe in Nigeria",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-der-boko-haram-angriffe-nigeria",
+                "uuid": "78c330d6-09c6-47a4-982f-a67146262776",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Antrag zur Bek\u00e4mpfung der Jugendarbeitslosigkeit",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/antrag-zur-bekaempfung-der-jugendarbeitslosigkeit",
+                "uuid": "4cf62b4b-59a5-4a9c-aae9-17ebf3700446",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Wahl der EU-Kommission",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wahl-der-eu-kommission",
+                "uuid": "2c27f2a1-ba90-4067-bc52-a114e55acada",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Anerkennung Pal\u00e4stinas",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anerkennung-palaestinas",
+                "uuid": "91aee230-2ac2-4bca-a90b-3c9c11ded2b3",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Kreditvergabe an die Ukraine",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kreditvergabe-die-ukraine",
+                "uuid": "dd9837cd-1699-4929-9539-7ccd6546c103",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Umsetzung der gemeinsamen Sicherheits- und Verteidigungspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-der-gemeinsamen-sicherheits-und-verteidigungspolitik",
+                "uuid": "83ca30d0-39f2-488a-b244-91a92720d57f",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Eu-Strategie zur Gleichstellung zwischen M\u00e4nnern und Frauen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-strategie-zur-gleichstellung-zwischen-maennern-und-frauen",
+                "uuid": "72c8d5e7-e7d1-4b31-99c3-99644c7adff3",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Sicherung des Urheberechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/sicherung-des-urheberechts",
+                "uuid": "fe2780f4-81e2-419d-a7f1-61776c547cfa",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Parlamentarische Empfehlung bzgl. TTIP Handelabkommen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/parlamentarische-empfehlung-bzgl-ttip-handelabkommen",
+                "uuid": "f1a0b307-e891-4e17-9e10-1e811474b2bc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Schaffung eines Europ\u00e4ischen Struktur- und Investitionsfonds (EFSI)",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-europaeischen-struktur-und-investitionsfonds",
+                "uuid": "2436eb70-9eb4-4cb6-999f-b6d2ad59782e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-12-03",
+                "title": "Gemeinsame Strategie zur Pr\u00e4vention von Radikalisierung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gemeinsame-strategie-zur-praevention-von-radikalisierung",
+                "uuid": "43b62e8f-afef-4083-a71b-753ccdbecd6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Verringerung des Lohngef\u00e4lles zwischen Frauen und M\u00e4nnern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verringerung-des-lohngefaelles-zwischen-frauen-und-maennern",
+                "uuid": "e2dfb814-8dc6-4132-b354-a4b0dffdde4b",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Schadstoffaussto\u00df mittelgro\u00dfer Verbrennungsanlagen begrenzen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schadstoffausstoss-mittelgrosser-verbrennungsanlagen-begrenzen",
+                "uuid": "03d5024e-7b73-40ff-9e69-1ac7e6cc2882",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-22",
+                "title": "Auszahlung von Griechenlandhilfen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/auszahlung-von-griechenlandhilfen",
+                "uuid": "de2c3caf-d77b-457a-8e02-73bcdb60abad",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-28",
+                "title": "Schutz geografischer Herkunftsangaben der EU auf nichtlandwirtschaftliche Erzeugnisse",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-geografischer-herkunftsangaben-der-eu-auf",
+                "uuid": "3017adbf-e55e-4914-ad2f-47744e7719f7",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-05-12",
+                "title": "Resolution zur Neuzulassung des Herbizids Glyphosat",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/resolution-zur-neuzulassung-des-herbizids-glyphosat",
+                "uuid": "20b545ab-e31f-4404-ba34-fed1f163cce2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-11-11",
+                "title": "Umsetzung des Bologna-Prozesses - Steigerung studentischer Auslandsmobilit\u00e4t ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-bologna-prozesses-steigerung-studentischer",
+                "uuid": "393d3eed-93b5-4cc8-a656-f261daa90351",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-11-19",
+                "title": "\u00c4nderung des Wahlrechts zum EU-Parlament",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aenderung-des-wahlrechts-zum-eu-parlament",
+                "uuid": "844ed2e1-303f-49bb-a63f-b7adb938593a",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-05-19",
+                "title": "Lebensmittelverschwendung",
+                "url": "https://www.abgeordnetenwatch.de/eu/petitionen/eu-verpflichtet-supermarkte-ihr-unverkauftes-essen-zu-spenden",
+                "uuid": "50cd10af-ac29-4d4b-9fb8-7e6eaee69163",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-11-24",
+                "title": "EU-Beitrittsverhandlungen mit der T\u00fcrkei einfrieren",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-beitrittsverhandlungen-mit-der-tuerkei-einfrieren",
+                "uuid": "5ec1c8eb-b80b-4a18-a0cb-c2054067ba2e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-12-01",
+                "title": "Menschenrechte und Migration in Drittl\u00e4ndern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/menschenrechte-und-migration-drittlaendern",
+                "uuid": "72d19836-8d9d-4f95-a8bb-0c0b89be5c06",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-02-05",
+                "title": "Anbau von gentechnisch ver\u00e4nderten Sojabohnen in der Europ\u00e4ischen Union",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anbau-von-gentechnisch-veraenderten-sojabohnen-der-europaeischen",
+                "uuid": "83f43a49-c047-4390-aaee-14cbe5a55525",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-04-25",
+                "title": "EU-Richtlinien \u00fcber Verwendung von Fluggastdaten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-richtlinien-ueber-verwendung-von-fluggastdaten",
+                "uuid": "9bbf91f1-b259-4dbb-bfd9-d3c3bc5f9ec1",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2017-02-17",
+                "title": "Umsetzung des Handelsabkommens CETA mit Kanada",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-handelsabkommens-ceta-mit-kanada",
+                "uuid": "f22c10c4-e5eb-481a-ae8d-9d8a42a604ba",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-09-28",
+                "title": "Unterst\u00fctzung von Frauen im digitalen Zeitalter",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/unterstuetzung-von-frauen-im-digitalen-zeitalter",
+                "uuid": "29160dca-2641-436f-b9b3-dc07b633454c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2017-09-27",
+                "title": "Strengere Transparenzstandards in der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/strengere-transparenzstandards-der-eu",
+                "uuid": "30a68fb6-4749-43c6-9f39-a1c19912cfa6",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-09-30",
+                "title": "Zugang der \u00d6ffentlichkeit zu Dokumenten aus den Jahren 2014-2015",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/zugang-der-oeffentlichkeit-zu-dokumenten-aus-den-jahren-2014-2015",
+                "uuid": "0705670c-1e29-4056-b4f2-6c2ff82a9e47",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-02-13",
+                "title": "Reform der Dublin-Verordnung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/reform-der-dublin-verordnung",
+                "uuid": "75998fad-a01d-4538-8145-5ecae20b5ec4",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-07-16",
+                "title": "Abkommen zwischen der EU und Aserbaidschan",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/abkommen-zwischen-der-eu-und-aserbaidschan",
+                "uuid": "b9ff31f2-2c6f-4747-bf1a-816275aef4dc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-20",
+                "title": "Strafrechtliche Ma\u00dfnahmen gegen die Beihilfe zu unerlaubter Einreise",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/strafrechtliche-massnahmen-gegen-die-beihilfe-zu-unerlaubter",
+                "uuid": "0770479e-7b07-4b2b-acd0-6eb16890d047",
+                "vote": "dagegen gestimmt"
+            }
+        ]
+    }
+}

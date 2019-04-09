@@ -1,0 +1,186 @@
+{
+    "profile": {
+        "committees": [],
+        "constituency": {
+            "name": "Th\u00fcringen",
+            "number": "1",
+            "result": "k.A.",
+            "uuid": "2ffc9cfe-57ee-4b14-a3c2-d9bc3dda587e",
+            "won": false
+        },
+        "fraction": "SPD (S&D)",
+        "list": [],
+        "meta": {
+            "answers": 1,
+            "edited": "2019-03-04 11:30",
+            "questions": 3,
+            "standard_replies": 0,
+            "status": "1",
+            "url": "https://www.abgeordnetenwatch.de/profile/babette-winter/archive/264181",
+            "username": "babette-winter",
+            "uuid": "12c6bd80-cff3-44b6-987b-6ff2b88ccf03"
+        },
+        "parliament": {
+            "joined": "2019-01-14",
+            "name": "EU-Parlament 2014-2019",
+            "uuid": "18ea3bc2-8348-4824-8695-e0c2864fd126"
+        },
+        "party": "SPD",
+        "personal": {
+            "birthyear": "1964",
+            "degree": "Dr.",
+            "education": "Chemikerin",
+            "first_name": "Babette",
+            "gender": "female",
+            "last_name": "Winter",
+            "location": {
+                "city": "Erfurt",
+                "country": "DE",
+                "postal_code": "",
+                "state": ""
+            },
+            "picture": {
+                "copyright": "Winter Privat",
+                "url": "https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/winter_babette_spd.jpg"
+            },
+            "profession": "MdEP"
+        },
+        "questions": [
+            {
+                "answers": [],
+                "category": "Bildung und Forschung",
+                "date": "2019-03-22",
+                "id": "312068",
+                "url": "https://www.abgeordnetenwatch.de/profile/babette-winter/question/2019-03-22/312068"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2019-03-21",
+                "id": "312001",
+                "url": "https://www.abgeordnetenwatch.de/profile/babette-winter/question/2019-03-21/312001"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-12",
+                        "summary": "<p>(...) Die Abstimmung \u00fcber das Urheberrecht im Europ\u00e4ischen Parlament (Vorschlag f\u00fcr eine Richtlinie des Europ\u00e4ischen Parlaments und des Rates \u00fcber das Urheberrecht im digitalen Binnenmarkt (COM/2016/0593 final - 2016/0280 (COD)) wird voraussichtlich Ende M\u00e4rz in der Plenarsitzung des Europ\u00e4ischen Parlaments erfolgen. Ehrlich gesagt ist die Entscheidung \u00fcber das Ergebnis des Trilogs, der Verhandlungen zwischen Rat, Kommission und Parlament, nicht einfach und ich habe mich noch <strong>nicht abschlie\u00dfend entschieden</strong>, <strong>wie ich abstimmen werde</strong>. Hier geht es um die Abw\u00e4gung zwischen dem angemessenen Schutz von Kreativen, die f\u00fcr ihre Arbeit auch in einer digitalen Welt verg\u00fctet werden sollen und der Freiheit im Internet wie wir es gewohnt sind. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-02-18",
+                "id": "310412",
+                "url": "https://www.abgeordnetenwatch.de/profile/babette-winter/question/2019-02-18/310412"
+            }
+        ],
+        "roles": [],
+        "sidejobs": [],
+        "votes": [
+            {
+                "date": "2019-01-23",
+                "title": "R\u00fcckgabe von Beutekunst aus bewaffneten Konflikten und Kriegen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/rueckgabe-von-beutekunst-aus-bewaffneten-konflikten-und-kriegen",
+                "uuid": "c36af239-8398-412b-838d-44ff7570f11c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-02-15",
+                "title": "Nachhaltige Verwendung von Pestiziden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/nachhaltige-verwendung-von-pestiziden",
+                "uuid": "2de4d4d2-838d-42e9-851d-d09d7c1354cd",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-02-26",
+                "title": "Mindestanforderungen f\u00fcr die Wasserwiederverwendung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/mindestanforderungen-fuer-die-wasserwiederverwendung",
+                "uuid": "22d29168-1eee-4865-9006-66414e114f91",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-02-28",
+                "title": "Finanzierung der Stillegung kerntechnischer Anlagen und der Entsorgung radioaktiver Abf\u00e4lle",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/finanzierung-der-stillegung-kerntechnischer-anlagen-und-der",
+                "uuid": "28303e58-b43e-40ab-83e6-96f76c9b4d54",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-02-27",
+                "title": "Abkommen \u00fcber die \"Verhinderung der Hochseefischerei in der Arktis\" angenommen",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/abkommen-ueber-die-verhinderung-der-hochseefischerei-in-der-arktis-angenommen",
+                "uuid": "272f1ffc-bc80-416a-91f9-e87d71219cba",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-02-28",
+                "title": "Freihandelsabkommen mit Singapur",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/freihandelsabkommen-mit-singapur",
+                "uuid": "754286a2-6b56-4ded-84f9-9e3ee92c374a",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2019-03-01",
+                "title": "\u00c4nderung des Zulassungsverfahrens f\u00fcr Pestizide",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aenderung-des-zulassungsverfahrens-fuer-pestizide",
+                "uuid": "36c62c37-0c47-4a7a-b031-9e0636c07955",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2019-03-01",
+                "title": "Einf\u00fchrung einer Europ\u00e4ischen Industriepolitik f\u00fcr K\u00fcnstliche Intelligenz und Robotik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/einfuehrung-einer-europaeischen-industriepolitik-fuer",
+                "uuid": "33a6a8e2-4054-4aee-a29e-49605822df7b",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-04",
+                "title": "EU-R\u00fcckkehrausweise aktualisieren",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-rueckkehrausweise-aktualisieren",
+                "uuid": "e793adfd-9b59-46ff-8f09-24d6eec763ec",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-04",
+                "title": "Verhinderung von unverh\u00e4ltnism\u00e4\u00dfiger Gewalt bei friedlichen Protesten",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/verhinderung-von-unverhaeltnismaessiger-gewalt-bei-friedlichen-protesten",
+                "uuid": "45917026-c95e-4086-976e-5764bfd65f3c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-05",
+                "title": "Schutz von Tieren beim Transport st\u00e4rken",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-von-tieren-beim-transport-staerken",
+                "uuid": "e4de7b49-e163-47f4-8f27-56addd2839e1",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-20",
+                "title": "Handelsverhandlungen zwischen der EU und den USA",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/handelsverhandlungen-zwischen-der-eu-und-den-usa",
+                "uuid": "7591c2fc-0669-4f8f-88be-8ab7e0116a1b",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2019-03-21",
+                "title": "Saubere Luft f\u00fcr alle",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/saubere-luft-fuer-alle",
+                "uuid": "73324002-c088-419c-a04d-a5cf88a88465",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-20",
+                "title": "Reform des Urheberrechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/reform-des-urheberrechts",
+                "uuid": "20ef0ba6-4336-4f20-98c3-9493dee4e314",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2019-04-01",
+                "title": "Zeitumstellung abschaffen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/zeitumstellung-abschaffen",
+                "uuid": "fa3b937b-f7ee-4e28-9172-02034bc92a40",
+                "vote": "daf\u00fcr gestimmt"
+            }
+        ]
+    }
+}

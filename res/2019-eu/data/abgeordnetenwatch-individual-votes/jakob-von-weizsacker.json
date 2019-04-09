@@ -1,0 +1,1120 @@
+{
+    "profile": {
+        "committees": [],
+        "constituency": {
+            "name": "Bundesliste",
+            "number": "1",
+            "result": null,
+            "uuid": "8de5b1d9-424a-4690-82da-6edd94c42fce",
+            "won": false
+        },
+        "fraction": "SPD (S&D)",
+        "list": [],
+        "meta": {
+            "answers": 27,
+            "edited": "2019-01-14 14:29",
+            "questions": 27,
+            "standard_replies": 0,
+            "status": "1",
+            "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker",
+            "username": "jakob-von-weizsacker",
+            "uuid": "e6c60539-1e5e-4701-8495-a3c4395f207e"
+        },
+        "parliament": {
+            "name": "EU-Parlament 2014-2019",
+            "retired": "2019-01-06",
+            "uuid": "18ea3bc2-8348-4824-8695-e0c2864fd126"
+        },
+        "party": "SPD",
+        "personal": {
+            "birthyear": "1970",
+            "degree": null,
+            "education": "Volkswirt",
+            "first_name": "Jakob",
+            "gender": "male",
+            "last_name": "von Weizs\u00e4cker",
+            "location": {
+                "city": "Erfurt",
+                "country": "DE",
+                "postal_code": "99084",
+                "state": "TH"
+            },
+            "picture": {
+                "copyright": "",
+                "url": "https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/jakob2_0.jpg"
+            },
+            "profession": "Abteilungsleiter im Th\u00fcringer Wirtschaftsministerium"
+        },
+        "questions": [
+            {
+                "answers": [
+                    {
+                        "date": "2018-12-12",
+                        "summary": "<p>(...) vielen Dank f\u00fcr Ihre Zuschrift. Das Freihandelsabkommen zwischen der EU und Japan, <strong>JEFTA</strong>, wurde am 12. Dezember 2018 vom Europ\u00e4ischen Parlament beschlossen. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2018-11-15",
+                "id": "306955",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2018-11-15/306955"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-12-12",
+                        "summary": "<p>(...) Das Freihandelsabkommen zwischen der EU und Japan, <strong>JEFTA</strong>, wurde am 12. (...) Auch ich habe dem Abkommen zugestimmt, <strong>weil aus meiner Sicht starke wirtschaftliche und politische</strong> Gr\u00fcnde daf\u00fcr sprechen: Wirtschaftlich wird die Vertiefung des Handels mit Japan, immerhin der drittgr\u00f6\u00dften Volkswirtschaft der Welt nach den USA und China, insgesamt positive Auswirkungen haben. (...) Im Gegensatz zu manchen Mutma\u00dfungen wird durch <strong>JEFTA</strong> keine Privatisierung der \u00f6ffentlichen Daseinsvorsorge - etwa der Wasserversorgung - erzwungen. (...) Auch werden durch <strong>JEFTA</strong> keine Klagen von Investoren gegen EU Staaten vor privaten Schiedsgerichten m\u00f6glich. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2018-11-11",
+                "id": "306772",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2018-11-11/306772"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-12-12",
+                        "summary": "<p>(...) Das Freihandelsabkommen zwischen der EU und Japan, <strong>JEFTA</strong>, wurde am 12. (...) Auch ich habe dem Abkommen zugestimmt, <strong>weil aus meiner Sicht starke wirtschaftliche und politische</strong> Gr\u00fcnde daf\u00fcr sprechen: Wirtschaftlich wird die Vertiefung des Handels mit Japan, immerhin der drittgr\u00f6\u00dften Volkswirtschaft der Welt nach den USA und China, insgesamt positive Auswirkungen haben. (...) Im Gegensatz zu manchen Mutma\u00dfungen wird durch <strong>JEFTA</strong> keine Privatisierung der \u00f6ffentlichen Daseinsvorsorge - etwa der Wasserversorgung - erzwungen. (...) Auch werden durch <strong>JEFTA</strong> keine Klagen von Investoren gegen EU Staaten vor privaten Schiedsgerichten m\u00f6glich. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2018-11-10",
+                "id": "306563",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2018-11-10/306563"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-10",
+                        "summary": "<p>(...) Deshalb habe ich am 5. Juli gegen die <strong>Erteilung des Trilogmandats</strong> und damit gegen den Voss-Bericht in seiner jetzigen Form abgestimmt. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300358",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2018-06-29/300358"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-10",
+                        "summary": "<p>(...) Deshalb habe ich am 5. Juli gegen die <strong>Erteilung des Trilogmandats</strong> und damit gegen den Voss-Bericht in seiner jetzigen Form abgestimmt. (...)</p>"
+                    }
+                ],
+                "category": "Bildung und Forschung",
+                "date": "2018-06-29",
+                "id": "300310",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2018-06-29/300310"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-10",
+                        "summary": "<p>(...) Deshalb habe ich am 5. Juli gegen die Erteilung des <strong>Trilogmandats </strong>und damit gegen den Voss-Bericht in seiner jetzigen Form abgestimmt. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300265",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2018-06-29/300265"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-10",
+                        "summary": "<p>(...) Deshalb habe ich am 5. Juli gegen die Erteilung des <strong>Trilogmandats </strong>und damit gegen den Voss-Bericht in seiner jetzigen Form abgestimmt. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300262",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2018-06-29/300262"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-10",
+                        "summary": "<p>(...) Deshalb habe ich am 5. Juli gegen die Erteilung des <strong>Trilogmandats </strong>und damit gegen den Voss-Bericht in seiner jetzigen Form abgestimmt. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300250",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2018-06-29/300250"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-10",
+                        "summary": "<p>(...) Im Bereich der Bankenregulierung, in dem ich seit Jahren t\u00e4tig bin, ist eine solche Proportionalit\u00e4t eine Selbstverst\u00e4ndlichkeit: Die gr\u00f6\u00dften systemrelevanten Banken und die Sparkasse um die Ecke werden regulatorisch eben nicht \u00fcber einen Kamm geschoren. Da ich im Bericht des gesch\u00e4tzten Kollegen Axel Voss diese Proportionalit\u00e4t und ein entsprechendes Ausbalancieren mit <strong>zentralen netzpolitischen Zielen </strong>beispielsweise im Artikel 13 vermisse, pl\u00e4diere ich f\u00fcr eine entsprechende Anpassung des Berichts, bevor das Parlament in den Trilog einsteigt. Deshalb habe ich am 5. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300177",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2018-06-28/300177"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-10",
+                        "summary": "<p>(...) Deshalb habe ich am 5. Juli gegen die Erteilung des <strong>Trilogmandats </strong>und damit gegen den Voss-Bericht in seiner jetzigen Form abgestimmt. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300126",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2018-06-28/300126"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-10",
+                        "summary": "<p>(...) Deshalb habe ich am 5. Juli gegen die Erteilung des <strong>Trilogmandats </strong>und damit gegen den Voss-Bericht in seiner jetzigen Form abgestimmt. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-06-28",
+                "id": "300121",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2018-06-28/300121"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-05-24",
+                        "summary": "<p>(...) vielen Dank f\u00fcr ihre Anfrage. Speziell zum Thema <strong>Aufkleber auf Fr\u00fcchten</strong> gibt es nach meiner Kenntnis bislang keine EU-weite Initiative in Ihrem Sinne. Dies hat auch mit der bestehenden Kennzeichnungspflicht f\u00fcr Bio-Obst und Gem\u00fcse zu tun. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2018-05-09",
+                "id": "298579",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2018-05-09/298579"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-02-08",
+                        "summary": "<p>(...) Aus diesem Grund halte ich auch das Vorgehen der Europ\u00e4ischen Kommission gegen\u00fcber Polen f\u00fcr richtig, die im Dezember 2017 erstmals Artikel 7(1), den so genannten EU-Rechtsstaatsmechanismus, zur Anwendung gebracht hat. Wenn die polnische Regierung die Bedenken nicht <strong>ausger\u00e4umt</strong>, k\u00f6nnten im letzten Schritt Sanktionen, wie z.B. Stimmrechtsentzug, verh\u00e4ngt werden. Dies w\u00fcrde jedoch die Einstimmigkeit unter den restlichen Mitgliedstaaten erfordern. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-02-04",
+                "id": "296784",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2018-02-04/296784"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-10-24",
+                        "summary": "<p>(...) Im Vorfeld der Abstimmung hatte das Parlament bereits den <strong>Lobbyvertretern der Firma Monsanto Hausverbot</strong> erteilt, nachdem die Firma sich geweigert hatte, zu einer Anh\u00f6rung zu erscheinen, bei der es um die m\u00f6gliche Beeinflussung wissenschaftlicher Studien zur Sch\u00e4dlichkeit von Glyphosat gehen sollte. (...)</p>"
+                    }
+                ],
+                "category": "Agrarpolitik",
+                "date": "2017-10-20",
+                "id": "294147",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2017-10-20/294147"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-11-08",
+                        "summary": "<p>(...) vielen Dank f\u00fcr Ihre Frage zur internationalen Aufkl\u00e4rung des Mordes an Daphne Caruana Galizia. <strong>Dieser Mord ist nicht nur ein abscheuliches Verbrechen</strong>, sondern auch ein Anschlag auf die Presse- und Meinungsfreiheit. Eine l\u00fcckenlose Aufkl\u00e4rung ist deshalb unabdingbar. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2017-10-18",
+                "id": "294098",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2017-10-18/294098"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-02-13",
+                        "summary": "<p>(...) vielen Dank f\u00fcr Ihre Anfrage zu CETA. Da ich meine <strong>Position zu CETA</strong> j\u00fcngst bereits \u00f6ffentlich dargelegt habe, erlaube ich mir, Sie auf folgenden Link (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2017-02-11",
+                "id": "24085",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2017-02-11/24085"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-21",
+                        "summary": "<p>(...) Das Europ\u00e4ische Parlament ist zurzeit mit der \u00dcberarbeitung der <strong>Abfallrichtlinie </strong>befasst. Gemeinsam mit meinen sozialdemokratischen Kolleginnen und Kollegen unterst\u00fctze ich die Forderung nach europaweit einheitlichen Standards f\u00fcr Lebensmittelspenden. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2016-11-13",
+                "id": "23748",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2016-11-13/23748"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-21",
+                        "summary": "<p>(...) Das Europ\u00e4ische Parlament ist zurzeit mit der \u00dcberarbeitung der <strong>Abfallrichtlinie </strong>befasst. Gemeinsam mit meinen sozialdemokratischen Kolleginnen und Kollegen unterst\u00fctze ich die Forderung nach europaweit einheitlichen Standards f\u00fcr Lebensmittelspenden. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2016-11-12",
+                "id": "23727",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2016-11-12/23727"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-21",
+                        "summary": "<p>(...) vielen Dank f\u00fcr Ihre Frage zum Thema Lebensmittelverschwendung. Die Vereinten Nationen sch\u00e4tzen, dass j\u00e4hrlich rund 1,3 Milliarden Tonnen <strong>Lebensmittel </strong>verderben oder weggeworfen werden. Gleichzeitig haben etwa 10 Prozent der Weltbev\u00f6lkerung nicht genug zu essen. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2016-11-12",
+                "id": "23723",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2016-11-12/23723"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-21",
+                        "summary": ""
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2016-11-11",
+                "id": "23704",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2016-11-11/23704"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-21",
+                        "summary": ""
+                    }
+                ],
+                "category": "Agrarpolitik",
+                "date": "2016-11-11",
+                "id": "23683",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2016-11-11/23683"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-21",
+                        "summary": "<p>(...) Die Vereinten Nationen sch\u00e4tzen, dass j\u00e4hrlich rund <strong>1</strong>,<strong>3 Milliarden Tonnen Lebensmittel </strong>verderben oder weggeworfen werden. Gleichzeitig haben etwa <strong>1</strong>0 Prozent der Weltbev\u00f6lkerung nicht genug zu essen. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2016-11-11",
+                "id": "23671",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2016-11-11/23671"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-06-03",
+                        "summary": ""
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2016-04-21",
+                "id": "22079",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2016-04-21/22079"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-11-06",
+                        "summary": "<p>(...) Dennoch w\u00fcrde ich mir als Europaabgeordneter in einigen Punkten nat\u00fcrlich noch mehr <strong>Kompetenzen f\u00fcr das Parlament</strong> w\u00fcnschen. Hier ist insbesondere das Initiativrecht, also die M\u00f6glichkeit einen eigenen Gesetzesvorschlag auf den Weg zu bringen, zu nennen, das das europ\u00e4ische Parlament bislang nicht hat. (...)</p>"
+                    }
+                ],
+                "category": "Bildung und Forschung",
+                "date": "2015-11-02",
+                "id": "19832",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2015-11-02/19832"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-10-30",
+                        "summary": "<p>(...) Deshalb bin ich auch tendenziell f\u00fcr die Partnerschaftsabk<strong>Partnerschaftsabkommen </strong>KP-Staaten, die eine bessere Integration dieser L\u00e4ndern in den Weltmarkt erm\u00f6glichen. Dabei steckt allerdings der Teufel im Detail und insgesamt darf die M\u00f6glichkeit dieser L\u00e4nder, ihren eigenst\u00e4ndigen Weg der Entwicklung zu gehen, nicht \u00fcber Geb\u00fchr eingeschr\u00e4nkt werden. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-10-13",
+                "id": "19770",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2015-10-13/19770"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-03-30",
+                        "summary": "<p>(...) Die einfachen Europaabgeordneten haben nur Zugang zu den sogenannten nicht-konsolidierten Texten (also insbesondere EU-Verhandlungsgrundlagen). Insgesamt liegen also zahlreiche Unterlagen vor, aber ich w\u00fcrde mir noch mehr Transprenz im <strong>TTIP-Verhandlungsprozess</strong> f\u00fcr das EU-Parlament und die europ\u00e4ischen B\u00fcrger w\u00fcnschen. Besonders interessieren mich die Verhandlungen zum Investorenschutz. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2015-02-11",
+                "id": "16850",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2015-02-11/16850"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-07-02",
+                        "summary": "<p>(...) Unabh\u00e4ngig davon werde ich mich <strong>gegen Fracking mit giftigen Chemikalien</strong> einsetzen - aufgrund der damit verbundenen Umweltgef\u00e4hrung. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-06-24",
+                "id": "8051",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2014-06-24/8051"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-23",
+                        "summary": "<p>(...) Auf europ\u00e4ischer Ebene werde ich mich daf\u00fcr einsetzen, den <strong>Ausbau der erneuerbaren Energien</strong> in einer gemeinsamen Energiepolitik zu europ\u00e4isieren. In Europa gibt es viele sonnenreichere L\u00e4nder als Deutschland. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-05-23",
+                "id": "7989",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2014-05-23/7989"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-13",
+                        "summary": "<p>(...) Wir m\u00fcssen verhindern, dass unsere hohen Standards Lobbyinteressen geopfert werden. Deshalb fordere ich <strong>Transparenz und Allgemeinwohlorientierung</strong> in den Verhandlungen. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2014-05-09",
+                "id": "7483",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2014-05-09/7483"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-13",
+                        "summary": "<p>(...) vielen Dank f\u00fcr Ihre Frage zum Transatlantischen Handelsabkommen TTIP. Wenn es gel\u00e4nge, im Rahmen des TTIP <strong>die beste Regulierung</strong> von beiden Seiten des Atlantiks zu kombinieren, zum Beispiel den Umweltschutz der EU mit den hohen Anforderungen der USA im Bereich der Medikamentenzulassung, w\u00e4re das ein Riesenerfolg f\u00fcr Verbraucher und Wirtschaft. Die Chancen sind gro\u00df, denn die EU und die USA erwirtschaften zusammen rund 40 Prozent der globalen Wirtschaftsleistung. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-05-09",
+                "id": "7474",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2014-05-09/7474"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-04-27",
+                        "summary": "<p>(...) Um besonders gefragte <strong>Einwanderer</strong> f\u00fcr Deutschland zu gewinnen und um eine gute Integration der Einwanderer sicherzustellen, die schon da sind, ben\u00f6tigen wir auch eine bessere Willkommenskultur. (...) Ich bin sehr froh, dass dank <strong>Mindestlohn</strong> und entsprechenden Anpassungen im Arbeitnehmer-\u00dcberlassungsgesetz diese Zust\u00e4nde bald der Vergangenheit angeh\u00f6ren werden und dann nicht l\u00e4nger den Blick verstellen k\u00f6nnen f\u00fcr die Freiz\u00fcgigkeit als gro\u00dfe Errungenschaft innerhalb der EU, die von der Generation Erasmus - darunter sehr viele Deutsche - hunderttausenfach genutzt wird. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2014-04-26",
+                "id": "6957",
+                "url": "https://www.abgeordnetenwatch.de/profile/jakob-von-weizsacker/question/2014-04-26/6957"
+            }
+        ],
+        "roles": [],
+        "sidejobs": [],
+        "votes": [
+            {
+                "date": "2015-03-05",
+                "title": "Netzneutralit\u00e4t sichern - Rettet das freie Internet!",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/petitionen/netzneutralitat-sichern-rettet-das-freie-internet",
+                "uuid": "c73d817d-e0e9-4c2b-84dc-0375e8c4934d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Kritische Neubewertung der Beziehungen zu Russland",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kritische-neubewertung-der-beziehungen-zu-russland",
+                "uuid": "34d2fd08-9bbf-4948-88c6-183864116d6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Wiederaufnahme der Friedensbem\u00fchungen im Nahen Osten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wiederaufnahme-der-friedensbemuehungen-im-nahen-osten",
+                "uuid": "0fa40696-9a07-4770-bddd-338db1509a69",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Ma\u00dfnahmen zur Fl\u00fcchtlingspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-fluechtlingspolitik",
+                "uuid": "a98d55d5-26c3-4a51-a99a-8bd0e525b628",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Hindernisse f\u00fcr soziale Unternehmen beseitigen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/hindernisse-fuer-soziale-unternehmen-beseitigen",
+                "uuid": "c0f955e0-82d9-46b4-9f16-77f508963b6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Schaffung eines wettbewerbf\u00e4higen Arbeitsmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-wettbewerbfaehigen-arbeitsmarkts",
+                "uuid": "f42b1ba1-d57a-4ee0-83e2-a83134df2ef4",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "F\u00f6rderung junger Unternehmer",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/foerderung-junger-unternehmer",
+                "uuid": "94bf3f53-5ee6-4747-a47e-c2c132156c26",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verurteilung von CIA-Foltermethoden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-von-cia-foltermethoden",
+                "uuid": "a7bfb784-f0e3-4dea-9ee5-a63024adff6f",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Kennzeichnung des Ursprungslands von Fleisch",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kennzeichnung-des-ursprungslands-von-fleisch",
+                "uuid": "1e33c664-17d7-4631-bb13-d50eea58837f",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Ausweitung des digitalen Binnenmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/ausweitung-des-digitalen-binnenmarkts",
+                "uuid": "8b59269f-b5f6-4221-b113-2b7a6a7ea708",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verl\u00e4ngerung der Senkung von Z\u00f6llen auf ukrainische Waren ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verlaengerung-der-senkung-von-zoellen-auf-ukrainische-waren",
+                "uuid": "608d1653-952d-4039-8021-61a089c3fb6e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "EU-Sicherheitspolitik im Nahen Osten und Nordafrika",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-sicherheitspolitik-im-nahen-osten-und-nordafrika",
+                "uuid": "2b962506-401b-45b7-8a4d-c3a12b35ceef",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "Expo 2015 in Mailand",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/expo-2015-mailand",
+                "uuid": "5f314d77-4e55-49d2-8f28-18356d3e1250",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Ma\u00dfnahmen zur Terrorismusbek\u00e4mpfung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-terrorismusbekaempfung",
+                "uuid": "e0cd7654-49f3-49b6-87dc-d8ec90003919",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Verurteilung der Boko Haram-Angriffe in Nigeria",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-der-boko-haram-angriffe-nigeria",
+                "uuid": "78c330d6-09c6-47a4-982f-a67146262776",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Antrag zur Bek\u00e4mpfung der Jugendarbeitslosigkeit",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/antrag-zur-bekaempfung-der-jugendarbeitslosigkeit",
+                "uuid": "4cf62b4b-59a5-4a9c-aae9-17ebf3700446",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Wahl der EU-Kommission",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wahl-der-eu-kommission",
+                "uuid": "2c27f2a1-ba90-4067-bc52-a114e55acada",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Anerkennung Pal\u00e4stinas",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anerkennung-palaestinas",
+                "uuid": "91aee230-2ac2-4bca-a90b-3c9c11ded2b3",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Kreditvergabe an die Ukraine",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kreditvergabe-die-ukraine",
+                "uuid": "dd9837cd-1699-4929-9539-7ccd6546c103",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Umsetzung der gemeinsamen Sicherheits- und Verteidigungspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-der-gemeinsamen-sicherheits-und-verteidigungspolitik",
+                "uuid": "83ca30d0-39f2-488a-b244-91a92720d57f",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Eu-Strategie zur Gleichstellung zwischen M\u00e4nnern und Frauen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-strategie-zur-gleichstellung-zwischen-maennern-und-frauen",
+                "uuid": "72c8d5e7-e7d1-4b31-99c3-99644c7adff3",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Sicherung des Urheberechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/sicherung-des-urheberechts",
+                "uuid": "fe2780f4-81e2-419d-a7f1-61776c547cfa",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Parlamentarische Empfehlung bzgl. TTIP Handelabkommen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/parlamentarische-empfehlung-bzgl-ttip-handelabkommen",
+                "uuid": "f1a0b307-e891-4e17-9e10-1e811474b2bc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Schaffung eines Europ\u00e4ischen Struktur- und Investitionsfonds (EFSI)",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-europaeischen-struktur-und-investitionsfonds",
+                "uuid": "2436eb70-9eb4-4cb6-999f-b6d2ad59782e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-12-03",
+                "title": "Gemeinsame Strategie zur Pr\u00e4vention von Radikalisierung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gemeinsame-strategie-zur-praevention-von-radikalisierung",
+                "uuid": "43b62e8f-afef-4083-a71b-753ccdbecd6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Verringerung des Lohngef\u00e4lles zwischen Frauen und M\u00e4nnern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verringerung-des-lohngefaelles-zwischen-frauen-und-maennern",
+                "uuid": "e2dfb814-8dc6-4132-b354-a4b0dffdde4b",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Schadstoffaussto\u00df mittelgro\u00dfer Verbrennungsanlagen begrenzen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schadstoffausstoss-mittelgrosser-verbrennungsanlagen-begrenzen",
+                "uuid": "03d5024e-7b73-40ff-9e69-1ac7e6cc2882",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-22",
+                "title": "Auszahlung von Griechenlandhilfen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/auszahlung-von-griechenlandhilfen",
+                "uuid": "de2c3caf-d77b-457a-8e02-73bcdb60abad",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-28",
+                "title": "Schutz geografischer Herkunftsangaben der EU auf nichtlandwirtschaftliche Erzeugnisse",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-geografischer-herkunftsangaben-der-eu-auf",
+                "uuid": "3017adbf-e55e-4914-ad2f-47744e7719f7",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-05-12",
+                "title": "Resolution zur Neuzulassung des Herbizids Glyphosat",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/resolution-zur-neuzulassung-des-herbizids-glyphosat",
+                "uuid": "20b545ab-e31f-4404-ba34-fed1f163cce2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-11-11",
+                "title": "Umsetzung des Bologna-Prozesses - Steigerung studentischer Auslandsmobilit\u00e4t ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-bologna-prozesses-steigerung-studentischer",
+                "uuid": "393d3eed-93b5-4cc8-a656-f261daa90351",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-11-19",
+                "title": "\u00c4nderung des Wahlrechts zum EU-Parlament",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aenderung-des-wahlrechts-zum-eu-parlament",
+                "uuid": "844ed2e1-303f-49bb-a63f-b7adb938593a",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-05-19",
+                "title": "Lebensmittelverschwendung",
+                "url": "https://www.abgeordnetenwatch.de/eu/petitionen/eu-verpflichtet-supermarkte-ihr-unverkauftes-essen-zu-spenden",
+                "uuid": "50cd10af-ac29-4d4b-9fb8-7e6eaee69163",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-11-24",
+                "title": "EU-Beitrittsverhandlungen mit der T\u00fcrkei einfrieren",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-beitrittsverhandlungen-mit-der-tuerkei-einfrieren",
+                "uuid": "5ec1c8eb-b80b-4a18-a0cb-c2054067ba2e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-12-01",
+                "title": "Menschenrechte und Migration in Drittl\u00e4ndern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/menschenrechte-und-migration-drittlaendern",
+                "uuid": "72d19836-8d9d-4f95-a8bb-0c0b89be5c06",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-02-05",
+                "title": "Anbau von gentechnisch ver\u00e4nderten Sojabohnen in der Europ\u00e4ischen Union",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anbau-von-gentechnisch-veraenderten-sojabohnen-der-europaeischen",
+                "uuid": "83f43a49-c047-4390-aaee-14cbe5a55525",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-04-25",
+                "title": "EU-Richtlinien \u00fcber Verwendung von Fluggastdaten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-richtlinien-ueber-verwendung-von-fluggastdaten",
+                "uuid": "9bbf91f1-b259-4dbb-bfd9-d3c3bc5f9ec1",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2017-02-17",
+                "title": "Umsetzung des Handelsabkommens CETA mit Kanada",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-handelsabkommens-ceta-mit-kanada",
+                "uuid": "f22c10c4-e5eb-481a-ae8d-9d8a42a604ba",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-09-28",
+                "title": "Unterst\u00fctzung von Frauen im digitalen Zeitalter",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/unterstuetzung-von-frauen-im-digitalen-zeitalter",
+                "uuid": "29160dca-2641-436f-b9b3-dc07b633454c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2017-09-27",
+                "title": "Strengere Transparenzstandards in der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/strengere-transparenzstandards-der-eu",
+                "uuid": "30a68fb6-4749-43c6-9f39-a1c19912cfa6",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-09-30",
+                "title": "Zugang der \u00d6ffentlichkeit zu Dokumenten aus den Jahren 2014-2015",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/zugang-der-oeffentlichkeit-zu-dokumenten-aus-den-jahren-2014-2015",
+                "uuid": "0705670c-1e29-4056-b4f2-6c2ff82a9e47",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-02-07",
+                "title": "Reform des Europawahlrechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/reform-des-europawahlrechts",
+                "uuid": "6282ec4d-e41f-4aa9-b000-ccdff599e0a2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-02-13",
+                "title": "Reform der Dublin-Verordnung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/reform-der-dublin-verordnung",
+                "uuid": "75998fad-a01d-4538-8145-5ecae20b5ec4",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-04",
+                "title": "F\u00f6rderung von Energie aus erneuerbaren Quellen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/foerderung-von-energie-aus-erneuerbaren-quellen",
+                "uuid": "de62a93e-52ef-4c52-af30-88ee2c9fdbe2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-07",
+                "title": "Leitlinien f\u00fcr die Beziehungen mit dem Vereinigten K\u00f6nigreich",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/leitlinien-fuer-die-beziehungen-mit-dem-vereinigten-koenigreich",
+                "uuid": "683bc9be-d2c9-428f-b57f-b02f22f7b81a",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-12",
+                "title": "Bek\u00e4mpfung der Terrorismusfinanzierung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/bekaempfung-der-terrorismusfinanzierung",
+                "uuid": "e558742d-efc7-47ac-bdc2-4b56ff5d4dd1",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-13",
+                "title": "Lage der Grundrechte in der EU 2016",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/lage-der-grundrechte-der-eu-2016",
+                "uuid": "fbf77ecf-2d7f-414f-83d0-3d55e6eeb186",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-14",
+                "title": " Agenda f\u00fcr die Zukunft der Weltmeere",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/agenda-fuer-die-zukunft-der-weltmeere",
+                "uuid": "13befa08-99ea-4b67-9db2-34d9e3f128a8",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-22",
+                "title": "Ein Instrument f\u00fcr europ\u00e4ische Werte zur Unterst\u00fctzung zivilgesellschaftlicher Organisationen f\u00f6rdern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/ein-instrument-fuer-europaeische-werte-zur-unterstuetzung",
+                "uuid": "5b7adca6-5b6b-45a7-a5da-d0ed94d3448d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-22",
+                "title": "Gleichstellung der Geschlechter in Handelsabkommen der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gleichstellung-der-geschlechter-handelsabkommen-der-eu",
+                "uuid": "5dcedeae-936b-4e51-8798-b6c83a65cd77",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-25",
+                "title": "Umsetzung des Siebten Umweltaktionsprogramms",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-siebten-umweltaktionsprogramms",
+                "uuid": "fdf2cb7b-4680-4015-b527-3ab21fd8a49f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-26",
+                "title": "St\u00e4rkung der Rolle von Frauen und M\u00e4dchen durch die Digitalwirtschaft",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/staerkung-der-rolle-von-frauen-und-maedchen-durch-die",
+                "uuid": "27b03a00-5b8d-4565-8e58-afafb546c255",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-26",
+                "title": "Freiheit und Pluralismus der Medien in der EU ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/freiheit-und-pluralismus-der-medien-der-eu",
+                "uuid": "7f9f7412-a2ed-4105-90ff-bc4d93ddfd23",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-27",
+                "title": "Festsetzung des Zeitraums f\u00fcr die neunte  Wahl des EU Parlaments",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/festsetzung-des-zeitraums-fuer-die-neunte-wahl-des-eu-parlaments",
+                "uuid": "896d73ab-7180-4f96-a891-f3f34d080470",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-06-27",
+                "title": "Fortschritte beim globalen Pakt f\u00fcr Fl\u00fcchtlinge",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/fortschritte-beim-globalen-pakt-fuer-fluechtlinge",
+                "uuid": "ac895b89-d823-4d68-bac8-f12f6720387f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-28",
+                "title": "Manipulation des Kilometerz\u00e4hlers in Kraftfahrzeugen",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/manipulation-des-kilometerzaehlers-kraftfahrzeugen",
+                "uuid": "23d630ef-fd10-4f95-8caa-254d08280541",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-28",
+                "title": "Cyber Abwehr",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/cyber-abwehr",
+                "uuid": "29540433-69b2-4a60-9d7b-5bf47bed9ee8",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-06-28",
+                "title": "Schutz unbegleiteter minderj\u00e4hriger Gefl\u00fcchteter",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-unbegleiteter-minderjaehriger-gefluechteter",
+                "uuid": "5901f8e8-6515-4b71-8b49-0b6a93c87279",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-04",
+                "title": "Weltweites Verbot von Tierversuchen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/weltweites-verbot-von-tierversuchen",
+                "uuid": "299d2467-520f-4d6c-9273-93b2f95719f8",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-05",
+                "title": "Verletzung der Rechte indigener V\u00f6lker",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verletzung-der-rechte-indigener-voelker",
+                "uuid": "22c576c1-0bcb-4107-acce-510f147e66dc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-05",
+                "title": "Klimadiplomatie",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/klimadiplomatie",
+                "uuid": "5bc9e83c-7c2a-4771-8872-6efcbeb00e8d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-27",
+                "title": " EU-Urheberrechtsreform",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-urheberrechtsreform",
+                "uuid": "e0573489-7fb9-45f0-93ec-b6f4f33c7d4b",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-07-16",
+                "title": "Abkommen zwischen der EU und Aserbaidschan",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/abkommen-zwischen-der-eu-und-aserbaidschan",
+                "uuid": "b9ff31f2-2c6f-4747-bf1a-816275aef4dc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-11",
+                "title": "Wahlrechtsreform EU Parlament",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wahlrechtsreform-eu-parlament",
+                "uuid": "79827e13-54e9-48c4-a249-c2190a01e5b6",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-18",
+                "title": "Externe EU-Strategie gegen Fr\u00fch- und Zwangsverheiratung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/externe-eu-strategie-gegen-frueh-und-zwangsverheiratung",
+                "uuid": "d8c26d11-f8ff-419f-a200-dfa7e5d9696e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-19",
+                "title": "Unterst\u00fctzung europ\u00e4ischer Investitionsvorhaben im Iran",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/unterstuetzung-europaeischer-investitionsvorhaben-im-iran",
+                "uuid": "8828c12c-acef-4a91-bf01-fa1decad442f",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-07-19",
+                "title": "Die Rolle der St\u00e4dte im institutionellen Gef\u00fcge der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/die-rolle-der-staedte-im-institutionellen-gefuege-der-eu",
+                "uuid": "a20356f9-a8f6-4093-ab58-1cf336d4f871",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-20",
+                "title": "Strafrechtliche Ma\u00dfnahmen gegen die Beihilfe zu unerlaubter Einreise",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/strafrechtliche-massnahmen-gegen-die-beihilfe-zu-unerlaubter",
+                "uuid": "0770479e-7b07-4b2b-acd0-6eb16890d047",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-09-12",
+                "title": "EU-Urheberrechtsreform - Uploadfilter",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-urheberrechtsreform-uploadfilter",
+                "uuid": "6df607b7-8f25-47d5-903e-36f6560f592c",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2018-09-13",
+                "title": "Rechtsstaatsverfahren gegen Ungarn ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/rechtsstaatsverfahren-gegen-ungarn",
+                "uuid": "e581a2f9-992a-401e-b488-732037fb9028",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-10-29",
+                "title": "Verbot von Einwegplastik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verbot-von-einwegplastik",
+                "uuid": "277599c2-6d75-4593-9a33-dd94d25871dd",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-10-29",
+                "title": "Verbesserung des europ\u00e4ischen Trinkwassers",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/verbesserung-des-europaeischen-trinkwassers",
+                "uuid": "5a8c8da9-aec3-4170-9d52-8f051e68123f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-10-30",
+                "title": "Statut f\u00fcr Sozial- und Solidarunternehmen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/statut-fuer-sozial-und-solidarunternehmen",
+                "uuid": "911f414b-f2cb-4656-9a38-cfb189a5e594",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-01",
+                "title": "Entsendung von Arbeitnehmern im Rahmen der Erbringung von Dienstleistungen ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/entsendung-von-arbeitnehmern-im-rahmen-der-erbringung-von",
+                "uuid": "eb867da0-2d64-4489-a1f7-1cb1786da00c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-05",
+                "title": "Nutzung der Daten von Facebook-Usern durch Cambridge Analytica",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/nutzung-der-daten-von-facebook-usern-durch-cambridge-analytica",
+                "uuid": "98056b77-4079-4c08-b4a7-69036c4bcaf5",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-11-05",
+                "title": "Zunahme neofaschistischer Gewalttaten in Europa",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/zunahme-neofaschistischer-gewalttaten-europa",
+                "uuid": "3c2af2c6-bac0-4374-ae06-ce80d7948180",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-06",
+                "title": "Schutz der finanziellen Interessen der EU ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-der-finanziellen-interessen-der-eu",
+                "uuid": "7365b1f6-26f2-4241-83d2-12c712fbf2a4",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-06",
+                "title": "Aufbau der Infrastruktur f\u00fcr alternative Kraftstoffe in der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aufbau-der-infrastruktur-fuer-alternative-kraftstoffe-der-eu",
+                "uuid": "9deacc77-87c2-4830-a3d6-10f2effb82aa",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-11-14",
+                "title": "Mindestnormen f\u00fcr den Schutz von Minderheiten in der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/mindestnormen-fuer-den-schutz-von-minderheiten-der-eu",
+                "uuid": "c8ae2d7c-7a0b-459c-99c6-7ddcb9f22adb",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-15",
+                "title": "Entwicklungshilfe der EU f\u00fcr das Bildungswesen ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/entwicklungshilfe-der-eu-fuer-das-bildungswesen",
+                "uuid": "e784ad92-3bf7-45b4-884d-e8c7320dd90c",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-11-13",
+                "title": "EU-Japan Freihandelsabkommen (JEFTA)",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-japan-freihandelsabkommen-jefta",
+                "uuid": "456abc02-d2e1-4600-8727-f374dbedb3d3",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-17",
+                "title": "Verbesserung der Gleichstellung der Geschlechter ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verbesserung-der-gleichstellung-der-geschlechter",
+                "uuid": "9183f4af-06fa-42ad-8bc2-0e412ff32f75",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-18",
+                "title": "Rolle des Deutschen Jugendamts bei grenz\u00fcberschreitenden Familienangelegenheiten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/rolle-des-deutschen-jugendamts-bei-grenzueberschreitenden",
+                "uuid": "06056f7f-4eba-45df-959d-ffeb94e950ec",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-12-19",
+                "title": "Wie geht es mit der Welthandelsorganisation weiter?",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wie-geht-es-mit-der-welthandelsorganisation-weiter",
+                "uuid": "1b17aff5-1e52-441b-b34f-c3857cecd1b2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-20",
+                "title": "Digitales Europa",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/digitales-europa",
+                "uuid": "035b8ba0-376f-48cf-93ce-d6b395c7811b",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-17",
+                "title": "Visa aus humanit\u00e4ren Gr\u00fcnden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/visa-aus-humanitaeren-gruenden",
+                "uuid": "cfad47a6-dc9f-40a4-926c-61040ea27f20",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-18",
+                "title": "Errichtung des Europ\u00e4ischen Verteidigungsfonds",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/errichtung-des-europaeischen-verteidigungsfonds",
+                "uuid": "55617778-d77e-4532-be49-1cf9f1e168f4",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2018-12-18",
+                "title": "Haushaltsplan 2019",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/haushaltsplan-2019",
+                "uuid": "bd8e7e4b-6fab-4bdb-aa95-0598ad7de73c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-20",
+                "title": "Angemessenheit des Datenschutzniveaus in Japan ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/angemessenheit-des-datenschutzniveaus-japan",
+                "uuid": "c4bfb817-ccc5-425f-b00b-cc43756ccf5d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-18",
+                "title": "Weltraumprogramm der Europ\u00e4ischen Union",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/weltraumprogramm-der-europaeischen-union",
+                "uuid": "4ce57300-12e9-4079-911a-3bf65871298e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-20",
+                "title": "Persistente organische Schadstoffe",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/persistente-organische-schadstoffe",
+                "uuid": "c0e9abc0-cd9f-41ad-b41d-2e8c8c55dd79",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-20",
+                "title": "Assoziierungsabkommen zwischen EU und Ukraine - Wie geht es weiter?",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/assoziierungsabkommen-zwischen-eu-und-ukraine-wie-geht-es-weiter",
+                "uuid": "9dbbef87-3615-47e9-8833-f0546631ab79",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-21",
+                "title": "Transparenz und Nachhaltigkeit in der Lebensmittelkette ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/transparenz-und-nachhaltigkeit-der-lebensmittelkette",
+                "uuid": "209e4dd1-0634-45a3-a549-45dd274a0b0e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-01-02",
+                "title": "Beschleunigte Beilegung von Handelsstreitigkeiten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/beschleunigte-beilegung-von-handelsstreitigkeiten",
+                "uuid": "81be5756-48ca-4d46-a437-1134480aeba8",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-01-04",
+                "title": "Situation von Frauen mit Behinderungen st\u00e4rken",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/situation-von-frauen-mit-behinderungen-staerken",
+                "uuid": "d2e26a08-e58f-4fbb-8cce-641ff0298d72",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-01-15",
+                "title": "Schutz der akademischen Freiheit ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-der-akademischen-freiheit",
+                "uuid": "482a257f-d807-494a-98ff-b94b0626582a",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-01-16",
+                "title": "Gender Mainstreaming",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gender-mainstreaming",
+                "uuid": "8c23a915-76f3-4599-adee-16ddbe5e041f",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2019-01-16",
+                "title": "Gleichstellung der Geschlechter in der Steuerpolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/gleichstellung-der-geschlechter-in-der-steuerpolitik",
+                "uuid": "0aa8e687-5c86-4150-a0b3-0d7d46d22fc0",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2019-01-17",
+                "title": "Autonomes Fahren im europ\u00e4ischen Verkehrswesen ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/autonomes-fahren-im-europaeischen-verkehrswesen",
+                "uuid": "0121929c-458c-44f3-af9a-67a546905497",
+                "vote": "nicht beteiligt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1553 @@
+{
+    "profile": {
+        "committees": [],
+        "constituency": {
+            "name": "Bundesliste",
+            "number": "1",
+            "result": null,
+            "uuid": "8de5b1d9-424a-4690-82da-6edd94c42fce",
+            "won": false
+        },
+        "fraction": "SPD (S&D)",
+        "list": {
+            "name": "Bundesliste",
+            "position": "1",
+            "uuid": "e5aaaafc-1fc4-45b7-a1ae-e9ba2717f451",
+            "won": true
+        },
+        "meta": {
+            "answers": 51,
+            "edited": "2017-02-17 11:21",
+            "questions": 106,
+            "standard_replies": 0,
+            "status": "1",
+            "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/archive/157436",
+            "username": "martin-schulz-1",
+            "uuid": "d623efb5-7afc-4b56-a794-dfe6c1def0f9"
+        },
+        "parliament": {
+            "name": "EU-Parlament 2014-2019",
+            "retired": "2017-02-10",
+            "uuid": "18ea3bc2-8348-4824-8695-e0c2864fd126"
+        },
+        "party": "SPD",
+        "personal": {
+            "birthyear": "1955",
+            "degree": null,
+            "education": "Buchh\u00e4ndler",
+            "first_name": "Martin",
+            "gender": "male",
+            "last_name": "Schulz",
+            "location": {
+                "city": "Alsdorf",
+                "country": "DE",
+                "postal_code": "52477",
+                "state": "NW"
+            },
+            "picture": {
+                "copyright": "",
+                "url": "https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/schulz_martin.jpg"
+            },
+            "profession": "MdEP"
+        },
+        "questions": [
+            {
+                "answers": [],
+                "category": "Sozialpolitik",
+                "date": "2017-02-04",
+                "id": "24060",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2017-02-04/24060"
+            },
+            {
+                "answers": [],
+                "category": "Sozialpolitik",
+                "date": "2017-02-01",
+                "id": "24052",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2017-02-01/24052"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2017-02-01",
+                "id": "24051",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2017-02-01/24051"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2017-01-31",
+                "id": "24050",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2017-01-31/24050"
+            },
+            {
+                "answers": [],
+                "category": "Arbeit",
+                "date": "2017-01-30",
+                "id": "24047",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2017-01-30/24047"
+            },
+            {
+                "answers": [],
+                "category": "Sozialpolitik",
+                "date": "2017-01-29",
+                "id": "24046",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2017-01-29/24046"
+            },
+            {
+                "answers": [],
+                "category": "Sozialpolitik",
+                "date": "2017-01-29",
+                "id": "24044",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2017-01-29/24044"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2017-01-29",
+                "id": "24043",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2017-01-29/24043"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2017-01-29",
+                "id": "24041",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2017-01-29/24041"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2017-01-28",
+                "id": "24038",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2017-01-28/24038"
+            },
+            {
+                "answers": [],
+                "category": "Sozialpolitik",
+                "date": "2017-01-25",
+                "id": "24028",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2017-01-25/24028"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2017-01-04",
+                "id": "23932",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2017-01-04/23932"
+            },
+            {
+                "answers": [],
+                "category": "Umwelt",
+                "date": "2016-12-27",
+                "id": "23913",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-12-27/23913"
+            },
+            {
+                "answers": [],
+                "category": "Gesundheit",
+                "date": "2016-12-22",
+                "id": "23904",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-12-22/23904"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2016-12-21",
+                "id": "23900",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-12-21/23900"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2016-12-07",
+                "id": "23871",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-12-07/23871"
+            },
+            {
+                "answers": [],
+                "category": "Sozialpolitik",
+                "date": "2016-11-26",
+                "id": "23833",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-11-26/23833"
+            },
+            {
+                "answers": [],
+                "category": "Internationales",
+                "date": "2016-11-24",
+                "id": "23823",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-11-24/23823"
+            },
+            {
+                "answers": [],
+                "category": "Umwelt",
+                "date": "2016-11-13",
+                "id": "23757",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-11-13/23757"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2016-10-29",
+                "id": "23645",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-10-29/23645"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-10-25",
+                        "summary": "<p>(...) Zur <strong>Feier des Europatags</strong> \u00f6ffnen die EU-Institutionen in Br\u00fcssel und Stra\u00dfburg dementsprechend allj\u00e4hrlich Anfang Mai ihre Tore. Dar\u00fcber hinaus bieten die EU-Vertretungen zu diesem Anlass nicht nur in den Mitgliedstaaten der Europ\u00e4ischen Union, sondern ganz bewusst weltweit ein abwechslungsreiches Programm f\u00fcr alle Altersgruppen. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2016-10-09",
+                "id": "23615",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-10-09/23615"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-01-17",
+                        "summary": "<p>(...) Seitdem ist zum Beispiel vorgeschrieben, dass nicht nur der Inhalt des Verhandlungsmandates, sondern auch die Entscheidung \u00fcber die Er\u00f6ffnung von Verhandlungen und die Zusammensetzung des Verhandlungsteams im verantwortlichen Ausschuss \u00f6ffentlich abgestimmt werden. Das Verhandlungsteam des Parlamentes wird gef\u00fchrt vom Berichterstatter unter dem Vorsitz des Ausschussvorsitzenden und umfasst die <strong>Schattenberichterstatter aller politischen Fraktionen</strong>. Als Berichterstatter und Schattenberichterstatter spielen sie eine wichtige Rolle w\u00e4hrend des gesamten Gesetzgebungsverfahrens und sind daher bereits zu einem fr\u00fcheren Zeitpunkt als Ansprechpartner auch bei Interessenvertretern besonders gefragt und nicht erst ab dem Beginn von Verhandlungen mit dem Rat. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2016-10-07",
+                "id": "23609",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-10-07/23609"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-09-08",
+                "id": "23398",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-09-08/23398"
+            },
+            {
+                "answers": [],
+                "category": "Verbraucherschutz",
+                "date": "2016-07-26",
+                "id": "22325",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-07-26/22325"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-09-08",
+                        "summary": "<p>(...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-07-05",
+                "id": "22279",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-07-05/22279"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-07-25",
+                        "summary": "<p>(...) Gerne verweise wir Sie auf den Beitrag Martin Schulz' zu <strong>CETA</strong> auf seiner Website: <a href=\"http://martin-schulz.eu/aktuelles/2016/07/06/martin-schulz-%C3%BCber-ceta/\">http://martin-schulz.eu/aktuelles/2016/07/06/martin-schulz-%C3%BCber-ceta/</a> (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-06-30",
+                "id": "22271",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-06-30/22271"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-07-25",
+                        "summary": "<p>(...) Gerne verweise wir Sie auf den Beitrag Martin Schulz' zu <strong>CETA</strong> auf seiner Website: <a href=\"http://martin-schulz.eu/aktuelles/2016/07/06/martin-schulz-%C3%BCber-ceta/\">http://martin-schulz.eu/aktuelles/2016/07/06/martin-schulz-%C3%BCber-ceta/</a> (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-06-30",
+                "id": "22270",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-06-30/22270"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-10-19",
+                        "summary": "<p>(...) Schon bisher stand es den EU-Staaten frei, den <strong>Einsatz von Glyphosat-basierten Pflanzenschutzmitteln</strong> auf ihrem Gebiet einzuschr\u00e4nken. Die L\u00e4nder k\u00f6nnen den Einsatz von Glyphosat auf ihrem Gebiet auch ganz verbieten, selbst wenn der Wirkstoff  EU-weit zugelassen ist. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-06-29",
+                "id": "22265",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-06-29/22265"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-07-19",
+                        "summary": "<p>(...) Artikel 50 (Absatz 3) EUV regelt das Verfahren zur notwendigen  Neugestaltung der Beziehungen zwischen der EU und einem austrittswilligen Mitgliedstaat folgenderma\u00dfen: \u201eDie Vertr\u00e4ge finden auf den betroffenen Staat ab dem Tag des Inkrafttretens des Austrittsabkommens oder andernfalls zwei Jahre nach der in Absatz 2 genannten Mitteilung keine Anwendung mehr, es sei denn, der Europ\u00e4ische Rat beschlie\u00dft im Einvernehmen mit dem betroffenen Mitgliedstaat einstimmig, diese Frist zu verl\u00e4ngern.\u201c Bis zu dem in Artikel 50(3) EUV genannten Zeitpunkt bleiben daher die <strong>Rechte und Pflichten des austrittswilligen Mitgliedstaates</strong> grunds\u00e4tzlich aufrecht. Dementsprechend kommt es insoweit auch nicht zum selbstt\u00e4tigen Erl\u00f6schen der Mandate von Abgeordneten, die im Vereinigten K\u00f6nigreich anl\u00e4sslich der letzten Europawahlen ins Europ\u00e4ische Parlament gew\u00e4hlt wurden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2016-06-28",
+                "id": "22260",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-06-28/22260"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2016-06-25",
+                "id": "22249",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-06-25/22249"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-07-19",
+                        "summary": "<p>(...) Zum sozialen Aspekt, den Sie angesprochen haben, glaube ich, wie schon an anderer Stelle ausgef\u00fchrt, dass auch heute noch der Zugang zu Bildung, Gesundheit, die progressive Besteuerung, die Mitbestimmung der Arbeitnehmer sowie die Renten- und Arbeitslosenversicherung grundlegende Aspekte der sozialen Gerechtigkeit sind. Die Sozialpolitik liegt zwar vorrangig in den H\u00e4nden der einzelstaatlichen Regierungen, aber ich glaube, dass die Europ\u00e4ische Union eine wichtige Rolle bei der Verwirklichung der <strong>sozialen Dimension der Wirtschafts- und W\u00e4hrungsunion </strong>spielen kann und muss, und dass den Sozialpartnern in dem Prozess eine entscheidende Rolle zukommt. Die EU muss beweisen, dass sie f\u00fcr ihre B\u00fcrgerinnen und B\u00fcrger sorgt, und muss ihr Versprechen von Frieden, Wohlstand und Fortschritt erneut einl\u00f6sen. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2016-06-24",
+                "id": "22244",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-06-24/22244"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2016-06-03",
+                "id": "22177",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-06-03/22177"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-06-01",
+                        "summary": "<p>(...) vielen Dank f\u00fcr Ihre Frage betreffend die Abstimmung im Plenum des Europ\u00e4ischen Parlaments \u00fcber die von der Europ\u00e4ischen Kommission vorgeschlagene Verl\u00e4ngerung der Zulassung des Wirkstoffs <strong>Glyphosat</strong>. (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2016-05-18",
+                "id": "22147",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-05-18/22147"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-10-20",
+                        "summary": "<p>(...) Im Zuge des f\u00fcr diesen Richtlinienvorschlag geltenden Mitentscheidungsverfahrens kann eine verbindliche \u00c4nderung der zur \u00dcberarbeitung anstehenden <strong>Feuerwaffenrichtlinie</strong> von den beiden Gesetzgebungsorganen der EU, n\u00e4mlich dem Europ\u00e4ischen Parlament und dem Rat der Europ\u00e4ischen Union, nur gemeinsam verabschiedet werden. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2016-04-21",
+                "id": "22072",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-04-21/22072"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-05-11",
+                        "summary": "<p>(...) Vor dem Hintergrund ernsthafter Bedenken \u00fcber die krebserregenden und hormonellen Auswirkungen von Glyphosat fordern die Abgeordneten in dieser Entschlie\u00dfung, die mit 374 Stimmen bei 225 Gegenstimmen und 102 Enthaltungen angenommen wurde, die Kommission auch auf, insbesondere den nichtprofessionellen Einsatz von Glyphosat nicht zu genehmigen und au\u00dferdem  rasch  eine unabh\u00e4ngige \u00dcberpr\u00fcfung der Gesamttoxizit\u00e4t und der Einstufung von <strong>Glyphosat</strong> auf der Grundlage s\u00e4mtlicher verf\u00fcgbaren wissenschaftlichen Belege einzuleiten, einschlie\u00dflich der Belege f\u00fcr die Karzinogenit\u00e4t von Glyphosat und f\u00fcr m\u00f6gliche endokrinsch\u00e4digende Eigenschaften. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2016-04-13",
+                "id": "22032",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-04-13/22032"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-05-11",
+                        "summary": "<p>(...) Vor dem Hintergrund ernsthafter Bedenken \u00fcber die krebserregenden und hormonellen Auswirkungen von Glyphosat fordern die Abgeordneten in dieser Entschlie\u00dfung, die mit 374 Stimmen bei 225 Gegenstimmen und 102 Enthaltungen angenommen wurde, die Kommission auch auf, insbesondere den nichtprofessionellen Einsatz von <strong>Glyphosat</strong> nicht zu genehmigen und au\u00dferdem  rasch  eine unabh\u00e4ngige \u00dcberpr\u00fcfung der Gesamttoxizit\u00e4t und der Einstufung von Glyphosat auf der Grundlage s\u00e4mtlicher verf\u00fcgbaren wissenschaftlichen Belege einzuleiten, einschlie\u00dflich der Belege f\u00fcr die Karzinogenit\u00e4t von Glyphosat und f\u00fcr m\u00f6gliche endokrinsch\u00e4digende Eigenschaften. (...)</p>"
+                    }
+                ],
+                "category": "Agrarpolitik",
+                "date": "2016-04-13",
+                "id": "22031",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-04-13/22031"
+            },
+            {
+                "answers": [],
+                "category": "Internationales",
+                "date": "2016-03-23",
+                "id": "21959",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-03-23/21959"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-02-23",
+                        "summary": "<p>(...) <strong>Die EU-Au\u00dfen- und Sicherheitspolitik </strong>wurde \u00fcber die Jahre schrittweise entwickelt und erm\u00f6glicht es der EU, auf der internationalen B\u00fchne mit einer Stimme zu sprechen. Sie hat vor allem folgende Ziele: (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2016-01-10",
+                "id": "20033",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-01-10/20033"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-02-23",
+                        "summary": "<p>(...) Die Europ\u00e4ische Kommission hat am 18. November 2015 ein Ma\u00dfnahmenpaket vorgelegt, das darauf abzielt, die Mitgliedstaaten bei ihren Bem\u00fchungen, <strong>die B\u00fcrger Europas zu sch\u00fctzen und Kriminelle und Terroristen an der Beschaffung von Waffen zu hindern</strong>, zu unterst\u00fctzen. Damit soll die Umsetzung der bereits im April 2015 angenommenen Europ\u00e4ischen Sicherheitsagenda beschleunigt werden. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-01-07",
+                "id": "20022",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-01-07/20022"
+            },
+            {
+                "answers": [],
+                "category": "Au\u00dfenpolitik",
+                "date": "2016-01-04",
+                "id": "20008",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2016-01-04/20008"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-12-06",
+                "id": "19961",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-12-06/19961"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2015-12-03",
+                "id": "19952",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-12-03/19952"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-02-25",
+                        "summary": "<p>(...) Die Europ\u00e4ische Kommission hat am 18. November 2015 ein Ma\u00dfnahmenpaket vorgelegt, das darauf abzielt, die Mitgliedstaaten bei ihren Bem\u00fchungen, die B\u00fcrger Europas zu sch\u00fctzen und Kriminelle und <strong>Terroristen an der Beschaffung von Waffen zu hindern</strong>, zu unterst\u00fctzen. Damit soll die Umsetzung der bereits im April 2015 angenommenen Europ\u00e4ischen Sicherheitsagenda angesichts der aktuellen Ereignisse  beschleunigt werden. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-11-27",
+                "id": "19914",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-11-27/19914"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-12-08",
+                        "summary": "<p>(...) Dementsprechend forderte das Parlament auch die Kommission auf, einen Legislativvorschlag zur \u00dcberpr\u00fcfung der Richtlinie 2001/29/EG zur Harmonisierung bestimmter Aspekte des Urheberrechts und<strong>Urheberrechts</strong>en <strong>Schutzrechte</strong> in der Informationsgesellschaft vorzulegen und darin eine Bestimmung zur vollst\u00e4ndigen Harmonisierung von Ausnahmen und Beschr\u00e4nkungen vorzusehen, unter anderem in Bezug auf Privatkopien. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-11-16",
+                "id": "19865",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-11-16/19865"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-11-30",
+                        "summary": "<p>(...) 1951, nachdem der Krieg Millionen Menschen in Europa zu Fl\u00fcchtlingen gemacht hatte, wurde in Genf eine Konvention verabschiedet, die jedem, der in seinem Land in \"begr\u00fcndeter Furcht vor Verfolgung\" lebt, Anspruch auf <strong>Schutz als Fl\u00fcchtling</strong> zuerkennt. (...) Entscheidend ist jedoch, dass die <strong>verbindlichen Umsiedlungsbeschl\u00fcsse</strong> umgesetzt und das gesamte System auf eine dauerhafte Grundlage gestellt wird, sodass Beschl\u00fcsse zur Umsiedlung oder R\u00fcckf\u00fchrung am Ort des Ersteintritts gefasst werden k\u00f6nnen und das derzeitige Chaos der Sekund\u00e4rmigration vermieden wird. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-11-06",
+                "id": "19837",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-11-06/19837"
+            },
+            {
+                "answers": [],
+                "category": "Soziales",
+                "date": "2015-10-28",
+                "id": "19815",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-10-28/19815"
+            },
+            {
+                "answers": [],
+                "category": "Sozialpolitik",
+                "date": "2015-10-27",
+                "id": "19814",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-10-27/19814"
+            },
+            {
+                "answers": [],
+                "category": "Wirtschaft",
+                "date": "2015-10-12",
+                "id": "19765",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-10-12/19765"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-10-06",
+                        "summary": "<p>(...) Das Europ\u00e4ische Parlament h\u00e4lt es daher f\u00fcr absolut vorrangig, dass die EU und ihre Mitgliedstaaten <strong>sichere und legale Wege f\u00fcr Fl\u00fcchtlinge schaffen</strong>, wie etwa humanit\u00e4re Korridore und Visa aus humanit\u00e4ren Gr\u00fcnden. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-09-15",
+                "id": "19673",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-09-15/19673"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-23",
+                        "summary": "<p>(...) Da alle EU-L\u00e4nder Mitglieder des IWF sind, haben sie auch das Recht, dessen Hilfe zu beantragen. So haben im \u00dcbrigen auch <strong>mehrere nicht dem Euroraum angeh\u00f6rige EU-L\u00e4nder bereits Beistand erhalten</strong>, der von der EU in Zusammenarbeit mit dem IWF gew\u00e4hrt wurde. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-09-05",
+                "id": "19537",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-09-05/19537"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-22",
+                        "summary": "<p>(...) Bislang entscheiden in den Mitgliedstaaten der Europ\u00e4ischen Union allein die nationalen Beh\u00f6rden, ob ein Land <strong>Fl\u00fcchtlinge</strong> aus einem Kriegsgebiet aufnimmt und Asyl gew\u00e4hrt. (...) Das Europ\u00e4ische Parlament hat wiederholt auf die Notwendigkeit eines ganzheitlichen, ganzheitlichenstig angelegten Ansatzes der EU f\u00fcr Migration hingewiesen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-09-02",
+                "id": "19464",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-09-02/19464"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-23",
+                        "summary": "<p>(...) Darin verlangt das Europ\u00e4ische Parlament von der Kommission, \"eine verbindliche <strong>Quote </strong>f\u00fcr die <strong>Aufteilung von Asylbewerbern</strong> auf alle Mitgliedstaaten festzulegen\", und fordert gleichzeitig die Mitgliedstaaten auf, \"h\u00f6here Beitr\u00e4ge zu bestehenden Neuansiedlungsprogrammen zu leisten, insbesondere diejenigen Mitgliedstaaten, die \u00fcberhaupt keine Beitr\u00e4ge geleistet haben\". (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-08-27",
+                "id": "19324",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-08-27/19324"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-22",
+                        "summary": "<p>(...) Es ist auch nicht fair, dass eine kleine Zahl von L\u00e4ndern in Mittel- und Nordeuropa die Mehrheit der Fl\u00fcchtlinge aufnimmt. Wir brauchen ein System, um die <strong>Fl\u00fcchtlinge gerechter</strong> zu verteilen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-08-22",
+                "id": "19231",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-08-22/19231"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2015-08-11",
+                "id": "18843",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-08-11/18843"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-10-16",
+                        "summary": "<p>(...) Es stimmt, dass E-Zigaretten eine relativ neue Produktkategorie sind und daher ihre gesundheitlichen Langzeitwirkungen noch nicht bekannt sind. Allerdings ist Nikotin eine suchterzeugende und toxische Substanz und deshalb wurden f\u00fcr <strong>nikotinhaltige E-Zigaretten</strong> Sicherheits- und Qualit\u00e4tsanforderungen festgelegt. Produkte, die kein Nikotin enthalten, fallen nicht in den Regelungsbereich der Richtlinie. (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2015-08-07",
+                "id": "18837",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-08-07/18837"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-05",
+                        "summary": "<p>(...) Die bestehende Situation, geregelt im geltenden EU-Urheberrecht, \u00fcberl\u00e4sst es den Mitgliedstaaten, eine Klausel zur \"<strong>Panoramafreiheit</strong>\" in die nationalen Bestimmungen aufzunehmen. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-07-07",
+                "id": "18699",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-07-07/18699"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2015-07-05",
+                "id": "18696",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-07-05/18696"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2015-07-03",
+                "id": "18691",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-07-03/18691"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-06",
+                        "summary": "<p>(...) Die bestehende Situation, geregelt im geltenden EU-Urheberrecht, \u00fcberl\u00e4sst es den Mitgliedstaaten, eine Klausel zur <strong>\"Panoramafreiheit\"</strong> in die nationalen Bestimmungen aufzunehmen. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-06-30",
+                "id": "18678",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-06-30/18678"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-05",
+                        "summary": "<p>(...) Hinsichtlich des Rechts, Abbildungen und Fotografien von Werken (z.B. Geb\u00e4ude oder Kunstwerke) im \u00f6ffentlichen Raum anzufertigen und zu ver\u00f6ffentlichen, hat das Parlament in seiner Entschlie\u00dfung den Vorschlag im <strong>Entschlie\u00dfungsentwurf abgelehnt</strong>, dass die gewerbliche Nutzung solcher Abbildungen immer an die vorherige Einwilligung der Urheber oder sonstigen Bevollm\u00e4chtigten gekn\u00fcpft sein sollte. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-29",
+                "id": "18660",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-06-29/18660"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-06",
+                        "summary": "<p>(...) Die bestehende Situation, geregelt im geltenden EU-Urheberrecht, \u00fcberl\u00e4sst es den Mitgliedstaaten, eine Klausel zur \"<strong>Panoramafreiheit</strong>\" in die nationalen Bestimmungen aufzunehmen. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2015-06-29",
+                "id": "18657",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-06-29/18657"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-06",
+                        "summary": "<p>(...) Die bestehende Situation, geregelt im geltenden EU-Urheberrecht, \u00fcberl\u00e4sst es den Mitgliedstaaten, eine Klausel zur <strong>\"Panoramafreiheit\"</strong> in die nationalen Bestimmungen aufzunehmen. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2015-06-27",
+                "id": "18646",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-06-27/18646"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-06",
+                        "summary": "<p>(...) Die bestehende Situation, geregelt im geltenden EU-Urheberrecht, \u00fcberl\u00e4sst es den Mitgliedstaaten, eine Klausel zur \"<strong>Panoramafreiheit</strong>\" in die nationalen Bestimmungen aufzunehmen. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2015-06-25",
+                "id": "18635",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-06-25/18635"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-13",
+                "id": "18593",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-06-13/18593"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2015-06-12",
+                "id": "18589",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-06-12/18589"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-23",
+                        "summary": "<p>(...) In erster Linie obliegt es den nationalen Verwaltungs- und Rechtsprechungsinstanzen, die Einhaltung des Unionsrechts durch die Beh\u00f6rden der Mitgliedstaaten zu gew\u00e4hrleisten. Im Bereich <strong>Kinder- und Jugendschutz </strong>hat jeder Mitgliedstaat seine rechtlichen Regularien. So ist in Deutschland die Werbung f\u00fcr alle Bereiche und Werbetr\u00e4ger detailliert geregelt, indem ein besonders strenger Ma\u00dfstab f\u00fcr Werbemassnahmen in Bezug auf den Einsatz von Kindern und Jugendlichen angelegt wird. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2015-06-10",
+                "id": "18583",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-06-10/18583"
+            },
+            {
+                "answers": [],
+                "category": "Internationales",
+                "date": "2015-06-09",
+                "id": "18581",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-06-09/18581"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-09",
+                "id": "18580",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-06-09/18580"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2015-06-09",
+                "id": "18579",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-06-09/18579"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-06",
+                        "summary": "<p>(...) Einer der zentralen Bestandteile des Europ\u00e4ischen Binnenmarktes ist die Arbeitnehmerfreiz\u00fcgigkeit. Daraus resultiert auch, <strong>dass in einem anderen Mitgliedstaat erworbene Rentenanspr\u00fcche in vollem Umfang wahrgenommen werden k\u00f6nnen</strong>. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-08",
+                "id": "18573",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-06-08/18573"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-10-01",
+                        "summary": "<p>(...) Dazu brauchen wir einen ganzheitlichen Ansatz der EU, durch den die Koh\u00e4renz zwischen ihrer Innen- und ihrer Au\u00dfenpolitik gest\u00e4rkt wird, insbesondere, was ihre Gemeinsame Au\u00dfen- und Sicherheitspolitik, ihre Entwicklungspolitik und ihre Migrationspolitik betrifft. Bisher gibt es eine solche <strong>EU-Migrationspolitik</strong> nicht. Es gibt vielmehr einen Flickenteppich aus 28 verschiedenen einzelstaatlichen Systemen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-05-26",
+                "id": "18528",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-05-26/18528"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-05",
+                        "summary": "<p>(...) Das Europ\u00e4ische Parlament verfolgt in diesem Zusammenhang intensiv und kritisch Anwendung, \u00dcberwachung und Fortentwicklung der geltenden <strong>artenschutzrechtlichen Bestimmungen</strong>. (...) Das Parlament hat daher bereits in seiner <strong>Entschlie\u00dfung </strong>vom 6. Februar 2013 <a href=\"http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P7-TA-2013-0047+0+DOC+XML+V0//DE&amp;language=DE\">http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P7-T...</a> die EU aufgefordert, sich auf internationaler Ebene gegen die illegale T\u00f6tung von <strong>Elefanten und Nash\u00f6rnern</strong> einsetzen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-05-17",
+                "id": "18477",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-05-17/18477"
+            },
+            {
+                "answers": [],
+                "category": "Verbraucherschutz",
+                "date": "2015-05-07",
+                "id": "18380",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-05-07/18380"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-06",
+                        "summary": "<p>(...) Ich habe den Staats- und Regierungschefs der EU-L\u00e4nder beim au\u00dferordentlichen Europ\u00e4ischen Gipfel am 23. April 2015 deutlich gesagt, dass sich das <strong>Mittelmeer in einen Friedhof</strong> verwandelt, weil die Innenminister ihrer L\u00e4nder seit 20 Jahren nicht in der Lage oder nicht willens waren, eine echte europ\u00e4ische Asyl- und Migrationspolitik zu entwickeln. (...)</p>"
+                    }
+                ],
+                "category": "Soziales",
+                "date": "2015-04-20",
+                "id": "18119",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-04-20/18119"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-06",
+                        "summary": "<p>(...) Unsere dringendste Aufgabe muss es sein, <strong>Leben auf See</strong> zu retten. Das Europ\u00e4ische Parlament hat daher die EU und die Mitgliedstaaten Ende April nochmals eindringlich aufgefordert, alles in ihren Kr\u00e4ften Stehende zu tun, um weitere Todesf\u00e4lle auf See zu verhindern. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-04-20",
+                "id": "18102",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-04-20/18102"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-13",
+                        "summary": "<p>(...) Ein weiteres von der Agentur betreutes EU-Programm, <strong>Erasmus</strong>+, bietet Europ\u00e4erinnen und Europ\u00e4ern die Chance, pers\u00f6nliche Erfahrungen im Ausland zu sammeln, etwa w\u00e4hrend des Studiums, der Ausbildung, im Job oder bei einer Freiwilligent\u00e4tigkeit. (...)</p>"
+                    }
+                ],
+                "category": "Bildung und Forschung",
+                "date": "2015-03-26",
+                "id": "17129",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-03-26/17129"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2015-03-16",
+                "id": "17103",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-03-16/17103"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-05",
+                        "summary": "<p>(...) Mai 2015 eine <strong>Europ\u00e4ische Migrationsagenda</strong> <a href=\"http://europa.eu/rapid/press-release_IP-15-4956_de.htm\">http://europa.eu/rapid/press-release_IP-15-4956_de.htm</a> vorgelegt. (...) Die Migrationsagenda der Europ\u00e4ischen Kommission ist <strong>ehrgeizig </strong>und schl\u00e4gt europ\u00e4ische L\u00f6sungen vor. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-03-16",
+                "id": "17040",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-03-16/17040"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-13",
+                        "summary": "<p>(...) Wir im Parlament haben bereits seit 2014 ein Verhandlungsmandat zur allgemeinen Datenschutzverord<strong>Datenschutzverordnung</strong>kann <strong>nicht ohne die vollst\u00e4ndige Beteiligung des Parlaments</strong> verabschiedet werden. Die Verhandlungen mit den Vertretern der Mitgliedstaaten haben aber noch nicht begonnen, weil sich der Rat noch nicht auf eine Verhandlungsposition geeinigt hat. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2015-03-15",
+                "id": "17038",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-03-15/17038"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-13",
+                        "summary": "<p>(...) Wir im Parlament haben bereits seit 2014 ein <strong>Verhandlungsmandat zur allgemeinen Datenschutzverordnung</strong> und dieser Text kann nicht ohne die vollst\u00e4ndige Beteiligung des Parlaments verabschiedet werden. Die Verhandlungen mit den Vertretern der Mitgliedstaaten haben aber noch nicht begonnen, weil sich der Rat noch nicht auf eine Verhandlungsposition geeinigt hat. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2015-03-15",
+                "id": "17033",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-03-15/17033"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-03-14",
+                "id": "17031",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-03-14/17031"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-12",
+                        "summary": "<p>(...) Die Finanzkrise und ihre dramatische Folgen, unter der wir schon zu lange leiden, hat zudem gezeigt, dass wir die <strong>Widerstandsf\u00e4higkeit des Bankensystems</strong> im Falle weiterer Wirtschaftskrisen deutlich st\u00e4rken m\u00fcssen, um auch die europ\u00e4ischen B\u00fcrger besser sch\u00fctzen zu k\u00f6nnen. Das Europ\u00e4ische Parlament hat sich deshalb seit vielen Jahren f\u00fcr die Einrichtung einer einheitlichen europ\u00e4ischen Bankenaufsicht innerhalb der EZB  eingesetzt. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-03-14",
+                "id": "17030",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-03-14/17030"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2015-02-19",
+                "id": "16960",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-02-19/16960"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2015-02-09",
+                "id": "16760",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-02-09/16760"
+            },
+            {
+                "answers": [],
+                "category": "Au\u00dfenpolitik",
+                "date": "2015-02-03",
+                "id": "16453",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-02-03/16453"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-01-29",
+                "id": "16220",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-01-29/16220"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-01-27",
+                "id": "16123",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-01-27/16123"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-01-26",
+                "id": "16015",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-01-26/16015"
+            },
+            {
+                "answers": [],
+                "category": "Wirtschaft",
+                "date": "2015-01-13",
+                "id": "15739",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2015-01-13/15739"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-11",
+                        "summary": "<p>(...) vielen Dank f\u00fcr Ihre Anfrage. Ich kann Ihnen versichern, dass sich das Europ\u00e4ische Parlament f\u00fcr den <strong>Schutz der Fl\u00fcchtlinge</strong> an den Au\u00dfengrenzen der Europ\u00e4ischen Union weiterhin aktiv einsetzt. Eine umfassende und humane Migrationspolitik ist eine der Kernaufgaben der neuen Legislaturperiode. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-11-28",
+                "id": "10789",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-11-28/10789"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-11-27",
+                "id": "10785",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-11-27/10785"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-12",
+                        "summary": "<p>(...) Ich habe mehrfach deutlich gemacht, dass wir als Europ\u00e4isches Parlament f\u00fcr <strong>Transparenz und gute Ergebnisse</strong> sorgen wollen. In einem Handelsabkommen sollten die hohen europ\u00e4ischen Standards beim Verbraucherschutz, bei den sozialen Rechten, beim Gesundheits-, Umwelt- und Datenschutz bewahrt und verbessert werden. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2014-11-13",
+                "id": "10759",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-11-13/10759"
+            },
+            {
+                "answers": [],
+                "category": "Wirtschaft",
+                "date": "2014-11-05",
+                "id": "8959",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-11-05/8959"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-10-19",
+                "id": "8942",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-10-19/8942"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-02-05",
+                        "summary": "<p>(...) Eine koordinierte Aktion auf europ\u00e4ischer Ebene kann einen wichtigen Beitrag im Kampf gegen dieses gro\u00dfe Gesundheitsproblem leisten. Deswegen unterst\u00fctzt die europ\u00e4ische Ebene die einzelnen Mitgliedsl\u00e4nder mithilfe verschiedener Programme und Ma\u00dfnahmen darin, ihre Gesundheitssysteme effizienter zu gestalten oder Alzheimer und andere <strong>Demenzerkrankungen</strong> zu bek\u00e4mpfen. Allerdings sind in erster Linie die Mitgliedstaaten selbst f\u00fcr den Gesundheitsschutz und insbesondere die Gesundheitsversorgungssysteme zust\u00e4ndig. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2014-10-08",
+                "id": "8933",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-10-08/8933"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-02-06",
+                        "summary": "<p>(...) Im Namen des Europ\u00e4ischen Parlaments kann ich Ihnen jedoch versichern, dass die Europaabgeordneten den <strong>ausgehandelten Vertragstext</strong> vor der Abstimmung eingehend pr\u00fcfen und debattieren werden und dann entweder zustimmen oder ablehnen. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2014-09-22",
+                "id": "8911",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-09-22/8911"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-10-29",
+                        "summary": "<p>(...) Die Krise in der Ukraine hat uns zudem erneut vor Augen gef\u00fchrt, dass wir mehr f\u00fcr unsere Energiesicherheit tun m\u00fcssen. <strong>Leider haben wir seit der \u00d6lkrise vor 40 Jahren nicht viel getan</strong>, <strong>um unabh\u00e4ngig von Drittstaaten zu werden und einen Energiebinnenmarkt aufzubauen</strong>. Das m\u00fcssen wir dringend nachholen. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2014-09-20",
+                "id": "8909",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-09-20/8909"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-02-05",
+                        "summary": "<p>(...) Die Europ\u00e4ische Union bietet <strong>Kleinunternehmern </strong>unterschiedliche Arten von <strong>finanzieller Unterst\u00fctzung</strong> wie z.B. Zusch\u00fcsse, Kredite oder Garantien. Die Finanzhilfen k\u00f6nnen direkt oder \u00fcber nationale und lokale Vermittler gew\u00e4hrt werden. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2014-09-18",
+                "id": "8907",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-09-18/8907"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-02-06",
+                        "summary": "<p>(...) Wir setzen uns daf\u00fcr ein, dass die <strong>hohen europ\u00e4ischen Standards</strong> beim Verbraucherschutz, bei den sozialen Rechten, beim Gesundheits-, Umwelt- und Datenschutz in den Handelsabkommen bewahrt und verbessert werden. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2014-09-18",
+                "id": "8906",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-09-18/8906"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-09-23",
+                        "summary": "<p>(...) Damit echte <strong>Demokratie in der Ukraine</strong> Fu\u00df fassen kann, wird das Europ\u00e4ische Parlament nun in einem n\u00e4chsten Schritt Beobachter zu den anstehenden Wahlen entsenden, um faire und freie Wahlen sicherzustellen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-09-13",
+                "id": "8894",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-09-13/8894"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-08-28",
+                        "summary": ""
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2014-08-27",
+                "id": "8688",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-08-27/8688"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-08-25",
+                        "summary": "<p>(...) Ich habe mehrfach deutlich gemacht, dass wir als Europ\u00e4isches Parlament <strong>f\u00fcr Transparenz und gute Ergebnisse</strong> sorgen wollen. In einem Handelsabkommen sollten die hohen europ\u00e4ischen Standards beim Verbraucherschutz, bei den sozialen Rechten, beim Gesundheits-, Umwelt- und Datenschutz bewahrt und verbessert werden. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-08-13",
+                "id": "8384",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-08-13/8384"
+            },
+            {
+                "answers": [],
+                "category": "Internationales",
+                "date": "2014-08-03",
+                "id": "8111",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-08-03/8111"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-08-11",
+                        "summary": "<p>(...) Doch unabh\u00e4ngig vom Ausgang des laufenden Verfahrens, kann ich Ihnen versichern, dass das Petitionsrecht ei<strong>Petitionsrecht </strong> der <strong>Grundrechte </strong>der Europ\u00e4ischen Union und im EU-Vertrag verbrieftes Grundrecht der Unionsb\u00fcrger ist und bleiben wird. Gem\u00e4\u00df Artikel 227 des Vertrags \u00fcber die Arbeitsweise der Europ\u00e4ischen Union kann jeder B\u00fcrger jederzeit allein oder zusammen mit anderen Personen sein Petitionsrecht aus\u00fcben, also eine Petition an das Europ\u00e4ische Parlament richten. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-07-28",
+                "id": "8100",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-07-28/8100"
+            },
+            {
+                "answers": [],
+                "category": "Agrarpolitik",
+                "date": "2014-07-12",
+                "id": "8081",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-07-12/8081"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-07-01",
+                "id": "8061",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-07-01/8061"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-05-23",
+                "id": "7996",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-23/7996"
+            },
+            {
+                "answers": [],
+                "category": "B\u00fcrgerrechte",
+                "date": "2014-05-22",
+                "id": "7965",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-22/7965"
+            },
+            {
+                "answers": [],
+                "category": "B\u00fcrgerrechte",
+                "date": "2014-05-22",
+                "id": "7940",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-22/7940"
+            },
+            {
+                "answers": [],
+                "category": "Verkehr und Infrastruktur",
+                "date": "2014-05-20",
+                "id": "7818",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-20/7818"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-27",
+                        "summary": "<p>(...) Das Europ\u00e4ische Parlament ist also nicht selbst an den Verhandlungen beteiligt, verfolgt die Verhandlungen aber aufmerksam und kritisch. So hat das Parlament die Europ\u00e4ische Kommission gleich zu Beginn der Verhandlungen aufgefordert, sicherzustellen, dass jegliche <strong>Liberalisierung von Datenstr\u00f6men</strong> in Bezug auf Datenschutz und Schutz der Privatsph\u00e4re voll und ganz im Einklang mit dem Besitzstand der EU steht. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-05-20",
+                "id": "7806",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-20/7806"
+            },
+            {
+                "answers": [],
+                "category": "Gesundheit",
+                "date": "2014-05-19",
+                "id": "7795",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-19/7795"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2014-05-19",
+                "id": "7788",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-19/7788"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-05-19",
+                "id": "7764",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-19/7764"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2014-05-17",
+                "id": "7722",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-17/7722"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-05-16",
+                "id": "7706",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-16/7706"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2014-05-14",
+                "id": "7641",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-14/7641"
+            },
+            {
+                "answers": [],
+                "category": "Wirtschaft",
+                "date": "2014-05-13",
+                "id": "7633",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-13/7633"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2014-05-12",
+                "id": "7613",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-12/7613"
+            },
+            {
+                "answers": [],
+                "category": "EU-Erweiterung",
+                "date": "2014-05-12",
+                "id": "7597",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-12/7597"
+            },
+            {
+                "answers": [],
+                "category": "Wirtschaft",
+                "date": "2014-05-12",
+                "id": "7562",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-12/7562"
+            },
+            {
+                "answers": [],
+                "category": "Arbeit",
+                "date": "2014-05-12",
+                "id": "7546",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-12/7546"
+            },
+            {
+                "answers": [],
+                "category": "EU-Erweiterung",
+                "date": "2014-05-11",
+                "id": "7534",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-11/7534"
+            },
+            {
+                "answers": [],
+                "category": "Wirtschaft",
+                "date": "2014-05-07",
+                "id": "7419",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-07/7419"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2014-05-07",
+                "id": "7415",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-07/7415"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-14",
+                        "summary": "<p>(...) Der von Ihnen angesprochene Bruch in meinem Abstimmungsverhalten nach 2012  ist mit meinen ver\u00e4nderten Aufgabenstellungen in der Rolle als Pr\u00e4sident des Parlaments zu erkl\u00e4ren. Als <strong>Pr\u00e4sident des Europ\u00e4ischen Parlaments</strong> ist es mir aus protokollarischen Gr\u00fcnden und anderen Verpflichtungen, die mit meinem Amt einhergehen, oftmals praktisch unm\u00f6glich, an den Abstimmungen teilzunehmen. Zum Beispiel, weil ich das Parlament zeitgleich bei Treffen mit dem Rat, Diplomaten, Vertretern von internationalen Organisationen oder anderen hochrangigen Politikern repr\u00e4sentiere, w\u00e4hrend im Parlament abgestimmt wird. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-05-05",
+                "id": "7368",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-05/7368"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-05-05",
+                "id": "7345",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-05/7345"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-05-01",
+                "id": "7205",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-05-01/7205"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-19",
+                        "summary": "<p>(...) Das Parlament ist ernsthaft <strong>besorgt \u00fcber die NSA-Aktivit\u00e4ten</strong> und andere \u00dcberwachungsprogramme. Deswegen hat das Europ\u00e4ische Parlament im vorigen Jahr die US-Massen\u00fcberwachung intensiv untersucht und danach festgelegt, dass es dem Freihandelsabkommen EU-USA nur zustimmen wird, wenn darin die in der EU-Charta verankerten Grundrechte in vollem Umfang respektiert werden. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2014-04-29",
+                "id": "7123",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-04-29/7123"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-04-28",
+                "id": "7061",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-04-28/7061"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2014-04-28",
+                "id": "7041",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-04-28/7041"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-27",
+                        "summary": "<p>(...) Wir sind aber der reichste Kontinent der Erde und k\u00f6nnen mehr tun, wenn wir gemeinsam handeln. Mehr europ\u00e4ische Solidarit\u00e4t bei der Aufnahme von <strong>Fl\u00fcchtlingen</strong> und eine gerechte Verteilung zwischen den Mitgliedstaaten sind die richtigen L\u00f6sungsans\u00e4tze, dazu geh\u00f6ren aber auch Hilfe zur Bek\u00e4mpfung der Fluchtursachen in den Herkunftsl\u00e4ndern der Fl\u00fcchtlinge sowie ein legales Einwanderungssystem. F\u00fcr eine verbesserte Politik der legalen Einwanderung setzt sich das Europ\u00e4ische Parlament in seiner Entschlie\u00dfung zu dem Zustrom von Migranten im Mittelmeerraum, insbesondere den tragischen Ereignissen vor Lampedusa\" ein. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-04-28",
+                "id": "7037",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-04-28/7037"
+            },
+            {
+                "answers": [],
+                "category": "Wirtschaft",
+                "date": "2014-04-28",
+                "id": "7035",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-04-28/7035"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2014-04-26",
+                "id": "6980",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-04-26/6980"
+            },
+            {
+                "answers": [],
+                "category": "Sozialpolitik",
+                "date": "2014-04-26",
+                "id": "6970",
+                "url": "https://www.abgeordnetenwatch.de/profile/martin-schulz-1/question/2014-04-26/6970"
+            }
+        ],
+        "roles": [],
+        "sidejobs": [],
+        "votes": [
+            {
+                "date": "2015-03-05",
+                "title": "Netzneutralit\u00e4t sichern - Rettet das freie Internet!",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/petitionen/netzneutralitat-sichern-rettet-das-freie-internet",
+                "uuid": "c73d817d-e0e9-4c2b-84dc-0375e8c4934d",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Kritische Neubewertung der Beziehungen zu Russland",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kritische-neubewertung-der-beziehungen-zu-russland",
+                "uuid": "34d2fd08-9bbf-4948-88c6-183864116d6d",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Wiederaufnahme der Friedensbem\u00fchungen im Nahen Osten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wiederaufnahme-der-friedensbemuehungen-im-nahen-osten",
+                "uuid": "0fa40696-9a07-4770-bddd-338db1509a69",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Ma\u00dfnahmen zur Fl\u00fcchtlingspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-fluechtlingspolitik",
+                "uuid": "a98d55d5-26c3-4a51-a99a-8bd0e525b628",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Hindernisse f\u00fcr soziale Unternehmen beseitigen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/hindernisse-fuer-soziale-unternehmen-beseitigen",
+                "uuid": "c0f955e0-82d9-46b4-9f16-77f508963b6d",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Schaffung eines wettbewerbf\u00e4higen Arbeitsmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-wettbewerbfaehigen-arbeitsmarkts",
+                "uuid": "f42b1ba1-d57a-4ee0-83e2-a83134df2ef4",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "F\u00f6rderung junger Unternehmer",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/foerderung-junger-unternehmer",
+                "uuid": "94bf3f53-5ee6-4747-a47e-c2c132156c26",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verurteilung von CIA-Foltermethoden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-von-cia-foltermethoden",
+                "uuid": "a7bfb784-f0e3-4dea-9ee5-a63024adff6f",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Kennzeichnung des Ursprungslands von Fleisch",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kennzeichnung-des-ursprungslands-von-fleisch",
+                "uuid": "1e33c664-17d7-4631-bb13-d50eea58837f",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Ausweitung des digitalen Binnenmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/ausweitung-des-digitalen-binnenmarkts",
+                "uuid": "8b59269f-b5f6-4221-b113-2b7a6a7ea708",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verl\u00e4ngerung der Senkung von Z\u00f6llen auf ukrainische Waren ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verlaengerung-der-senkung-von-zoellen-auf-ukrainische-waren",
+                "uuid": "608d1653-952d-4039-8021-61a089c3fb6e",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "EU-Sicherheitspolitik im Nahen Osten und Nordafrika",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-sicherheitspolitik-im-nahen-osten-und-nordafrika",
+                "uuid": "2b962506-401b-45b7-8a4d-c3a12b35ceef",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "Expo 2015 in Mailand",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/expo-2015-mailand",
+                "uuid": "5f314d77-4e55-49d2-8f28-18356d3e1250",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Ma\u00dfnahmen zur Terrorismusbek\u00e4mpfung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-terrorismusbekaempfung",
+                "uuid": "e0cd7654-49f3-49b6-87dc-d8ec90003919",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Verurteilung der Boko Haram-Angriffe in Nigeria",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-der-boko-haram-angriffe-nigeria",
+                "uuid": "78c330d6-09c6-47a4-982f-a67146262776",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Antrag zur Bek\u00e4mpfung der Jugendarbeitslosigkeit",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/antrag-zur-bekaempfung-der-jugendarbeitslosigkeit",
+                "uuid": "4cf62b4b-59a5-4a9c-aae9-17ebf3700446",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Wahl der EU-Kommission",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wahl-der-eu-kommission",
+                "uuid": "2c27f2a1-ba90-4067-bc52-a114e55acada",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Anerkennung Pal\u00e4stinas",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anerkennung-palaestinas",
+                "uuid": "91aee230-2ac2-4bca-a90b-3c9c11ded2b3",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Kreditvergabe an die Ukraine",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kreditvergabe-die-ukraine",
+                "uuid": "dd9837cd-1699-4929-9539-7ccd6546c103",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Umsetzung der gemeinsamen Sicherheits- und Verteidigungspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-der-gemeinsamen-sicherheits-und-verteidigungspolitik",
+                "uuid": "83ca30d0-39f2-488a-b244-91a92720d57f",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Eu-Strategie zur Gleichstellung zwischen M\u00e4nnern und Frauen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-strategie-zur-gleichstellung-zwischen-maennern-und-frauen",
+                "uuid": "72c8d5e7-e7d1-4b31-99c3-99644c7adff3",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Sicherung des Urheberechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/sicherung-des-urheberechts",
+                "uuid": "fe2780f4-81e2-419d-a7f1-61776c547cfa",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Parlamentarische Empfehlung bzgl. TTIP Handelabkommen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/parlamentarische-empfehlung-bzgl-ttip-handelabkommen",
+                "uuid": "f1a0b307-e891-4e17-9e10-1e811474b2bc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Schaffung eines Europ\u00e4ischen Struktur- und Investitionsfonds (EFSI)",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-europaeischen-struktur-und-investitionsfonds",
+                "uuid": "2436eb70-9eb4-4cb6-999f-b6d2ad59782e",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-12-03",
+                "title": "Gemeinsame Strategie zur Pr\u00e4vention von Radikalisierung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gemeinsame-strategie-zur-praevention-von-radikalisierung",
+                "uuid": "43b62e8f-afef-4083-a71b-753ccdbecd6d",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Verringerung des Lohngef\u00e4lles zwischen Frauen und M\u00e4nnern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verringerung-des-lohngefaelles-zwischen-frauen-und-maennern",
+                "uuid": "e2dfb814-8dc6-4132-b354-a4b0dffdde4b",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Schadstoffaussto\u00df mittelgro\u00dfer Verbrennungsanlagen begrenzen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schadstoffausstoss-mittelgrosser-verbrennungsanlagen-begrenzen",
+                "uuid": "03d5024e-7b73-40ff-9e69-1ac7e6cc2882",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-10-22",
+                "title": "Auszahlung von Griechenlandhilfen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/auszahlung-von-griechenlandhilfen",
+                "uuid": "de2c3caf-d77b-457a-8e02-73bcdb60abad",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-10-28",
+                "title": "Schutz geografischer Herkunftsangaben der EU auf nichtlandwirtschaftliche Erzeugnisse",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-geografischer-herkunftsangaben-der-eu-auf",
+                "uuid": "3017adbf-e55e-4914-ad2f-47744e7719f7",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-05-12",
+                "title": "Resolution zur Neuzulassung des Herbizids Glyphosat",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/resolution-zur-neuzulassung-des-herbizids-glyphosat",
+                "uuid": "20b545ab-e31f-4404-ba34-fed1f163cce2",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-11-11",
+                "title": "Umsetzung des Bologna-Prozesses - Steigerung studentischer Auslandsmobilit\u00e4t ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-bologna-prozesses-steigerung-studentischer",
+                "uuid": "393d3eed-93b5-4cc8-a656-f261daa90351",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-11-19",
+                "title": "\u00c4nderung des Wahlrechts zum EU-Parlament",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aenderung-des-wahlrechts-zum-eu-parlament",
+                "uuid": "844ed2e1-303f-49bb-a63f-b7adb938593a",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-05-19",
+                "title": "Lebensmittelverschwendung",
+                "url": "https://www.abgeordnetenwatch.de/eu/petitionen/eu-verpflichtet-supermarkte-ihr-unverkauftes-essen-zu-spenden",
+                "uuid": "50cd10af-ac29-4d4b-9fb8-7e6eaee69163",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-11-24",
+                "title": "EU-Beitrittsverhandlungen mit der T\u00fcrkei einfrieren",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-beitrittsverhandlungen-mit-der-tuerkei-einfrieren",
+                "uuid": "5ec1c8eb-b80b-4a18-a0cb-c2054067ba2e",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-12-01",
+                "title": "Menschenrechte und Migration in Drittl\u00e4ndern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/menschenrechte-und-migration-drittlaendern",
+                "uuid": "72d19836-8d9d-4f95-a8bb-0c0b89be5c06",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-02-05",
+                "title": "Anbau von gentechnisch ver\u00e4nderten Sojabohnen in der Europ\u00e4ischen Union",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anbau-von-gentechnisch-veraenderten-sojabohnen-der-europaeischen",
+                "uuid": "83f43a49-c047-4390-aaee-14cbe5a55525",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-04-25",
+                "title": "EU-Richtlinien \u00fcber Verwendung von Fluggastdaten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-richtlinien-ueber-verwendung-von-fluggastdaten",
+                "uuid": "9bbf91f1-b259-4dbb-bfd9-d3c3bc5f9ec1",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-09-28",
+                "title": "Unterst\u00fctzung von Frauen im digitalen Zeitalter",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/unterstuetzung-von-frauen-im-digitalen-zeitalter",
+                "uuid": "29160dca-2641-436f-b9b3-dc07b633454c",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-09-30",
+                "title": "Zugang der \u00d6ffentlichkeit zu Dokumenten aus den Jahren 2014-2015",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/zugang-der-oeffentlichkeit-zu-dokumenten-aus-den-jahren-2014-2015",
+                "uuid": "0705670c-1e29-4056-b4f2-6c2ff82a9e47",
+                "vote": "nicht beteiligt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,850 @@
+{
+    "profile": {
+        "committees": [],
+        "constituency": {
+            "name": "Bundesliste",
+            "number": "1",
+            "result": null,
+            "uuid": "8de5b1d9-424a-4690-82da-6edd94c42fce",
+            "won": false
+        },
+        "fraction": "AfD (EFDD)",
+        "list": {
+            "name": "Bundesliste",
+            "position": null,
+            "uuid": "e5aaaafc-1fc4-45b7-a1ae-e9ba2717f451",
+            "won": true
+        },
+        "meta": {
+            "answers": 32,
+            "edited": "2017-11-06 10:29",
+            "questions": 48,
+            "standard_replies": 0,
+            "status": "1",
+            "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/archive/153941",
+            "username": "beatrix-von-storch",
+            "uuid": "eb61c982-5ba0-4ee7-8eba-249ec5537d0c"
+        },
+        "parliament": {
+            "name": "EU-Parlament 2014-2019",
+            "retired": "2017-10-23",
+            "uuid": "18ea3bc2-8348-4824-8695-e0c2864fd126"
+        },
+        "party": "AfD",
+        "personal": {
+            "birthyear": "1971",
+            "degree": null,
+            "education": "Juristin",
+            "first_name": "Beatrix von",
+            "gender": "female",
+            "last_name": "Storch",
+            "location": {
+                "city": "Berlin",
+                "country": "DE",
+                "postal_code": "12435",
+                "state": "BE"
+            },
+            "picture": {
+                "copyright": "<p>AfD</p>",
+                "url": "https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/von_storch_beatrix.jpg"
+            },
+            "profession": "MdEP"
+        },
+        "questions": [
+            {
+                "answers": [],
+                "category": "Verbraucherschutz",
+                "date": "2017-07-20",
+                "id": "278857",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2017-07-20/278857"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-07-14",
+                        "summary": "<p>(...) Letztere ist f\u00fcr die kindliche Entwicklung sch\u00e4dlich und ein massiver Eingriff in das vom Grundgesetz garantierte Elternrecht. <strong>Die \u201eEhe f\u00fcr alle\u201c lehne ich ab</strong>. Es ist unbestritten, dass die V\u00e4ter des Grundgesetzes unter Ehe die Ehe zwischen Mann und Frau gemeint haben. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2017-07-06",
+                "id": "277830",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2017-07-06/277830"
+            },
+            {
+                "answers": [],
+                "category": "Verbraucherschutz",
+                "date": "2017-07-06",
+                "id": "277826",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2017-07-06/277826"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2017-05-31",
+                "id": "25603",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2017-05-31/25603"
+            },
+            {
+                "answers": [],
+                "category": "B\u00fcrgerrechte",
+                "date": "2017-02-08",
+                "id": "24074",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2017-02-08/24074"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-01-03",
+                        "summary": "<p>(...) Ich teile Ihre Kritik an der Regierung voll und ganz - das wird Sie nicht \u00fcberraschen. Die Bilanz nach 11 Jahren <strong>Gro\u00dfer Koalition</strong> k\u00f6nnte schlechter nicht sein. Bei allen wesentlichen Herausforderungen hat die Regierung versagt: (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2016-11-27",
+                "id": "23837",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-11-27/23837"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-01-03",
+                        "summary": "<p>(...) Ich bin dagegen, eine Beweislastumkehr einzuf\u00fchren, so dass Arbeitgeber beweisen m\u00fcssen, dass eine unterschiedliche Behandlung von Arbeitnehmern keine Diskriminierung darstellt. Auch lehne ich den Ruf nach <strong>Frauenquoten</strong> ab, in Parlamenten, Aufsichtsr\u00e4ten und Managementfunktionen sowie \u00fcberall sonst auch. Das ist mit mir nicht zu machen. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2016-11-20",
+                "id": "23798",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-11-20/23798"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-11-18",
+                "id": "23792",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-11-18/23792"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-21",
+                        "summary": "<p>(...) Zun\u00e4chst einmal m\u00f6chte ich nochmals klarstellen, dass ich nat\u00fcrlich jede freiwillige Initiative, die sich daf\u00fcr einsetzt, noch verwertbare <strong>Lebensmittel </strong>an Bed\u00fcrftige zu verteilen, unterst\u00fctze. (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2016-11-11",
+                "id": "23700",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-11-11/23700"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-21",
+                        "summary": "<p>(...) Das Vorhaben der Bundesregierung, mit der Brechstange und ohne R\u00fccksicht auf \u00f6konomische Sch\u00e4den und technische Machbarkeiten, den <strong>CO2-Aussto\u00df</strong> bis zum Jahr 2050 um mehr als 85 Prozent zu senken, lehne ich kategorisch ab. Das w\u00fcrde unsere Stromversorgung destabilisieren, den Wirtschaftsstandort Deutschland erheblich sch\u00e4digen und auch zu sozialen Verwerfungen f\u00fchren. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2016-11-10",
+                "id": "23657",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-11-10/23657"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2016-10-30",
+                "id": "23646",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-10-30/23646"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2016-10-07",
+                "id": "23612",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-10-07/23612"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-10-26",
+                        "summary": "<p>(...) Noch sch\u00e4rfer kritisiere ich die eng mit dem Gleichstellungsgedanken verbundene <strong>Gender-Mainstreaming-Ideologie</strong>. Diese Ideologie behauptet kurz gesagt, dass es keine nat\u00fcrlichen Unterschiede zwischen M\u00e4nnern und Frauen g\u00e4be bzw. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2016-09-23",
+                "id": "23580",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-09-23/23580"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2016-08-26",
+                "id": "23090",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-08-26/23090"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-22",
+                        "summary": "<p>(...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2016-06-25",
+                "id": "22250",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-06-25/22250"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-01-03",
+                        "summary": "<p>(...) <strong>Videoaufzeichnungen von Gerichtsverhandlungen</strong> halte ich zu Recht f\u00fcr unzul\u00e4ssig. Videoaufzeichnungen w\u00fcrden, insbesondere f\u00fcr Zeugen, ein Ausma\u00df an \u00d6ffentlichkeit herstellen, die ihre Privatsph\u00e4re in unzul\u00e4ssiger Art und Weise verletzt. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2016-05-23",
+                "id": "22166",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-05-23/22166"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-01-03",
+                        "summary": "<p>(...) Ich bin selbst aktiver Kirchg\u00e4nger beispielsweise und zwar nicht nur Weihnachten und Ostern, sondern jeden Sonntag, wenn ich es einrichten kann. Aber gerade deswegen halte ich die <strong>Trennung von Kirche und Staat</strong> f\u00fcr zentral und m\u00f6chte jeden staatlichen Einfluss auf die Kirche zur\u00fcckdr\u00e4ngen. (...)</p>"
+                    }
+                ],
+                "category": "Gesellschaft",
+                "date": "2016-05-11",
+                "id": "22131",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-05-11/22131"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-04-03",
+                "id": "21993",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-04-03/21993"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-01-11",
+                        "summary": "<p>(...) haben Sie vielen Dank f\u00fcr Ihre Frage.Ich bin eine strikte Gegnerin der <strong>EU-Einlagensicherung</strong>. Mit einer EU-weiten Einlagensicherung m\u00fcssten am Ende deutsche Sparkassen und Raiffeisenbanken f\u00fcr Pleitebanken in Griechenland und Italien gerade stehen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2016-01-26",
+                "id": "20078",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-01-26/20078"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-01-22",
+                        "summary": "<p>(...) <strong>Wir brauchen dringend eine Obergrenze</strong>. Schauen Sie zu unseren Nachbarn. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2016-01-21",
+                "id": "20067",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2016-01-21/20067"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-01-22",
+                        "summary": "<p>(...) Ich sehe es wie Sie. <strong>Es ist ein St\u00fcck aus dem EU-Tollhaus</strong>, die legalen Waffenbesitzer, J\u00e4ger und Sportsch\u00fctzen f\u00fcr den islamischen Terrorismus in Mithaftung nehmen zu wollen. Die Versch\u00e4rfung des Waffenrechts w\u00e4re ein weiterer Schritt in die Kriminalisierung unbescholtener B\u00fcrger und in den umfassenden \u00dcberwachungs- und Bevormundungsstaat, aber ganz sicher keine Pr\u00e4vention vor weiteren terroristischen Untaten. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-11-27",
+                "id": "19915",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-11-27/19915"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-01-22",
+                        "summary": "<p>(...) Ich sehe es wie Sie. <strong>Es ist ein St\u00fcck aus dem EU-Tollhaus</strong>, die legalen Waffenbesitzer, J\u00e4ger und Sportsch\u00fctzen f\u00fcr den islamischen Terrorismus in Mithaftung nehmen zu wollen. Die Versch\u00e4rfung des Waffenrechts w\u00e4re ein weiterer Schritt in die Kriminalisierung unbescholtener B\u00fcrger und in den umfassenden \u00dcberwachungs- und Bevormundungsstaat, aber ganz sicher keine Pr\u00e4vention vor weiteren terroristischen Untaten. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2015-11-26",
+                "id": "19911",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-11-26/19911"
+            },
+            {
+                "answers": [],
+                "category": "Arbeit",
+                "date": "2015-11-09",
+                "id": "19841",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-11-09/19841"
+            },
+            {
+                "answers": [],
+                "category": "B\u00fcrgerrechte",
+                "date": "2015-10-27",
+                "id": "19812",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-10-27/19812"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-09-23",
+                "id": "19714",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-09-23/19714"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2015-09-12",
+                "id": "19661",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-09-12/19661"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-07-21",
+                        "summary": "<p>(...) Ich halte die Beschr\u00e4nkung der <strong>Panoramafreiheit</strong> f\u00fcr absurd. Dabei liege ich voll auf der Linie meiner EKR-Fraktion (Europ\u00e4ische Konservative und Reformer), die sich ebenso gegen den Antrag ausgesprochen hat. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-07-17",
+                "id": "18763",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-07-17/18763"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-07-21",
+                        "summary": "<p>(...) Sie sprechen das wichtigste praktische Problem an: Wer k\u00f6nnte sich noch der <strong>Bildrechte</strong> sicher sein, wenn er Fotos oder Bewegtbilder im Netz, im Fernsehen oder in Zeitungen zeigen m\u00f6chte. Eine genaue Vorabpr\u00fcfung ist \u00fcberhaupt nicht leistbar. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-29",
+                "id": "18662",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-06-29/18662"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-06-16",
+                        "summary": "<p>(...) <strong>Ein Austritt aus der EU steht f\u00fcr mich nicht zur Debatte</strong>, wenngleich auch hier dringender Reformbedarf besteht. Den hat die AfD in ihrem Programm angemahnt. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-05-16",
+                "id": "18473",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-05-16/18473"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-06-16",
+                        "summary": "<p>(...) Deshalb befassen wir uns im EU-Parlament nicht mit dieser Thematik. Dennoch ist mir das <strong>Problem des Vitamin-D-Mangels</strong> durchaus bewusst. Gerade, wenn man wie ich den ganzen Tag im B\u00fcro verbringen muss, sollte man als Ausgleich bei jeder Gelegenheit ein paar Sonnenstrahlen einfangen. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2015-05-07",
+                "id": "18377",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-05-07/18377"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-04-21",
+                        "summary": "<p>(...) Ich pl\u00e4diere seit langem f\u00fcr das <strong>Botschaftsasyl</strong>. Ich habe diese Idee bereits in das EU-Parlament getragen. (...)</p>"
+                    }
+                ],
+                "category": "Soziales",
+                "date": "2015-04-20",
+                "id": "18118",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-04-20/18118"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-04-21",
+                        "summary": "<p>(...) Ich pl\u00e4diere seit langem f\u00fcr das <strong>Botschaftsasyl</strong>. Ich habe diese Idee bereits in das EU-Parlament getragen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-04-20",
+                "id": "18103",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-04-20/18103"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-04-07",
+                        "summary": "<p>(...) Wir m\u00fcssen die <strong>Sicherheitsinteressen der Russen</strong> respektieren, um dann in gegenseitigem Vertrauen Handelsschranken einzurei\u00dfen und die Zusammenarbeit in ganz Europa zu vertiefen. (...)</p>"
+                    }
+                ],
+                "category": "Au\u00dfenpolitik",
+                "date": "2015-03-26",
+                "id": "17128",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-03-26/17128"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2015-01-23",
+                "id": "15930",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-01-23/15930"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-01-23",
+                        "summary": "<p>(...) Danke f\u00fcr Ihre Frage. Die <strong>Abstimmungsergebnisse</strong> finden Sie unter diesem Link: <a href=\"http://bit.ly/1y7dgQE\">http://bit.ly/1y7dgQE</a> , zwischen Seite 28 und Seite 50. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2015-01-22",
+                "id": "15896",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-01-22/15896"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2015-01-01",
+                "id": "10857",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2015-01-01/10857"
+            },
+            {
+                "answers": [],
+                "category": "Wirtschaft",
+                "date": "2014-11-24",
+                "id": "10780",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2014-11-24/10780"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-12-12",
+                        "summary": "<p>(...) Die EU und auch Deutschland entwickeln sich leider eher <strong>in Richtung Planwirtschaft.</strong> Dagegen werden wir angehen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-11-07",
+                "id": "10754",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2014-11-07/10754"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-10-29",
+                        "summary": "<p>(...) <strong>Seien Sie versichert</strong>, <strong>wir werden im EU-Parlament wachsam bleiben und daran arbeiten</strong>, dass Europa das Vertragswerk TTIP in seiner jetzigen Konzeption erspart bleibt. (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2014-10-12",
+                "id": "8938",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2014-10-12/8938"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-09-23",
+                        "summary": "<p>(...) Einen wichtigen Kritikpunkt der AfD stellt der vorgesehene <strong>Investorenschutz</strong> dar. Er soll es Unternehmen erm\u00f6glichen, im Konfliktfall mit Staaten ein Schiedsgericht anzurufen. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2014-09-23",
+                "id": "8917",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2014-09-23/8917"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-10-06",
+                        "summary": "<p>(...) Die <strong>Europ\u00e4ische Arbeitslosenversicherung</strong> ist ein weiterer Versuch, Transferzahlungen zwischen den L\u00e4ndern durch die Hintert\u00fcr einzuf\u00fchren. Diese sind bekannterma\u00dfen notwendig, um das Nichtfunktionieren des Euros zu kaschieren. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2014-09-17",
+                "id": "8903",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2014-09-17/8903"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-10-16",
+                        "summary": "<p>(...) <strong>Deutschland hat in dieser Hinsicht in den letzten Jahren so ziemlich alles falsch gemacht.</strong> Die unkontrollierte Einwanderung und mangelnde Integration haben dazu gef\u00fchrt, dass sich besonders in unseren gro\u00dfen St\u00e4dten Parallelwelten aufgetan haben, in denen der N\u00e4hrboden f\u00fcr eine derart menschenfeindliche Gedankenwelt gedeiht. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-09-09",
+                "id": "8854",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2014-09-09/8854"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-09-26",
+                        "summary": "<p>(...) Sie sprechen hier einen wirklich <strong>haneb\u00fcchenen Unfug</strong> an. Und der steht exemplarisch f\u00fcr vieles, was aus Br\u00fcssel kommt, oder von nationalen Regierungen kommt und \u00fcber die EU-Bande gespielt wird. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-08-31",
+                "id": "8727",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2014-08-31/8727"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-09-26",
+                        "summary": "<p>(...) Genauso wie Sie bin ich in Sorge, dass die in Gang gesetzte Sanktionsspirale die Lage im <strong>Ukraine-Konflikt</strong> unn\u00f6tig zu versch\u00e4rfen droht. Nach meiner Meinung sind Sanktionen \u00fcberhaupt nicht zielf\u00fchrend. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-08-26",
+                "id": "8653",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2014-08-26/8653"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-09-26",
+                        "summary": "<p>(...) Die Unterzeichnung desselben durch den Bundespr\u00e4sidenten am Vorabend des Fu\u00dfballweltmeisterschaftsfinales in Brasilien zeigt deutlich, wie schlecht das Gewissen des Bundespr\u00e4sidenten war: Nur im Schutze des gr\u00f6\u00dftm\u00f6glichen Ablenkungsman\u00f6vers getraute er sich, dem Gesetz Gesetzeskraft zukommen zu lassen. Es w\u00e4re sicher sinnvoll, wenn sich die B\u00fcrger mobilisierten und die Volksvertreter in Berlin \"<strong>zum Jagen tragen</strong>\". (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-08-22",
+                "id": "8582",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2014-08-22/8582"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-09-26",
+                        "summary": "<p>(...) Ich sehe dies als eine Entscheidung der Syrer an . Sicher kann man <strong>Assad</strong> nicht als Friedensengel bezeichnen, und es gibt gute Gr\u00fcnde, sich ein besseres Land zu w\u00fcnschen . Aber die entscheidende Frage, die wir ber\u00fccksichtigen m\u00fcssen, lautet doch: Was kommt danach (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2014-08-05",
+                "id": "8125",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2014-08-05/8125"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-08-19",
+                        "summary": "<p>(...) Ihre Antwort im LVZ-Interview sollte im Grunde nur unsere Unabh\u00e4ngigkeit von bestimmten vorgedachten Koalitionen bekunden. Eine <strong>Koalition mit Tillichs CDU</strong> wird ja von den s\u00e4chsischen Medien fast schon herbeigeschrieben. Wir wollen uns aber in keine der \u00fcblichen Schubladen stecken lassen, weil wir Politik nicht ideologisch, sondern auf Basis des gesunden Menschenverstandes betreiben. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-07-06",
+                "id": "8066",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2014-07-06/8066"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-08-19",
+                        "summary": "<p>(...) In der Tat gab es am 16. April eine Zustimmung zum <strong>Investorenschutz </strong>innerhalb der EU, also zu Schiedsverfahren zwischen privaten Investoren und EU-Staaten. Dies diente nat\u00fcrlich der Vorbereitung von TTIP. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2014-07-04",
+                "id": "8065",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2014-07-04/8065"
+            },
+            {
+                "answers": [],
+                "category": "B\u00fcrgerrechte",
+                "date": "2014-04-27",
+                "id": "7030",
+                "url": "https://www.abgeordnetenwatch.de/profile/beatrix-von-storch/question/2014-04-27/7030"
+            }
+        ],
+        "roles": [],
+        "sidejobs": [],
+        "votes": [
+            {
+                "date": "2015-03-05",
+                "title": "Netzneutralit\u00e4t sichern - Rettet das freie Internet!",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/petitionen/netzneutralitat-sichern-rettet-das-freie-internet",
+                "uuid": "c73d817d-e0e9-4c2b-84dc-0375e8c4934d",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Kritische Neubewertung der Beziehungen zu Russland",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kritische-neubewertung-der-beziehungen-zu-russland",
+                "uuid": "34d2fd08-9bbf-4948-88c6-183864116d6d",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Wiederaufnahme der Friedensbem\u00fchungen im Nahen Osten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wiederaufnahme-der-friedensbemuehungen-im-nahen-osten",
+                "uuid": "0fa40696-9a07-4770-bddd-338db1509a69",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Ma\u00dfnahmen zur Fl\u00fcchtlingspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-fluechtlingspolitik",
+                "uuid": "a98d55d5-26c3-4a51-a99a-8bd0e525b628",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Hindernisse f\u00fcr soziale Unternehmen beseitigen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/hindernisse-fuer-soziale-unternehmen-beseitigen",
+                "uuid": "c0f955e0-82d9-46b4-9f16-77f508963b6d",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Schaffung eines wettbewerbf\u00e4higen Arbeitsmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-wettbewerbfaehigen-arbeitsmarkts",
+                "uuid": "f42b1ba1-d57a-4ee0-83e2-a83134df2ef4",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "F\u00f6rderung junger Unternehmer",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/foerderung-junger-unternehmer",
+                "uuid": "94bf3f53-5ee6-4747-a47e-c2c132156c26",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verurteilung von CIA-Foltermethoden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-von-cia-foltermethoden",
+                "uuid": "a7bfb784-f0e3-4dea-9ee5-a63024adff6f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Kennzeichnung des Ursprungslands von Fleisch",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kennzeichnung-des-ursprungslands-von-fleisch",
+                "uuid": "1e33c664-17d7-4631-bb13-d50eea58837f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Ausweitung des digitalen Binnenmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/ausweitung-des-digitalen-binnenmarkts",
+                "uuid": "8b59269f-b5f6-4221-b113-2b7a6a7ea708",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verl\u00e4ngerung der Senkung von Z\u00f6llen auf ukrainische Waren ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verlaengerung-der-senkung-von-zoellen-auf-ukrainische-waren",
+                "uuid": "608d1653-952d-4039-8021-61a089c3fb6e",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "EU-Sicherheitspolitik im Nahen Osten und Nordafrika",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-sicherheitspolitik-im-nahen-osten-und-nordafrika",
+                "uuid": "2b962506-401b-45b7-8a4d-c3a12b35ceef",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "Expo 2015 in Mailand",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/expo-2015-mailand",
+                "uuid": "5f314d77-4e55-49d2-8f28-18356d3e1250",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Ma\u00dfnahmen zur Terrorismusbek\u00e4mpfung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-terrorismusbekaempfung",
+                "uuid": "e0cd7654-49f3-49b6-87dc-d8ec90003919",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Verurteilung der Boko Haram-Angriffe in Nigeria",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-der-boko-haram-angriffe-nigeria",
+                "uuid": "78c330d6-09c6-47a4-982f-a67146262776",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Antrag zur Bek\u00e4mpfung der Jugendarbeitslosigkeit",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/antrag-zur-bekaempfung-der-jugendarbeitslosigkeit",
+                "uuid": "4cf62b4b-59a5-4a9c-aae9-17ebf3700446",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Wahl der EU-Kommission",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wahl-der-eu-kommission",
+                "uuid": "2c27f2a1-ba90-4067-bc52-a114e55acada",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Anerkennung Pal\u00e4stinas",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anerkennung-palaestinas",
+                "uuid": "91aee230-2ac2-4bca-a90b-3c9c11ded2b3",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Kreditvergabe an die Ukraine",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kreditvergabe-die-ukraine",
+                "uuid": "dd9837cd-1699-4929-9539-7ccd6546c103",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Umsetzung der gemeinsamen Sicherheits- und Verteidigungspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-der-gemeinsamen-sicherheits-und-verteidigungspolitik",
+                "uuid": "83ca30d0-39f2-488a-b244-91a92720d57f",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Eu-Strategie zur Gleichstellung zwischen M\u00e4nnern und Frauen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-strategie-zur-gleichstellung-zwischen-maennern-und-frauen",
+                "uuid": "72c8d5e7-e7d1-4b31-99c3-99644c7adff3",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Sicherung des Urheberechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/sicherung-des-urheberechts",
+                "uuid": "fe2780f4-81e2-419d-a7f1-61776c547cfa",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Parlamentarische Empfehlung bzgl. TTIP Handelabkommen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/parlamentarische-empfehlung-bzgl-ttip-handelabkommen",
+                "uuid": "f1a0b307-e891-4e17-9e10-1e811474b2bc",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Schaffung eines Europ\u00e4ischen Struktur- und Investitionsfonds (EFSI)",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-europaeischen-struktur-und-investitionsfonds",
+                "uuid": "2436eb70-9eb4-4cb6-999f-b6d2ad59782e",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-12-03",
+                "title": "Gemeinsame Strategie zur Pr\u00e4vention von Radikalisierung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gemeinsame-strategie-zur-praevention-von-radikalisierung",
+                "uuid": "43b62e8f-afef-4083-a71b-753ccdbecd6d",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Verringerung des Lohngef\u00e4lles zwischen Frauen und M\u00e4nnern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verringerung-des-lohngefaelles-zwischen-frauen-und-maennern",
+                "uuid": "e2dfb814-8dc6-4132-b354-a4b0dffdde4b",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Schadstoffaussto\u00df mittelgro\u00dfer Verbrennungsanlagen begrenzen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schadstoffausstoss-mittelgrosser-verbrennungsanlagen-begrenzen",
+                "uuid": "03d5024e-7b73-40ff-9e69-1ac7e6cc2882",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-10-22",
+                "title": "Auszahlung von Griechenlandhilfen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/auszahlung-von-griechenlandhilfen",
+                "uuid": "de2c3caf-d77b-457a-8e02-73bcdb60abad",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-10-28",
+                "title": "Schutz geografischer Herkunftsangaben der EU auf nichtlandwirtschaftliche Erzeugnisse",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-geografischer-herkunftsangaben-der-eu-auf",
+                "uuid": "3017adbf-e55e-4914-ad2f-47744e7719f7",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-05-12",
+                "title": "Resolution zur Neuzulassung des Herbizids Glyphosat",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/resolution-zur-neuzulassung-des-herbizids-glyphosat",
+                "uuid": "20b545ab-e31f-4404-ba34-fed1f163cce2",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-11-11",
+                "title": "Umsetzung des Bologna-Prozesses - Steigerung studentischer Auslandsmobilit\u00e4t ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-bologna-prozesses-steigerung-studentischer",
+                "uuid": "393d3eed-93b5-4cc8-a656-f261daa90351",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-11-19",
+                "title": "\u00c4nderung des Wahlrechts zum EU-Parlament",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aenderung-des-wahlrechts-zum-eu-parlament",
+                "uuid": "844ed2e1-303f-49bb-a63f-b7adb938593a",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-05-19",
+                "title": "Lebensmittelverschwendung",
+                "url": "https://www.abgeordnetenwatch.de/eu/petitionen/eu-verpflichtet-supermarkte-ihr-unverkauftes-essen-zu-spenden",
+                "uuid": "50cd10af-ac29-4d4b-9fb8-7e6eaee69163",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-11-24",
+                "title": "EU-Beitrittsverhandlungen mit der T\u00fcrkei einfrieren",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-beitrittsverhandlungen-mit-der-tuerkei-einfrieren",
+                "uuid": "5ec1c8eb-b80b-4a18-a0cb-c2054067ba2e",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-12-01",
+                "title": "Menschenrechte und Migration in Drittl\u00e4ndern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/menschenrechte-und-migration-drittlaendern",
+                "uuid": "72d19836-8d9d-4f95-a8bb-0c0b89be5c06",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-02-05",
+                "title": "Anbau von gentechnisch ver\u00e4nderten Sojabohnen in der Europ\u00e4ischen Union",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anbau-von-gentechnisch-veraenderten-sojabohnen-der-europaeischen",
+                "uuid": "83f43a49-c047-4390-aaee-14cbe5a55525",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-04-25",
+                "title": "EU-Richtlinien \u00fcber Verwendung von Fluggastdaten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-richtlinien-ueber-verwendung-von-fluggastdaten",
+                "uuid": "9bbf91f1-b259-4dbb-bfd9-d3c3bc5f9ec1",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2017-02-17",
+                "title": "Umsetzung des Handelsabkommens CETA mit Kanada",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-handelsabkommens-ceta-mit-kanada",
+                "uuid": "f22c10c4-e5eb-481a-ae8d-9d8a42a604ba",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-09-28",
+                "title": "Unterst\u00fctzung von Frauen im digitalen Zeitalter",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/unterstuetzung-von-frauen-im-digitalen-zeitalter",
+                "uuid": "29160dca-2641-436f-b9b3-dc07b633454c",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2017-09-27",
+                "title": "Strengere Transparenzstandards in der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/strengere-transparenzstandards-der-eu",
+                "uuid": "30a68fb6-4749-43c6-9f39-a1c19912cfa6",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-09-30",
+                "title": "Zugang der \u00d6ffentlichkeit zu Dokumenten aus den Jahren 2014-2015",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/zugang-der-oeffentlichkeit-zu-dokumenten-aus-den-jahren-2014-2015",
+                "uuid": "0705670c-1e29-4056-b4f2-6c2ff82a9e47",
+                "vote": "daf\u00fcr gestimmt"
+            }
+        ]
+    }
+}

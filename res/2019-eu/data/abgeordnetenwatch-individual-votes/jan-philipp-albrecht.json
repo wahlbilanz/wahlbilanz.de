@@ -1,0 +1,1203 @@
+{
+    "profile": {
+        "committees": [],
+        "constituency": {
+            "name": "Bundesliste",
+            "number": "1",
+            "result": null,
+            "uuid": "8de5b1d9-424a-4690-82da-6edd94c42fce",
+            "won": false
+        },
+        "fraction": "DIE GR\u00dcNEN/PIRATEN/\u00d6DP (Gr\u00fcne/EFA)",
+        "list": [],
+        "meta": {
+            "answers": 45,
+            "edited": "2018-06-29 10:05",
+            "questions": 62,
+            "standard_replies": 0,
+            "status": "1",
+            "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht",
+            "username": "jan-philipp-albrecht",
+            "uuid": "9e9f04e1-bb03-4bd7-b171-e147a2cee65d"
+        },
+        "parliament": {
+            "name": "EU-Parlament 2014-2019",
+            "retired": "2018-07-02",
+            "uuid": "18ea3bc2-8348-4824-8695-e0c2864fd126"
+        },
+        "party": "DIE GR\u00dcNEN",
+        "personal": {
+            "birthyear": "1982",
+            "degree": null,
+            "education": "Jurist",
+            "first_name": "Jan Philipp",
+            "gender": "male",
+            "last_name": "Albrecht",
+            "location": {
+                "city": "Hamburg",
+                "country": "DE",
+                "postal_code": "20257",
+                "state": "HH"
+            },
+            "picture": {
+                "copyright": "<p>Fotograf: Jan Zier</p>",
+                "url": "https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/janalbrecht-000_01.jpg"
+            },
+            "profession": "MdEP"
+        },
+        "questions": [
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-07-01",
+                "id": "300427",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-07-01/300427"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300235",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-06-29/300235"
+            },
+            {
+                "answers": [],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300175",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-06-28/300175"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300150",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-06-28/300150"
+            },
+            {
+                "answers": [],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300120",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-06-28/300120"
+            },
+            {
+                "answers": [],
+                "category": "Europa",
+                "date": "2018-06-28",
+                "id": "300100",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-06-28/300100"
+            },
+            {
+                "answers": [],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300075",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-06-28/300075"
+            },
+            {
+                "answers": [],
+                "category": "Verbraucherschutz",
+                "date": "2018-06-14",
+                "id": "299476",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-06-14/299476"
+            },
+            {
+                "answers": [],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-13",
+                "id": "299440",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-06-13/299440"
+            },
+            {
+                "answers": [],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-13",
+                "id": "299424",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-06-13/299424"
+            },
+            {
+                "answers": [],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-13",
+                "id": "299395",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-06-13/299395"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-21",
+                        "summary": ""
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-04",
+                "id": "299073",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-06-04/299073"
+            },
+            {
+                "answers": [],
+                "category": "Verbraucherschutz",
+                "date": "2018-05-25",
+                "id": "298836",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-05-25/298836"
+            },
+            {
+                "answers": [],
+                "category": null,
+                "date": "2018-05-11",
+                "id": "298612",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-05-11/298612"
+            },
+            {
+                "answers": [],
+                "category": "Umwelt",
+                "date": "2018-05-09",
+                "id": "298578",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-05-09/298578"
+            },
+            {
+                "answers": [],
+                "category": "Arbeit",
+                "date": "2018-05-05",
+                "id": "298481",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-05-05/298481"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-04-11",
+                        "summary": "<p>(...) Das <strong>Konsultationsverfahren</strong> gibt auch EU-B\u00fcrgern die M\u00f6glichkeit ihre Meinung zu den betroffenen EU-Rechtsvorschriften und EU-Strategien zu \u00e4u\u00dfern und sich so in den Gesetzgebungsprozess und die Politikgestaltung einbringen zu k\u00f6nnen. Unter <a href=\"https://ec.europa.eu/germany/services/initiatives_consultation_de\">https://ec.europa.eu/germany/services/initiatives_consultation_de</a> und  <a href=\"https://ec.europa.eu/info/about-european-commission/service-standards-and-principles/transparency/consultations_de\">https://ec.europa.eu/info/about-european-commission/service-standards-an...</a> finden Sie weitere Informationen zu Ihren Beteiligungsm\u00f6glichkeiten. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2018-03-19",
+                "id": "297723",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-03-19/297723"
+            },
+            {
+                "answers": [],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-03-14",
+                "id": "297614",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-03-14/297614"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-02-14",
+                        "summary": "<p>(...) Am 7. Februar 2018 hat die Mehrheit des Europ\u00e4ischen Parlaments f\u00fcr die Wiederholung der europ\u00e4ischen Spitzenkandidat*innen bei der <strong>kommenden Europawahl</strong> gestimmt; eine Pressemitteilung dazu finden sie unter dem folgenden Link:  <a href=\"https://www.greens-efa.eu/de/artikel/press/conservatives-blow-opportunity-to-build-europe-wide-democracy/\">https://www.greens-efa.eu/de/artikel/press/conservatives-blow-opportunit...</a> (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-02-06",
+                "id": "296841",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2018-02-06/296841"
+            },
+            {
+                "answers": [],
+                "category": "Verkehr und Infrastruktur",
+                "date": "2017-12-06",
+                "id": "295115",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2017-12-06/295115"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-04-11",
+                        "summary": "<p>(...) Nach R\u00fccksprache mit seinem B\u00fcro kann ich Ihnen versichern, dass man die Problematik im Blick hat und an L\u00f6sungen arbeitet. Mit dem <strong>Wohnungsbauprogramm</strong> \u201eB\u00fcndnis f\u00fcr das Wohnen in Hamburg\u201c, welches auch in dieser Legislaturperiode fortgesetzt wird, ist bereits ein erster erfolgreicher Schritt zur Verbesserung der Wohnsituation in Hamburg getan. Es sollen j\u00e4hrlich 10.000 neue Wohnungen geschaffen werden von denen mindestens 30% als \u00f6ffentlich gef\u00f6rderter Mietwohnungsbau mit Mietpreis- und Belegungsbindungen festgeschrieben sind. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2017-11-30",
+                "id": "295026",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2017-11-30/295026"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-03-15",
+                        "summary": "<p>(...) Auch das FBI hat sich in die Ermittlungen eingebracht. Es hat somit schon eine <strong>internationale Morduntersuchung</strong> stattgefunden. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2017-10-18",
+                "id": "294093",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2017-10-18/294093"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-07-10",
+                        "summary": "<p>(...) Der <strong>Verein Digitalcourage</strong> m\u00f6chte eine lebendige Demokratie. Sie wollen keine Gesellschaft in der der Mensch nur noch ein Marketingobjekt ist oder als potentieller Terrorist behandelt wird. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2017-06-14",
+                "id": "25643",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2017-06-14/25643"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-07-10",
+                        "summary": "<p>(...) Der <strong>Verein Digitalcourage</strong> macht sich seit mehr als 25 Jahren f\u00fcr Grundrechte und Datenschutz stark. Die Mitglieder organisieren Aktionen, thematische Kampagnen, Vortr\u00e4ge und Veranstaltungen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2017-06-14",
+                "id": "25641",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2017-06-14/25641"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-06-19",
+                        "summary": "<p>(...) <strong>Seien sie versichert</strong>, <strong>dass sich die Gr\u00fcnen im Europ\u00e4ischen Parlament gegen die Bek\u00e4mpfung von Korruption einsetzen.</strong> So hat z.B. mein Fraktionskollege Benedek Javor im Europ\u00e4ischen Parlament eine breite Koalition f\u00fcr den Bericht zur Sicherung der finanziellen Interessen der EU (PIF-Bericht) erreicht. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2017-05-04",
+                "id": "25170",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2017-05-04/25170"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-02-15",
+                        "summary": "<p>(...) Es gibt noch vieles, was zum Wohle der Tierwelt und f\u00fcr eine St\u00e4rkung des Tierschutzes im Jagdwesen getan werden kann. Eine Forderung nach einem generellen <strong>Jagdverbot </strong>wird sich aber sehr wahrscheinlich einfach nicht durchsetzen lassen. Umso wichtiger ist es doch, dass wir versuchen, das Beste f\u00fcr die Tiere und unsere Umwelt herauszuholen und das Jagdwesen dahingehend reformieren und einschr\u00e4nken. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2017-04-17",
+                "id": "24599",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2017-04-17/24599"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-07",
+                        "summary": "<p>(...) *Zu deiner dritten Frage:*Obwohl es leider h\u00e4ufig die Praxis ist, darf \u201eBig Data\u201c, also gro\u00dfe datenverarbeitende Unternehmen oder solche die viele Daten sammeln, das nicht einfach so. Dazu gibt es <strong>zahlreiche Datenschutzregeln in allen EU-L\u00e4ndern und ein EU-Grundrecht das ausdr\u00fccklich von der Einwilligung der Betroffenen spricht</strong>. Mit Anwendung der Datenschutzgrundverordnung ab dem 25. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2017-03-23",
+                "id": "24189",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2017-03-23/24189"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-03-15",
+                        "summary": "<p>(...) Oktober 2015 gab es eine weitere Resolution des Europ\u00e4ischen Parlaments, in der die Abgeordneten unter anderem den mangelnden Willen zu echten Geheimdienstreformen in den USA und auch den EU-Mitgliedstaaten kritisieren. Auf unseren Antrag wurde in diesem Beschluss erstmals auch ein expliziter <strong>Schutz des Whistleblowers Edward Snowden</strong> gefordert: (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2017-02-16",
+                "id": "24098",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2017-02-16/24098"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-02-20",
+                        "summary": "<p>(...) Die Jagdformen w\u00fcrden durch die Gesetzesreform eingeschr\u00e4nkt und st\u00e4rker reglementiert, der Arten- sowie der Umweltschutz hingegen gest\u00e4rkt. Auch sollen j\u00e4hrliche Schie\u00dfnachweise f\u00fcr J\u00e4gerinnen und J\u00e4ger eingef\u00fchrt und das <strong>Schie\u00dfen in der N\u00e4he von Wohngegenden</strong> eingeschr\u00e4nkt werden (<a href=\"http://gruene-fraktion-nrw.de/fileadmin/user_upload/ltf/Newsletter/Tabelle_\">http://gruene-fraktion-nrw.de/fileadmin/user_upload/ltf/Newsletter/Tabelle_</a> Jagdgesetz.pdf). (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2017-01-21",
+                "id": "24011",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2017-01-21/24011"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-02-14",
+                        "summary": "<p>(...) Die <strong>Verschwendung von Lebensmitteln</strong> ist ein gro\u00dfes Problem und sie belastet unsere Umwelt. Es sind aber nicht nur die Superm\u00e4rkte, die in die Pflicht genommen werden m\u00fcssen, sondern es muss auch ein Umdenken bei den Verbraucher*innen stattfinden. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2016-11-13",
+                "id": "23744",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2016-11-13/23744"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-01-02",
+                        "summary": "<p>(...) Nun ist es an der Bundesregierung, den <strong>Netzausbau</strong> in Deutschland voranzutreiben, damit die in Schleswig-Holstein gewonnene Windenergie in den S\u00fcden transportiert werden kann. Au\u00dferdem brauchen wir auch auf Bundesebene dringend ein Klimaschutzgesetz, das unter anderem die von Ihnen genannte CO2-Steuer enthalten muss. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2016-11-10",
+                "id": "23656",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2016-11-10/23656"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-10-25",
+                        "summary": "<p>(...) Gleichzeitig bin ich der Meinung, dass die <strong>Rolle des Parlamentes im EU-Gesetzgebungsverfahren</strong> grunds\u00e4tzlich gest\u00e4rkt werden sollte. Das Parlament sollte als einzige direkt gew\u00e4hlte Institution der Europ\u00e4ischen Union der zentrale Ort aller europ\u00e4ischen Entscheidungen werden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2016-10-07",
+                "id": "23608",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2016-10-07/23608"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-09-26",
+                        "summary": "<p>(...) Wir Gr\u00fcne wollen, dass <strong>Handelspolitik mit allen</strong> gemacht wird und nicht, dass die EU und die USA die Struktur des Welthandels vorschreiben. Alle L\u00e4nder sollen in der Welthandelsorganisation gemeinsam entscheiden. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2016-06-14",
+                "id": "22230",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2016-06-14/22230"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-07-04",
+                        "summary": "<p>(...) Es besteht jedoch nicht die Gefahr, dass <strong>Ceta</strong> ohne irgendeine parlamentarische Abstimmung in Kraft gesetzt wird. Das Europ\u00e4ische Parlament muss das Abkommen annehmen bzw. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-05-17",
+                "id": "22143",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2016-05-17/22143"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-07-04",
+                        "summary": "<p>(...) In Bezug auf Ihre zweite Frage sehe ich keinen Handlungsbedarf, dass <strong>Forschungsprojekte und -Einrichtungen Informationen \u00fcber ihre Arbeit </strong>in den 24 Amtssprachen der Europ\u00e4ischen Union zur Verf\u00fcgung stellen sollten. Dies w\u00fcrde einen erheblichen b\u00fcrokratischen und finanziellen Aufwand bedeuten. (...)</p>"
+                    }
+                ],
+                "category": "Bildung und Forschung",
+                "date": "2016-05-07",
+                "id": "22115",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2016-05-07/22115"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-04-26",
+                        "summary": "<p>(...) ich habe gegen die Verl\u00e4ngerung der <strong>Zulassung von Glyphosat</strong> gestimmt. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2016-04-13",
+                "id": "22035",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2016-04-13/22035"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-07-18",
+                        "summary": "<p>(...) Die Gr\u00fcnen waren stets Bef\u00fcrworter der Europ\u00e4ischen B\u00fcrgerinitiative und setzen sich auch weiterhin f\u00fcr das Recht von B\u00fcrgerinnen und B\u00fcrgern auf <strong>direkte Mitsprache im politischen Prozess</strong> ein. Nichts anderes gilt daher f\u00fcr die Gr\u00fcnen im Europ\u00e4ischen Parlament. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2016-04-08",
+                "id": "22004",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2016-04-08/22004"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-04-26",
+                        "summary": "<p>(...) Zur \u00c4nderung der <strong>Sommerzeitregelung </strong>bedarf es einer einvernehmlichen L\u00f6sung auf europ\u00e4ischer Ebene. Damit sich etwas \u00e4ndert, m\u00fcsste die Europ\u00e4ische Kommission \u00fcberzeugt werden. (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2016-04-02",
+                "id": "21989",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2016-04-02/21989"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-12-07",
+                        "summary": "<p>(...) Dies sieht die Richtlinie selbst nach f\u00fcnf Jahren vor. Die Anschl\u00e4ge, aber auch die allt\u00e4gliche Praxis von polizeilicher Gefahrenabwehr und Kriminalit\u00e4tsbek\u00e4mpfung zeigen jedoch aus unserer Sicht sehr deutlich, dass <strong>Erwerb und Besitz von Waffen in der Europ\u00e4ischen Union</strong> st\u00e4rker und effektiver kontrolliert werden m\u00fcssen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-11-25",
+                "id": "19901",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-11-25/19901"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-01-25",
+                        "summary": "<p>(...) Zudem wird keine Unterscheidung mehr zwischen einer \u201eunwiderspr\u00fcchlichen\u201c und \u201eexpliziten\u201c Einwilligung gemacht, sondern die Unwiderspr\u00fcchlichkeit als eine Anforderung f\u00fcr alle Einwilligungssituationen eingefordert. Damit verabschiedet sich die <strong>Datenschutzverordnung</strong> von einem generell unterschiedlichen Niveau der Einwilligung und stellt im Gegensatz zur Richtlinie von 1995 klar, dass jede Einwilligung nur durch eine klare, aktive und unwiderspr\u00fcchliche Handlung konstituiert werden kann. Dar\u00fcber hinaus muss sie informiert und frei gegeben worden sein (Art. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2015-11-25",
+                "id": "19899",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-11-25/19899"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-12-03",
+                        "summary": "<p>(...) Einer Instrumentalisierung der <strong>Anschl\u00e4ge</strong> f\u00fcr eine <strong>Politik der Fl\u00fcchtlingsabwehr</strong>, f\u00fcr neue Mauern und Grenzen, f\u00fcr die Aussetzung der Reisefreiheit und f\u00fcr eine Re-Nationalisierung erteilen wir eine klare Absage. Die Terroristinnen und Terroristen d\u00fcrfen keinen Erfolg damit haben, Hass, Spannungen und Spaltungen zwischen verschiedenen Gruppen und Religionen in unserer europ\u00e4ischen Gesellschaft zu s\u00e4en. (...)</p>"
+                    }
+                ],
+                "category": "Sicherheit",
+                "date": "2015-11-24",
+                "id": "19893",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-11-24/19893"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-08",
+                        "summary": "<p>(...) vielen Dank f\u00fcr Ihre Frage. Die Gr\u00fcnen in Europa und im Bundestag setzen sich schon seit langer Zeit f\u00fcr <strong>legale Einreisewege f\u00fcr Fl\u00fcchtlinge</strong> nach Europa ein. \u00dcber Aufnahmeprogramme, eine gro\u00dfz\u00fcgige Visaerteilung und unkomplizierte Familienzusammenf\u00fchrungen muss eine legale Einreise erm\u00f6glicht werden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-09-03",
+                "id": "19470",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-09-03/19470"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-11-17",
+                        "summary": "<p>(...) In der <strong>Ger\u00e4te- und Maschinenl\u00e4rmschutzverordnung</strong> wird geregelt, welche Maschinen und welche Ger\u00e4te an welchen Tagen und zu welchen Tageszeiten im Freien eingesetzt werden d\u00fcrfen. (...) Das bedeutet f\u00fcr Ihren <strong>Kleingartenverein</strong>, dass Sie das gesetzliche Schutzminimum nicht unterschreiten d\u00fcrfen. Es steht Ihnen aber frei, das Schutzniveau durch eine Vereinbarung anzuheben und beispielsweise innerhalb Ihrer Kleing\u00e4rtnersiedlung l\u00e4ngere <strong>Ruhezeiten </strong>zu vereinbaren. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2015-07-15",
+                "id": "18751",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-07-15/18751"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-28",
+                        "summary": "<p>(...) Juli mit deutlicher Mehrheit den Urheberrechtsbericht von Julia Reda angenommen. Damit erteilte das Parlament der <strong>Einschr\u00e4nkung der Panoramafreiheit eine klare Absage</strong>. Das Parlament hat auf die Menschen geh\u00f6rt, die sich der Kritik an diesem absurden Vorsto\u00df angeschlossen haben. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-07-07",
+                "id": "18700",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-07-07/18700"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-08",
+                        "summary": "<p>(...) Der Rechtsausschuss des Europ\u00e4ischen Parlaments hat \u00fcber einen \u00c4nderungsantrag (\u00c4nderungsantrag 421) zu Julia Redas Bericht zur Reform des Urheberrechts abgestimmt. Dieser \u00c4nderungsantrag h\u00e4tte eine starke <strong>Einschr\u00e4nkung der Panoramafreiheit</strong> in vielen EU-Mitgliedstaaten zur Folge. Julia Redas Bericht ist nicht legislativ, d.h. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-29",
+                "id": "18663",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-06-29/18663"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-01-25",
+                        "summary": "<p>(...) Daher habe ich mich auch f\u00fcr eine umfassende Aufkl\u00e4rung der Snowden Aff\u00e4re eingesetzt. K\u00fcrzlich best\u00e4tigte der Europ\u00e4ische Menschengerichtshof, dass eine <strong>Massen\u00fcberwachung</strong> ohne individuellen Verdacht nicht verh\u00e4ltnism\u00e4\u00dfig sein kann und daher nicht im Einklang mit der Europ\u00e4ischen Menschenrechtskonvention steht. Die in der EU garantierten Grundrechte d\u00fcrfen nicht von Geheimdiensten ausgeh\u00f6hlt werden. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2015-05-22",
+                "id": "18493",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-05-22/18493"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-07",
+                        "summary": "<p>(...) Die f\u00fcr die \u00dcberpr\u00fcfung der <strong>Anti-Wilderei-Ma\u00dfnahmen</strong> zust\u00e4ndige EU-Kommission darf hier nicht die Augen verschlie\u00dfen, sondern muss streng darauf achten, (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-05-17",
+                "id": "18479",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-05-17/18479"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-07",
+                        "summary": "<p>(...) Sie sprechen in Ihrer Mail eine Reihe von Problemen an und die Liste von Gr\u00fcnden, warum Handelsabkommen wie <strong>TTIP und CETA</strong> meines Erachtens nicht unterst\u00fctzt werden k\u00f6nnen, ist lang. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2015-05-11",
+                "id": "18443",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-05-11/18443"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-13",
+                        "summary": "<p>(...) Nachdem Angela Merkel nach den ersten Enth\u00fcllungen von Edward Snowden vollmundig erkl\u00e4rte, dass das \"Aussp\u00e4hen unter Freunden gar nicht geht\", m\u00fcssen schlie\u00dflich Taten folgen. Angela Merkel und die Staats- und Regierungschefs aller EU-Mitgliedsstaaten m\u00fcssen die <strong>\u00dcberwachungsaktivit\u00e4ten in der EU vollst\u00e4ndig transparent machen</strong> und klare Regeln f\u00fcr die nationale Sicherheit festlegen. Zudem muss die Europ\u00e4ische Kommission die M\u00f6glichkeiten eines Vertragsverletzungsverfahrens gegen Deutschland und andere EU-Mitgliedstaaten pr\u00fcfen in den F\u00e4llen, in denen \u00dcberwachung nicht mit der Definition von 'nationaler Sicherheit' \u00fcbereinstimmt, wie sie im EU-Vertrag steht. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-04-30",
+                "id": "18268",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-04-30/18268"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-07",
+                        "summary": "<p>(...) Au\u00dferdem versuche ich auch bei anderen Gesetzgebungsvorhaben im Innenausschuss des Europ\u00e4ischen Parlaments darauf zu dr\u00e4ngen, dass <strong>m\u00f6glichst hohe Datenschutzstandards</strong> eingehalten werden. Dies ist zum Beispiel relevant bei Gesetzesentw\u00fcrfen f\u00fcr den Aufbau einer Europ\u00e4ischen Staatsanwaltschaft und eine verbesserte Terrorismusbek\u00e4mpfung durch Europol. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-04-30",
+                "id": "18267",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-04-30/18267"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-12",
+                        "summary": "<p>(...) Das Europ\u00e4ische Parlament arbeitet derzeit an einer so genannten Datenschutzgrundverordnung, also einer EU-<strong>einheitliche</strong>n Regelung zum Datenschutz, die in allen Mitgliedstaaten unmittelbar gilt. (...) Mit der neuen Datenschutzgrundverordnung wollen wir dieses Problem l\u00f6sen und einheitliche, einheitlichetenschutzstandards f\u00fcr die gesamte EU beschlie\u00dfen. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2015-04-30",
+                "id": "18266",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-04-30/18266"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-07",
+                        "summary": "<p>(...) Wer die Dienste dennoch weiter nutzen will, hat keine Wahlm\u00f6glichkeit und wird von Facebook dazu gezwungen, den neuen Regeln zuzustimmen. Mit dem Zwang <strong>verst\u00f6\u00dft Facebook klar gegen europ\u00e4isches AGB- und Datenschutzrecht</strong>. Dies l\u00e4sst eine solch einseitige Vertrags\u00e4nderung nicht zu und fordert eine freiwillige und informierte Einwilligung in die Datenverarbeitung. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2015-04-30",
+                "id": "18265",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-04-30/18265"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-12",
+                        "summary": "<p>(...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-04-19",
+                "id": "18097",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-04-19/18097"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-07",
+                        "summary": "<p>(...) sehen den <strong>Einsatz von Glyphosat</strong> sehr kritisch und fordern eine Neubewertung (...) Freihandelsabkommen <strong>TTIP und CETA</strong> nicht zu einer Absenkung von (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2015-04-09",
+                "id": "17886",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-04-09/17886"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-04-01",
+                        "summary": "<p>(...) Die Gr\u00fcnen im Europaparlament sind \u00fcberzeugt, dass eine l\u00e4ngere Haltbarkeit von elektronischen Ger\u00e4ten nicht nur Verbraucherinnen und Verbrauchern, sondern auch Firmen zugute k\u00e4me - diese h\u00e4tten durch die verbesserte Qualit\u00e4t ihrer Produkte einen Wettbewerbsvorteil. Zudem w\u00fcrde die Umwelt geschont, da weniger <strong>Elektroabfall</strong> anfiele. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2015-03-03",
+                "id": "17000",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-03-03/17000"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-03-10",
+                        "summary": ""
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2015-02-23",
+                "id": "16966",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-02-23/16966"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-02-23",
+                        "summary": "<p>(...) Die Reaktion auf Paris kann also nicht eine weitere Ausweitung der generellen \u00dcberwachung sein, welche Anschl\u00e4ge auch in Zukunft nicht generell verhindern wird k\u00f6nnen. Wir d\u00fcrfen <strong>nicht Millionen von Menschen \u00fcberwachen</strong>, weder beim Fliegen (Fluggastdaten-Abkommen), noch beim Surfen im Internet oder am Telefon: damit \u00dcberwachungsma\u00dfnahmen nicht in einen Generalverdacht gegen jeden B\u00fcrger / jede B\u00fcrgerin m\u00fcnden. Es ist ein Irrglaube, mehr Sicherheit durch mehr anlasslose \u00dcberwachung schaffen zu wollen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-02-08",
+                "id": "16735",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-02-08/16735"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-04",
+                        "summary": "<p>(...) Wenn die Kommission diese \u00fcberschreiten sollte, riskiert sie die Zustimmung des Parlaments zu dem gesamten Abkommen. Zu diesen roten Linien geh\u00f6rt in dem Bereich, den ich f\u00fcr den Innen- und Justizausschuss betreue, dass <strong>der Datenschutz aus dem TTIP-Abkommen vollst\u00e4ndig herausgehalten</strong> werden muss. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2015-02-06",
+                "id": "16635",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2015-02-06/16635"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-01-19",
+                        "summary": "<p>(...) Wir Gr\u00fcne verstehen <strong>Entwicklungspolitik als Beitrag zu globaler Gerechtigkeit</strong>. Unsere Gesellschaft verf\u00fcgt \u00fcber die politischen, wirtschaftlichen und technologischen Mittel, faire Chancen f\u00fcr Alle zu er\u00f6ffnen und diese im Einklang mit der Natur zu nutzen. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-11-05",
+                "id": "8958",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2014-11-05/8958"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-12-09",
+                        "summary": "<p>(...) nicht, weil wir das Problem f\u00fcr alle Arten von Software l\u00f6sen m\u00f6chten - auch wenn wir uns ansonsten immer <strong>f\u00fcr Freie Software stark machen.</strong> (...)</p>"
+                    }
+                ],
+                "category": "Bildung und Forschung",
+                "date": "2014-08-12",
+                "id": "8373",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2014-08-12/8373"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-02-02",
+                        "summary": "<p>(...) In meiner Arbeit an der EU-Datenschutzverordnung habe ich als federf\u00fchrender Berichterstatter des Europ\u00e4ischen Parlaments bereits im Januar 2013 einen Vorschlag vorgelegt, der es Unternehmen verbieten w\u00fcrde, in <strong>Europa gespeicherte und verarbeitete Daten </strong>direkt und unter Umgehung von ordentlichen Rechtshilfeabkommen an US-Beh\u00f6rden oder Beh\u00f6rden in anderen Drittstaaten zu \u00fcbergeben. Dieser neue Artikel 43a der EU-Datenschutzverordnung hat dann nach den Snowden-Enth\u00fcllungen auch eine breite Mehrheit im Europ\u00e4ischen Parlament mit Unterst\u00fctzung aller Fraktionen bekommen (siehe den Text hier \u2013 runterscrollen bis Ab\u00e4nderung 140: <a href=\"http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P7-TA-2014-0212+0+DOC+XML+V0//DE\">http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P7-T...</a> ). (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-08-03",
+                "id": "8114",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2014-08-03/8114"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-07-23",
+                        "summary": "<p>(...) Ich pers\u00f6nlich halte homophobe, rassistische und fremdenfeindliche \u00c4u\u00dferungen nicht f\u00fcr legitime Meinungs\u00e4u\u00dferungen in einer auf Menschenrechten basierenden Demokratie, bin aber gleichzeitig nicht der Meinung, dass diese deswegen von Seiten des Staates sanktioniert werden sollten. Umso wichtiger ist es, dass sich Politik und \u00d6ffentlichkeit klar und <strong>unmissverst\u00e4ndlich davon distanzieren</strong>. Dies w\u00fcrde ich auch von der AfD erwarten, vermisse es aber bis heute. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-07-10",
+                "id": "8071",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2014-07-10/8071"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-23",
+                        "summary": "<p>(...) 4. Ja, ich werde mich daf\u00fcr einsetzten , dass die EU <strong>selbst Steuern erheben kann</strong> und somit zu Teilen selbst ihr Budget bestimmen kann. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-05-21",
+                "id": "7883",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2014-05-21/7883"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-23",
+                        "summary": "<p>(...) F\u00fcr die Gr\u00fcnen ist die <strong>sprachliche Vielfalt</strong> ein zentrales Element f\u00fcr die kulturelle Diversit\u00e4t in Europa, die es zu erhalten und zu sch\u00fctzen gilt. Dazu geh\u00f6rt auch Esperanto. (...)</p>"
+                    }
+                ],
+                "category": "Bildung und Forschung",
+                "date": "2014-05-17",
+                "id": "7738",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2014-05-17/7738"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-23",
+                        "summary": "<p>(...) Vielen Dank f\u00fcr Ihre Frage. Ich <strong>lehne Tierversuche ab</strong>. Die die B\u00fcrgerinitiative \"Stopvivisection\" hat meine volle Unterst\u00fctzung und ich  habe sie bereits unterzeichnet. (...)</p>"
+                    }
+                ],
+                "category": "Bildung und Forschung",
+                "date": "2014-05-08",
+                "id": "7459",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2014-05-08/7459"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-23",
+                        "summary": "<p>(...) Die Beschwerden \u00fcber <strong>unertr\u00e4glich hohen L\u00e4rm</strong> - besonders durch Verkehr - nehmen zu. Wir Gr\u00fcne haben zum \"Tag des L\u00e4rms\" deswegen vor kurzem erneut konkrete Vorschl\u00e4ge f\u00fcr besseren L\u00e4rmschutz gemacht: <a href=\"http://www.gruene-bundestag.de/themen/verkehr/laermquellen-wirksam-reduzieren/seite-1-laermquellen-wirksam-reduzieren_ID_4391577.html\">http://www.gruene-bundestag.de/themen/verkehr/laermquellen-wirksam-reduz...</a> (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2014-04-27",
+                "id": "7005",
+                "url": "https://www.abgeordnetenwatch.de/profile/jan-philipp-albrecht/question/2014-04-27/7005"
+            }
+        ],
+        "roles": [],
+        "sidejobs": [],
+        "votes": [
+            {
+                "date": "2015-03-05",
+                "title": "Netzneutralit\u00e4t sichern - Rettet das freie Internet!",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/petitionen/netzneutralitat-sichern-rettet-das-freie-internet",
+                "uuid": "c73d817d-e0e9-4c2b-84dc-0375e8c4934d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Kritische Neubewertung der Beziehungen zu Russland",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kritische-neubewertung-der-beziehungen-zu-russland",
+                "uuid": "34d2fd08-9bbf-4948-88c6-183864116d6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Wiederaufnahme der Friedensbem\u00fchungen im Nahen Osten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wiederaufnahme-der-friedensbemuehungen-im-nahen-osten",
+                "uuid": "0fa40696-9a07-4770-bddd-338db1509a69",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Ma\u00dfnahmen zur Fl\u00fcchtlingspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-fluechtlingspolitik",
+                "uuid": "a98d55d5-26c3-4a51-a99a-8bd0e525b628",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Hindernisse f\u00fcr soziale Unternehmen beseitigen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/hindernisse-fuer-soziale-unternehmen-beseitigen",
+                "uuid": "c0f955e0-82d9-46b4-9f16-77f508963b6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Schaffung eines wettbewerbf\u00e4higen Arbeitsmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-wettbewerbfaehigen-arbeitsmarkts",
+                "uuid": "f42b1ba1-d57a-4ee0-83e2-a83134df2ef4",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "F\u00f6rderung junger Unternehmer",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/foerderung-junger-unternehmer",
+                "uuid": "94bf3f53-5ee6-4747-a47e-c2c132156c26",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verurteilung von CIA-Foltermethoden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-von-cia-foltermethoden",
+                "uuid": "a7bfb784-f0e3-4dea-9ee5-a63024adff6f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Kennzeichnung des Ursprungslands von Fleisch",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kennzeichnung-des-ursprungslands-von-fleisch",
+                "uuid": "1e33c664-17d7-4631-bb13-d50eea58837f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Ausweitung des digitalen Binnenmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/ausweitung-des-digitalen-binnenmarkts",
+                "uuid": "8b59269f-b5f6-4221-b113-2b7a6a7ea708",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verl\u00e4ngerung der Senkung von Z\u00f6llen auf ukrainische Waren ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verlaengerung-der-senkung-von-zoellen-auf-ukrainische-waren",
+                "uuid": "608d1653-952d-4039-8021-61a089c3fb6e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "EU-Sicherheitspolitik im Nahen Osten und Nordafrika",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-sicherheitspolitik-im-nahen-osten-und-nordafrika",
+                "uuid": "2b962506-401b-45b7-8a4d-c3a12b35ceef",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "Expo 2015 in Mailand",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/expo-2015-mailand",
+                "uuid": "5f314d77-4e55-49d2-8f28-18356d3e1250",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Ma\u00dfnahmen zur Terrorismusbek\u00e4mpfung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-terrorismusbekaempfung",
+                "uuid": "e0cd7654-49f3-49b6-87dc-d8ec90003919",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Verurteilung der Boko Haram-Angriffe in Nigeria",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-der-boko-haram-angriffe-nigeria",
+                "uuid": "78c330d6-09c6-47a4-982f-a67146262776",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Antrag zur Bek\u00e4mpfung der Jugendarbeitslosigkeit",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/antrag-zur-bekaempfung-der-jugendarbeitslosigkeit",
+                "uuid": "4cf62b4b-59a5-4a9c-aae9-17ebf3700446",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Wahl der EU-Kommission",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wahl-der-eu-kommission",
+                "uuid": "2c27f2a1-ba90-4067-bc52-a114e55acada",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Anerkennung Pal\u00e4stinas",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anerkennung-palaestinas",
+                "uuid": "91aee230-2ac2-4bca-a90b-3c9c11ded2b3",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Kreditvergabe an die Ukraine",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kreditvergabe-die-ukraine",
+                "uuid": "dd9837cd-1699-4929-9539-7ccd6546c103",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Umsetzung der gemeinsamen Sicherheits- und Verteidigungspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-der-gemeinsamen-sicherheits-und-verteidigungspolitik",
+                "uuid": "83ca30d0-39f2-488a-b244-91a92720d57f",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Eu-Strategie zur Gleichstellung zwischen M\u00e4nnern und Frauen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-strategie-zur-gleichstellung-zwischen-maennern-und-frauen",
+                "uuid": "72c8d5e7-e7d1-4b31-99c3-99644c7adff3",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Sicherung des Urheberechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/sicherung-des-urheberechts",
+                "uuid": "fe2780f4-81e2-419d-a7f1-61776c547cfa",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Parlamentarische Empfehlung bzgl. TTIP Handelabkommen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/parlamentarische-empfehlung-bzgl-ttip-handelabkommen",
+                "uuid": "f1a0b307-e891-4e17-9e10-1e811474b2bc",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Schaffung eines Europ\u00e4ischen Struktur- und Investitionsfonds (EFSI)",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-europaeischen-struktur-und-investitionsfonds",
+                "uuid": "2436eb70-9eb4-4cb6-999f-b6d2ad59782e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-12-03",
+                "title": "Gemeinsame Strategie zur Pr\u00e4vention von Radikalisierung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gemeinsame-strategie-zur-praevention-von-radikalisierung",
+                "uuid": "43b62e8f-afef-4083-a71b-753ccdbecd6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Verringerung des Lohngef\u00e4lles zwischen Frauen und M\u00e4nnern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verringerung-des-lohngefaelles-zwischen-frauen-und-maennern",
+                "uuid": "e2dfb814-8dc6-4132-b354-a4b0dffdde4b",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Schadstoffaussto\u00df mittelgro\u00dfer Verbrennungsanlagen begrenzen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schadstoffausstoss-mittelgrosser-verbrennungsanlagen-begrenzen",
+                "uuid": "03d5024e-7b73-40ff-9e69-1ac7e6cc2882",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-22",
+                "title": "Auszahlung von Griechenlandhilfen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/auszahlung-von-griechenlandhilfen",
+                "uuid": "de2c3caf-d77b-457a-8e02-73bcdb60abad",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-28",
+                "title": "Schutz geografischer Herkunftsangaben der EU auf nichtlandwirtschaftliche Erzeugnisse",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-geografischer-herkunftsangaben-der-eu-auf",
+                "uuid": "3017adbf-e55e-4914-ad2f-47744e7719f7",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2016-05-12",
+                "title": "Resolution zur Neuzulassung des Herbizids Glyphosat",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/resolution-zur-neuzulassung-des-herbizids-glyphosat",
+                "uuid": "20b545ab-e31f-4404-ba34-fed1f163cce2",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2015-11-11",
+                "title": "Umsetzung des Bologna-Prozesses - Steigerung studentischer Auslandsmobilit\u00e4t ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-bologna-prozesses-steigerung-studentischer",
+                "uuid": "393d3eed-93b5-4cc8-a656-f261daa90351",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-11-19",
+                "title": "\u00c4nderung des Wahlrechts zum EU-Parlament",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aenderung-des-wahlrechts-zum-eu-parlament",
+                "uuid": "844ed2e1-303f-49bb-a63f-b7adb938593a",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2016-05-19",
+                "title": "Lebensmittelverschwendung",
+                "url": "https://www.abgeordnetenwatch.de/eu/petitionen/eu-verpflichtet-supermarkte-ihr-unverkauftes-essen-zu-spenden",
+                "uuid": "50cd10af-ac29-4d4b-9fb8-7e6eaee69163",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-11-24",
+                "title": "EU-Beitrittsverhandlungen mit der T\u00fcrkei einfrieren",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-beitrittsverhandlungen-mit-der-tuerkei-einfrieren",
+                "uuid": "5ec1c8eb-b80b-4a18-a0cb-c2054067ba2e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-12-01",
+                "title": "Menschenrechte und Migration in Drittl\u00e4ndern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/menschenrechte-und-migration-drittlaendern",
+                "uuid": "72d19836-8d9d-4f95-a8bb-0c0b89be5c06",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-02-05",
+                "title": "Anbau von gentechnisch ver\u00e4nderten Sojabohnen in der Europ\u00e4ischen Union",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anbau-von-gentechnisch-veraenderten-sojabohnen-der-europaeischen",
+                "uuid": "83f43a49-c047-4390-aaee-14cbe5a55525",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-04-25",
+                "title": "EU-Richtlinien \u00fcber Verwendung von Fluggastdaten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-richtlinien-ueber-verwendung-von-fluggastdaten",
+                "uuid": "9bbf91f1-b259-4dbb-bfd9-d3c3bc5f9ec1",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2017-02-17",
+                "title": "Umsetzung des Handelsabkommens CETA mit Kanada",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-handelsabkommens-ceta-mit-kanada",
+                "uuid": "f22c10c4-e5eb-481a-ae8d-9d8a42a604ba",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-09-28",
+                "title": "Unterst\u00fctzung von Frauen im digitalen Zeitalter",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/unterstuetzung-von-frauen-im-digitalen-zeitalter",
+                "uuid": "29160dca-2641-436f-b9b3-dc07b633454c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2017-09-27",
+                "title": "Strengere Transparenzstandards in der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/strengere-transparenzstandards-der-eu",
+                "uuid": "30a68fb6-4749-43c6-9f39-a1c19912cfa6",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-09-30",
+                "title": "Zugang der \u00d6ffentlichkeit zu Dokumenten aus den Jahren 2014-2015",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/zugang-der-oeffentlichkeit-zu-dokumenten-aus-den-jahren-2014-2015",
+                "uuid": "0705670c-1e29-4056-b4f2-6c2ff82a9e47",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-02-07",
+                "title": "Reform des Europawahlrechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/reform-des-europawahlrechts",
+                "uuid": "6282ec4d-e41f-4aa9-b000-ccdff599e0a2",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-02-13",
+                "title": "Reform der Dublin-Verordnung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/reform-der-dublin-verordnung",
+                "uuid": "75998fad-a01d-4538-8145-5ecae20b5ec4",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-04",
+                "title": "F\u00f6rderung von Energie aus erneuerbaren Quellen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/foerderung-von-energie-aus-erneuerbaren-quellen",
+                "uuid": "de62a93e-52ef-4c52-af30-88ee2c9fdbe2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-07",
+                "title": "Leitlinien f\u00fcr die Beziehungen mit dem Vereinigten K\u00f6nigreich",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/leitlinien-fuer-die-beziehungen-mit-dem-vereinigten-koenigreich",
+                "uuid": "683bc9be-d2c9-428f-b57f-b02f22f7b81a",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-12",
+                "title": "Bek\u00e4mpfung der Terrorismusfinanzierung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/bekaempfung-der-terrorismusfinanzierung",
+                "uuid": "e558742d-efc7-47ac-bdc2-4b56ff5d4dd1",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-13",
+                "title": "Lage der Grundrechte in der EU 2016",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/lage-der-grundrechte-der-eu-2016",
+                "uuid": "fbf77ecf-2d7f-414f-83d0-3d55e6eeb186",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-14",
+                "title": " Agenda f\u00fcr die Zukunft der Weltmeere",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/agenda-fuer-die-zukunft-der-weltmeere",
+                "uuid": "13befa08-99ea-4b67-9db2-34d9e3f128a8",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-22",
+                "title": "Ein Instrument f\u00fcr europ\u00e4ische Werte zur Unterst\u00fctzung zivilgesellschaftlicher Organisationen f\u00f6rdern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/ein-instrument-fuer-europaeische-werte-zur-unterstuetzung",
+                "uuid": "5b7adca6-5b6b-45a7-a5da-d0ed94d3448d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-22",
+                "title": "Gleichstellung der Geschlechter in Handelsabkommen der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gleichstellung-der-geschlechter-handelsabkommen-der-eu",
+                "uuid": "5dcedeae-936b-4e51-8798-b6c83a65cd77",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-25",
+                "title": "Umsetzung des Siebten Umweltaktionsprogramms",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-siebten-umweltaktionsprogramms",
+                "uuid": "fdf2cb7b-4680-4015-b527-3ab21fd8a49f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-26",
+                "title": "St\u00e4rkung der Rolle von Frauen und M\u00e4dchen durch die Digitalwirtschaft",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/staerkung-der-rolle-von-frauen-und-maedchen-durch-die",
+                "uuid": "27b03a00-5b8d-4565-8e58-afafb546c255",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-26",
+                "title": "Freiheit und Pluralismus der Medien in der EU ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/freiheit-und-pluralismus-der-medien-der-eu",
+                "uuid": "7f9f7412-a2ed-4105-90ff-bc4d93ddfd23",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-27",
+                "title": "Festsetzung des Zeitraums f\u00fcr die neunte  Wahl des EU Parlaments",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/festsetzung-des-zeitraums-fuer-die-neunte-wahl-des-eu-parlaments",
+                "uuid": "896d73ab-7180-4f96-a891-f3f34d080470",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-27",
+                "title": "Fortschritte beim globalen Pakt f\u00fcr Fl\u00fcchtlinge",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/fortschritte-beim-globalen-pakt-fuer-fluechtlinge",
+                "uuid": "ac895b89-d823-4d68-bac8-f12f6720387f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-28",
+                "title": "Manipulation des Kilometerz\u00e4hlers in Kraftfahrzeugen",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/manipulation-des-kilometerzaehlers-kraftfahrzeugen",
+                "uuid": "23d630ef-fd10-4f95-8caa-254d08280541",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-28",
+                "title": "Cyber Abwehr",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/cyber-abwehr",
+                "uuid": "29540433-69b2-4a60-9d7b-5bf47bed9ee8",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-06-28",
+                "title": "Schutz unbegleiteter minderj\u00e4hriger Gefl\u00fcchteter",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-unbegleiteter-minderjaehriger-gefluechteter",
+                "uuid": "5901f8e8-6515-4b71-8b49-0b6a93c87279",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-04",
+                "title": "Weltweites Verbot von Tierversuchen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/weltweites-verbot-von-tierversuchen",
+                "uuid": "299d2467-520f-4d6c-9273-93b2f95719f8",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-05",
+                "title": "Verletzung der Rechte indigener V\u00f6lker",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verletzung-der-rechte-indigener-voelker",
+                "uuid": "22c576c1-0bcb-4107-acce-510f147e66dc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-05",
+                "title": "Klimadiplomatie",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/klimadiplomatie",
+                "uuid": "5bc9e83c-7c2a-4771-8872-6efcbeb00e8d",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-06-27",
+                "title": " EU-Urheberrechtsreform",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-urheberrechtsreform",
+                "uuid": "e0573489-7fb9-45f0-93ec-b6f4f33c7d4b",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-11-01",
+                "title": "Entsendung von Arbeitnehmern im Rahmen der Erbringung von Dienstleistungen ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/entsendung-von-arbeitnehmern-im-rahmen-der-erbringung-von",
+                "uuid": "eb867da0-2d64-4489-a1f7-1cb1786da00c",
+                "vote": "daf\u00fcr gestimmt"
+            }
+        ]
+    }
+}

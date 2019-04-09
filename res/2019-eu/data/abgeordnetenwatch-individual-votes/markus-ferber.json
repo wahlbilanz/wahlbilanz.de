@@ -1,0 +1,2678 @@
+{
+    "profile": {
+        "committees": [
+            {
+                "name": "Ausschuss f\u00fcr Wirtschaft und W\u00e4hrung",
+                "role": "Member",
+                "uuid": "e3aad223-691c-473f-82c1-556c100e83b2"
+            },
+            {
+                "name": "Sonderausschuss \"Finanzkriminalit\u00e4t, Steuerhinterziehung und Steuervermeidung\"",
+                "role": "Member",
+                "uuid": "c843688a-a6da-461c-b844-f179cb5b15dc"
+            },
+            {
+                "name": "Ausschuss f\u00fcr Verkehr und Fremdenverkehr",
+                "role": "Alternate member",
+                "uuid": "b39ac88f-cf41-4856-9f13-94136638b144"
+            }
+        ],
+        "constituency": {
+            "name": "Bayern",
+            "number": "1",
+            "result": null,
+            "uuid": "57ab4367-7d4b-4060-8989-5530588ea3c3",
+            "won": false
+        },
+        "fraction": "CDU/CSU (EVP)",
+        "list": {
+            "name": "Bundesliste",
+            "position": "1",
+            "uuid": "e5aaaafc-1fc4-45b7-a1ae-e9ba2717f451",
+            "won": true
+        },
+        "meta": {
+            "answers": 141,
+            "edited": "2017-01-25 00:03",
+            "questions": 141,
+            "standard_replies": 0,
+            "status": "1",
+            "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/archive/155414",
+            "username": "markus-ferber",
+            "uuid": "cb5f76dc-4d24-4507-baa7-ca818d803505"
+        },
+        "parliament": {
+            "name": "EU-Parlament 2014-2019",
+            "uuid": "18ea3bc2-8348-4824-8695-e0c2864fd126"
+        },
+        "party": "CSU",
+        "personal": {
+            "birthyear": "1965",
+            "degree": null,
+            "education": "Diplom-Ingenieur",
+            "first_name": "Markus",
+            "gender": "male",
+            "last_name": "Ferber",
+            "location": {
+                "city": "Augsburg",
+                "country": "DE",
+                "postal_code": "86152",
+                "state": "BY"
+            },
+            "picture": {
+                "copyright": "EVP-Fraktion",
+                "url": "https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/ferber_markus.jpg"
+            },
+            "profession": "MdEP"
+        },
+        "questions": [
+            {
+                "answers": [
+                    {
+                        "date": "2019-04-01",
+                        "summary": "<p>(...) Ich bin als Europaabgeordneter nicht verpflichtet, mit meiner Fraktion zu stimmen und es kommt vor, dass ich das tats\u00e4chlich nicht tue. Es ist meine Pflicht, <strong>nach bestem Wissen und Gewissen</strong> zu entscheiden, das habe ich auch im Falle der Urheberrechtsreform getan. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2019-03-31",
+                "id": "312555",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2019-03-31/312555"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-26",
+                        "summary": "<p>(...) Dar\u00fcber hinaus merkt Google sich den Nutzer, sein Suchverhalten und seine Interessen und bietet auf dieser Grundlage ein personalisiertes Angebot. Problematisch ist vor allem die Illusion des Nutzers, die Vielfalt des Medienangebots zu sehen, wo er vor einer stark gefilterten Auswahl, quasi in seiner <strong>pers\u00f6nlichen Nachrichtenblase</strong>, steht. Das ist weder eine objektive Auswahl, noch das breite, vielf\u00e4ltige Medienangebot, von dem Sie sprechen und im Hinblick auf die Meinungsbildung und Isolierung einzelner Gruppen innerhalb der Gesellschaft sehr kritisch zu sehen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-03-22",
+                "id": "312107",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2019-03-22/312107"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-22",
+                        "summary": "<p>(...) Zu Ihrer Frage: Sie schreiben davon, dass die Werke der <strong>K\u00fcnstler </strong>aus dem \u00f6ffentlichen Diskurs verbannt werden w\u00fcrden und fragen nach M\u00f6glichkeiten, wie das zu verhindern sei. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-03-21",
+                "id": "312032",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2019-03-21/312032"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-22",
+                        "summary": "<p>(...) Wie Sie vielleicht wissen, hat die CDU einen Kompromiss zur Umsetzung der Urheberrechtsreform in Deutschland vorgelegt, der <strong>Upload-Filter verhindert</strong>. Dieser Ansatz entspricht den Vorgaben der Richtlinie, die unterschiedlichste Formen der Umsetzung des Urheberrechts zul\u00e4sst und Upload-Filter dabei gar nicht erw\u00e4hnt. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-03-21",
+                "id": "312018",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2019-03-21/312018"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-18",
+                        "summary": "<p>(...) Sie sprechen auch den Nutzen erfahrener Politiker f\u00fcr die Wirtschaft an. Um Wohlstand und Sicherheit nachhaltig zu garantieren braucht es eine <strong>gute Zusammenarbeit zwischen Wirtschaft und Politik</strong>. Erfahrene, gebildete Personen in der Politik sind nicht nur ein Gewinn, sondern eine Notwendigkeit, damit sie ihre Funktion f\u00fcr unsere Gesellschaft erf\u00fcllen kann. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-03-17",
+                "id": "311777",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2019-03-17/311777"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-13",
+                        "summary": "<p>(...) Ich halte den Ansatz, <strong>jeder EU-B\u00fcrger sollte Anw\u00e4rtern aus allen EU-Mitgliedstaaten seine Stimme geben k\u00f6nnen</strong>, <strong>f\u00fcr wenig sinnvoll</strong>. Wie w\u00fcrde dann die Aufteilung der Sitze des Parlaments unter den L\u00e4ndern geregelt werden? (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2019-03-12",
+                "id": "311366",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2019-03-12/311366"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-07",
+                        "summary": "<p>(...) Sie fragen, ob ich f\u00fcr die <strong>Reform</strong> stimmen werde. Die Abstimmung dazu findet Ende M\u00e4rz statt, der Bericht wurde noch nicht abschlie\u00dfend innerhalb der Fraktionen diskutiert. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-03-06",
+                "id": "311158",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2019-03-06/311158"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-04",
+                        "summary": "<p>(...) <strong>Ich setze mich f\u00fcr einen technologieneutralen Wandel ein</strong>, der ausschlie\u00dfliche Fokus auf nur eine Technologie ist eine Sackgasse. Eine moderne, <strong>saubere Verkehrspolitik</strong>, <strong>die gut f\u00fcr die Umwelt ist und den Menschen in seiner Mobilit\u00e4t f\u00f6rdert</strong>, <strong>braucht einen</strong> m\u00f6glichst breiten Ansatz: Wir m\u00fcssen alle verf\u00fcgbaren Technologien nutzen. (...)</p>"
+                    }
+                ],
+                "category": "Verkehr und Mobilit\u00e4t",
+                "date": "2019-03-02",
+                "id": "310885",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2019-03-02/310885"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-03-04",
+                        "summary": "<p>(...) haben Sie vielen Dank f\u00fcr Ihre Nachricht zur Urheberrechtsreform. <strong>Ich darf bez\u00fcglich der Details der technischen Umsetzung</strong>, <strong>di</strong>e Sie ansprechen, <strong>auf meinen Kollegen Axel Voss verweisen</strong>, <strong>der den Gesetzesentwurf mitgestaltet hat und als Mitglied des diesbez\u00fcglich federf\u00fchrenden Rechtsausschusses</strong>, <strong>dem ich nicht angeh\u00f6re</strong>, <strong>di</strong>esbez\u00fcglich der richtige Ansprechpartner ist. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2019-03-01",
+                "id": "310868",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2019-03-01/310868"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-02-04",
+                        "summary": "<p>(...) Die <strong>Einf\u00fchrung der Pkw-Maut</strong> auf deutschen Autobahnen wird im Oktober 2020 stattfinden. Mit diesem Schritt stellen wir sicher, dass es bei der Finanzierung der Autobahnen keine Mehrbelastung f\u00fcr Inl\u00e4nder gibt. (...)</p>"
+                    }
+                ],
+                "category": "Verkehr und Infrastruktur",
+                "date": "2019-02-02",
+                "id": "309569",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2019-02-02/309569"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-02-04",
+                        "summary": "<p>(...) <strong>Da Sie die Steuerstudie der Gr\u00fcnen erw\u00e4hnen</strong>, <strong>m\u00f6chte ich kurz vorausschicken</strong>, dass ich deren Ergebnisse f\u00fcr wenig aussagekr\u00e4ftig halte. Dass effektive Steuers\u00e4tze niedriger sind als nominale, sollte n\u00e4mlich niemanden \u00fcberraschen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2019-02-02",
+                "id": "309553",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2019-02-02/309553"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2019-01-03",
+                        "summary": "<p>(...) <strong>Die H\u00f6he der Verdienstgrenze f\u00fcr so genannte Minijobs</strong> ist eine Frage, die in Deutschland vom Bundesgesetzgeber geregelt wird und bei der die Europ\u00e4ische Union keinen Einfluss nimmt. Da ich mich als Mitglied des Europ\u00e4ischen Parlaments entsprechend mit einer Einsch\u00e4tzung zu Ihrer Frage schwertue, w\u00fcrde ich Ihnen empfehlen, sich in dieser Angelegenheit an einen Abgeordneten aus dem zust\u00e4ndigen Ausschuss f\u00fcr Arbeit und Soziales des Deutschen Bundestages zu wenden. (...)</p>"
+                    }
+                ],
+                "category": "Arbeit",
+                "date": "2018-12-26",
+                "id": "308615",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-12-26/308615"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-11-13",
+                        "summary": "<p>(...) haben Sie vielen Dank f\u00fcr Ihre Anfrage, in der Sie sich nach meiner Meinung zum <strong>Zusammenschluss der EU-Mitgliedstaaten zu einem europ\u00e4ischen Bundesstaat </strong>erkundigen. (...)</p>"
+                    }
+                ],
+                "category": "EU-Erweiterung",
+                "date": "2018-11-09",
+                "id": "306555",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-11-09/306555"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-11-14",
+                        "summary": "<p>(...) Die Europ\u00e4ische Union und Japan verbinden viele politische und wirtschaftliche Interessen, die auf gemeinsamen Werten beruhen: Demokratie, Rechtsstaatlichkeit und die universellen Menschenrechte. Das Wirtschaftspartnerschaftsabkommen soll nun den Handel mit Waren und Dienstleistungen entscheidend ankurbeln, <strong>deutsche Exporte nach Japan erleichtern</strong> und neue M\u00f6glichkeiten f\u00fcr Investitionen schaffen. Da es auch in der Doha-Runde der Welthandelsorganisation bisher noch zu keiner Einigung gekommen ist, sind solche bilateralen Vertr\u00e4ge zum Abbau von Handelshemmnissen und zur weiteren St\u00e4rkung des internationalen Handels von gro\u00dfer Bedeutung. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2018-11-09",
+                "id": "306483",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-11-09/306483"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-11-05",
+                        "summary": "<p>(...) Ich darf Ihnen versichern, dass die geplanten Regelungen auch weiterhin <strong>nicht die Zensur des Internets zur Folge haben werden</strong>. Vielmehr soll die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2018-11-03",
+                "id": "306208",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-11-03/306208"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-11-05",
+                        "summary": ""
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-11-01",
+                "id": "306095",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-11-01/306095"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-10-30",
+                        "summary": "<p>(...) <strong>Die im Sommer durch die EU-Kommission durchgef\u00fchrte Online-Befragung der EU-B\u00fcrger zur Abschaffung der Zeitumstellung w\u00fcrde ich keineswegs als missgl\u00fcckt bezeichnen</strong>, denn - wie von Ihnen bereits richtig erw\u00e4hnt - handelte es sich dabei nicht um das einzige Entscheidungskriterium. Bei der Online-Umfrage hat sich die Mehrheit der Teilnehmer eindeutig f\u00fcr eine Abschaffung der Zeitumstellung ausgesprochen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-10-29",
+                "id": "306001",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-10-29/306001"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-10-23",
+                        "summary": "<p>(...) Ausgenommen werden sollen bis 2023 jedoch Plastikbesteck und Plastikteller, die im Rahmen von \u00f6ffentlichen Lieferauftr\u00e4gen an Bildungseinrichtungen oder Gesundheitseinrichtungen geliefert werden. Zudem sollen die Hersteller von solchen Plastikprodukten bei der Beseitigung solcher Abf\u00e4lle <strong>st\u00e4rker in die Verantwortung</strong> genommen werden. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2018-10-19",
+                "id": "305624",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-10-19/305624"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-09-14",
+                        "summary": "<p>(...) <strong>Grunds\u00e4tzlich verfolgt die Novelle des Urheberrechts das Ziel</strong>, <strong>geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger anzupassen und dabei die Interessen von K\u00fcnstlern</strong>, <strong>Autoren</strong>, <strong>Produzenten</strong>, <strong>Verlegern</strong>, <strong>Rechteinhabern</strong>, <strong>Konsumenten und Internetnutze</strong>rn fair auszugleichen. (...) Stattdessen sollen nun die Mitgliedstaaten eine Zusammenarbeit nach Treu und Glauben zwischen den Plattformen und den <strong>Rechteinhabern</strong> sicherstellen, um zu gew\u00e4hrleisten, dass nicht-lizensiertes Material nicht auf den Plattformen verf\u00fcgbar ist. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2018-09-11",
+                "id": "302640",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-09-11/302640"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-09-06",
+                        "summary": "<p>(...) Diese Richtlinie muss dann noch national umgesetzt werden. Wie Sie also sehen k\u00f6nnen, <strong>haben Sie noch Zeit und M\u00f6glichkeiten</strong>, Ihre Ansichten auf europ\u00e4ischer und nationaler Ebene kundzutun. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-09-05",
+                "id": "302378",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-09-05/302378"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-08-27",
+                        "summary": "<p>(...) haben Sie vielen Dank f\u00fcr Ihre Anfrage vom 24. August, mit der Sie <strong>zweifelsohne ein wichtiges Thema </strong>ansprechen. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2018-08-24",
+                "id": "301731",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-08-24/301731"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-19",
+                        "summary": "<p>(...) Mir ist die Berichterstattung aus seri\u00f6sen und nicht-seri\u00f6sen Artikeln zu diesem Thema bekannt. <strong>Der Auftritt von Herrn Juncker</strong> mag Raum f\u00fcr Spekulationen lassen, doch tats\u00e4chlich zu glauben, dass etwas Anderes als R\u00fcckenschmerzen f\u00fcr diesen Vorfall verantwortlich war, erscheint mir unangemessen. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2018-07-19",
+                "id": "300835",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-07-19/300835"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-16",
+                        "summary": "<p>(...) Man sollte nicht alles glauben, was im Netz verbreitet wird. Herr Kommissionspr\u00e4sident <strong>Jean-Claude Juncker</strong> leidet seit einiger Zeit an einem Ischias, welcher Taubheit oder Schw\u00e4che in den Beinen verursachen kann und zu Schmerzattacken f\u00fchrt. Solche Schmerzen sind mit Sicherheit keinem zu w\u00fcnschen. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2018-07-13",
+                "id": "300715",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-07-13/300715"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-05",
+                        "summary": "<p>(...) F\u00fcr einen Austausch auf diesem Niveau habe ich weder die Zeit noch kann ich irgendeinen Mehrwert darin erkennen. Es sei nur klargestellt, dass ich bei allen <strong>Abstimmungsentscheidungen </strong>allein nach meinem Gewissen entscheide und daf\u00fcr selbstverst\u00e4ndlich keine Gegenleistungen entgegennehme. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2018-07-03",
+                "id": "300515",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-07-03/300515"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-06",
+                        "summary": "<p>(...) Seien Sie versichert, dass die geplanten <strong>Regelungen</strong> auch weiterhin nicht die Zensur des Internets zur Folge haben werden. Vielmehr soll die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-07-03",
+                "id": "300473",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-07-03/300473"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-03",
+                        "summary": ""
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-07-02",
+                "id": "300470",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-07-02/300470"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-03",
+                        "summary": "<p>(...) haben Sie vielen Dank f\u00fcr Ihre Anmerkungen bez\u00fcglich der geplanten <strong>Urheberrechtsrichtlinie</strong>. Ich m\u00f6chte anmerken, dass es sich bei dem Abstimmungsergebnis vom 20. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-07-02",
+                "id": "300466",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-07-02/300466"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-02",
+                        "summary": "<p>(...) Am Ende brauchen wir L\u00f6sungen, die diesen Grunds\u00e4tzen Rechnung tragen. F\u00fcr Ihre Bedenken habe ich Verst\u00e4ndnis, darf Ihnen aber gleichzeitig versichern, dass diese Richtlinie und die technischen L\u00f6sungen f\u00fcr einen <strong>besseren Urheberrechtsschutz </strong>eben nicht die Zensur des Internets zum Ziel haben. Hier l\u00e4uft eine gezielte Desinformationskampagne der Betreiber gro\u00dfer Online-Plattformen, die ein Gesch\u00e4ftsmodell, das zulasten der Rechteinhaber geht, absichern wollen. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-07-01",
+                "id": "300423",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-07-01/300423"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-03",
+                        "summary": ""
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-07-01",
+                "id": "300419",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-07-01/300419"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-03",
+                        "summary": "<p>(...) In Ihrem Schreiben beziehen Sie sich auf den Einsatz von sogenannten <strong>Upload-Filtern</strong>, welche urheberrechtlich gesch\u00fctzte Inhalte fr\u00fchzeitig erkennen sollen. Unter Artikel 13 der Urheberrechtsrichtlinie sind Plattformen betroffen, deren Zweck es ist, von ihren Nutzern hochgeladene urheberrechtlich gesch\u00fctzte Werke zu speichern und diese anderen wieder \u00f6ffentlich zug\u00e4nglich zu machen. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2018-07-01",
+                "id": "300412",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-07-01/300412"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-02",
+                        "summary": "<p>(...) Ich m\u00f6chte anmerken, dass es sich bei dem am 20. Juni im Rechtsausschuss abgestimmten Bericht noch um <strong>kein finales Ergebnis</strong> handelt, sondern der erste Schritt von vielen ist, bis es ein europ\u00e4isches Regelwerk gibt. Nun muss sich noch das Plenum des Europ\u00e4ischen Parlaments positionieren, bevor das Dossier mit den Mitgliedstaaten verhandelt wird. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-30",
+                "id": "300389",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-30/300389"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-04",
+                        "summary": "<p>(...) ich kann Ihnen versichern, dass niemand im Europ\u00e4ischen Parlament f\u00fcr eine Zensurmaschine und gegen das freie Internet ist. Dementsprechend wird sich das Plenum des Europ\u00e4ischen Parlaments auch nicht zur Freiheit des Internets positionieren, sondern zu einer Urheberrechtsreform, die bestehende <strong>Schutzrechte auch in der digitalen Welt sichern</strong> soll. Da es hierbei vorab noch Kl\u00e4rungsbedarf gibt und die politischen Gespr\u00e4che noch laufen, kann ich Ihnen leider noch keine Tendenz zu meiner Stimme geben. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300386",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-29/300386"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-03",
+                        "summary": ""
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300371",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-29/300371"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-03",
+                        "summary": "<p>(...) Generell arbeiten diese sogenannten <strong>Upload-Filter</strong> nur auf Grundlage der von den Rechteinhabern zur Verf\u00fcgung gestellten Informationen. Folglich k\u00f6nnen auch nur deren urheberrechtlich gesch\u00fctzte Werke erkannt werden. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300362",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-29/300362"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-03",
+                        "summary": ""
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-06-29",
+                "id": "300347",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-29/300347"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-02",
+                        "summary": "<p>(...) Im \u00dcbrigen geht es bei diesem Dossier auch nicht um die <strong>Zensur des Internets</strong>, sondern darum, dass geistiges Eigentum auch im Internet gesch\u00fctzt wird. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300339",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-29/300339"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": ""
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-06-29",
+                "id": "300314",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-29/300314"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Grunds\u00e4tzlich sollen mit der geplanten Richtlinienreform k\u00fcnftig die Rechte von K\u00fcnstlern, Autoren, Produzenten, Verlegern, Rechteinhabern, Konsumenten und Internetnutzern besser gesch\u00fctzt werden. Dieses Ziel begr\u00fc\u00dfe ich nat\u00fcrlich, denn <strong>letztendlich ist geistiges Eigentum grundrechtlich gesch\u00fctzt - und das gilt auch im Internet</strong>. Ma\u00dfnahmen, die zu stark in die Nutzungsfreiheit der Internetverwender eingreifen und etwa die Rede-, Meinungs- und Kunstfreiheit einschr\u00e4nken, sehe ich kritisch - aber dabei geht es in dieser Richtlinie auch nicht. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300309",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-29/300309"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Seien Sie versichert, dass diese neuen Regelungen nicht die <strong>Zensur des Internets</strong> zur Folge haben werden. Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": "Bildung und Forschung",
+                "date": "2018-06-29",
+                "id": "300306",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-29/300306"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Seien Sie versichert, dass diese neuen Regelungen nicht die <strong>Zensur des Internets</strong> zur Folge haben werden. Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-06-29",
+                "id": "300290",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-29/300290"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-02",
+                        "summary": "<p>(...) Daher kann auch nicht von einem \u201edurchquetschen\u201c dieses Gesetzes die Rede sein. Das von Ihnen beschriebene Problem, nicht \u00fcber das Gesetzesvorhaben informiert gewesen zu sein, ist damit nicht auf den Gesetzgebungsprozess zur\u00fcckzuf\u00fchren, sondern auf <strong>geringe mediale Berichterstattung</strong> zu diesem Thema. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300283",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-29/300283"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-02",
+                        "summary": "<p>(...) F\u00fcr <strong>Upload-Filter</strong> gibt es in der Tat bereits funktionierende L\u00f6sungen. Ein Beispiel daf\u00fcr ist die von Plattformen wie YouTube eingesetzte Erkennungssoftware. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300277",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-29/300277"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-02",
+                        "summary": "<p>(...) Sollten diese Plattformen <strong>kleine Unternehmen oder Startups</strong> sein, w\u00e4ren auch diese verpflichtet, Urheberrechtsverletzungen vorzubeugen. Denn auch Startups m\u00fcssen sich an geltendes Recht halten. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-29",
+                "id": "300263",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-29/300263"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Seien Sie versichert, dass diese neuen Regelungen nicht die <strong>Zensur des Internets</strong> zur Folge haben werden. Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-06-29",
+                "id": "300203",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-29/300203"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Seien Sie versichert, dass diese neuen Regelungen nicht die <strong>Zensur des Internets</strong> zur Folge haben werden. Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-06-28",
+                "id": "300184",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300184"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Seien Sie versichert, dass diese neuen Regelungen nicht die <strong>Zensur des Internets</strong> zur Folge haben werden. Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300176",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300176"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Seien Sie versichert, dass diese neuen Regelungen nicht die <strong>Zensur des Internets</strong> zur Folge haben werden. Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2018-06-28",
+                "id": "300167",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300167"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Seien Sie versichert, dass diese neuen Regelungen nicht die <strong>Zensur des Internets</strong> zur Folge haben werden. Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2018-06-28",
+                "id": "300164",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300164"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-02",
+                        "summary": "<p>(...) Der Richtlinienvorschlag erlegt also nicht privaten Internetnutzern Verpflichtungen auf. Stattdessen werden Plattformen adressiert, deren Schwerpunkt darin besteht, \u00f6ffentlichen Zugang zu <strong>urheberrechtlich gesch\u00fctztem Material</strong> bereitzustellen. Die meisten Plattformen sind davon \u00fcberhaupt nicht betroffen. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2018-06-28",
+                "id": "300165",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300165"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Seien Sie versichert, dass diese neuen Regelungen nicht die <strong>Zensur des Internets</strong> zur Folge haben werden. Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300155",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300155"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Seien Sie versichert, dass diese neuen Regelungen nicht die <strong>Zensur des Internets</strong> zur Folge haben werden. Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300151",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300151"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Seien Sie versichert, dass diese neuen Regelungen nicht die <strong>Zensur des Internets </strong>zur Folge haben werden. Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300130",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300130"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Seien Sie versichert, dass diese neuen Regelungen nicht die <strong>Zensur des Internets</strong> zur Folge haben werden. Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": "Arbeit",
+                "date": "2018-06-28",
+                "id": "300127",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300127"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. Es ist klar, dass die <strong>Grunds\u00e4tze des Urheberrechtes auch im Internet gelten m\u00fcssen</strong>. Der Richtlinienvorschlag erlegt also nicht privaten Internetnutzern Verpflichtungen auf. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300125",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300125"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-02",
+                        "summary": "<p>(...) Hierf\u00fcr wird Erkennungssoftware eingesetzt, die seit ca. 10 Jahren bereits existiert und zum Beispiel von <strong>YouTube</strong> auf freiwilliger Basis eingesetzt wird. In diesem Zusammenhang ist die Sorge z.B. um Zitate oder so genannte Memes unbegr\u00fcndet, da diese von der Urheberrechtsreform, im Hinblick auf die Parodie- oder Zitatfreiheit, nicht betroffen sind. (...)</p>"
+                    }
+                ],
+                "category": "EU-Erweiterung",
+                "date": "2018-06-28",
+                "id": "300102",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300102"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Ich <strong>danke </strong>Ihnen f\u00fcr Ihr Engagement und f\u00fcr die \u00dcbermittlung Ihrer Ansichten zu diesem wichtigen Thema, die ich f\u00fcr die weitere politische Arbeit gern aufnehmen werde. (...)</p>"
+                    }
+                ],
+                "category": "Arbeit",
+                "date": "2018-06-28",
+                "id": "300101",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300101"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. Es ist klar, dass die <strong>Grunds\u00e4tze des Urheberrechtes auch im Internet gelten m\u00fcssen</strong>. Der Richtlinienvorschlag erlegt also nicht privaten Internetnutzern Verpflichtungen auf. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-06-28",
+                "id": "300091",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300091"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-07-02",
+                        "summary": "<p>(...) Grunds\u00e4tzlich sollen mit der geplanten Richtlinienreform k\u00fcnftig die Rechte von K\u00fcnstlern, Autoren, Produzenten, Verlegern, Rechteinhabern, Konsumenten und Internetnutzern besser gesch\u00fctzt werden. Dieses Ziel begr\u00fc\u00dfe ich nat\u00fcrlich, denn letztendlich ist <strong>geistiges Eigentum</strong> grundrechtlich gesch\u00fctzt - und das gilt auch im Internet. Ma\u00dfnahmen, die zu stark in die Nutzungsfreiheit der Internetverwender eingreifen und etwa die Rede-, Meinungs- und Kunstfreiheit einschr\u00e4nken, sehe ich kritisch - aber dabei geht es in dieser Richtlinie auch nicht. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300073",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300073"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": ""
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-06-28",
+                "id": "300078",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300078"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-29",
+                        "summary": "<p>(...) Seien Sie versichert, dass diese neuen Regelungen nicht die <strong>Zensur des Internets </strong>zur Folge haben werden. Vielmehr soll geltendes Recht an das ver\u00e4nderte Nutzungsverhalten der B\u00fcrger angepasst und die Verantwortung der Online-Plattformen gesteigert werden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-06-28",
+                "id": "300070",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-28/300070"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-14",
+                        "summary": "<p>(...) Seien Sie versichert, dass niemand eine Zensur oder die <strong>Einschr\u00e4nkung der Nachrichten- und Informationsverbreitung im Internet</strong> bef\u00fcrwortet und schon gar nicht eine missbr\u00e4uchliche Nutzung dieser neuen Regelungen legitimieren m\u00f6chte. Vielmehr soll die Verantwortung der Online-Plattformen neu definiert werden. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-13",
+                "id": "299439",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-13/299439"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-14",
+                        "summary": "<p>(...) In diesem Zusammenhang wird unter anderem eine Verpflichtung der Anbieter zum Einsatz sogenannter <strong>\u201eUpload-Filter\u201c</strong> diskutiert. Dabei geht es ausdr\u00fccklich nicht darum, Inhalte um der Inhalte willen zu zensieren. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-13",
+                "id": "299423",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-13/299423"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-14",
+                        "summary": "<p>(...) In diesem Zusammenhang wird unter anderem eine Verpflichtung der Anbieter zum Einsatz sogenannter <strong>\u201eUpload-Filter\u201c</strong> diskutiert. Dabei geht es ausdr\u00fccklich nicht darum, Inhalte um der Inhalte willen zu zensieren. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2018-06-13",
+                "id": "299397",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-13/299397"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-06-06",
+                        "summary": "<p>(...) Eine Vereinheitlichung der Strafen f\u00fcr <strong>Verkehrsdelikte </strong>innerhalb der EU ist nicht vorgesehen. Eine volle Harmonisierung der Strafen wird kaum m\u00f6glich sein, da die Festlegung dieser Strafen laut den EU-Vertr\u00e4gen Sache der Mitgliedsl\u00e4nder ist. (...)</p>"
+                    }
+                ],
+                "category": "Verkehr und Infrastruktur",
+                "date": "2018-06-03",
+                "id": "299050",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-06-03/299050"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-05-04",
+                        "summary": "<p>(...) Ich glaube, durch die europ\u00e4ischen Unterst\u00fctzungsprogramme ist Griechenland inzwischen auf einem guten Weg. Der <strong>griechische Staat</strong> erwirtschaftet einen Prim\u00e4r\u00fcberschuss und die Staatsverschuldung ist erstmals seit langem r\u00fcckl\u00e4ufig. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2018-05-03",
+                "id": "298461",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-05-03/298461"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-03-28",
+                        "summary": "<p>(...) Ich bin mir sicher, dass Sie die Antwort mit ein wenig <strong>Recherche</strong> schnell herausfinden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-03-27",
+                "id": "297858",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-03-27/297858"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-03-20",
+                        "summary": "<p>(...) haben Sie vielen Dank f\u00fcr Ihre Anfrage zur <strong>Konsultation </strong>der Europ\u00e4ischen Kommission \u00fcber Umfang und Aufbau eines Leitfadens der Kommission f\u00fcr eine sozial verantwortliche Vergabe \u00f6ffentlicher Auftr\u00e4ge. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2018-03-19",
+                "id": "297721",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-03-19/297721"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-03-12",
+                        "summary": "<p>(...) Die <strong>Westbalkanstrategie</strong> der Kommission hat f\u00fcr mich gezeigt, dass es in allen Westbalkanstaaten noch erhebliche Defizite (etwa bei der Bek\u00e4mpfung von Korruption und organisierter Kriminalit\u00e4t oder der Sicherstellung rechtsstaatlicher Prinzipien) gibt und ein EU-Beitritt damit auf absehbare Zeit nicht in Frage kommt. Vom Zieldatum 2025 halte ich nichts, da meines Erachtens die Fortschritte bei der Ann\u00e4herung den Zeitplan bestimmen sollten - und nicht umgekehrt. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2018-03-11",
+                "id": "297560",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-03-11/297560"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-02-12",
+                        "summary": "<p>(...) In Zukunft haben die EU-Mitgliedstaaten mehr Freiraum, wie die Klimaschutzziele in den einzelnen L\u00e4ndern erreicht werden. Die Mitgliedstaaten werden die <strong>umwelt- und klimafreundlichen Verfahren f\u00fcr die Landwirte</strong> festlegen, die im Rahmen der GAP Einkommensst\u00fctzung erhalten. Dabei k\u00f6nnen dann nationale, regionale und lokale Besonderheiten viel besser ber\u00fccksichtigt werden. (...)</p>"
+                    }
+                ],
+                "category": "Agrarpolitik",
+                "date": "2018-02-11",
+                "id": "296958",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-02-11/296958"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2018-02-08",
+                        "summary": "<p>(...) Bei den Europawahlen halte ich eine europ\u00e4ische <strong>Perspektive</strong> f\u00fcr die Wahl der EU-Kommission f\u00fcr zielf\u00fchrender, als einen deutschen Kandidaten f\u00fcr die Kommission f\u00fcr jede deutsche Partei zu nominieren. Die Nominierung des EU-Kommissars sollte dabei meiner Ansicht nach in der Verantwortung der jeweiligen Regierung der Mitgliedstaaten verbleiben. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2018-02-06",
+                "id": "296842",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2018-02-06/296842"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-12-01",
+                        "summary": "<p>(...) Die Europ\u00e4ische Union unterst\u00fctzt im Rahmen von regionalen Treuhandfonds Gro\u00dfprojekte in der Nahost-Region im Umfang von 730 Millionen Euro. Jordanien ist ein wichtiger und <strong>stabiler</strong> Partner in der Fl\u00fcchtlingspolitik der Europ\u00e4ischen Union und die EU ist der gr\u00f6\u00dfte Geber f\u00fcr dieses krisengesch\u00fcttelte Land. So haben wir 2016 einen Krisenplan f\u00fcr Jordanien festgelegt, bei dem nicht nur dringend ben\u00f6tige Unterst\u00fctzung der Fl\u00fcchtlingslager und der 83.000 Fl\u00fcchtlinge geleistet wird, sondern auch um Jordaniern sowie in Jordanien lebenden Pal\u00e4stinensern und Syrern wirtschaftliche und berufliche Perspektiven zu bieten. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2017-11-29",
+                "id": "295000",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2017-11-29/295000"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-11-24",
+                        "summary": "<p>(...) Bei der <strong>Vergemeinschaftung der Agrarpolitik</strong> standen Rationalisierungsma\u00dfnahmen und die Nahrungsmittelversorgungssicherheit im Vordergrund. Die Steigerung der Produktivit\u00e4t der Landwirtschaft und die Stabilisierung der M\u00e4rkte sind auch heute wichtig f\u00fcr die erschwingliche Versorgung der europ\u00e4ischen Bev\u00f6lkerung. (...)</p>"
+                    }
+                ],
+                "category": "Agrarpolitik",
+                "date": "2017-11-22",
+                "id": "294694",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2017-11-22/294694"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-08-09",
+                        "summary": "<p>(...) Ich teile Ihre Einsch\u00e4tzung, dass es sich hierbei um eine ausgesprochen problematische Diskrepanz handelt. Ich pers\u00f6nlich spreche mich schon seit langem daf\u00fcr aus, dass die <strong>Atomaufsicht </strong>europ\u00e4isiert wird und sich an den h\u00f6chsten Sicherheitsstandards orientieren muss. Schlie\u00dflich ist klar, dass bei einem etwaigen Kernreaktorunfall Strahlung und radioaktiver Niederschlag nicht an der Landesgrenze halt machen werden. (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2017-08-09",
+                "id": "282918",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2017-08-09/282918"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-05-09",
+                        "summary": "<p>(...) Die <strong>Privatisierung der staatlichen Justiz</strong>, wie Sie dies in der Folge Ihrer Argumente fordern, w\u00fcrde doch nicht die Unabh\u00e4ngigkeit des Strafvollzugs gew\u00e4hrleisten. Das private Gericht w\u00e4re parteiisch und w\u00fcrde seine privaten Interessen verfolgen. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2017-05-08",
+                "id": "25381",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2017-05-08/25381"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-05-08",
+                        "summary": "<p>(...) Die <strong>Todesstrafe</strong> ist weder mit den Werten Deutschlands, noch mit den Werten Europas vereinbar. Eine Auseinandersetzung mit diesem Thema ist daher v\u00f6llig abwegig. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2017-05-05",
+                "id": "25251",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2017-05-05/25251"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-02-03",
+                        "summary": "<p>(...) Ich sehe vielmehr ein globales Problem, n\u00e4mlich dass lediglich 179 der 193 Mitgliedstaaten der Vereinten Nationen das Washingtoner Artenschutz\u00fcbereinkommen (CITES) unterzeichnet haben und es keine Zwangsmittel zur Durchsetzung des Abkommens gibt. Die <strong>Kontrolle des generell geltenden Elfenbein-Handelsverbotes</strong> wird durch diese Umst\u00e4nde erschwert bzw. unm\u00f6glich gemacht. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2017-02-02",
+                "id": "24056",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2017-02-02/24056"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2017-01-27",
+                        "summary": "<p>(...) vielen Dank f\u00fcr Ihre Anfrage zum Thema Sanktionen gegen Syrien. Zwar kann ich Ihre Kritik an wirtschaftlichen Sanktionen als Mittel der Au\u00dfenpolitik allgemein nachvollziehen, doch m\u00f6chte ich an dieser Stelle klarstellen, dass diese <strong>Sanktionen gegen Syrien keineswegs das Ziel verfolgen</strong>, <strong>christlichen Syrer oder der Bev\u00f6lkerung allgemein damit zu schaden.</strong> (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2017-01-26",
+                "id": "24033",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2017-01-26/24033"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-12-21",
+                        "summary": "<p>(...) In der Europ\u00e4ischen Union gibt es ein Regelwerk im Bereich Beihilferecht, welches sehr klar festschreibt, welche Art von Staatsbeihilfe mit europ\u00e4ischem Recht vereinbar ist und welche nicht. Im Bankensektor haben wir mit der <strong>Bankenabwicklungsrichtlinie</strong> erst k\u00fcrzlich ein umfassendes Regelwerk verabschiedet, das genau verhindern soll, dass Banken vom Steuerzahler gerettet werden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2016-12-21",
+                "id": "23903",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-12-21/23903"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-28",
+                        "summary": "<p>(...) haben Sie vielen Dank f\u00fcr Ihre Mail mit der Frage zur Revision der <strong>Waffenrechtrichtlinie</strong>. Gerne nehme ich dazu Stellung, ich kann Ihre Sorge sehr gut verstehen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-11-26",
+                "id": "23828",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-11-26/23828"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-25",
+                        "summary": "<p>(...) <strong>Ich pers\u00f6nlich halte Aufnahmen von neuen Mitgliedsstaaten in die Europ\u00e4ische Union weder f\u00fcr sinnvoll noch f\u00fcr vermittelbar.</strong> Mit der Osterweiterung der Europ\u00e4ischen Union hat diese innerhalb weniger Jahre eine beachtliche Integrationsleistung erbracht. (...)</p>"
+                    }
+                ],
+                "category": "EU-Erweiterung",
+                "date": "2016-11-24",
+                "id": "23825",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-11-24/23825"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-15",
+                        "summary": "<p>(...) vielen Dank f\u00fcr Ihre Anfrage zur Petition \u00fcber die gesetzlich verpflichtende <strong>Spende von noch verwendbaren Lebensmitteln </strong>von Superm\u00e4rkten an gemeinn\u00fctzige Initiativen. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2016-11-12",
+                "id": "23737",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-11-12/23737"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-11-15",
+                        "summary": "<p>(...) So hat die Tafel, als eine der gr\u00f6\u00dften gemeinn\u00fctzigen Organisationen Deutschlands, in einer Pressemitteilung vom Februar 2016 darauf verwiesen, dass sie Absprachen mit Supermarktketten hat, die ihre abgelaufenen Lebensmittel regelm\u00e4\u00dfig an die Tafel spenden. Da diese Kooperation auch ohne gesetzliche Regelung funktioniert <strong>sehe ich daher keinen Grund f\u00fcr weitere Regulierun</strong>g. Ich vertraue in dieser Frage auf das Urteil derer, die tagt\u00e4glich mit der Materie zu tun haben und bin froh, dass wir in Deutschland so viele engagierte Mitb\u00fcrgerinnen und Mitb\u00fcrger haben, die diese wichtige Arbeit leisten. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2016-11-11",
+                "id": "23707",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-11-11/23707"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-10-17",
+                        "summary": "<p>(...) <strong>Das Trilogverfahren bietet gegen\u00fcber dem regul\u00e4ren Gesetzgebungsverfahren den Vorteil</strong>, <strong>dass es im Ideal deutlich schneller abl\u00e4uft.</strong> Insofern bietet das Trilogverfahren immer dann gro\u00dfe Vorteile, wenn ein schnelles Handeln des europ\u00e4ischen Gesetzgebers geboten ist. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2016-10-16",
+                "id": "23621",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-10-16/23621"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-08-31",
+                        "summary": "<p>(...) Bei mir steht der <strong>Kampf gegen Steuertrickserei</strong> ganz oben auf meiner Agenda. Auf der einen Seite geht es darum, die Steuerbeh\u00f6rden besser in die Lage zu versetzen, gegen illegale Steuerpraktiken vorzugehen. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2016-08-30",
+                "id": "23202",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-08-30/23202"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-05-19",
+                        "summary": "<p>(...) Mit der Abstimmung haben wir ein klares Signal an die EU-Kommission gesandt und uns gegen die Pl\u00e4ne der EU-Kommission f\u00fcr eine Neuzulassung von <strong>Glyphosat </strong>um weitere 15 Jahre ausgesprochen. Das EU-Parlament fordert mehrheitlich eine zeitlich befristete \u00dcbergangsl\u00f6sung von lediglich 7 Jahren und \u00e4u\u00dferst strenge Auflagen f\u00fcr den Einsatz von Glyphosat: (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2016-05-18",
+                "id": "22146",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-05-18/22146"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-04-18",
+                        "summary": "<p>(...) April \u00fcber den Entschlie\u00dfungsantrag zu dem Entwurf einer Durchf\u00fchrungsverordnung der Kommission zur Erneuerung der Genehmigung des Wirkstoffs Glyphosat. Ich habe gegen eine Verl\u00e4ngerung und f\u00fcr strenge Auflagen f\u00fcr den Einsatz von <strong>Glyphosat</strong> gestimmt. (...)</p>"
+                    }
+                ],
+                "category": "Agrarpolitik",
+                "date": "2016-04-18",
+                "id": "22058",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-04-18/22058"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-04-15",
+                        "summary": "<p>(...) Das EU-Parlament fordert mehrheitlich eine zeitlich befristete \u00dcbergangsl\u00f6sung von 7 Jahren unter sehr strengen Auflagen. Ich pers\u00f6nlich <strong>habe gegen die Verl\u00e4ngerung gestimmt.</strong> (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2016-04-13",
+                "id": "22033",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-04-13/22033"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-03-02",
+                        "summary": "<p>(...) Als Europaabgeordneter liegt es mir am Herzen, in der <strong>Fl\u00fcchtlingskrise</strong> die <strong>gesamteurop\u00e4ische Perspektive</strong> im Auge zu behalten. Die aktuelle Krise ist keine nationale sondern eine europ\u00e4ische Krise. (...)</p>"
+                    }
+                ],
+                "category": "Au\u00dfenpolitik",
+                "date": "2016-03-01",
+                "id": "21506",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-03-01/21506"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-02-26",
+                        "summary": "<p>(...) In der Tat war als Stichtag f\u00fcr die Umsetzung der Finanzmarktrichtlinie <strong>MiFID II</strong> der 3. (...) Erst in einer Sitzung des Wirtschafts- und W\u00e4hrungsausschusses Anfang November des vergangenen Jahres wurde das Europ\u00e4ische Parlament \u00fcber m\u00f6gliche <strong>Verz\u00f6gerungen beim Zeitplan </strong>informiert. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2016-02-25",
+                "id": "21093",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-02-25/21093"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-01-19",
+                        "summary": "<p>(...) zu 3.) In Deutschland wird <strong>Scientology von den Verfassungsschutzbeh\u00f6rden beobachtet</strong>. Ein bundesweites Verbot m\u00fcsste vom Bundesministerium des Inneren ausgehen, da sich die Aktivit\u00e4ten von Scientology bekanntlich bundesweit erstrecken. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2016-01-16",
+                "id": "20049",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-01-16/20049"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-01-15",
+                        "summary": "<p>(...) <strong>Scientology</strong> ist keine Kirche sondern eine totalit\u00e4re Organisation und als Europaabgeordneter bin ich mir der Problematik, die mit Scientology einhergeht, durchaus bewusst. Das Europ\u00e4ische Parlament hat in der Vergangenheit bereits mehrfach gegen\u00fcber der EU-Kommission seine Bedenken ge\u00e4u\u00dfert und auch die CSU-Europagruppe verfolgt die Entwicklungen um Scientology aufmerksam. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2016-01-14",
+                "id": "20045",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-01-14/20045"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-01-12",
+                        "summary": "<p>(...) April 2015 ausdr\u00fccklich daf\u00fcr ausgesprochen, Pflanzen, die zur Nahrungsmittelherstellung verwendet werden, in Kraftstoffen zu begrenzen. Zuk\u00fcnftig d\u00fcrfen nur noch 7 % an <strong>Nahrungsmittelpflanzen f\u00fcr Biosprit</strong> gewonnen werden! Jetzt ist es Aufgabe der Mitgliedstaaten, diese Vorgabe bis 2017 in nationales Recht umzusetzen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2016-01-08",
+                "id": "20030",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-01-08/20030"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-01-08",
+                        "summary": "<p>(...) \u00dcber die derzeitige Lage in Polen bin ich beunruhigt. Es ist besorgniserregend, dass die <strong>polnische Regierung versucht</strong>, <strong>die Medien und die Justiz nach ihren Spielregeln zu beeinflussen</strong>. Klar ist, dass Polen europ\u00e4ische Grundwerte einhalten muss, dies steht au\u00dfer Frage. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-01-08",
+                "id": "20027",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-01-08/20027"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-01-08",
+                        "summary": "<p>(...) November 2015 hat die EU-Kommission ein Ma\u00dfnahmenpaket vorgestellt, welches einen Vorschlag zur <strong>\u00dcberarbeitung der Feuerwaffenrichtlinie</strong>, eine Verordnung \u00fcber gemeinsame Mindeststandards f\u00fcr die Deaktivierung von Feuerwaffen und einen Aktionsplan zur Bek\u00e4mpfung des illegalen Waffen- und Sprengstoffhandels beinhaltet. (...) Mir ist es wichtig, dass in der Europ\u00e4ischen Union aktiv gegen <strong>potentielle Terroristen</strong> vorgegangen wird und diese am Zugang zu Waffen und Sprengstoff gehindert werden. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2016-01-07",
+                "id": "20018",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2016-01-07/20018"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2016-01-05",
+                        "summary": "<p>(...) In dem von Ihnen zitierten Video nennt der Kabarettist Urban Priol beispielsweise die Problematik Europ\u00e4ischer Export-Subventionen und die sogenannte <strong>\"Lebensmittel-Zockerei\" an Finanzm\u00e4rkten</strong>, gerne m\u00f6chte ich dazu Stellung beziehen. (...) Zum Thema <strong>\"Lebensmittel-Zockerei\" an Finanzm\u00e4rkten</strong>: (...) Das Europ\u00e4ische Parlament hat sich bereits 2014 eindeutig gegen <strong>\"Lebensmittel-Zockerei\" an Finanzm\u00e4rkten</strong> ausgesprochen und eine scharfe Regulierung der Finanzm\u00e4rkte besiegelt. (...)</p>"
+                    }
+                ],
+                "category": "Miscellaneous",
+                "date": "2015-12-30",
+                "id": "20000",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-12-30/20000"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-11-27",
+                        "summary": "<p>(...) Ziel des Gesetzespakets der EU-Kommission ist es insbesondere, den Informationsaustausch der Mitgliedstaaten \u00fcber in <strong>legalem Besitz befindliche Waffen</strong> zu verbessern und transparenter zu gestalten. In diesem Zusammenhang soll auch verst\u00e4rkt gegen den illegalen Handel von Waffen und Sprengstoff auf den Schwarzm\u00e4rkten vorgegangen werden. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2015-11-26",
+                "id": "19912",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-11-26/19912"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-11-26",
+                        "summary": "<p>(...) Mir ist es wichtig, dass bei der <strong>\u00dcberarbeitung der Feuerwaffen-Richtlinie</strong> der Fokus auf der Bek\u00e4mpfung des illegalen Waffenhandels liegt. Wir m\u00fcssen potentiellen Terroristen den Zugang zu Waffen und Sprengstoff unm\u00f6glich machen, daf\u00fcr m\u00fcssen wir in Europa sinnvolle L\u00f6sungen finden. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-11-25",
+                "id": "19902",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-11-25/19902"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-10-27",
+                        "summary": "<p>(...) Das Recht auf ein freies und offenes Internet  geh\u00f6rt zu den grundlegenden Freiheiten eines jeden EU-B\u00fcrgers. Das Europ\u00e4ische Parlament hat sich daher bereits bei der Plenarabstimmung im April 2014 \u00fcber den Vorschlag der EU-Kommission klar f\u00fcr <strong>Netzneutralit\u00e4t </strong>ausgesprochen! (...)</p>"
+                    }
+                ],
+                "category": "Bildung und Forschung",
+                "date": "2015-10-26",
+                "id": "19804",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-10-26/19804"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-10-06",
+                        "summary": "<p>(...) Das grunds\u00e4tzliche <strong>Ziel von CETA ist es</strong>, <strong>Handelshemmnisse abzubauen</strong> und den Zugang zum Markt des Handelspartners zu verbessern. Gleichzeitig stellt ein Handelsabkommen sicher, dass sowohl ausl\u00e4ndische als auch inl\u00e4ndische Investoren grunds\u00e4tzlich gleich und fair behandelt werden. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2015-10-05",
+                "id": "19753",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-10-05/19753"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-28",
+                        "summary": "<p>(...) Die <strong>Idee eines EU-Heeres</strong> ist in den letzten Jahrzehnten regelm\u00e4\u00dfig diskutiert worden. Die Idee an sich ist \u00e4lter als die Europ\u00e4ische Union selbst, bereits 1952 wurde eine Europ\u00e4ische Verteidigungsgemeinschaft zwischen Deutschland, Frankreich, den Benelux-Staaten und Italien avisiert, sie scheiterte jedoch bereits nach kurzer Zeit am Widerstand Frankreichs. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-09-26",
+                "id": "19719",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-09-26/19719"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-16",
+                        "summary": "<p>(...) In erster Linie geht es jetzt darum, die von der EU-Kommission vorgeschlagenen Notfallma\u00dfnahmen, wie beispielsweise die <strong>Umverteilung</strong> von 160.000 Fl\u00fcchtlinge auf die gesamte EU und die Einrichtung von sogenannten \"Hot Spots\", in denen Asylantr\u00e4ge bereits an den Au\u00dfengrenzen der EU bearbeitet werden k\u00f6nnen, schnellstens umzusetzen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-09-15",
+                "id": "19672",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-09-15/19672"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-09-15",
+                        "summary": "<p>(...) Diese Unzufriedenheit kann ich nachvollziehen und ich spreche mich ausdr\u00fccklich daf\u00fcr aus, dass die spanischen B\u00fcrger ihrem Unmut mit Demonstrationen Ausdruck verleihen. Jedoch ist <strong>mit den zunehmenden Demonstrationen auch das n\u00f6tige Niveau an Sicherheit gestiegen</strong>. Aus diesem Grunde kann ich das Ziel des Gesetzes, die \u00f6ffentliche Sicherheit zu gew\u00e4hrleisten, durchaus nachvollziehen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-09-10",
+                "id": "19652",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-09-10/19652"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-28",
+                        "summary": "<p>(...) Umfassende Transparenz erwarte ich selbstverst\u00e4ndlich auch \u00fcber die Korrespondenz der EU-Kommission mit der Tabakindustrie. Als Europaabgeordneter setze ich mich f\u00fcr eine <strong>h\u00f6chstm\u00f6gliche Transparenz \u00fcber die Arbeit der EU-Kommission</strong> und damit \u00fcber den Gesetzgebungsprozess ein, dies hat allerh\u00f6chste Priorit\u00e4t. Die EU-Kommission ist den B\u00fcrgern verantwortlich, dies muss sich auch in ihrer Arbeit wiederspiegeln. (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2015-08-27",
+                "id": "19358",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-08-27/19358"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-26",
+                        "summary": "<p>(...) Die Richtlinie 2003/86/EG des Rates vom 22. September 2003 betreffend das <strong>Recht auf Familienzusammenf\u00fchrung</strong> regelt die Bedingungen f\u00fcr die Aus\u00fcbung des Rechts auf Familienzusammenf\u00fchrung durch Staatsangeh\u00f6rige aus Nicht-EU-L\u00e4ndern, die sich rechtm\u00e4\u00dfig im Gebiet der EU-L\u00e4nder aufhalten. Die entsprechenden Vorgaben zum Familiennachzug von Fl\u00fcchtlingen finden Sie in Kapitel V der Richtlinie (\u201eFamilienzusammenf\u00fchrung von Fl\u00fcchtlingen\u201c). (...)</p>"
+                    }
+                ],
+                "category": "Soziales",
+                "date": "2015-08-25",
+                "id": "19299",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-08-25/19299"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-21",
+                        "summary": "<p>(...) Dies ist zwar unbefriedigend, ist jedoch so in den europ\u00e4ischen Vertr\u00e4gen festgeschrieben. Ein Vorschlag f\u00fcr eine ausgeweitete <strong>Kennzeichnungspflicht f\u00fcr Produkte</strong>, die mit gentechnisch ver\u00e4nderten Futtermitteln gef\u00fcttert wurden, muss also von der Europ\u00e4ischen Kommission eingebracht werden. (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2015-08-20",
+                "id": "19211",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-08-20/19211"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-24",
+                        "summary": "<p>(...) Dies kann viele Kommunen in der Tat vor weitere gro\u00dfe Herausforderungen hinsichtlich der Unterbringung stellen. Umso wichtiger ist es meines Erachtens, dass wir innerhalb der EU schnell zu einer fairen <strong>Lastenverteilung bei Asylsuchenden</strong> kommen, damit nicht einige wenige Mitgliedsstaaten allein die Hauptlast tragen m\u00fcssen. (...)</p>"
+                    }
+                ],
+                "category": "Inneres und Justiz",
+                "date": "2015-08-20",
+                "id": "19210",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-08-20/19210"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-21",
+                        "summary": "<p>(...) Die derzeitige Situation zeigt jedoch auch, dass wir dringend \u00c4nderungen am derzeitigen europ\u00e4ischen Asylsystem ben\u00f6tigen. Zu einem <strong>fairen Asylsystem</strong> geh\u00f6rt meines Erachtens auch eine Aufteilungsquote der Fl\u00fcchtlinge auf alle EU-L\u00e4nder nach festen Kriterien wie Bev\u00f6lkerungszahl, Wirtschaftskraft oder Arbeitslosigkeit. Wenn es ein solches Quotensystem mit einer fairen Lastenverteilung gibt, wird es f\u00fcr die Mitgliedstaaten auch keine Anreize mehr geben, Asylbewerber nicht zu erfassen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-08-20",
+                "id": "19202",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-08-20/19202"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-20",
+                        "summary": "<p>(...) Eine verbindliche Kennzeichnung f\u00fcr Produkte von Tieren, die mit <strong>gentechnisch ver\u00e4nderten Futtermitteln</strong> gef\u00fcttert wurden, gibt es derzeit in der EU nicht. Einige Mitgliedstaaten haben jedoch Regelungen f\u00fcr die Kennzeichnung \u201egentechnikfreier\u201c Lebens- und Futtermittel eingef\u00fchrt. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2015-08-19",
+                "id": "19181",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-08-19/19181"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-18",
+                        "summary": "<p>(...) Im Gegensatz zu Anbauverboten, die sich leicht kontrollieren und umsetzen lassen, w\u00e4ren solche <strong>nationalen Vermarkungsverbote in einem integrierten Binnenmarkt jedoch kaum umsetzbar.</strong> Was es also braucht, ist ein europ\u00e4ischer Ansatz, der den Verbraucherschutz an die oberste Stelle stellt, gleichzeitig aber unb\u00fcrokratisch und umsetzbar sein muss, um die Versorgung mit Eiwei\u00dffuttermitteln in der europ\u00e4ischen Landwirtschaft nicht zu gef\u00e4hrden. (...)</p>"
+                    }
+                ],
+                "category": "Agrarpolitik",
+                "date": "2015-08-07",
+                "id": "18832",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-08-07/18832"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-08-18",
+                        "summary": "<p>(...) \u201eDerjenige, dem ein Erbbaurecht, ein Wohnungserbbaurecht oder ein Teilerbbaurecht zugerechnet ist, <strong>ist auch Schuldner der Grundsteuer f\u00fcr die wirtschaftliche Einheit</strong> des belasteten Grundst\u00fccks.\u201c (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-08-01",
+                "id": "18820",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-08-01/18820"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-07-15",
+                        "summary": "<p>(...) Sie fragen mich, ob unsere hohen Umweltstandards und Gesetzte zum Umweltschutz mit dem geplanten Nachhaltigkeitskapitel in <strong>TTIP</strong> vereinbar sind. (...) In dem EU-Textvorschlag  zum Nachhaltigkeitskapitel geht es grunds\u00e4tzlich darum, die Handels- und Umweltpolitik besser zu integrieren und sich so <strong>verst\u00e4rkt f\u00fcr den Umweltschutz einzusetzen</strong>. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2015-07-15",
+                "id": "18750",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-07-15/18750"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-07-08",
+                        "summary": "<p>(...) vielen Dank f\u00fcr Ihre Email zur <strong>Panoramafreiheit</strong>. Das Thema hat eine gro\u00dfe \u00f6ffentliche Diskussion entfacht und ich m\u00f6chte gerne klarstellen, dass es sich hier um einen Initiativbericht handelt, der grunds\u00e4tzlich das europ\u00e4ische Urheberrecht reformieren m\u00f6chte. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-07-07",
+                "id": "18702",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-07-07/18702"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-06-30",
+                        "summary": "<p>(...) In dem Bericht des Rechtsausschuss (JURI) ist ein \u00c4nderungsantrag des liberalen franz\u00f6sischen Abgeordneten Jean-Marie Cavada enthalten, der darauf abzielt, Panoramafreiheit in der EU einzuschr\u00e4nken. Dieser <strong>Forderung widerspreche ich ausdr\u00fccklich</strong>, in der Praxis w\u00fcrde dies bedeuten, dass der einzelne B\u00fcrger in Zukunft Angst haben muss, seine privaten Fotos auf sozialen Netzwerken mit seinen Freunden zu teilen! Es ist eine weltfremde Forderung, beim Hochladen von privaten Fotos auf beispielsweise facebook, zuerst das Einverst\u00e4ndnis des Urhebers einholen zu m\u00fcssen. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-06-30",
+                "id": "18679",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-06-30/18679"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-06-30",
+                        "summary": "<p>(...) In dem Bericht geht es unter anderem um die sogenannte Panoramafreiheit. Die <strong>Panoramafreiheit </strong>erlaubt es beispielsweise, Fotos und Panoramaaufnahmen im \u00f6ffentlichen Raum zu machen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-29",
+                "id": "18661",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-06-29/18661"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-06-29",
+                        "summary": "<p>(...) Ich spreche ich mich daf\u00fcr aus, hier <strong>nicht aus falschem Datenschutzverst\u00e4ndnis eine abenteuerliche Gesetzgebung einzuf\u00fchren</strong>. Panoramafreiheit heutzutage nicht 100%ig zu erlauben, ist im 21. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-28",
+                "id": "18651",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-06-28/18651"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-06-16",
+                        "summary": "<p>(...) Um sicher zu stellen, dass die Arbeit von Journalisten, insbesondere im Hinblick auf investigative Recherchen, den Schutz ihrer Quellen und die <strong>\u00f6ffentliche Meinungsfreiheit</strong>, <strong>nicht eingeschr\u00e4nkt wird</strong>, hat der Rechtsausschusses heute die betreffenden Inhalte aus dem Vorschlag der Europ\u00e4ischen Kommission f\u00fcr eine Richtlinie des Europ\u00e4ischen Parlaments und des Rates \u00fcber den Schutz vertraulichen Know-hows und vertraulicher Gesch\u00e4ftsinformationen (Gesch\u00e4ftsgeheimnisse) vor rechtswidrigem Erwerb sowie rechtswidriger Nutzung und Offenlegung noch einmal klargestellt und versch\u00e4rft. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-16",
+                "id": "18607",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-06-16/18607"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-06-15",
+                        "summary": "<p>(...) Der Vorschlag ist insbesondere deshalb so wichtig, da damit Normen zur Verbesserung der Wettbewerbsf\u00e4higkeit europ\u00e4ischer Unternehmen einhergehen. Insbesondere die <strong>Gesch\u00e4ftsgeheimnisse kleiner und mittlerer Unternehmen</strong> sollen mit dieser Richtlinie besser gesch\u00fctzt werden. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-13",
+                "id": "18591",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-06-13/18591"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-06-11",
+                        "summary": "<p>(...) Ich verfolge die Verhandlungen kritisch und setze mich f\u00fcr ein <strong>demokratisches und transparentes Abkommen</strong> ein. Ich darf Ihnen versichern, dass ich TTIP am Ende nur zustimmen werde, wenn TTIP in erster Linie den B\u00fcrgern zugute kommt. (...)</p>"
+                    }
+                ],
+                "category": "Agrarpolitik",
+                "date": "2015-06-10",
+                "id": "18582",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-06-10/18582"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-06-03",
+                        "summary": "<p>(...) Das Europ\u00e4ische Parlament hat sich in seiner Abstimmung vom 3. April 2014 <strong>bewusst f\u00fcr Netzneutralit\u00e4t ausgesprochen</strong>. So hei\u00dft es in Erw\u00e4gungsgrund 45 \u201eDer Grundsatz der \u201aNetzneutralit\u00e4t\u2018 im offenen Internet bedeutet, dass der gesamte Datenverkehr ohne Diskriminierung, Einschr\u00e4nkung oder Beeintr\u00e4chtigung und unabh\u00e4ngig von Absender, Empf\u00e4nger, Art, Inhalt, Ger\u00e4t, Dienst oder Anwendung gleich behandelt werden sollte.\u201c (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-06-02",
+                "id": "18544",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-06-02/18544"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-06-01",
+                        "summary": "<p>(...) Wom\u00f6glich mag es in Griechenland einige Stimmen geben, die dies begr\u00fc\u00dfen w\u00fcrden. In der Eurogruppe ist dies jedoch nicht der Fall und ich w\u00fcrde einen <strong>Ausschluss des IWF</strong> aus der Troika auch f\u00fcr sehr gef\u00e4hrlich halten. Schlie\u00dflich hat der IWF im Rahmen der Troika in den vergangenen Jahren eine sehr konstruktive Rolle gespielt. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-05-30",
+                "id": "18540",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-05-30/18540"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-22",
+                        "summary": "<p>(...) In der Tat werfen die Enth\u00fcllungen in der so genannten BND/NSA-Aff\u00e4re eine Reihe von Fragen hinsichtlich der deutsch-amerikanischen geheimdienstlichen Zusammenarbeit, insbesondere aber hinsichtlich des Amtsverst\u00e4ndnisses des Bundesnachrichtendienstes auf. <strong>Hier muss sich der BND schon die Frage gefallen lassen</strong>, <strong>wessen Interessen er am Ende dient</strong>. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2015-05-22",
+                "id": "18491",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-05-22/18491"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-19",
+                        "summary": "<p>(...) haben Sie vielen Dank f\u00fcr Ihre Frage vom 18. Mai 2015, in der Sie die EU-Ma\u00dfnahmen zum Kampf gegen den <strong>illegalen internationalen Handel mit Wildtieren und \u2013pflanzen</strong> bzw. zur Bek\u00e4mpfung der Elefantenwilderei in Frage stellen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-05-17",
+                "id": "18478",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-05-17/18478"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-13",
+                        "summary": "<p>(...) Diese Rahmenbedingungen, die die Europ\u00e4ische Union f\u00fcr Nahrungserg\u00e4nzungsmittel festlegt, stellen einen hohen Verbraucherschutz in der EU sicher. <strong>Das Hauptziel ist es</strong>, <strong>den Verbraucher vor irref\u00fchrenden Lebensmitteln zu sch\u00fctzen.</strong> Verbraucherschutz muss an erster Stelle stehen, aus diesem Grund halte ich die f\u00fcr Vitamin-D geltenden Aussagen ausreichend. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2015-05-12",
+                "id": "18460",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-05-12/18460"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-05-08",
+                        "summary": "<p>(...) Vitamin-D-Mangel ist ein Problem, welches in der deutschen Gesellschaft weitgehend bekannt ist. Die Mitgliedsstaaten k\u00f6nnen mit Informationskampagnen \u00fcber <strong>die Folgen des Vitamin-D-Mangels</strong> informieren und vor allem sensibilisieren, damit die Anzahl der Menschen, die in Folge eines solchen Mangels sterben, zur\u00fcckgeht. Gleichzeitig liegt es in der Verantwortung von jedem einzelnen von uns, ausreichend Sonne zu tanken. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2015-05-07",
+                "id": "18378",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-05-07/18378"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-04-27",
+                        "summary": "<p>(...) Nach der bisherigen EU-Gesetzgebung war es einem Staat m\u00f6glich, entweder durch die Anwendung einer Schutzklausel (Artikel 23 der Richtlinie 2001/18/EG) oder durch Sofortma\u00dfnahmen (Verordnung (EG) Nr. 1829/2003) den <strong>Anbau von GVO</strong> in seinem Hoheitsgebiet zu verbieten. Jedoch war dies nur zeitlich beschr\u00e4nkt m\u00f6glich und musste auf Grundlage aktueller wissenschaftlicher Belege geschehen, die aufzeigen, dass GVO Risiken f\u00fcr die menschliche Gesundheit oder die Umwelt birgt. (...)</p>"
+                    }
+                ],
+                "category": "Gesundheit",
+                "date": "2015-04-24",
+                "id": "18198",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-04-24/18198"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-04-21",
+                        "summary": "<p>(...) Andererseits ben\u00f6tigen wir dringend \u00c4nderungen und <strong>Verbesserungen im Europ\u00e4ischen Asylrecht</strong>, um dem gro\u00dfen Zustrom Asylsuchender begegnen zu k\u00f6nnen. Der Vorschlag einer Quotenregelung, nach dem Asylsuchende auf die Mitgliedsstaaten verteilt werden, ist ein wichtiger Ansatzpunkt f\u00fcr die Diskussion. (...)</p>"
+                    }
+                ],
+                "category": "Soziales",
+                "date": "2015-04-20",
+                "id": "18116",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-04-20/18116"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-04-20",
+                        "summary": "<p>(...) haben Sie vielen Dank f\u00fcr Ihre Nachricht vom 20. April anl\u00e4sslich der j\u00fcngsten <strong>Fl\u00fcchtlingskatastrophe </strong>im Mittelmeer. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-04-20",
+                "id": "18104",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-04-20/18104"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-04-14",
+                        "summary": "<p>(...) Ich bin grunds\u00e4tzlich davon \u00fcberzeugt, dass Handel f\u00fcr Europa unerl\u00e4sslich ist und wir unsere Handelsbeziehungen weiter intensivieren m\u00fcssen, um langfristig wirtschaftlich erfolgreich und wettbewerbsf\u00e4hig zu bleiben. Ich sehe in <strong>TTIP</strong> die Chance, unsere hohen europ\u00e4ischen Standards, sei es im Bereich des Verbraucher- und Umweltschutzes, oder im technischen Bereich, zu Weltstandards auszuweiten. (...)</p>"
+                    }
+                ],
+                "category": "Verbraucherschutz",
+                "date": "2015-04-13",
+                "id": "17922",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-04-13/17922"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-04-13",
+                        "summary": "<p>(...) <strong>Das Buch von Herrn Bode krankt an einem gro\u00dfen Problem</strong>: Es geht von Pr\u00e4missen \u00fcber den Inhalt des Freihandelsabkommens aus, f\u00fcr die es schlichtweg keine Anhaltspunkte gibt. Die Schlussfolgerungen, die aus diesen Pr\u00e4missen resultieren, m\u00f6gen zwar logisch folgerichtig sein, bieten aber angesichts der willk\u00fcrlich gesteckten Ausgangshypothesen keinen wirklichen Mehrwert. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2015-04-02",
+                "id": "17762",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-04-02/17762"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-03-20",
+                        "summary": "<p>(...) In der Tat hat die Wirtschafts- und Finanzkrise <strong>Griechenland </strong>hart getroffen und beachtliche soziale Folgen mit sich gef\u00fchrt. Dies liegt sicherlich auch mit daran, dass die griechische Regierung es \u00fcber Jahre vers\u00e4umt hat, wichtige Strukturreformen zu implementieren und durch eine effektivere Steuerverwaltung f\u00fcr eine solide Einnahmebasis zu sorgen. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-03-19",
+                "id": "17119",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-03-19/17119"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-03-09",
+                        "summary": "<p>(...) Bei einem funktionierendem <strong>Wettbewerbsmarkt f\u00fcr Mobilfunkdienstanbieter </strong>w\u00fcrde man erwarten, dass auch die Preise f\u00fcr die Inanspruchnahme von Mobilfunkdiensten im Ausland langfristig sinken w\u00fcrden. Das war jedoch jahrelang nicht der Fall, regulatorische Ma\u00dfnahmen sind daher aus Gr\u00fcnden des Verbraucherschutzes dringend notwendig und rechtfertigen einen Eingriff. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2015-03-05",
+                "id": "17006",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-03-05/17006"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-03-03",
+                        "summary": "<p>(...) Laut dem Gemeinschaftsrecht der Europ\u00e4ischen Union ist jeder Mitgliedsstaat selbst f\u00fcr sein <strong>nationales Sozialversicherungssystem</strong> verantwortlich. (...) In Deutschland steht jedem Arbeitnehmer das Recht auf eine <strong>betriebliche Altersvorsorge</strong> zu. (...) Ich bedauere Ihre pers\u00f6nliche Situation, jedoch muss ich Ihnen mitteilen, dass das <strong>Bundesverfassungsgericht diese Rechtslage gepr\u00fcft und ausdr\u00fccklich best\u00e4tigt</strong> hat. (...)</p>"
+                    }
+                ],
+                "category": "Sozialpolitik",
+                "date": "2015-03-02",
+                "id": "16989",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-03-02/16989"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-02-26",
+                        "summary": "<p>(...) Bei aller Kritik an der \u00d6ffentlichkeitsarbeit der Troika sollte man jedoch auch nicht vergessen, dass <strong>die Arbeit der Troika in der Summe ausgesprochen erfolgreich</strong> war. Man darf mit Fug und Recht sagen, dass die im Rahmen der Finanzierungs- und Anpassungsprogramme umgesetzten Ma\u00dfnahmen in den Programml\u00e4ndern sowohl die unmittelbare Zahlungsunf\u00e4higkeit der betroffenen L\u00e4nder wie auch einen vollst\u00e4ndigen Zusammenbruch der Finanzsystems mit allen potentiellen Folgen verhindert haben. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-02-24",
+                "id": "16971",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-02-24/16971"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-02-12",
+                        "summary": "<p>(...) Derzeit gibt es noch keine deutsche \u00dcbersetzung des \u00fcber 1600 Seiten starken finalen Vertragstextes. Eine <strong>21-seitige Kurzzusammenfassung der wichtigsten Punkte in deutscher Sprache</strong> k\u00f6nnen Sie jedoch unter folgendem Link einsehen: (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2015-02-11",
+                "id": "16851",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-02-11/16851"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-01-22",
+                        "summary": "<p>(...) Standstill- und Ratchet Klauseln sind Bestandteil vieler internationaler <strong>Handelsabkommen</strong>, wobei sich Ratchet-Klauseln auf die zuk\u00fcnftige Liberalisierung von Dienstleistungen beziehen und mit den Standstill-Klauseln der aktuelle Stand der Liberalisierung festgehalten werden soll. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2015-01-21",
+                "id": "15878",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-01-21/15878"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2015-01-05",
+                        "summary": "<p>(...) Januar 2015, in der Sie sich nach meiner Meinung zu einem <strong>europ\u00e4ischen Infrastrukturfonds</strong> erkundigen. (...) So halte ich die vorgeschlagene <strong>Hebelwirkung f\u00fcr viel zu hoch</strong>, was im Endeffekt dazu f\u00fchren wird, dass sich letztlich nur solche Projekte rechnen werden, die sich ohnehin \u00fcber den Kapitalmarkt finanzieren lie\u00dfen. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2015-01-04",
+                "id": "10862",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2015-01-04/10862"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-10-31",
+                        "summary": ""
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2014-10-30",
+                "id": "8952",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-10-30/8952"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-10-24",
+                        "summary": "<p>(...) Gerne m\u00f6chte ich Ihnen jedoch mitteilen, dass in der EU keine spezifischen F\u00f6rderm\u00f6glichkeiten f\u00fcr <strong>spanische Stierzucht</strong> bestehen. (...)</p>"
+                    }
+                ],
+                "category": "Agrarpolitik",
+                "date": "2014-10-23",
+                "id": "8946",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-10-23/8946"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-09-23",
+                        "summary": "<p>(...) Die <strong>Schutzbestimmungen</strong> wild lebender Vogelarten in der Europ\u00e4ischen Union sind in der sogenannten \"Vogelschutzrichtlinie\" geregelt. Unter Artikel 9 der Richtlinie sind Umst\u00e4nde aufgelistet, die gegebenenfalls unter anderem den Fang bestimmter Vogelarten erm\u00f6glichen. (...)</p>"
+                    }
+                ],
+                "category": "Umwelt",
+                "date": "2014-09-23",
+                "id": "8912",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-09-23/8912"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-09-15",
+                        "summary": "<p>(...) Die Europ\u00e4ische B\u00fcrgerinitiative (EBI) w\u00e4re eine gute Chance gewesen, um die \u00d6ffentlichkeit besser in die Verhandlungen mit einzubeziehen und um die stetig kritisierte Transparenz w\u00e4hrend der Verhandlungen zu erh\u00f6hen. Die Ablehnung der europ\u00e4ischen B\u00fcrgerinitiative \"<strong>Stopp TTIP</strong>\" durch die Europ\u00e4ische Kommission empfinde ich als D\u00e4mpfer f\u00fcr die europ\u00e4ische Demokratie. Die Kommission scheint die Sorgen und Bef\u00fcrchtungen der B\u00fcrger nicht ernst genug zu nehmen. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2014-09-12",
+                "id": "8880",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-09-12/8880"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-07-11",
+                        "summary": "<p>(...) 2.) Zur Frage der Rolle der \u00f6ffentlichen <strong>Daseinsvorsorge im Rahmen von TTIP</strong>: Die Einrichtungen der \u00f6ffentlichen Daseinsvorsorge \u2013 von der Trinkwasserversorgung bis zu den Rettungsdiensten \u2013 in Deutschland haben sich bew\u00e4hrt: Sie erbringen hochwertige Leistungen zu fairen Preisen und werde daher von den B\u00fcrgern zurecht gesch\u00e4tzt. Diese funktionierenden Strukturen gilt es entsprechend zu bewahren und zu sch\u00fctzen. (...)</p>"
+                    }
+                ],
+                "category": "Wirtschaft",
+                "date": "2014-07-11",
+                "id": "8076",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-07-11/8076"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-22",
+                        "summary": "<p>(...) Wie Sie auch der von Ihnen verlinkten Rede der Europ\u00e4ischen Ombudsfrau entnehmen k\u00f6nnen, hat sich das Europ\u00e4ische Parlament bereits mehrfach im Sinne einer <strong>St\u00e4rkung der Dokumentenzugangsrechte</strong> positioniert. Sollte es zu einer Novellierung der Dokumentenzugangsverordnung komme, werde ich mich entsprechend gern im Sinne einer pragmatischen und unb\u00fcrokratischen Herangehensweise beim Dokumentenzugangsrecht einbringen. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2014-05-22",
+                "id": "7935",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-05-22/7935"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-15",
+                        "summary": "<p>(...) Ich bin fest davon \u00fcberzeugt, dass die Europ\u00e4ische Union in au\u00dfenpolitischen Fragen vor allem dann Geh\u00f6r findet, wenn es einen <strong>gemeinsamen europ\u00e4ischen Ansatz</strong> gibt. Leider ist es viel zu oft der Fall, dass die Mitgliedsstaaten der Europ\u00e4ischen Union und die Au\u00dfenbeauftragte Catherine Ashton eben nicht an einem Strang ziehen. (...)</p>"
+                    }
+                ],
+                "category": "Internationales",
+                "date": "2014-05-15",
+                "id": "7667",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-05-15/7667"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-14",
+                        "summary": "<p>(...) Deswegen hat sich das Europ\u00e4ische Parlament beispielsweise stets f\u00fcr eine F\u00f6rderung von Biokraftstoffen eingesetzt und sich f\u00fcr einen zehnprozentigen Anteil von Biokraftstoffen am Gesamtkraftstoffverbrauch der EU sowie eine entsprechende F\u00f6rderung ausgesprochen. Erst im vergangenen September ist es durch den Einsatz der EVP-Fraktion und insbesondere der CSU-Europaabgeordneten gelungen, eine zu starke Begrenzung des Anteils konventioneller <strong>Biokraftstoffe </strong>an diesem 10%-Ziel zu verhindern. Damit konnten wir im Sinne des Vertrauensschutzes bereits get\u00e4tigte Investitionen in Deutschland sch\u00fctzen. (...)</p>"
+                    }
+                ],
+                "category": "Agrarpolitik",
+                "date": "2014-05-14",
+                "id": "7640",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-05-14/7640"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-14",
+                        "summary": "<p>(...) Selbstverst\u00e4ndlich muss Privates auch in Zeiten der Digitalisierung privat bleiben. <strong>Eingriffe in die Pers\u00f6nlichkeitsrechte</strong> der B\u00fcrger m\u00fcssen deswegen auf das N\u00f6tigste beschr\u00e4nkt bleiben. Gleichwohl muss die Bek\u00e4mpfung terroristischer Bedrohungen eine Priorit\u00e4t bleiben. (...)</p>"
+                    }
+                ],
+                "category": "B\u00fcrgerrechte",
+                "date": "2014-05-13",
+                "id": "7631",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-05-13/7631"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-08",
+                        "summary": "<p>(...) Hinzu kommt, dass ich es sehr \u00fcberraschend finde, wer diese Ideen f\u00fcr vermeintliche Einsparungen in die Debatte einbringt. Denn <strong>Hans-Peter Martin</strong>, der mit teils fragw\u00fcrdigen Methoden regelm\u00e4\u00dfig vermeintliche Skandale aufzudecken und seinen Abgeordnetenkollegen Unregelm\u00e4\u00dfigkeiten bei der Mittelverwendung nachzuweisen versucht, nimmt es selbst mit der korrekten Mittelverwendung anscheinend nicht so genau. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-05-07",
+                "id": "7413",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-05-07/7413"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-05",
+                        "summary": "<p>(...) Die von Ihnen angesprochene Verordnung \u00fcber Rahmenbedingungen f\u00fcr die Regelung der finanziellen Zust\u00e4ndigkeit bei Investor-Staat-Streitigkeiten vor Schiedsgerichten, \u00fcber die im April im Plenum des Europ\u00e4ischen Parlaments abgestimmt wurde, pr\u00e4zisiert den durch den Vertrag von Lissabon vorgesehenen Rechtsrahmen. Dabei geht es explizit nicht um die vorauseilende Umsetzung des <strong>transatlantischen Freihandelsabkommens</strong>, sondern um Rechtssicherheit f\u00fcr bereits bestehende Abkommen. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-05-03",
+                "id": "7253",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-05-03/7253"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-05",
+                        "summary": "<p>(...) In der Tat bieten einige Airlines eine Buchungsklasse zwischen Business Class und Economy Class an. Diese ist jedoch in den meisten F\u00e4llen <strong>kaum g\u00fcnstiger als die Business Class</strong>. Kostenlose Umbuchungen sind bei vielen Airlines in der Premium Economy Class nicht im Ticketpreis inbegriffen, sodass der Endpreis zwar im Einzelfall mal g\u00fcnstiger ausfallen mag, in der Summe der vielen Buchungen aber im Schnitt teurer sein wird. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-05-02",
+                "id": "7234",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-05-02/7234"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-05-05",
+                        "summary": "<p>(...) Die Einf\u00fchrung einer <strong>EU-weiten Einheitssprache</strong> - wie etwa Esperanto - halte ich indes f\u00fcr keinen sinnvollen L\u00f6sungsansatz. Die eigene Muttersprache ist f\u00fcr viele Menschen identit\u00e4tsstiftend und eng mit der eigenen Heimat verbunden. (...)</p>"
+                    }
+                ],
+                "category": "Demokratie und B\u00fcrgerrechte",
+                "date": "2014-05-01",
+                "id": "7217",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-05-01/7217"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-04-29",
+                        "summary": "<p>(...) W\u00e4hrend Pl\u00e4tze zu Beginn sehr g\u00fcnstig sind, wird der Flug umso teurer, je weniger Pl\u00e4tze verf\u00fcgbar sind und je n\u00e4her der Abflugstermin r\u00fcckt. In der Summe w\u00e4ren die kurzfristig gebuchten Economy-Class-Fl\u00fcge <strong>kaum g\u00fcnstiger als Business-Class-Fl\u00fcge</strong>. Kommen hin und wieder noch Umbuchungskosten liegen die Kosten sogar dar\u00fcber \u2013 die Debatte um die Kosten von Business Class-Fl\u00fcgen wird meines Erachtens also auch ein st\u00fcckweit unehrlich gef\u00fchrt. (...)</p>"
+                    }
+                ],
+                "category": null,
+                "date": "2014-04-28",
+                "id": "7044",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-04-28/7044"
+            },
+            {
+                "answers": [
+                    {
+                        "date": "2014-04-28",
+                        "summary": "<p>(...) Deswegen trete ich daf\u00fcr ein, dass wann immer neue Befugnisse auf die Europ\u00e4ische Ebene \u00fcbertragen werden, die Gemeinschaft um weitere Mitglieder erweitert werden soll oder neue finanzielle Belastungen f\u00fcr den deutschen Steuerzahler entstehen sollen, die B\u00fcrger der Bundesrepublik Deutschland im Rahmen einer <strong>Volksabstimmung </strong>eingebunden werden. \u00c4nderungen der Europ\u00e4ischen Vertr\u00e4ge m\u00fcssen meines Erachtens in allen Mitgliedsstaaten der EU und damit selbstverst\u00e4ndlich auch in Deutschland durch Volksabstimmungen legitimiert werden. (...)</p>"
+                    }
+                ],
+                "category": "Europa",
+                "date": "2014-04-27",
+                "id": "6997",
+                "url": "https://www.abgeordnetenwatch.de/profile/markus-ferber/question/2014-04-27/6997"
+            }
+        ],
+        "roles": [],
+        "sidejobs": [],
+        "votes": [
+            {
+                "date": "2015-03-05",
+                "title": "Netzneutralit\u00e4t sichern - Rettet das freie Internet!",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/petitionen/netzneutralitat-sichern-rettet-das-freie-internet",
+                "uuid": "c73d817d-e0e9-4c2b-84dc-0375e8c4934d",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Kritische Neubewertung der Beziehungen zu Russland",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kritische-neubewertung-der-beziehungen-zu-russland",
+                "uuid": "34d2fd08-9bbf-4948-88c6-183864116d6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Wiederaufnahme der Friedensbem\u00fchungen im Nahen Osten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wiederaufnahme-der-friedensbemuehungen-im-nahen-osten",
+                "uuid": "0fa40696-9a07-4770-bddd-338db1509a69",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Ma\u00dfnahmen zur Fl\u00fcchtlingspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-fluechtlingspolitik",
+                "uuid": "a98d55d5-26c3-4a51-a99a-8bd0e525b628",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Hindernisse f\u00fcr soziale Unternehmen beseitigen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/hindernisse-fuer-soziale-unternehmen-beseitigen",
+                "uuid": "c0f955e0-82d9-46b4-9f16-77f508963b6d",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "Schaffung eines wettbewerbf\u00e4higen Arbeitsmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-wettbewerbfaehigen-arbeitsmarkts",
+                "uuid": "f42b1ba1-d57a-4ee0-83e2-a83134df2ef4",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-22",
+                "title": "F\u00f6rderung junger Unternehmer",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/foerderung-junger-unternehmer",
+                "uuid": "94bf3f53-5ee6-4747-a47e-c2c132156c26",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verurteilung von CIA-Foltermethoden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-von-cia-foltermethoden",
+                "uuid": "a7bfb784-f0e3-4dea-9ee5-a63024adff6f",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Kennzeichnung des Ursprungslands von Fleisch",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kennzeichnung-des-ursprungslands-von-fleisch",
+                "uuid": "1e33c664-17d7-4631-bb13-d50eea58837f",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Ausweitung des digitalen Binnenmarkts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/ausweitung-des-digitalen-binnenmarkts",
+                "uuid": "8b59269f-b5f6-4221-b113-2b7a6a7ea708",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-04",
+                "title": "Verl\u00e4ngerung der Senkung von Z\u00f6llen auf ukrainische Waren ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verlaengerung-der-senkung-von-zoellen-auf-ukrainische-waren",
+                "uuid": "608d1653-952d-4039-8021-61a089c3fb6e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "EU-Sicherheitspolitik im Nahen Osten und Nordafrika",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-sicherheitspolitik-im-nahen-osten-und-nordafrika",
+                "uuid": "2b962506-401b-45b7-8a4d-c3a12b35ceef",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-03",
+                "title": "Expo 2015 in Mailand",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/expo-2015-mailand",
+                "uuid": "5f314d77-4e55-49d2-8f28-18356d3e1250",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Ma\u00dfnahmen zur Terrorismusbek\u00e4mpfung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/massnahmen-zur-terrorismusbekaempfung",
+                "uuid": "e0cd7654-49f3-49b6-87dc-d8ec90003919",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-09-02",
+                "title": "Verurteilung der Boko Haram-Angriffe in Nigeria",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verurteilung-der-boko-haram-angriffe-nigeria",
+                "uuid": "78c330d6-09c6-47a4-982f-a67146262776",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Antrag zur Bek\u00e4mpfung der Jugendarbeitslosigkeit",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/antrag-zur-bekaempfung-der-jugendarbeitslosigkeit",
+                "uuid": "4cf62b4b-59a5-4a9c-aae9-17ebf3700446",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Wahl der EU-Kommission",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wahl-der-eu-kommission",
+                "uuid": "2c27f2a1-ba90-4067-bc52-a114e55acada",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Anerkennung Pal\u00e4stinas",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anerkennung-palaestinas",
+                "uuid": "91aee230-2ac2-4bca-a90b-3c9c11ded2b3",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Kreditvergabe an die Ukraine",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/kreditvergabe-die-ukraine",
+                "uuid": "dd9837cd-1699-4929-9539-7ccd6546c103",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Umsetzung der gemeinsamen Sicherheits- und Verteidigungspolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-der-gemeinsamen-sicherheits-und-verteidigungspolitik",
+                "uuid": "83ca30d0-39f2-488a-b244-91a92720d57f",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Eu-Strategie zur Gleichstellung zwischen M\u00e4nnern und Frauen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-strategie-zur-gleichstellung-zwischen-maennern-und-frauen",
+                "uuid": "72c8d5e7-e7d1-4b31-99c3-99644c7adff3",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Sicherung des Urheberechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/sicherung-des-urheberechts",
+                "uuid": "fe2780f4-81e2-419d-a7f1-61776c547cfa",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2015-08-24",
+                "title": "Parlamentarische Empfehlung bzgl. TTIP Handelabkommen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/parlamentarische-empfehlung-bzgl-ttip-handelabkommen",
+                "uuid": "f1a0b307-e891-4e17-9e10-1e811474b2bc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-08-25",
+                "title": "Schaffung eines Europ\u00e4ischen Struktur- und Investitionsfonds (EFSI)",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schaffung-eines-europaeischen-struktur-und-investitionsfonds",
+                "uuid": "2436eb70-9eb4-4cb6-999f-b6d2ad59782e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-12-03",
+                "title": "Gemeinsame Strategie zur Pr\u00e4vention von Radikalisierung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gemeinsame-strategie-zur-praevention-von-radikalisierung",
+                "uuid": "43b62e8f-afef-4083-a71b-753ccdbecd6d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Verringerung des Lohngef\u00e4lles zwischen Frauen und M\u00e4nnern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verringerung-des-lohngefaelles-zwischen-frauen-und-maennern",
+                "uuid": "e2dfb814-8dc6-4132-b354-a4b0dffdde4b",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-10-27",
+                "title": "Schadstoffaussto\u00df mittelgro\u00dfer Verbrennungsanlagen begrenzen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schadstoffausstoss-mittelgrosser-verbrennungsanlagen-begrenzen",
+                "uuid": "03d5024e-7b73-40ff-9e69-1ac7e6cc2882",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-10-22",
+                "title": "Auszahlung von Griechenlandhilfen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/auszahlung-von-griechenlandhilfen",
+                "uuid": "de2c3caf-d77b-457a-8e02-73bcdb60abad",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2015-10-28",
+                "title": "Schutz geografischer Herkunftsangaben der EU auf nichtlandwirtschaftliche Erzeugnisse",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-geografischer-herkunftsangaben-der-eu-auf",
+                "uuid": "3017adbf-e55e-4914-ad2f-47744e7719f7",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-05-12",
+                "title": "Resolution zur Neuzulassung des Herbizids Glyphosat",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/resolution-zur-neuzulassung-des-herbizids-glyphosat",
+                "uuid": "20b545ab-e31f-4404-ba34-fed1f163cce2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-11-11",
+                "title": "Umsetzung des Bologna-Prozesses - Steigerung studentischer Auslandsmobilit\u00e4t ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-bologna-prozesses-steigerung-studentischer",
+                "uuid": "393d3eed-93b5-4cc8-a656-f261daa90351",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2015-11-19",
+                "title": "\u00c4nderung des Wahlrechts zum EU-Parlament",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aenderung-des-wahlrechts-zum-eu-parlament",
+                "uuid": "844ed2e1-303f-49bb-a63f-b7adb938593a",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-05-19",
+                "title": "Lebensmittelverschwendung",
+                "url": "https://www.abgeordnetenwatch.de/eu/petitionen/eu-verpflichtet-supermarkte-ihr-unverkauftes-essen-zu-spenden",
+                "uuid": "50cd10af-ac29-4d4b-9fb8-7e6eaee69163",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2016-12-01",
+                "title": "Menschenrechte und Migration in Drittl\u00e4ndern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/menschenrechte-und-migration-drittlaendern",
+                "uuid": "72d19836-8d9d-4f95-a8bb-0c0b89be5c06",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-02-05",
+                "title": "Anbau von gentechnisch ver\u00e4nderten Sojabohnen in der Europ\u00e4ischen Union",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/anbau-von-gentechnisch-veraenderten-sojabohnen-der-europaeischen",
+                "uuid": "83f43a49-c047-4390-aaee-14cbe5a55525",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-04-25",
+                "title": "EU-Richtlinien \u00fcber Verwendung von Fluggastdaten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-richtlinien-ueber-verwendung-von-fluggastdaten",
+                "uuid": "9bbf91f1-b259-4dbb-bfd9-d3c3bc5f9ec1",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2017-02-17",
+                "title": "Umsetzung des Handelsabkommens CETA mit Kanada",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-handelsabkommens-ceta-mit-kanada",
+                "uuid": "f22c10c4-e5eb-481a-ae8d-9d8a42a604ba",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2016-09-28",
+                "title": "Unterst\u00fctzung von Frauen im digitalen Zeitalter",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/unterstuetzung-von-frauen-im-digitalen-zeitalter",
+                "uuid": "29160dca-2641-436f-b9b3-dc07b633454c",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2017-09-27",
+                "title": "Strengere Transparenzstandards in der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/strengere-transparenzstandards-der-eu",
+                "uuid": "30a68fb6-4749-43c6-9f39-a1c19912cfa6",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2016-09-30",
+                "title": "Zugang der \u00d6ffentlichkeit zu Dokumenten aus den Jahren 2014-2015",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/zugang-der-oeffentlichkeit-zu-dokumenten-aus-den-jahren-2014-2015",
+                "uuid": "0705670c-1e29-4056-b4f2-6c2ff82a9e47",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-02-07",
+                "title": "Reform des Europawahlrechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/reform-des-europawahlrechts",
+                "uuid": "6282ec4d-e41f-4aa9-b000-ccdff599e0a2",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-02-13",
+                "title": "Reform der Dublin-Verordnung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/reform-der-dublin-verordnung",
+                "uuid": "75998fad-a01d-4538-8145-5ecae20b5ec4",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-04",
+                "title": "F\u00f6rderung von Energie aus erneuerbaren Quellen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/foerderung-von-energie-aus-erneuerbaren-quellen",
+                "uuid": "de62a93e-52ef-4c52-af30-88ee2c9fdbe2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-07",
+                "title": "Leitlinien f\u00fcr die Beziehungen mit dem Vereinigten K\u00f6nigreich",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/leitlinien-fuer-die-beziehungen-mit-dem-vereinigten-koenigreich",
+                "uuid": "683bc9be-d2c9-428f-b57f-b02f22f7b81a",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-12",
+                "title": "Bek\u00e4mpfung der Terrorismusfinanzierung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/bekaempfung-der-terrorismusfinanzierung",
+                "uuid": "e558742d-efc7-47ac-bdc2-4b56ff5d4dd1",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-13",
+                "title": "Lage der Grundrechte in der EU 2016",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/lage-der-grundrechte-der-eu-2016",
+                "uuid": "fbf77ecf-2d7f-414f-83d0-3d55e6eeb186",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-14",
+                "title": " Agenda f\u00fcr die Zukunft der Weltmeere",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/agenda-fuer-die-zukunft-der-weltmeere",
+                "uuid": "13befa08-99ea-4b67-9db2-34d9e3f128a8",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-22",
+                "title": "Ein Instrument f\u00fcr europ\u00e4ische Werte zur Unterst\u00fctzung zivilgesellschaftlicher Organisationen f\u00f6rdern",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/ein-instrument-fuer-europaeische-werte-zur-unterstuetzung",
+                "uuid": "5b7adca6-5b6b-45a7-a5da-d0ed94d3448d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-22",
+                "title": "Gleichstellung der Geschlechter in Handelsabkommen der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gleichstellung-der-geschlechter-handelsabkommen-der-eu",
+                "uuid": "5dcedeae-936b-4e51-8798-b6c83a65cd77",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-25",
+                "title": "Umsetzung des Siebten Umweltaktionsprogramms",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/umsetzung-des-siebten-umweltaktionsprogramms",
+                "uuid": "fdf2cb7b-4680-4015-b527-3ab21fd8a49f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-26",
+                "title": "St\u00e4rkung der Rolle von Frauen und M\u00e4dchen durch die Digitalwirtschaft",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/staerkung-der-rolle-von-frauen-und-maedchen-durch-die",
+                "uuid": "27b03a00-5b8d-4565-8e58-afafb546c255",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-26",
+                "title": "Freiheit und Pluralismus der Medien in der EU ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/freiheit-und-pluralismus-der-medien-der-eu",
+                "uuid": "7f9f7412-a2ed-4105-90ff-bc4d93ddfd23",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-27",
+                "title": "Festsetzung des Zeitraums f\u00fcr die neunte  Wahl des EU Parlaments",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/festsetzung-des-zeitraums-fuer-die-neunte-wahl-des-eu-parlaments",
+                "uuid": "896d73ab-7180-4f96-a891-f3f34d080470",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-27",
+                "title": "Fortschritte beim globalen Pakt f\u00fcr Fl\u00fcchtlinge",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/fortschritte-beim-globalen-pakt-fuer-fluechtlinge",
+                "uuid": "ac895b89-d823-4d68-bac8-f12f6720387f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-28",
+                "title": "Manipulation des Kilometerz\u00e4hlers in Kraftfahrzeugen",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/manipulation-des-kilometerzaehlers-kraftfahrzeugen",
+                "uuid": "23d630ef-fd10-4f95-8caa-254d08280541",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-28",
+                "title": "Cyber Abwehr",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/cyber-abwehr",
+                "uuid": "29540433-69b2-4a60-9d7b-5bf47bed9ee8",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-06-28",
+                "title": "Schutz unbegleiteter minderj\u00e4hriger Gefl\u00fcchteter",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-unbegleiteter-minderjaehriger-gefluechteter",
+                "uuid": "5901f8e8-6515-4b71-8b49-0b6a93c87279",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-07-04",
+                "title": "Weltweites Verbot von Tierversuchen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/weltweites-verbot-von-tierversuchen",
+                "uuid": "299d2467-520f-4d6c-9273-93b2f95719f8",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-07-05",
+                "title": "Verletzung der Rechte indigener V\u00f6lker",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verletzung-der-rechte-indigener-voelker",
+                "uuid": "22c576c1-0bcb-4107-acce-510f147e66dc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-05",
+                "title": "Klimadiplomatie",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/klimadiplomatie",
+                "uuid": "5bc9e83c-7c2a-4771-8872-6efcbeb00e8d",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-06-27",
+                "title": " EU-Urheberrechtsreform",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-urheberrechtsreform",
+                "uuid": "e0573489-7fb9-45f0-93ec-b6f4f33c7d4b",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-16",
+                "title": "Abkommen zwischen der EU und Aserbaidschan",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/abkommen-zwischen-der-eu-und-aserbaidschan",
+                "uuid": "b9ff31f2-2c6f-4747-bf1a-816275aef4dc",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-11",
+                "title": "Wahlrechtsreform EU Parlament",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wahlrechtsreform-eu-parlament",
+                "uuid": "79827e13-54e9-48c4-a249-c2190a01e5b6",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-18",
+                "title": "Externe EU-Strategie gegen Fr\u00fch- und Zwangsverheiratung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/externe-eu-strategie-gegen-frueh-und-zwangsverheiratung",
+                "uuid": "d8c26d11-f8ff-419f-a200-dfa7e5d9696e",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-19",
+                "title": "Unterst\u00fctzung europ\u00e4ischer Investitionsvorhaben im Iran",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/unterstuetzung-europaeischer-investitionsvorhaben-im-iran",
+                "uuid": "8828c12c-acef-4a91-bf01-fa1decad442f",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-07-19",
+                "title": "Die Rolle der St\u00e4dte im institutionellen Gef\u00fcge der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/die-rolle-der-staedte-im-institutionellen-gefuege-der-eu",
+                "uuid": "a20356f9-a8f6-4093-ab58-1cf336d4f871",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-07-20",
+                "title": "Strafrechtliche Ma\u00dfnahmen gegen die Beihilfe zu unerlaubter Einreise",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/strafrechtliche-massnahmen-gegen-die-beihilfe-zu-unerlaubter",
+                "uuid": "0770479e-7b07-4b2b-acd0-6eb16890d047",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-09-12",
+                "title": "EU-Urheberrechtsreform - Uploadfilter",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-urheberrechtsreform-uploadfilter",
+                "uuid": "6df607b7-8f25-47d5-903e-36f6560f592c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-09-13",
+                "title": "Rechtsstaatsverfahren gegen Ungarn ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/rechtsstaatsverfahren-gegen-ungarn",
+                "uuid": "e581a2f9-992a-401e-b488-732037fb9028",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-10-29",
+                "title": "Verbot von Einwegplastik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verbot-von-einwegplastik",
+                "uuid": "277599c2-6d75-4593-9a33-dd94d25871dd",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-10-29",
+                "title": "Verbesserung des europ\u00e4ischen Trinkwassers",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/verbesserung-des-europaeischen-trinkwassers",
+                "uuid": "5a8c8da9-aec3-4170-9d52-8f051e68123f",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-10-30",
+                "title": "Statut f\u00fcr Sozial- und Solidarunternehmen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/statut-fuer-sozial-und-solidarunternehmen",
+                "uuid": "911f414b-f2cb-4656-9a38-cfb189a5e594",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-01",
+                "title": "Entsendung von Arbeitnehmern im Rahmen der Erbringung von Dienstleistungen ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/entsendung-von-arbeitnehmern-im-rahmen-der-erbringung-von",
+                "uuid": "eb867da0-2d64-4489-a1f7-1cb1786da00c",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-11-05",
+                "title": "Nutzung der Daten von Facebook-Usern durch Cambridge Analytica",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/nutzung-der-daten-von-facebook-usern-durch-cambridge-analytica",
+                "uuid": "98056b77-4079-4c08-b4a7-69036c4bcaf5",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-11-05",
+                "title": "Zunahme neofaschistischer Gewalttaten in Europa",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/zunahme-neofaschistischer-gewalttaten-europa",
+                "uuid": "3c2af2c6-bac0-4374-ae06-ce80d7948180",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2018-11-06",
+                "title": "Schutz der finanziellen Interessen der EU ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-der-finanziellen-interessen-der-eu",
+                "uuid": "7365b1f6-26f2-4241-83d2-12c712fbf2a4",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-06",
+                "title": "Aufbau der Infrastruktur f\u00fcr alternative Kraftstoffe in der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aufbau-der-infrastruktur-fuer-alternative-kraftstoffe-der-eu",
+                "uuid": "9deacc77-87c2-4830-a3d6-10f2effb82aa",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-11-14",
+                "title": "Mindestnormen f\u00fcr den Schutz von Minderheiten in der EU",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/mindestnormen-fuer-den-schutz-von-minderheiten-der-eu",
+                "uuid": "c8ae2d7c-7a0b-459c-99c6-7ddcb9f22adb",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-15",
+                "title": "Entwicklungshilfe der EU f\u00fcr das Bildungswesen ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/entwicklungshilfe-der-eu-fuer-das-bildungswesen",
+                "uuid": "e784ad92-3bf7-45b4-884d-e8c7320dd90c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-11-13",
+                "title": "EU-Japan Freihandelsabkommen (JEFTA)",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-japan-freihandelsabkommen-jefta",
+                "uuid": "456abc02-d2e1-4600-8727-f374dbedb3d3",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-12-17",
+                "title": "Verbesserung der Gleichstellung der Geschlechter ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/verbesserung-der-gleichstellung-der-geschlechter",
+                "uuid": "9183f4af-06fa-42ad-8bc2-0e412ff32f75",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-12-18",
+                "title": "Rolle des Deutschen Jugendamts bei grenz\u00fcberschreitenden Familienangelegenheiten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/rolle-des-deutschen-jugendamts-bei-grenzueberschreitenden",
+                "uuid": "06056f7f-4eba-45df-959d-ffeb94e950ec",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-12-19",
+                "title": "Wie geht es mit der Welthandelsorganisation weiter?",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/wie-geht-es-mit-der-welthandelsorganisation-weiter",
+                "uuid": "1b17aff5-1e52-441b-b34f-c3857cecd1b2",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-20",
+                "title": "Digitales Europa",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/digitales-europa",
+                "uuid": "035b8ba0-376f-48cf-93ce-d6b395c7811b",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-12-17",
+                "title": "Visa aus humanit\u00e4ren Gr\u00fcnden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/visa-aus-humanitaeren-gruenden",
+                "uuid": "cfad47a6-dc9f-40a4-926c-61040ea27f20",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2018-12-18",
+                "title": "Errichtung des Europ\u00e4ischen Verteidigungsfonds",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/errichtung-des-europaeischen-verteidigungsfonds",
+                "uuid": "55617778-d77e-4532-be49-1cf9f1e168f4",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-12-18",
+                "title": "Haushaltsplan 2019",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/haushaltsplan-2019",
+                "uuid": "bd8e7e4b-6fab-4bdb-aa95-0598ad7de73c",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-12-20",
+                "title": "Angemessenheit des Datenschutzniveaus in Japan ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/angemessenheit-des-datenschutzniveaus-japan",
+                "uuid": "c4bfb817-ccc5-425f-b00b-cc43756ccf5d",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-12-18",
+                "title": "Weltraumprogramm der Europ\u00e4ischen Union",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/weltraumprogramm-der-europaeischen-union",
+                "uuid": "4ce57300-12e9-4079-911a-3bf65871298e",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-12-20",
+                "title": "Persistente organische Schadstoffe",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/persistente-organische-schadstoffe",
+                "uuid": "c0e9abc0-cd9f-41ad-b41d-2e8c8c55dd79",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2018-12-20",
+                "title": "Assoziierungsabkommen zwischen EU und Ukraine - Wie geht es weiter?",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/assoziierungsabkommen-zwischen-eu-und-ukraine-wie-geht-es-weiter",
+                "uuid": "9dbbef87-3615-47e9-8833-f0546631ab79",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2018-12-21",
+                "title": "Transparenz und Nachhaltigkeit in der Lebensmittelkette ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/transparenz-und-nachhaltigkeit-der-lebensmittelkette",
+                "uuid": "209e4dd1-0634-45a3-a549-45dd274a0b0e",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2019-01-02",
+                "title": "Beschleunigte Beilegung von Handelsstreitigkeiten",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/beschleunigte-beilegung-von-handelsstreitigkeiten",
+                "uuid": "81be5756-48ca-4d46-a437-1134480aeba8",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2019-01-04",
+                "title": "Situation von Frauen mit Behinderungen st\u00e4rken",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/situation-von-frauen-mit-behinderungen-staerken",
+                "uuid": "d2e26a08-e58f-4fbb-8cce-641ff0298d72",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2019-01-15",
+                "title": "Schutz der akademischen Freiheit ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-der-akademischen-freiheit",
+                "uuid": "482a257f-d807-494a-98ff-b94b0626582a",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2019-01-16",
+                "title": "Gender Mainstreaming",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/gender-mainstreaming",
+                "uuid": "8c23a915-76f3-4599-adee-16ddbe5e041f",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-01-16",
+                "title": "Gleichstellung der Geschlechter in der Steuerpolitik",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/gleichstellung-der-geschlechter-in-der-steuerpolitik",
+                "uuid": "0aa8e687-5c86-4150-a0b3-0d7d46d22fc0",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2019-01-23",
+                "title": "R\u00fcckgabe von Beutekunst aus bewaffneten Konflikten und Kriegen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/rueckgabe-von-beutekunst-aus-bewaffneten-konflikten-und-kriegen",
+                "uuid": "c36af239-8398-412b-838d-44ff7570f11c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-01-17",
+                "title": "Autonomes Fahren im europ\u00e4ischen Verkehrswesen ",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/autonomes-fahren-im-europaeischen-verkehrswesen",
+                "uuid": "0121929c-458c-44f3-af9a-67a546905497",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-02-15",
+                "title": "Nachhaltige Verwendung von Pestiziden",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/nachhaltige-verwendung-von-pestiziden",
+                "uuid": "2de4d4d2-838d-42e9-851d-d09d7c1354cd",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-02-26",
+                "title": "Mindestanforderungen f\u00fcr die Wasserwiederverwendung",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/mindestanforderungen-fuer-die-wasserwiederverwendung",
+                "uuid": "22d29168-1eee-4865-9006-66414e114f91",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-02-28",
+                "title": "Finanzierung der Stillegung kerntechnischer Anlagen und der Entsorgung radioaktiver Abf\u00e4lle",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/finanzierung-der-stillegung-kerntechnischer-anlagen-und-der",
+                "uuid": "28303e58-b43e-40ab-83e6-96f76c9b4d54",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-02-27",
+                "title": "Abkommen \u00fcber die \"Verhinderung der Hochseefischerei in der Arktis\" angenommen",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/abkommen-ueber-die-verhinderung-der-hochseefischerei-in-der-arktis-angenommen",
+                "uuid": "272f1ffc-bc80-416a-91f9-e87d71219cba",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-02-28",
+                "title": "Freihandelsabkommen mit Singapur",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/freihandelsabkommen-mit-singapur",
+                "uuid": "754286a2-6b56-4ded-84f9-9e3ee92c374a",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-01",
+                "title": "\u00c4nderung des Zulassungsverfahrens f\u00fcr Pestizide",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/aenderung-des-zulassungsverfahrens-fuer-pestizide",
+                "uuid": "36c62c37-0c47-4a7a-b031-9e0636c07955",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-01",
+                "title": "Einf\u00fchrung einer Europ\u00e4ischen Industriepolitik f\u00fcr K\u00fcnstliche Intelligenz und Robotik",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/einfuehrung-einer-europaeischen-industriepolitik-fuer",
+                "uuid": "33a6a8e2-4054-4aee-a29e-49605822df7b",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-04",
+                "title": "EU-R\u00fcckkehrausweise aktualisieren",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/eu-rueckkehrausweise-aktualisieren",
+                "uuid": "e793adfd-9b59-46ff-8f09-24d6eec763ec",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-04",
+                "title": "Verhinderung von unverh\u00e4ltnism\u00e4\u00dfiger Gewalt bei friedlichen Protesten",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/verhinderung-von-unverhaeltnismaessiger-gewalt-bei-friedlichen-protesten",
+                "uuid": "45917026-c95e-4086-976e-5764bfd65f3c",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-03-05",
+                "title": "Schutz von Tieren beim Transport st\u00e4rken",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/schutz-von-tieren-beim-transport-staerken",
+                "uuid": "e4de7b49-e163-47f4-8f27-56addd2839e1",
+                "vote": "enthalten"
+            },
+            {
+                "date": "2019-03-20",
+                "title": "Handelsverhandlungen zwischen der EU und den USA",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/handelsverhandlungen-zwischen-der-eu-und-den-usa",
+                "uuid": "7591c2fc-0669-4f8f-88be-8ab7e0116a1b",
+                "vote": "nicht beteiligt"
+            },
+            {
+                "date": "2019-03-21",
+                "title": "Saubere Luft f\u00fcr alle",
+                "url": "https://www.abgeordnetenwatch.de/eu/abstimmungen/saubere-luft-fuer-alle",
+                "uuid": "73324002-c088-419c-a04d-a5cf88a88465",
+                "vote": "dagegen gestimmt"
+            },
+            {
+                "date": "2019-03-20",
+                "title": "Reform des Urheberrechts",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/reform-des-urheberrechts",
+                "uuid": "20ef0ba6-4336-4f20-98c3-9493dee4e314",
+                "vote": "daf\u00fcr gestimmt"
+            },
+            {
+                "date": "2019-04-01",
+                "title": "Zeitumstellung abschaffen",
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/zeitumstellung-abschaffen",
+                "uuid": "fa3b937b-f7ee-4e28-9172-02034bc92a40",
+                "vote": "daf\u00fcr gestimmt"
+            }
+        ]
+    }
+}
