@@ -15,6 +15,28 @@
             "meta": {
                 "datasets": {
                     "poll": {
+                        "by-name": "https://www.abgeordnetenwatch.de/api/parliament/eu-parlament%202014-2019/poll/zeitumstellung%20abschaffen/poll.json",
+                        "by-uuid": "https://www.abgeordnetenwatch.de/api/parliament/18ea3bc2-8348-4824-8695-e0c2864fd126/poll/fa3b937b-f7ee-4e28-9172-02034bc92a40/poll.json"
+                    }
+                },
+                "edited": "2019-04-02 10:02",
+                "topics": [
+                    "Energie",
+                    "Europapolitik und Europ\u00e4ische Union",
+                    "Gesundheit"
+                ],
+                "url": "https://www.abgeordnetenwatch.de/eu-parlament-2014-2019/abstimmungen/zeitumstellung-abschaffen",
+                "uuid": "fa3b937b-f7ee-4e28-9172-02034bc92a40"
+            },
+            "status": "unknown",
+            "summary": "Das Ende der Zeitumstellung soll ab dem Jahr 2021 erfolgen. Dar\u00fcber stimmte das EU-Parlament in einem Antrag ab. Dieser fordert n\u00e4mlich, dass die Kommission und die einzelnen Mitgliedsstaaten eine gemeinsame L\u00f6sung finden sollen, um m\u00f6glichst verschiedene Zeitzonen zu verhindern.&nbsp;\r\n\r\n\r\n\r\n\tDie deutschen EU-Abgeordneten stimmten mehrheitlich f\u00fcr den Antrag. Gegenstimmen gab es vor allem aus den Kreisen der Christdemokraten und Konservativen. Der Antrag wurde angenommen.&nbsp;",
+            "title": "Zeitumstellung abschaffen"
+        },
+        {
+            "date": "2019-03-26",
+            "meta": {
+                "datasets": {
+                    "poll": {
                         "by-name": "https://www.abgeordnetenwatch.de/api/parliament/eu-parlament%202014-2019/poll/reform%20des%20urheberrechts/poll.json",
                         "by-uuid": "https://www.abgeordnetenwatch.de/api/parliament/18ea3bc2-8348-4824-8695-e0c2864fd126/poll/20ef0ba6-4336-4f20-98c3-9493dee4e314/poll.json"
                     }
@@ -31,8 +53,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 3,
-                    "dagegen gestimmt": 2,
-                    "nicht beteiligt": 1
+                    "dagegen gestimmt": 2
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -56,11 +77,14 @@
                     "dagegen gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "nicht beteiligt": 1
+                },
                 "GUE/NGL": {
                     "dagegen gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "dagegen gestimmt": 22,
+                    "dagegen gestimmt": 23,
                     "enthalten": 3,
                     "nicht beteiligt": 1
                 },
@@ -70,7 +94,7 @@
                 },
                 "total": {
                     "daf\u00fcr gestimmt": 37,
-                    "dagegen gestimmt": 49,
+                    "dagegen gestimmt": 50,
                     "enthalten": 3,
                     "nicht beteiligt": 6
                 }
@@ -99,7 +123,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "dagegen gestimmt": 4,
-                    "nicht beteiligt": 2
+                    "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
                     "daf\u00fcr gestimmt": 1
@@ -124,11 +148,14 @@
                     "enthalten": 1,
                     "nicht beteiligt": 2
                 },
+                "FREIE W\u00c4HLER": {
+                    "nicht beteiligt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 15,
+                    "daf\u00fcr gestimmt": 16,
                     "dagegen gestimmt": 2,
                     "nicht beteiligt": 9
                 },
@@ -137,7 +164,7 @@
                     "nicht beteiligt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 34,
+                    "daf\u00fcr gestimmt": 35,
                     "dagegen gestimmt": 33,
                     "enthalten": 1,
                     "nicht beteiligt": 27
@@ -167,7 +194,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 5,
+                    "daf\u00fcr gestimmt": 4,
                     "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
@@ -194,18 +221,21 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 15,
+                    "daf\u00fcr gestimmt": 16,
                     "nicht beteiligt": 11
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 52,
+                    "daf\u00fcr gestimmt": 53,
                     "dagegen gestimmt": 4,
                     "enthalten": 19,
                     "nicht beteiligt": 20
@@ -234,7 +264,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 5,
+                    "daf\u00fcr gestimmt": 4,
                     "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
@@ -259,11 +289,14 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "enthalten": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 16,
+                    "daf\u00fcr gestimmt": 17,
                     "enthalten": 2,
                     "nicht beteiligt": 8
                 },
@@ -272,7 +305,7 @@
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 57,
+                    "daf\u00fcr gestimmt": 58,
                     "dagegen gestimmt": 14,
                     "enthalten": 9,
                     "nicht beteiligt": 15
@@ -302,7 +335,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 6
+                    "daf\u00fcr gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "daf\u00fcr gestimmt": 1
@@ -327,11 +360,14 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 24,
+                    "daf\u00fcr gestimmt": 25,
                     "nicht beteiligt": 2
                 },
                 "fraktionslos": {
@@ -339,7 +375,7 @@
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 79,
+                    "daf\u00fcr gestimmt": 80,
                     "dagegen gestimmt": 2,
                     "enthalten": 1,
                     "nicht beteiligt": 13
@@ -369,7 +405,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 3,
+                    "daf\u00fcr gestimmt": 2,
                     "nicht beteiligt": 3
                 },
                 "AfD (EFDD)": {
@@ -392,12 +428,15 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "enthalten": 1
                 },
                 "SPD (S&D)": {
                     "daf\u00fcr gestimmt": 25,
-                    "nicht beteiligt": 1
+                    "nicht beteiligt": 2
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 2
@@ -405,7 +444,7 @@
                 "total": {
                     "daf\u00fcr gestimmt": 81,
                     "enthalten": 8,
-                    "nicht beteiligt": 6
+                    "nicht beteiligt": 7
                 }
             },
             "status": "voted",
@@ -432,8 +471,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 5,
-                    "nicht beteiligt": 1
+                    "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "enthalten": 1
@@ -457,11 +495,14 @@
                     "daf\u00fcr gestimmt": 1,
                     "enthalten": 3
                 },
+                "FREIE W\u00c4HLER": {
+                    "nicht beteiligt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 22,
+                    "daf\u00fcr gestimmt": 23,
                     "nicht beteiligt": 4
                 },
                 "fraktionslos": {
@@ -469,7 +510,7 @@
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 75,
+                    "daf\u00fcr gestimmt": 76,
                     "dagegen gestimmt": 7,
                     "enthalten": 5,
                     "nicht beteiligt": 8
@@ -498,7 +539,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 5,
+                    "daf\u00fcr gestimmt": 4,
                     "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
@@ -523,11 +564,14 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "nicht beteiligt": 1
                 },
                 "SPD (S&D)": {
-                    "dagegen gestimmt": 22,
+                    "dagegen gestimmt": 23,
                     "nicht beteiligt": 4
                 },
                 "fraktionslos": {
@@ -536,7 +580,7 @@
                 },
                 "total": {
                     "daf\u00fcr gestimmt": 39,
-                    "dagegen gestimmt": 38,
+                    "dagegen gestimmt": 39,
                     "enthalten": 3,
                     "nicht beteiligt": 15
                 }
@@ -565,7 +609,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 6
+                    "daf\u00fcr gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -588,12 +632,15 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
                     "daf\u00fcr gestimmt": 18,
-                    "nicht beteiligt": 8
+                    "nicht beteiligt": 9
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 1,
@@ -602,7 +649,7 @@
                 "total": {
                     "daf\u00fcr gestimmt": 65,
                     "dagegen gestimmt": 2,
-                    "nicht beteiligt": 28
+                    "nicht beteiligt": 29
                 }
             },
             "status": "voted",
@@ -629,7 +676,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 3,
+                    "daf\u00fcr gestimmt": 2,
                     "nicht beteiligt": 3
                 },
                 "AfD (EFDD)": {
@@ -653,12 +700,15 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
                     "daf\u00fcr gestimmt": 23,
-                    "nicht beteiligt": 3
+                    "nicht beteiligt": 4
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 2
@@ -666,7 +716,7 @@
                 "total": {
                     "daf\u00fcr gestimmt": 83,
                     "enthalten": 2,
-                    "nicht beteiligt": 10
+                    "nicht beteiligt": 11
                 }
             },
             "status": "voted",
@@ -694,7 +744,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 1,
-                    "enthalten": 2,
+                    "enthalten": 1,
                     "nicht beteiligt": 3
                 },
                 "AfD (EFDD)": {
@@ -717,12 +767,15 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "enthalten": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
                     "daf\u00fcr gestimmt": 24,
-                    "nicht beteiligt": 2
+                    "nicht beteiligt": 3
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 1,
@@ -732,7 +785,7 @@
                     "daf\u00fcr gestimmt": 82,
                     "dagegen gestimmt": 3,
                     "enthalten": 2,
-                    "nicht beteiligt": 8
+                    "nicht beteiligt": 9
                 }
             },
             "status": "voted",
@@ -760,7 +813,6 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 1,
-                    "dagegen gestimmt": 1,
                     "enthalten": 1,
                     "nicht beteiligt": 3
                 },
@@ -786,12 +838,15 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
                     "daf\u00fcr gestimmt": 22,
-                    "nicht beteiligt": 4
+                    "nicht beteiligt": 5
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 2
@@ -800,7 +855,7 @@
                     "daf\u00fcr gestimmt": 76,
                     "dagegen gestimmt": 3,
                     "enthalten": 4,
-                    "nicht beteiligt": 12
+                    "nicht beteiligt": 13
                 }
             },
             "status": "voted",
@@ -826,7 +881,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 6
+                    "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "enthalten": 1
@@ -849,18 +904,21 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "nicht beteiligt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 22,
+                    "daf\u00fcr gestimmt": 23,
                     "nicht beteiligt": 4
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 74,
+                    "daf\u00fcr gestimmt": 75,
                     "dagegen gestimmt": 6,
                     "enthalten": 1,
                     "nicht beteiligt": 14
@@ -890,7 +948,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 5,
+                    "daf\u00fcr gestimmt": 4,
                     "dagegen gestimmt": 1
                 },
                 "AfD (EFDD)": {
@@ -913,18 +971,21 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 25
+                    "daf\u00fcr gestimmt": 26
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 87,
+                    "daf\u00fcr gestimmt": 88,
                     "dagegen gestimmt": 3,
                     "enthalten": 1,
                     "nicht beteiligt": 3
@@ -953,7 +1014,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 6
+                    "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -979,12 +1040,15 @@
                     "dagegen gestimmt": 3,
                     "enthalten": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
                     "daf\u00fcr gestimmt": 24,
-                    "nicht beteiligt": 1
+                    "nicht beteiligt": 2
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 1,
@@ -994,7 +1058,7 @@
                     "daf\u00fcr gestimmt": 42,
                     "dagegen gestimmt": 43,
                     "enthalten": 4,
-                    "nicht beteiligt": 5
+                    "nicht beteiligt": 6
                 }
             },
             "status": "voted",
@@ -1020,7 +1084,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 6
+                    "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -1045,18 +1109,21 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 25
+                    "daf\u00fcr gestimmt": 26
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 70,
+                    "daf\u00fcr gestimmt": 71,
                     "dagegen gestimmt": 15,
                     "enthalten": 6,
                     "nicht beteiligt": 3
@@ -1086,7 +1153,6 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 1,
                     "enthalten": 3,
                     "nicht beteiligt": 1
@@ -1116,11 +1182,14 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 23,
+                    "daf\u00fcr gestimmt": 24,
                     "nicht beteiligt": 3
                 },
                 "fraktionslos": {
@@ -1128,7 +1197,7 @@
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 48,
+                    "daf\u00fcr gestimmt": 49,
                     "dagegen gestimmt": 9,
                     "enthalten": 21,
                     "nicht beteiligt": 17
@@ -1156,7 +1225,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 5,
+                    "dagegen gestimmt": 4,
                     "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
@@ -1183,11 +1252,14 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 23,
+                    "daf\u00fcr gestimmt": 24,
                     "nicht beteiligt": 3
                 },
                 "fraktionslos": {
@@ -1195,7 +1267,7 @@
                     "enthalten": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 56,
+                    "daf\u00fcr gestimmt": 57,
                     "dagegen gestimmt": 20,
                     "enthalten": 2,
                     "nicht beteiligt": 17
@@ -1223,7 +1295,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 5,
+                    "daf\u00fcr gestimmt": 4,
                     "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
@@ -1248,18 +1320,21 @@
                     "daf\u00fcr gestimmt": 2,
                     "nicht beteiligt": 2
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 18,
+                    "daf\u00fcr gestimmt": 19,
                     "nicht beteiligt": 8
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 72,
+                    "daf\u00fcr gestimmt": 73,
                     "enthalten": 2,
                     "nicht beteiligt": 21
                 }
@@ -1287,7 +1362,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 4,
-                    "dagegen gestimmt": 2
+                    "dagegen gestimmt": 1
                 },
                 "AfD (EFDD)": {
                     "enthalten": 1
@@ -1312,17 +1387,20 @@
                     "enthalten": 1,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 26
+                    "daf\u00fcr gestimmt": 27
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 51,
+                    "daf\u00fcr gestimmt": 52,
                     "dagegen gestimmt": 35,
                     "enthalten": 2,
                     "nicht beteiligt": 7
@@ -1352,7 +1430,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 6
+                    "daf\u00fcr gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -1377,11 +1455,14 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "nicht beteiligt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 16,
+                    "daf\u00fcr gestimmt": 17,
                     "enthalten": 1,
                     "nicht beteiligt": 9
                 },
@@ -1389,7 +1470,7 @@
                     "dagegen gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 59,
+                    "daf\u00fcr gestimmt": 60,
                     "dagegen gestimmt": 9,
                     "enthalten": 2,
                     "nicht beteiligt": 25
@@ -1418,7 +1499,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 6
+                    "daf\u00fcr gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "nicht beteiligt": 1
@@ -1442,18 +1523,21 @@
                     "daf\u00fcr gestimmt": 2,
                     "nicht beteiligt": 2
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "dagegen gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 24,
+                    "daf\u00fcr gestimmt": 25,
                     "nicht beteiligt": 2
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 82,
+                    "daf\u00fcr gestimmt": 83,
                     "dagegen gestimmt": 2,
                     "nicht beteiligt": 11
                 }
@@ -1481,7 +1565,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 5,
+                    "daf\u00fcr gestimmt": 4,
                     "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
@@ -1506,18 +1590,21 @@
                     "daf\u00fcr gestimmt": 2,
                     "nicht beteiligt": 2
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "enthalten": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 21,
+                    "daf\u00fcr gestimmt": 22,
                     "nicht beteiligt": 5
                 },
                 "fraktionslos": {
                     "dagegen gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 72,
+                    "daf\u00fcr gestimmt": 73,
                     "dagegen gestimmt": 4,
                     "enthalten": 1,
                     "nicht beteiligt": 18
@@ -1547,7 +1634,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 5,
+                    "daf\u00fcr gestimmt": 4,
                     "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
@@ -1572,18 +1659,21 @@
                     "daf\u00fcr gestimmt": 2,
                     "nicht beteiligt": 2
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 19,
+                    "daf\u00fcr gestimmt": 20,
                     "nicht beteiligt": 7
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 72,
+                    "daf\u00fcr gestimmt": 73,
                     "dagegen gestimmt": 1,
                     "enthalten": 1,
                     "nicht beteiligt": 21
@@ -1611,7 +1701,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 5,
+                    "daf\u00fcr gestimmt": 4,
                     "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
@@ -1639,11 +1729,14 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "enthalten": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 23,
+                    "daf\u00fcr gestimmt": 24,
                     "nicht beteiligt": 3
                 },
                 "fraktionslos": {
@@ -1651,7 +1744,7 @@
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 61,
+                    "daf\u00fcr gestimmt": 62,
                     "dagegen gestimmt": 3,
                     "enthalten": 15,
                     "nicht beteiligt": 16
@@ -1681,7 +1774,6 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
@@ -1707,11 +1799,14 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "dagegen gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "dagegen gestimmt": 19,
+                    "dagegen gestimmt": 20,
                     "enthalten": 6,
                     "nicht beteiligt": 1
                 },
@@ -1720,7 +1815,7 @@
                 },
                 "total": {
                     "daf\u00fcr gestimmt": 37,
-                    "dagegen gestimmt": 43,
+                    "dagegen gestimmt": 44,
                     "enthalten": 6,
                     "nicht beteiligt": 9
                 }
@@ -1749,7 +1844,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 6
+                    "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -1772,18 +1867,21 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "dagegen gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 25,
+                    "daf\u00fcr gestimmt": 26,
                     "nicht beteiligt": 1
                 },
                 "fraktionslos": {
                     "dagegen gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 62,
+                    "daf\u00fcr gestimmt": 63,
                     "dagegen gestimmt": 16,
                     "enthalten": 12,
                     "nicht beteiligt": 5
@@ -1812,7 +1910,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 5,
+                    "dagegen gestimmt": 4,
                     "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
@@ -1839,11 +1937,14 @@
                     "dagegen gestimmt": 2,
                     "nicht beteiligt": 2
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "enthalten": 1
                 },
                 "SPD (S&D)": {
-                    "dagegen gestimmt": 22,
+                    "dagegen gestimmt": 23,
                     "nicht beteiligt": 4
                 },
                 "fraktionslos": {
@@ -1851,7 +1952,7 @@
                 },
                 "total": {
                     "daf\u00fcr gestimmt": 9,
-                    "dagegen gestimmt": 66,
+                    "dagegen gestimmt": 67,
                     "enthalten": 2,
                     "nicht beteiligt": 18
                 }
@@ -1880,7 +1981,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 5,
+                    "daf\u00fcr gestimmt": 4,
                     "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
@@ -1906,18 +2007,21 @@
                     "daf\u00fcr gestimmt": 2,
                     "nicht beteiligt": 2
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 18,
+                    "daf\u00fcr gestimmt": 19,
                     "nicht beteiligt": 8
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 70,
+                    "daf\u00fcr gestimmt": 71,
                     "dagegen gestimmt": 1,
                     "enthalten": 2,
                     "nicht beteiligt": 22
@@ -1948,7 +2052,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 1,
-                    "dagegen gestimmt": 4,
+                    "dagegen gestimmt": 3,
                     "enthalten": 1
                 },
                 "AfD (EFDD)": {
@@ -1975,11 +2079,14 @@
                     "daf\u00fcr gestimmt": 1,
                     "nicht beteiligt": 3
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "nicht beteiligt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 24,
+                    "daf\u00fcr gestimmt": 25,
                     "nicht beteiligt": 2
                 },
                 "fraktionslos": {
@@ -1987,7 +2094,7 @@
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 43,
+                    "daf\u00fcr gestimmt": 44,
                     "dagegen gestimmt": 31,
                     "enthalten": 3,
                     "nicht beteiligt": 18
@@ -2016,7 +2123,6 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
@@ -2043,11 +2149,14 @@
                     "daf\u00fcr gestimmt": 1,
                     "nicht beteiligt": 3
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 19,
+                    "daf\u00fcr gestimmt": 20,
                     "nicht beteiligt": 7
                 },
                 "fraktionslos": {
@@ -2055,7 +2164,7 @@
                     "enthalten": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 47,
+                    "daf\u00fcr gestimmt": 48,
                     "dagegen gestimmt": 18,
                     "enthalten": 9,
                     "nicht beteiligt": 21
@@ -2085,8 +2194,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 5,
-                    "nicht beteiligt": 1
+                    "daf\u00fcr gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -2111,11 +2219,14 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "nicht beteiligt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 16,
+                    "daf\u00fcr gestimmt": 17,
                     "nicht beteiligt": 10
                 },
                 "fraktionslos": {
@@ -2123,7 +2234,7 @@
                     "enthalten": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 60,
+                    "daf\u00fcr gestimmt": 61,
                     "dagegen gestimmt": 4,
                     "enthalten": 1,
                     "nicht beteiligt": 30
@@ -2154,8 +2265,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 1,
-                    "dagegen gestimmt": 4,
-                    "enthalten": 1
+                    "dagegen gestimmt": 4
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -2178,18 +2288,21 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "enthalten": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 26
+                    "daf\u00fcr gestimmt": 27
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 83,
+                    "daf\u00fcr gestimmt": 84,
                     "dagegen gestimmt": 6,
                     "enthalten": 2,
                     "nicht beteiligt": 4
@@ -2219,7 +2332,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 5,
+                    "daf\u00fcr gestimmt": 4,
                     "dagegen gestimmt": 1
                 },
                 "AfD (EFDD)": {
@@ -2246,12 +2359,16 @@
                     "daf\u00fcr gestimmt": 3,
                     "enthalten": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "dagegen gestimmt": 1
                 },
                 "SPD (S&D)": {
                     "daf\u00fcr gestimmt": 20,
                     "dagegen gestimmt": 5,
+                    "enthalten": 1,
                     "nicht beteiligt": 1
                 },
                 "fraktionslos": {
@@ -2261,7 +2378,7 @@
                 "total": {
                     "daf\u00fcr gestimmt": 59,
                     "dagegen gestimmt": 23,
-                    "enthalten": 6,
+                    "enthalten": 7,
                     "nicht beteiligt": 7
                 }
             },
@@ -2290,7 +2407,6 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "dagegen gestimmt": 1,
-                    "enthalten": 1,
                     "nicht beteiligt": 4
                 },
                 "AfD (EFDD)": {
@@ -2315,11 +2431,14 @@
                     "daf\u00fcr gestimmt": 1,
                     "nicht beteiligt": 3
                 },
+                "FREIE W\u00c4HLER": {
+                    "enthalten": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 9,
+                    "daf\u00fcr gestimmt": 10,
                     "nicht beteiligt": 17
                 },
                 "fraktionslos": {
@@ -2327,7 +2446,7 @@
                     "nicht beteiligt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 31,
+                    "daf\u00fcr gestimmt": 32,
                     "dagegen gestimmt": 7,
                     "enthalten": 2,
                     "nicht beteiligt": 55
@@ -2358,7 +2477,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 1,
-                    "dagegen gestimmt": 5
+                    "dagegen gestimmt": 4
                 },
                 "AfD (EFDD)": {
                     "enthalten": 1
@@ -2382,11 +2501,14 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 24,
+                    "daf\u00fcr gestimmt": 25,
                     "nicht beteiligt": 2
                 },
                 "fraktionslos": {
@@ -2394,7 +2516,7 @@
                     "nicht beteiligt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 74,
+                    "daf\u00fcr gestimmt": 75,
                     "dagegen gestimmt": 6,
                     "enthalten": 1,
                     "nicht beteiligt": 14
@@ -2425,7 +2547,6 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 1,
-                    "dagegen gestimmt": 1,
                     "enthalten": 1,
                     "nicht beteiligt": 3
                 },
@@ -2453,11 +2574,14 @@
                     "daf\u00fcr gestimmt": 2,
                     "nicht beteiligt": 2
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 17,
+                    "daf\u00fcr gestimmt": 18,
                     "nicht beteiligt": 9
                 },
                 "fraktionslos": {
@@ -2465,7 +2589,7 @@
                     "nicht beteiligt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 41,
+                    "daf\u00fcr gestimmt": 42,
                     "dagegen gestimmt": 13,
                     "enthalten": 11,
                     "nicht beteiligt": 30
@@ -2495,7 +2619,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 2,
+                    "dagegen gestimmt": 1,
                     "nicht beteiligt": 4
                 },
                 "AfD (EFDD)": {
@@ -2521,11 +2645,14 @@
                     "dagegen gestimmt": 1,
                     "nicht beteiligt": 3
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "dagegen gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "dagegen gestimmt": 12,
+                    "dagegen gestimmt": 13,
                     "nicht beteiligt": 14
                 },
                 "fraktionslos": {
@@ -2534,7 +2661,7 @@
                 },
                 "total": {
                     "daf\u00fcr gestimmt": 3,
-                    "dagegen gestimmt": 44,
+                    "dagegen gestimmt": 45,
                     "enthalten": 1,
                     "nicht beteiligt": 47
                 }
@@ -2565,7 +2692,7 @@
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 3,
-                    "nicht beteiligt": 2
+                    "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -2591,11 +2718,14 @@
                     "dagegen gestimmt": 2,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "nicht beteiligt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 22,
+                    "daf\u00fcr gestimmt": 23,
                     "nicht beteiligt": 4
                 },
                 "fraktionslos": {
@@ -2603,7 +2733,7 @@
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 71,
+                    "daf\u00fcr gestimmt": 72,
                     "dagegen gestimmt": 12,
                     "enthalten": 3,
                     "nicht beteiligt": 9
@@ -2633,8 +2763,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 5,
-                    "enthalten": 1
+                    "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -2658,18 +2787,21 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "enthalten": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 21,
+                    "daf\u00fcr gestimmt": 22,
                     "nicht beteiligt": 5
                 },
                 "fraktionslos": {
                     "dagegen gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 64,
+                    "daf\u00fcr gestimmt": 65,
                     "dagegen gestimmt": 9,
                     "enthalten": 1,
                     "nicht beteiligt": 20
@@ -2699,7 +2831,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 1,
-                    "enthalten": 5
+                    "enthalten": 4
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -2725,12 +2857,15 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "enthalten": 1
+                },
                 "GUE/NGL": {
                     "enthalten": 1
                 },
                 "SPD (S&D)": {
                     "daf\u00fcr gestimmt": 13,
-                    "enthalten": 12,
+                    "enthalten": 13,
                     "nicht beteiligt": 1
                 },
                 "fraktionslos": {
@@ -2740,7 +2875,7 @@
                 "total": {
                     "daf\u00fcr gestimmt": 38,
                     "dagegen gestimmt": 15,
-                    "enthalten": 38,
+                    "enthalten": 39,
                     "nicht beteiligt": 4
                 }
             },
@@ -2767,7 +2902,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 2,
+                    "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 3,
                     "nicht beteiligt": 1
                 },
@@ -2793,11 +2928,14 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 24,
+                    "daf\u00fcr gestimmt": 25,
                     "nicht beteiligt": 2
                 },
                 "fraktionslos": {
@@ -2805,7 +2943,7 @@
                     "nicht beteiligt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 77,
+                    "daf\u00fcr gestimmt": 78,
                     "dagegen gestimmt": 8,
                     "nicht beteiligt": 10
                 }
@@ -2834,7 +2972,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 6
+                    "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -2857,11 +2995,15 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 26
+                    "daf\u00fcr gestimmt": 26,
+                    "nicht beteiligt": 1
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 1,
@@ -2871,7 +3013,7 @@
                     "daf\u00fcr gestimmt": 75,
                     "dagegen gestimmt": 14,
                     "enthalten": 4,
-                    "nicht beteiligt": 1
+                    "nicht beteiligt": 2
                 }
             },
             "status": "voted",
@@ -2898,7 +3040,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 4,
+                    "daf\u00fcr gestimmt": 3,
                     "dagegen gestimmt": 2
                 },
                 "AfD (EFDD)": {
@@ -2923,6 +3065,9 @@
                     "dagegen gestimmt": 1,
                     "enthalten": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "dagegen gestimmt": 1
                 },
@@ -2930,7 +3075,7 @@
                     "daf\u00fcr gestimmt": 16,
                     "dagegen gestimmt": 7,
                     "enthalten": 2,
-                    "nicht beteiligt": 1
+                    "nicht beteiligt": 2
                 },
                 "fraktionslos": {
                     "dagegen gestimmt": 2
@@ -2939,7 +3084,7 @@
                     "daf\u00fcr gestimmt": 61,
                     "dagegen gestimmt": 28,
                     "enthalten": 3,
-                    "nicht beteiligt": 2
+                    "nicht beteiligt": 3
                 }
             },
             "status": "voted",
@@ -2965,7 +3110,6 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
@@ -2990,11 +3134,14 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "enthalten": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 25,
+                    "daf\u00fcr gestimmt": 26,
                     "nicht beteiligt": 1
                 },
                 "fraktionslos": {
@@ -3002,7 +3149,7 @@
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 77,
+                    "daf\u00fcr gestimmt": 78,
                     "dagegen gestimmt": 8,
                     "enthalten": 5,
                     "nicht beteiligt": 5
@@ -3031,7 +3178,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 6
+                    "daf\u00fcr gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "daf\u00fcr gestimmt": 1
@@ -3054,11 +3201,14 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "dagegen gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "dagegen gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "dagegen gestimmt": 26
+                    "dagegen gestimmt": 27
                 },
                 "fraktionslos": {
                     "dagegen gestimmt": 1,
@@ -3066,7 +3216,7 @@
                 },
                 "total": {
                     "daf\u00fcr gestimmt": 9,
-                    "dagegen gestimmt": 81,
+                    "dagegen gestimmt": 82,
                     "nicht beteiligt": 5
                 }
             },
@@ -3095,7 +3245,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 6
+                    "daf\u00fcr gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -3118,18 +3268,21 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 26
+                    "daf\u00fcr gestimmt": 27
                 },
                 "fraktionslos": {
                     "dagegen gestimmt": 1,
                     "enthalten": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 76,
+                    "daf\u00fcr gestimmt": 77,
                     "dagegen gestimmt": 7,
                     "enthalten": 10,
                     "nicht beteiligt": 2
@@ -3159,7 +3312,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 6
+                    "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -3184,18 +3337,21 @@
                     "dagegen gestimmt": 1,
                     "nicht beteiligt": 2
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "dagegen gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 25,
+                    "daf\u00fcr gestimmt": 26,
                     "nicht beteiligt": 1
                 },
                 "fraktionslos": {
                     "dagegen gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 61,
+                    "daf\u00fcr gestimmt": 62,
                     "dagegen gestimmt": 28,
                     "nicht beteiligt": 6
                 }
@@ -3224,7 +3380,6 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
@@ -3250,18 +3405,21 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "enthalten": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 25,
+                    "daf\u00fcr gestimmt": 26,
                     "nicht beteiligt": 1
                 },
                 "fraktionslos": {
                     "dagegen gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 74,
+                    "daf\u00fcr gestimmt": 75,
                     "dagegen gestimmt": 12,
                     "enthalten": 3,
                     "nicht beteiligt": 5
@@ -3291,7 +3449,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "dagegen gestimmt": 1,
-                    "enthalten": 4,
+                    "enthalten": 3,
                     "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
@@ -3317,18 +3475,21 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "enthalten": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 26
+                    "daf\u00fcr gestimmt": 27
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 76,
+                    "daf\u00fcr gestimmt": 77,
                     "dagegen gestimmt": 6,
                     "enthalten": 6,
                     "nicht beteiligt": 6
@@ -3358,8 +3519,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 5,
-                    "dagegen gestimmt": 1
+                    "daf\u00fcr gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "nicht beteiligt": 1
@@ -3382,11 +3542,14 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 23,
+                    "daf\u00fcr gestimmt": 24,
                     "nicht beteiligt": 3
                 },
                 "fraktionslos": {
@@ -3394,7 +3557,7 @@
                     "nicht beteiligt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 83,
+                    "daf\u00fcr gestimmt": 84,
                     "dagegen gestimmt": 1,
                     "enthalten": 1,
                     "nicht beteiligt": 10
@@ -3423,8 +3586,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "dagegen gestimmt": 4,
-                    "enthalten": 1,
-                    "nicht beteiligt": 1
+                    "enthalten": 1
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -3447,11 +3609,14 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "nicht beteiligt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 23,
+                    "daf\u00fcr gestimmt": 24,
                     "nicht beteiligt": 3
                 },
                 "fraktionslos": {
@@ -3459,7 +3624,7 @@
                     "nicht beteiligt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 48,
+                    "daf\u00fcr gestimmt": 49,
                     "dagegen gestimmt": 37,
                     "enthalten": 1,
                     "nicht beteiligt": 9
@@ -3487,7 +3652,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 2,
+                    "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 3,
                     "nicht beteiligt": 1
                 },
@@ -3515,13 +3680,16 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "dagegen gestimmt": 1
                 },
                 "SPD (S&D)": {
                     "daf\u00fcr gestimmt": 16,
                     "dagegen gestimmt": 1,
-                    "nicht beteiligt": 9
+                    "nicht beteiligt": 10
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 1,
@@ -3531,7 +3699,7 @@
                     "daf\u00fcr gestimmt": 54,
                     "dagegen gestimmt": 24,
                     "enthalten": 3,
-                    "nicht beteiligt": 14
+                    "nicht beteiligt": 15
                 }
             },
             "status": "voted",
@@ -3558,7 +3726,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 4,
+                    "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 2
                 },
                 "AfD (EFDD)": {
@@ -3583,11 +3751,14 @@
                     "daf\u00fcr gestimmt": 2,
                     "nicht beteiligt": 2
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 23,
+                    "daf\u00fcr gestimmt": 24,
                     "nicht beteiligt": 3
                 },
                 "fraktionslos": {
@@ -3595,7 +3766,7 @@
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 78,
+                    "daf\u00fcr gestimmt": 79,
                     "dagegen gestimmt": 2,
                     "enthalten": 1,
                     "nicht beteiligt": 14
@@ -3625,7 +3796,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 3,
-                    "dagegen gestimmt": 3
+                    "dagegen gestimmt": 2
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -3649,11 +3820,14 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "dagegen gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "dagegen gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "dagegen gestimmt": 24,
+                    "dagegen gestimmt": 25,
                     "nicht beteiligt": 2
                 },
                 "fraktionslos": {
@@ -3661,7 +3835,7 @@
                 },
                 "total": {
                     "daf\u00fcr gestimmt": 36,
-                    "dagegen gestimmt": 48,
+                    "dagegen gestimmt": 49,
                     "nicht beteiligt": 10
                 }
             },
@@ -3689,7 +3863,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 6
+                    "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -3712,18 +3886,21 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 23,
+                    "daf\u00fcr gestimmt": 24,
                     "nicht beteiligt": 3
                 },
                 "fraktionslos": {
                     "nicht beteiligt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 77,
+                    "daf\u00fcr gestimmt": 78,
                     "dagegen gestimmt": 10,
                     "nicht beteiligt": 8
                 }
@@ -3751,7 +3928,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 6
+                    "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "daf\u00fcr gestimmt": 1
@@ -3776,12 +3953,15 @@
                     "daf\u00fcr gestimmt": 2,
                     "nicht beteiligt": 2
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "nicht beteiligt": 1
                 },
                 "SPD (S&D)": {
                     "daf\u00fcr gestimmt": 15,
-                    "nicht beteiligt": 11
+                    "nicht beteiligt": 12
                 },
                 "fraktionslos": {
                     "nicht beteiligt": 2
@@ -3790,7 +3970,7 @@
                     "daf\u00fcr gestimmt": 53,
                     "dagegen gestimmt": 6,
                     "enthalten": 1,
-                    "nicht beteiligt": 35
+                    "nicht beteiligt": 36
                 }
             },
             "status": "voted",
@@ -3819,7 +3999,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 2,
+                    "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 3,
                     "enthalten": 1
                 },
@@ -3845,11 +4025,14 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 21,
+                    "daf\u00fcr gestimmt": 22,
                     "nicht beteiligt": 5
                 },
                 "fraktionslos": {
@@ -3857,7 +4040,7 @@
                     "nicht beteiligt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 75,
+                    "daf\u00fcr gestimmt": 76,
                     "dagegen gestimmt": 5,
                     "enthalten": 3,
                     "nicht beteiligt": 12
@@ -3888,8 +4071,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 1,
-                    "dagegen gestimmt": 4,
-                    "enthalten": 1
+                    "dagegen gestimmt": 4
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -3914,11 +4096,14 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "enthalten": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 25,
+                    "daf\u00fcr gestimmt": 26,
                     "nicht beteiligt": 1
                 },
                 "fraktionslos": {
@@ -3926,7 +4111,7 @@
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 76,
+                    "daf\u00fcr gestimmt": 77,
                     "dagegen gestimmt": 9,
                     "enthalten": 4,
                     "nicht beteiligt": 6
@@ -3955,7 +4140,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 6
+                    "daf\u00fcr gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -3980,18 +4165,21 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 26
+                    "daf\u00fcr gestimmt": 27
                 },
                 "fraktionslos": {
                     "dagegen gestimmt": 1,
                     "enthalten": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 83,
+                    "daf\u00fcr gestimmt": 84,
                     "dagegen gestimmt": 4,
                     "enthalten": 4,
                     "nicht beteiligt": 3
@@ -4019,7 +4207,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 6
+                    "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -4043,18 +4231,21 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 22,
+                    "daf\u00fcr gestimmt": 23,
                     "nicht beteiligt": 4
                 },
                 "fraktionslos": {
                     "nicht beteiligt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 74,
+                    "daf\u00fcr gestimmt": 75,
                     "dagegen gestimmt": 8,
                     "enthalten": 1,
                     "nicht beteiligt": 12
@@ -4084,7 +4275,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 5,
+                    "dagegen gestimmt": 4,
                     "nicht beteiligt": 1
                 },
                 "AfD (EFDD)": {
@@ -4111,18 +4302,21 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 26
+                    "daf\u00fcr gestimmt": 27
                 },
                 "fraktionslos": {
                     "dagegen gestimmt": 1,
                     "enthalten": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 75,
+                    "daf\u00fcr gestimmt": 76,
                     "dagegen gestimmt": 10,
                     "enthalten": 5,
                     "nicht beteiligt": 5
@@ -4150,7 +4344,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 2,
+                    "daf\u00fcr gestimmt": 1,
                     "enthalten": 4
                 },
                 "AfD (EFDD)": {
@@ -4177,18 +4371,21 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 21,
+                    "daf\u00fcr gestimmt": 22,
                     "nicht beteiligt": 5
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 75,
+                    "daf\u00fcr gestimmt": 76,
                     "dagegen gestimmt": 5,
                     "enthalten": 5,
                     "nicht beteiligt": 10
@@ -4218,7 +4415,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 3,
+                    "dagegen gestimmt": 2,
                     "enthalten": 1,
                     "nicht beteiligt": 2
                 },
@@ -4247,11 +4444,14 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "enthalten": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 21,
+                    "daf\u00fcr gestimmt": 22,
                     "dagegen gestimmt": 1,
                     "nicht beteiligt": 4
                 },
@@ -4260,7 +4460,7 @@
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 66,
+                    "daf\u00fcr gestimmt": 67,
                     "dagegen gestimmt": 7,
                     "enthalten": 8,
                     "nicht beteiligt": 14
@@ -4290,7 +4490,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 4,
+                    "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 2
                 },
                 "AfD (EFDD)": {
@@ -4315,18 +4515,21 @@
                     "daf\u00fcr gestimmt": 3,
                     "nicht beteiligt": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "enthalten": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 21,
+                    "daf\u00fcr gestimmt": 22,
                     "nicht beteiligt": 5
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 67,
+                    "daf\u00fcr gestimmt": 68,
                     "enthalten": 7,
                     "nicht beteiligt": 21
                 }
@@ -4355,8 +4558,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 1,
-                    "dagegen gestimmt": 4,
-                    "enthalten": 1
+                    "dagegen gestimmt": 4
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -4380,18 +4582,21 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "enthalten": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 25
+                    "daf\u00fcr gestimmt": 26
                 },
                 "fraktionslos": {
                     "dagegen gestimmt": 1,
                     "nicht beteiligt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 80,
+                    "daf\u00fcr gestimmt": 81,
                     "dagegen gestimmt": 7,
                     "enthalten": 2,
                     "nicht beteiligt": 5
@@ -4422,7 +4627,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 6
+                    "daf\u00fcr gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -4444,11 +4649,14 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 24,
+                    "daf\u00fcr gestimmt": 25,
                     "nicht beteiligt": 2
                 },
                 "fraktionslos": {
@@ -4456,7 +4664,7 @@
                     "dagegen gestimmt": 1
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 80,
+                    "daf\u00fcr gestimmt": 81,
                     "dagegen gestimmt": 6,
                     "enthalten": 6,
                     "nicht beteiligt": 3
@@ -4485,7 +4693,6 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "daf\u00fcr gestimmt": 1,
                     "dagegen gestimmt": 4,
                     "nicht beteiligt": 1
                 },
@@ -4513,18 +4720,21 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "daf\u00fcr gestimmt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 21,
+                    "daf\u00fcr gestimmt": 22,
                     "nicht beteiligt": 5
                 },
                 "fraktionslos": {
                     "dagegen gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 60,
+                    "daf\u00fcr gestimmt": 61,
                     "dagegen gestimmt": 8,
                     "enthalten": 4,
                     "nicht beteiligt": 23
@@ -4554,7 +4764,7 @@
             },
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
-                    "dagegen gestimmt": 6
+                    "dagegen gestimmt": 5
                 },
                 "AfD (EFDD)": {
                     "dagegen gestimmt": 1
@@ -4579,11 +4789,14 @@
                 "FDP/FREIE W\u00c4HLER (ALDE)": {
                     "daf\u00fcr gestimmt": 4
                 },
+                "FREIE W\u00c4HLER": {
+                    "dagegen gestimmt": 1
+                },
                 "GUE/NGL": {
                     "dagegen gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 22,
+                    "daf\u00fcr gestimmt": 23,
                     "enthalten": 1,
                     "nicht beteiligt": 3
                 },
@@ -4591,7 +4804,7 @@
                     "dagegen gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 49,
+                    "daf\u00fcr gestimmt": 50,
                     "dagegen gestimmt": 37,
                     "enthalten": 4,
                     "nicht beteiligt": 5
@@ -4621,7 +4834,7 @@
             "stats": {
                 "ALFA/FAMILIEN-PARTEI (EKR)": {
                     "daf\u00fcr gestimmt": 3,
-                    "nicht beteiligt": 3
+                    "nicht beteiligt": 2
                 },
                 "AfD (EFDD)": {
                     "nicht beteiligt": 1
@@ -4645,18 +4858,21 @@
                     "daf\u00fcr gestimmt": 3,
                     "enthalten": 1
                 },
+                "FREIE W\u00c4HLER": {
+                    "nicht beteiligt": 1
+                },
                 "GUE/NGL": {
                     "daf\u00fcr gestimmt": 1
                 },
                 "SPD (S&D)": {
-                    "daf\u00fcr gestimmt": 13,
+                    "daf\u00fcr gestimmt": 14,
                     "nicht beteiligt": 13
                 },
                 "fraktionslos": {
                     "daf\u00fcr gestimmt": 2
                 },
                 "total": {
-                    "daf\u00fcr gestimmt": 36,
+                    "daf\u00fcr gestimmt": 37,
                     "dagegen gestimmt": 29,
                     "enthalten": 1,
                     "nicht beteiligt": 29
