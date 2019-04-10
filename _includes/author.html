@@ -8,21 +8,24 @@
     {% endif %}
     <div class="authorprops">
         <h4>{{ author.display_name }}</h4>
-        <div id="social-author"> 
+        <div id="social-author">
             {% if author.link %}
-                <a href="{{ author.link }}" ><i class="fa fa-external-link-square fa"></i></a>
+                <a href="{{ author.link }}" ><i class="fa fa-external-link-square-alt"></i></a>
+            {% endif %}
+            {% if author.mastodon %}
+                <a href="{{ author.mastodon }}" ><i class="fab fa-mastodon"></i></a>
             {% endif %}
             {% if author.twitter %}
-                <a href="https://twitter.com/{{ author.twitter }}" ><i class="fa fa-twitter-square fa"></i></a>
+                <a href="https://twitter.com/{{ author.twitter }}" ><i class="fab fa-twitter-square"></i></a>
             {% endif %}
             {% if author.facebook %}
-                <a href="https://www.facebook.com/public/{{ author.facebook }}" ><i class="fa fa-facebook-square fa"></i></a>
+                <a href="https://www.facebook.com/public/{{ author.facebook }}" ><i class="fab fa-facebook-square"></i></a>
             {% endif %}
             {% if author.github %}
-                <a href="https://github.com/{{ author.github }}" ><i class="fa fa-github-square fa"></i></a>
+                <a href="https://github.com/{{ author.github }}" ><i class="fab fa-github-square"></i></a>
             {% endif %}
             {% if author.bitbucket %}
-                <a href="https://bitbucket.org/{{ author.bitbucket }}" ><i class="fa fa-bitbucket-square fa"></i></a>
+                <a href="https://bitbucket.org/{{ author.bitbucket }}" ><i class="fab fa-bitbucket"></i></a>
             {% endif %}
           </div>
         {% if author.about %}
