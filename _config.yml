@@ -19,7 +19,7 @@ markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /:year/:month/:title/
-gems: ["jekyll-paginate", "jekyll-sitemap", "jekyll-minifier"]
+plugins: ["jekyll-paginate", "jekyll-sitemap", "jekyll-minifier"]
 exclude: ["README.md"]
 paginate: 10
 paginate_path: "page:num"
