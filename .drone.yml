@@ -1,0 +1,24 @@
+kind: pipeline
+name: default
+
+steps:
+
+- name: submodules
+  image: alpine/git
+  commands:
+  - git submodule update --init --recursive --remote
+
+- name: docker
+  pull: if-not-exists
+  image: plugins/docker
+  settings:
+    pull: false
+    pull_image: false
+    username:
+      from_secret: docker_username
+    password:
+      from_secret: docker_password
+    repo:
+      from_secret: docker_repo
+    registry:
+      from_secret: docker_registry
