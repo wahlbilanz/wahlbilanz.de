@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=528
 preview: 'Deutscher Bundestag
 
 
@@ -93,5 +93,5 @@ preview: 'Deutscher Bundestag
   Drs. 19/1691 und 19/2749'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Bundesweit abgestimmtes Wolfsmanagement'
 ---

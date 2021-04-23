@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=635
 preview: 'Deutscher Bundestag
 
 
@@ -93,5 +93,5 @@ preview: 'Deutscher Bundestag
   Drs. 19/7898 und 19/14304'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Wettbewerbsfähigkeit der deutschen Wirtschaft'
 ---

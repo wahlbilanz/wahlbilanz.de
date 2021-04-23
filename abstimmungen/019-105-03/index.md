@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=609
 preview: 'Deutscher Bundestag
 
 
@@ -85,5 +85,5 @@ preview: 'Deutscher Bundestag
   Drs. 19/10052, 19/10522 und 19/10693'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Änderung des Asylbewerberleistungsgesetzes'
 ---

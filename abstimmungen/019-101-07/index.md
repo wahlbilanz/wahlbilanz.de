@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=603
 preview: 'Deutscher Bundestag
 
 
@@ -87,5 +87,6 @@ preview: 'Deutscher Bundestag
   Drs. 19/8749 und 19/10249'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes (26. BAFöGÄndG)
+  (Gesetzentwurf der Bundesregierung)'
 ---

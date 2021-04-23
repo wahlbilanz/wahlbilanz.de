@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=670
 preview: 'Deutscher Bundestag
 
 
@@ -88,5 +88,6 @@ preview: 'Deutscher Bundestag
   Drs. 19/18967 und 19/19216'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Schutz der Bevölkerung bei einer epidemischen Lage von nationaler
+  Tragweite'
 ---

@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=619
 preview: 'Deutscher Bundestag
 
 
@@ -91,5 +91,5 @@ preview: 'Deutscher Bundestag
   Drs. 19/13508'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Antrag CDU/CSU, SPD - EU-Beitrittsantrag Nordmazedoniens'
 ---

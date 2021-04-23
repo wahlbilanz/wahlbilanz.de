@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=662
 preview: 'Deutscher Bundestag
 
 
@@ -108,5 +108,5 @@ preview: 'Deutscher Bundestag
   Drs. 19/16857'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Antrag der Fraktion der AfD: Schutz von Hinweisgebern auf EU-Ebene'
 ---

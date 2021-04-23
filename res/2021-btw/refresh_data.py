@@ -64,6 +64,17 @@ bundestags_extra_map = {
   "019-127-02": "633",
   "019-140-02": "657",
   "019-140-03": "658",
+  "019-005-01": "493",
+  "019-068-04": "563",
+  "019-068-05": "564",
+  "019-083-01": "574",
+  "019-083-04": "581",
+  "019-086-01": "583",
+  "019-101-07": "603",
+  "019-184-02": "691",
+  "019-191-04": "699",
+  # "": "",
+  # "": "",
 }
 
 def getBundestagsTitle (soup):
@@ -293,13 +304,13 @@ def most_frequent(l):
     return num
 
 # were there results before?
-if os.path.isfile (summary_json):
-  with open (summary_json) as data:
-    abst_dict = json.load(data)
-    for abst in abst_dict:
-      for fraktion in abst_dict[abst]:
-        if fraktion not in fraktionen and fraktion != "file":
-          fraktionen.append (fraktion)
+# if os.path.isfile (summary_json):
+  # with open (summary_json) as data:
+    # abst_dict = json.load(data)
+    # for abst in abst_dict:
+      # for fraktion in abst_dict[abst]:
+        # if fraktion not in fraktionen and fraktion != "file":
+          # fraktionen.append (fraktion)
 
 
 print ('start')
@@ -401,8 +412,10 @@ for f in listdir (xls_path):
       
       if "20180322_5" in pdf_file:
         drs = ["1096", "1304"]
-      elif "20181108_4":
+      elif "20181108_4" in pdf_file:
         drs = ["4723", "5583", "5607"]
+      elif "20201118_4" in pdf_file:
+        drs = ["24387"]
       
       if len(drs) < 1:
         if "20180517-data" in pdf_file:
@@ -412,8 +425,8 @@ for f in listdir (xls_path):
           sys.exit(1)
       
       
-      print (drs)
-      print (drs)
+      # print (drs)
+      # print (drs)
       for d in drs:
         while len(d) < 5:
           d = "0" + d
@@ -452,6 +465,7 @@ for f in listdir (xls_path):
       
 
       abstimmungstitle = get_title_of_abstimmung(potential_bundestagsid)
+      print (str(potential_bundestagsid) + " -> " + abstimmungstitle)
 
 
       # print (abst_dict)

@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=517
 preview: 'Deutscher Bundestag
 
 
@@ -89,5 +89,5 @@ preview: 'Deutscher Bundestag
   Drs. 19/2381 und 19/2668'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Bundeswehreinsatz im Mittelmeer (EUNAVFOR MED)'
 ---

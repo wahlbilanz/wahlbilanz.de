@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=587
 preview: 'Deutscher Bundestag
 
 
@@ -87,5 +87,6 @@ preview: 'Deutscher Bundestag
   - Drucksachen 19/4568 und 19/8177 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Entwurf eines Gesetzes zur Umsetzung der UN-Behindertenrechtskonvention
+  im Wahlrecht'
 ---

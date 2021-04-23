@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=704
 preview: 'Deutscher Bundestag
 
 
@@ -89,5 +89,6 @@ preview: 'Deutscher Bundestag
   Drucksachen 19/22887 und 19/24940'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Beschluss gemäß Artikel 115 Absatz 2 des Grundgesetzes (Beschlussempfehlung
+  Haushaltsausschuss)'
 ---

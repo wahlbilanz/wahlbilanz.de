@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=645
 preview: 'Deutscher Bundestag
 
 
@@ -89,5 +89,5 @@ preview: 'Deutscher Bundestag
   Kommission zur Reform der föderalen Sicherheitsarchitektur Drs. 19/7424 und 19/15129'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Föderale Sicherheitsarchitektur'
 ---

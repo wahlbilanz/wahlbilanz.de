@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=651
 preview: 'Deutscher Bundestag
 
 
@@ -91,5 +91,6 @@ preview: 'Deutscher Bundestag
   - Drucksachen 19/15675 und 19/16149 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Beschlussempfehlung des Verteidigungsausschusses zum Antrag der
+  FDP'
 ---

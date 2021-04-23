@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=681
 preview: 'Deutscher Bundestag
 
 
@@ -91,5 +91,5 @@ preview: 'Deutscher Bundestag
   zur Änderung weiterer Gesetze (Kohleausstiegsgesetz)'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Kohleausstiegsgesetz (Änderungsantrag 19/20730)'
 ---

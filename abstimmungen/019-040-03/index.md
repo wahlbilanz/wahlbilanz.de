@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=524
 preview: 'Deutscher Bundestag
 
 
@@ -91,5 +91,6 @@ preview: 'Deutscher Bundestag
   - Drucksachen 19/2438, 19/2702, 19/2740 und 19/2767 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Familiennachzug zu subsidiär Schutzberechtigten (Entschließungsantrag
+  der AfD-Fraktion)'
 ---

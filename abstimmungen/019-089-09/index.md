@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=595
 preview: 'Deutscher Bundestag
 
 
@@ -85,5 +85,5 @@ preview: 'Deutscher Bundestag
   - Drucksache 19/7836 und 19/8350 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Änderung des Marktorganisationsgesetzes'
 ---

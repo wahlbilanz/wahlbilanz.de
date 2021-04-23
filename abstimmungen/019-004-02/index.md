@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=489
 preview: 'Deutscher Bundestag
 
 
@@ -98,5 +98,5 @@ preview: 'Deutscher Bundestag
   - Drucksachen 19/23, 19/192 und 19/205 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Bundeswehreinsatz gegen die Terrororganisation IS'
 ---

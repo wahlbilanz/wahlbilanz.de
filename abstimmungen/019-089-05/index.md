@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=591
 preview: 'Deutscher Bundestag
 
 
@@ -94,5 +94,6 @@ preview: 'Deutscher Bundestag
   Drs. 19/7726, 19/8424 und 19/8609'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Entschließungsantrag FDP Bundeswehreinsatz in Afghanistan (Resolute
+  Support)'
 ---

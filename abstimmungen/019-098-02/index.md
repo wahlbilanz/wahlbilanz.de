@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=598
 preview: 'Deutscher Bundestag
 
 
@@ -90,5 +90,5 @@ preview: 'Deutscher Bundestag
   - Drucksachen 19/8971 und 19/9933 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Bundeswehreinsatz (EUTM Mali)'
 ---

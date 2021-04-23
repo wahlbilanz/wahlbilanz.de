@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=604
 preview: 'Deutscher Bundestag
 
 
@@ -87,5 +87,5 @@ preview: 'Deutscher Bundestag
   Drs. 19/9757'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: BDS-Bewegung verurteilen - Existenz des Staates Israel schützen'
 ---

@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=582
 preview: 'Deutscher Bundestag
 
 
@@ -88,5 +88,6 @@ preview: 'Deutscher Bundestag
   - Drucksachen 19/630 und 19/7965 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Entwurf eines Gesetzes zur Änderung des Strafgesetzbuches - Aufhebung
+  von § 219a StGB (Gesetzentwurf der Fraktion Bündnis 90/Die Grünen)'
 ---

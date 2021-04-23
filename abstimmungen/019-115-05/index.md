@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=618
 preview: 'Deutscher Bundestag
 
 
@@ -94,5 +94,6 @@ preview: 'Deutscher Bundestag
   - Drucksache 19/13587 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Entschließungsantrag der AfD zu Gesetzentwurf deutsch-französische
+  Zusammenarbeit und Integration'
 ---

@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=560
 preview: 'Deutscher Bundestag
 
 
@@ -87,5 +87,5 @@ preview: 'Deutscher Bundestag
   - Drucksachen 19/3440 und 19/6144 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Änderung des Grundgesetzes - Bildung, Bau, Verkehr'
 ---

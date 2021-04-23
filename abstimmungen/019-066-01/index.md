@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=557
 preview: 'Deutscher Bundestag
 
 
@@ -97,5 +97,5 @@ preview: 'Deutscher Bundestag
   - Drucksachen 19/3400, 19/3402, 19/4623, 19/4624, 19/4625, 19/4626 und 19/5901 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Änderungsantrag FDP zu Haushaltsgesetz 2019 - Einzelplan 60'
 ---

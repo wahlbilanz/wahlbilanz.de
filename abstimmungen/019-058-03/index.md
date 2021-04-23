@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=537
 preview: 'Deutscher Bundestag
 
 
@@ -91,5 +91,5 @@ preview: 'Deutscher Bundestag
   - Drucksachen 19/3452, 19/5097 und 19/5104 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Brückenteilzeit - Änderungsantrag Bündnis 90/Die Grünen'
 ---

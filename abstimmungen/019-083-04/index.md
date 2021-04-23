@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=581
 preview: 'Deutscher Bundestag
 
 
@@ -89,5 +89,6 @@ preview: 'Deutscher Bundestag
   Drucksachen 19/93 und 19/7965'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Aufhebung des Werbeverbots für Schwangerschaftsabbrüche (Gesetzentwurf
+  der Fraktion Die Linke)'
 ---

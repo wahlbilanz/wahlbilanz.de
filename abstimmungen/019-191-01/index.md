@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=696
 preview: 'Deutscher Bundestag
 
 
@@ -91,5 +91,5 @@ preview: 'Deutscher Bundestag
   - Drucksache 19/24375 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Corona-Maßnahmen (epidemische Lage), Änderungsantrag FDP'
 ---

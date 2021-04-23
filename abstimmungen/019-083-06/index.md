@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=579
 preview: 'Deutscher Bundestag
 
 
@@ -92,5 +92,6 @@ preview: 'Deutscher Bundestag
   - Drucksachen 19/2514 und 19/7858 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Selbstbestimmte Familienplanung ermöglichen - Kostenloser Zugang
+  zu Verhütungsmitteln für Menschen mit geringem Einkommen'
 ---

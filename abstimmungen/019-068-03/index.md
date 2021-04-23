@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=562
 preview: 'Deutscher Bundestag
 
 
@@ -89,5 +89,6 @@ preview: 'Deutscher Bundestag
   - Drs. 19/4949, 19/5417, 19/5647 Nr. 15, 19/6140 und 19/6156 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Steuerlichen Förderung des Mietwohnungsneubaus - Änderungsantrag
+  Bündnis 90/Die Grünen'
 ---

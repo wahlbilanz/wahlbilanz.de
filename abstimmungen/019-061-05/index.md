@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=553
 preview: 'Deutscher Bundestag
 
 
@@ -92,5 +92,5 @@ preview: 'Deutscher Bundestag
   - Drucksachen 19/4455, 19/4858, 19/5595 und 19/5612 -'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Umsatzsteuerausfälle - Änderungsantrag der Fraktion der FDP'
 ---

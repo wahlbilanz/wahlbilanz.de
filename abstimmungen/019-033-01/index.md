@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=514
 preview: 'Deutscher Bundestag
 
 
@@ -83,5 +83,5 @@ preview: 'Deutscher Bundestag
   gegen einen in der letzten Sitzung erteilten Ordnungsruf'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Einspruch gemäß § 39 GO-BT'
 ---

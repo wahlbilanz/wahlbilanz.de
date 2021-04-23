@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=532
 preview: 'Deutscher Bundestag
 
 
@@ -96,5 +96,6 @@ preview: 'Deutscher Bundestag
   Drs. 19/1077, 19/1701, 19/2413, 19/2424, 19/2425, 19/2426 und 19/3179'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Geschäftsbereich des Bundesministeriums der Verteidigung (Änderungsantrag
+  FDP)'
 ---

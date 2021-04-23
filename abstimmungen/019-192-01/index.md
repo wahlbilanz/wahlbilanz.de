@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=700
 preview: 'Deutscher Bundestag
 
 
@@ -89,5 +89,5 @@ preview: 'Deutscher Bundestag
   Drs. 19/22552 und 19/23404'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Energiesicherheit gewährleisten - Nord Stream 2 unterstützen (Beschlussempfehlung)'
 ---

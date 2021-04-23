@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=647
 preview: 'Deutscher Bundestag
 
 
@@ -85,5 +85,5 @@ preview: 'Deutscher Bundestag
   Drs. 19/14338, 19/15125, 19/15157, 19/15229, 19/15637 und 19/16060'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Gesetz zur Umsetzung des Klimaschutzprogramms 2030 im Steuerrecht'
 ---

@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=697
 preview: 'Deutscher Bundestag
 
 
@@ -90,5 +90,6 @@ preview: 'Deutscher Bundestag
   Drs. 19/24380'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Corona-Maßnahmen (epidemische Lage), Änderungsantrag Bündnis 90/Die
+  Grünen'
 ---

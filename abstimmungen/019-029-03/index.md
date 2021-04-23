@@ -66,7 +66,7 @@ ergebnis:
 layout: abstimmung
 links:
 - title: Link zu bundestag.de
-  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=512
 preview: 'Deutscher Bundestag
 
 
@@ -90,5 +90,5 @@ preview: 'Deutscher Bundestag
   Drs. 19/1597 und 19/1834'
 tags:
 - Todo
-title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+title: 'Abstimmung: Bundeswehreinsatz in Mali (EUTM Mali)'
 ---
