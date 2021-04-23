@@ -1,0 +1,95 @@
+---
+abstimmung:
+  abstimmung: 1
+  bundestagssitzung: 162
+  legislaturperiode: 19
+categories:
+- Todo
+data:
+- title: Abstimmungsergebnis 20200527_1-data.pdf
+  url: /res/2021-btw/abstimmungsergebnisse/20200527_1-data.pdf
+- title: Abstimmungsergebnis 20200527_1_xls-data.xlsx
+  url: /res/2021-btw/abstimmungsergebnisse/20200527_1_xls-data.xlsx
+- title: Abstimmungsergebnis 20200527_1_xls-data.csv
+  url: /res/2021-btw/abstimmungsergebnisse/csv/20200527_1_xls-data.csv
+ergebnis:
+  afd:
+    enthaltung: 5
+    gesamt: 89
+    ja: 68
+    nein: 10
+    nichtabgegeben: 6
+    ungueltig: 0
+  bü90/gr:
+    enthaltung: 32
+    gesamt: 67
+    ja: 20
+    nein: 7
+    nichtabgegeben: 8
+    ungueltig: 0
+  cdu/csu:
+    enthaltung: 0
+    gesamt: 246
+    ja: 233
+    nein: 0
+    nichtabgegeben: 13
+    ungueltig: 0
+  die linke.:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 62
+    nichtabgegeben: 7
+    ungueltig: 0
+  fdp:
+    enthaltung: 1
+    gesamt: 80
+    ja: 73
+    nein: 0
+    nichtabgegeben: 6
+    ungueltig: 0
+  file: 20200527_1_xls-data.xlsx
+  fraktionslos:
+    enthaltung: 1
+    gesamt: 6
+    ja: 2
+    nein: 1
+    nichtabgegeben: 2
+    ungueltig: 0
+  spd:
+    enthaltung: 0
+    gesamt: 152
+    ja: 139
+    nein: 2
+    nichtabgegeben: 11
+    ungueltig: 0
+layout: abstimmung
+links:
+- title: Link zu bundestag.de
+  url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=552
+preview: 'Deutscher Bundestag
+
+
+  162. Sitzung des Deutschen Bundestages
+
+  am Mittwoch, 27. Mai 2020
+
+
+  Endgültiges Ergebnis der Namentlichen Abstimmung Nr. 1
+
+
+  Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss)
+
+  zu dem Antrag der Bundesregierung
+
+  Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die
+
+  Europäische Union geführten EU NAVFOR Somalia Operation ATALANTA zur
+
+  Bekämpfung der Piraterie vor der Küste Somalias
+
+  Drs. 19/18866 und 19/19196'
+tags:
+- Todo
+title: 'Abstimmung: Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP'
+---
