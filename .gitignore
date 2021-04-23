@@ -50,3 +50,5 @@ _drafts
 
 # python compiled stuff
 *.pyc
+
+.jekyll-cache
