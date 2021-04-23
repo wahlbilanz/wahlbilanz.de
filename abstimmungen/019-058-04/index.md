@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 4
   bundestagssitzung: 58
+  datum: 18. Oktober 2018
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20181018_4_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20181018_4_xls-datacsv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 0
     gesamt: 92
     ja: 0
     nein: 80
     nichtabgegeben: 12
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 1
     nein: 64
     nichtabgegeben: 2
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 66
+    nichtabgegeben: 3
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 80
+    ja: 0
+    nein: 73
+    nichtabgegeben: 7
     ungueltig: 0
   cdu/csu:
     enthaltung: 1
@@ -33,20 +48,6 @@ ergebnis:
     ja: 231
     nein: 0
     nichtabgegeben: 14
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 0
-    nein: 66
-    nichtabgegeben: 3
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 80
-    ja: 0
-    nein: 73
-    nichtabgegeben: 7
     ungueltig: 0
   file: 20181018_4_xls-data.xls
   fraktionslos:

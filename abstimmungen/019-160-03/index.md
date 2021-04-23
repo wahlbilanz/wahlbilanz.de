@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 160
+  datum: 14. Mai 2020
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20200514_3_xls-data.csv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20200514_3_xls-data.csv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 0
     gesamt: 89
     ja: 0
     nein: 79
     nichtabgegeben: 10
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 59
     gesamt: 67
     ja: 0
     nein: 1
     nichtabgegeben: 7
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 57
+    nichtabgegeben: 12
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 80
+    ja: 0
+    nein: 75
+    nichtabgegeben: 5
     ungueltig: 0
   cdu/csu:
     enthaltung: 4
@@ -33,20 +48,6 @@ ergebnis:
     ja: 225
     nein: 0
     nichtabgegeben: 17
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 0
-    nein: 57
-    nichtabgegeben: 12
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 80
-    ja: 0
-    nein: 75
-    nichtabgegeben: 5
     ungueltig: 0
   file: 20200514_3_xls-data.xlsx
   fraktionslos:

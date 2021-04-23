@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 215
+  datum: 4. März 2021
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,18 +14,32 @@ data:
 - title: Abstimmungsergebnis 20210304_1_xls-data.csv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20210304_1_xls-data.csv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 0
     gesamt: 88
     ja: 0
     nein: 78
     nichtabgegeben: 10
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 0
     nein: 64
+    nichtabgegeben: 3
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 61
+    nichtabgegeben: 8
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 80
+    ja: 0
+    nein: 77
     nichtabgegeben: 3
     ungueltig: 0
   cdu/csu:
@@ -33,20 +48,6 @@ ergebnis:
     ja: 223
     nein: 7
     nichtabgegeben: 14
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 0
-    nein: 61
-    nichtabgegeben: 8
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 80
-    ja: 0
-    nein: 77
-    nichtabgegeben: 3
     ungueltig: 0
   file: 20210304_1_xls-data.xlsx
   fraktionslos:

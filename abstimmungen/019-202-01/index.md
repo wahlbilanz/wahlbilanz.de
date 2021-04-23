@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 202
+  datum: 17. Dezember 2020
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20201217_1_xls-data.csv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20201217_1_xls-data.csv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 0
     gesamt: 88
     ja: 0
     nein: 68
     nichtabgegeben: 20
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 0
     nein: 63
     nichtabgegeben: 4
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 49
+    nichtabgegeben: 20
+    ungueltig: 0
+  FDP:
+    enthaltung: 1
+    gesamt: 80
+    ja: 0
+    nein: 77
+    nichtabgegeben: 2
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 226
     nein: 1
     nichtabgegeben: 19
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 0
-    nein: 49
-    nichtabgegeben: 20
-    ungueltig: 0
-  fdp:
-    enthaltung: 1
-    gesamt: 80
-    ja: 0
-    nein: 77
-    nichtabgegeben: 2
     ungueltig: 0
   file: 20201217_1_xls-data.xlsx
   fraktionslos:

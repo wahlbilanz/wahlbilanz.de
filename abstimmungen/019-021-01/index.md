@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 21
+  datum: 16. März 2018
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20180316_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20180316_xls-datacsv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 0
     gesamt: 92
     ja: 0
     nein: 81
     nichtabgegeben: 11
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 62
     nein: 0
     nichtabgegeben: 5
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 52
+    nein: 0
+    nichtabgegeben: 17
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 80
+    ja: 70
+    nein: 1
+    nichtabgegeben: 9
     ungueltig: 0
   cdu/csu:
     enthaltung: 3
@@ -33,20 +48,6 @@ ergebnis:
     ja: 229
     nein: 0
     nichtabgegeben: 14
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 52
-    nein: 0
-    nichtabgegeben: 17
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 80
-    ja: 70
-    nein: 1
-    nichtabgegeben: 9
     ungueltig: 0
   file: 20180316_xls-data.xls
   fraktionslos:

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 7
   bundestagssitzung: 101
+  datum: 16. Mai 2019
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20190516_3_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20190516_3_xls-datacsv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 74
     gesamt: 91
     ja: 1
     nein: 1
     nichtabgegeben: 15
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 60
     gesamt: 67
     ja: 0
     nein: 0
     nichtabgegeben: 7
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 61
+    gesamt: 69
+    ja: 0
+    nein: 0
+    nichtabgegeben: 8
+    ungueltig: 0
+  FDP:
+    enthaltung: 62
+    gesamt: 80
+    ja: 0
+    nein: 0
+    nichtabgegeben: 18
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 217
     nein: 1
     nichtabgegeben: 28
-    ungueltig: 0
-  die linke.:
-    enthaltung: 61
-    gesamt: 69
-    ja: 0
-    nein: 0
-    nichtabgegeben: 8
-    ungueltig: 0
-  fdp:
-    enthaltung: 62
-    gesamt: 80
-    ja: 0
-    nein: 0
-    nichtabgegeben: 18
     ungueltig: 0
   file: 20190516_3_xls-data.xls
   fraktionslos:

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 45
+  datum: 4. Juli 2018
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20180704_2_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20180704_2_xls-datacsv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 82
     gesamt: 92
     ja: 1
     nein: 2
     nichtabgegeben: 7
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 0
     nein: 59
     nichtabgegeben: 8
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 60
+    nichtabgegeben: 9
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 80
+    ja: 74
+    nein: 0
+    nichtabgegeben: 6
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 0
     nein: 233
     nichtabgegeben: 13
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 0
-    nein: 60
-    nichtabgegeben: 9
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 80
-    ja: 74
-    nein: 0
-    nichtabgegeben: 6
     ungueltig: 0
   file: 20180704_2_xls-data.xls
   fraktionslos:

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 6
   bundestagssitzung: 115
+  datum: 26. September 2019
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20190926_6_xls-data.csv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20190926_6_xls-data.csv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 1
     gesamt: 91
     ja: 0
     nein: 76
     nichtabgegeben: 14
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 58
     nein: 0
     nichtabgegeben: 9
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 10
+    gesamt: 69
+    ja: 0
+    nein: 38
+    nichtabgegeben: 21
+    ungueltig: 0
+  FDP:
+    enthaltung: 3
+    gesamt: 80
+    ja: 57
+    nein: 8
+    nichtabgegeben: 12
     ungueltig: 0
   cdu/csu:
     enthaltung: 1
@@ -33,20 +48,6 @@ ergebnis:
     ja: 223
     nein: 0
     nichtabgegeben: 22
-    ungueltig: 0
-  die linke.:
-    enthaltung: 10
-    gesamt: 69
-    ja: 0
-    nein: 38
-    nichtabgegeben: 21
-    ungueltig: 0
-  fdp:
-    enthaltung: 3
-    gesamt: 80
-    ja: 57
-    nein: 8
-    nichtabgegeben: 12
     ungueltig: 0
   file: 20190926_6_xls-data.xlsx
   fraktionslos:

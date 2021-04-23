@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 184
+  datum: 9. Oktober 2020
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20201009_1_xls-data.csv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20201009_1_xls-data.csv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 0
     gesamt: 89
     ja: 0
     nein: 76
     nichtabgegeben: 13
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 0
     nein: 64
     nichtabgegeben: 3
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 52
+    nichtabgegeben: 17
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 80
+    ja: 0
+    nein: 73
+    nichtabgegeben: 7
     ungueltig: 0
   cdu/csu:
     enthaltung: 1
@@ -33,20 +48,6 @@ ergebnis:
     ja: 225
     nein: 0
     nichtabgegeben: 20
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 0
-    nein: 52
-    nichtabgegeben: 17
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 80
-    ja: 0
-    nein: 73
-    nichtabgegeben: 7
     ungueltig: 0
   file: 20201009_1_xls-data.xlsx
   fraktionslos:

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 5
   bundestagssitzung: 127
+  datum: 14. November 2019
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,39 +14,39 @@ data:
 - title: Abstimmungsergebnis 20191114_5_xls-data.csv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20191114_5_xls-data.csv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 13
     gesamt: 91
     ja: 3
     nein: 67
     nichtabgegeben: 8
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 57
     gesamt: 67
     ja: 1
     nein: 1
     nichtabgegeben: 8
     ungueltig: 0
-  cdu/csu:
-    enthaltung: 1
-    gesamt: 246
-    ja: 232
-    nein: 2
-    nichtabgegeben: 11
-    ungueltig: 0
-  die linke.:
+  Die Linke:
     enthaltung: 30
     gesamt: 69
     ja: 18
     nein: 17
     nichtabgegeben: 4
     ungueltig: 0
-  fdp:
+  FDP:
     enthaltung: 2
     gesamt: 80
     ja: 67
     nein: 0
+    nichtabgegeben: 11
+    ungueltig: 0
+  cdu/csu:
+    enthaltung: 1
+    gesamt: 246
+    ja: 232
+    nein: 2
     nichtabgegeben: 11
     ungueltig: 0
   file: 20191114_5_xls-data.xlsx

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 5
+  datum: 13. Dezember 2017
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20171213_3_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20171213_3_xls-datacsv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 1
     gesamt: 92
     ja: 0
     nein: 87
     nichtabgegeben: 4
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 65
     nein: 1
     nichtabgegeben: 1
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 2
+    gesamt: 69
+    ja: 0
+    nein: 63
+    nichtabgegeben: 4
+    ungueltig: 0
+  FDP:
+    enthaltung: 2
+    gesamt: 80
+    ja: 69
+    nein: 1
+    nichtabgegeben: 8
     ungueltig: 0
   cdu/csu:
     enthaltung: 2
@@ -33,20 +48,6 @@ ergebnis:
     ja: 230
     nein: 0
     nichtabgegeben: 14
-    ungueltig: 0
-  die linke.:
-    enthaltung: 2
-    gesamt: 69
-    ja: 0
-    nein: 63
-    nichtabgegeben: 4
-    ungueltig: 0
-  fdp:
-    enthaltung: 2
-    gesamt: 80
-    ja: 69
-    nein: 1
-    nichtabgegeben: 8
     ungueltig: 0
   file: 20171213_3_xls-data.xls
   fraktionslos:

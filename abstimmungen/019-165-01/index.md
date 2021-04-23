@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 165
+  datum: 17. Juni 2020
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20200617_1_xls-data.csv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20200617_1_xls-data.csv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 0
     gesamt: 89
     ja: 0
     nein: 83
     nichtabgegeben: 6
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 4
     gesamt: 67
     ja: 60
     nein: 2
     nichtabgegeben: 1
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 64
+    nichtabgegeben: 5
+    ungueltig: 0
+  FDP:
+    enthaltung: 1
+    gesamt: 80
+    ja: 76
+    nein: 0
+    nichtabgegeben: 3
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 234
     nein: 0
     nichtabgegeben: 12
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 0
-    nein: 64
-    nichtabgegeben: 5
-    ungueltig: 0
-  fdp:
-    enthaltung: 1
-    gesamt: 80
-    ja: 76
-    nein: 0
-    nichtabgegeben: 3
     ungueltig: 0
   file: 20200617_1_xls-data.xlsx
   fraktionslos:

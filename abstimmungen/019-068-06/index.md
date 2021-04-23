@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 6
   bundestagssitzung: 68
+  datum: 29. November 2018
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20181129_6_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20181129_6_xls-datacsv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 9
     gesamt: 92
     ja: 65
     nein: 7
     nichtabgegeben: 11
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 0
     nein: 62
     nichtabgegeben: 5
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 59
+    nichtabgegeben: 10
+    ungueltig: 0
+  FDP:
+    enthaltung: 71
+    gesamt: 80
+    ja: 1
+    nein: 2
+    nichtabgegeben: 6
     ungueltig: 0
   cdu/csu:
     enthaltung: 3
@@ -33,20 +48,6 @@ ergebnis:
     ja: 224
     nein: 2
     nichtabgegeben: 17
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 0
-    nein: 59
-    nichtabgegeben: 10
-    ungueltig: 0
-  fdp:
-    enthaltung: 71
-    gesamt: 80
-    ja: 1
-    nein: 2
-    nichtabgegeben: 6
     ungueltig: 0
   file: 20181129_6_xls-data.xls
   fraktionslos:

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 171
+  datum: 3. Juli 2020
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20200703_2_xls-data.csv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20200703_2_xls-data.csv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 0
     gesamt: 89
     ja: 76
     nein: 1
     nichtabgegeben: 12
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 64
     nein: 0
     nichtabgegeben: 3
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 7
+    gesamt: 69
+    ja: 40
+    nein: 0
+    nichtabgegeben: 22
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 80
+    ja: 78
+    nein: 0
+    nichtabgegeben: 2
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 0
     nein: 229
     nichtabgegeben: 17
-    ungueltig: 0
-  die linke.:
-    enthaltung: 7
-    gesamt: 69
-    ja: 40
-    nein: 0
-    nichtabgegeben: 22
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 80
-    ja: 78
-    nein: 0
-    nichtabgegeben: 2
     ungueltig: 0
   file: 20200703_2_xls-data.xlsx
   fraktionslos:

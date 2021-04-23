@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 154
+  datum: 25. März 2020
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20200325_1_xls-data.csv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20200325_1_xls-data.csv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 54
     gesamt: 89
     ja: 2
     nein: 3
     nichtabgegeben: 30
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 42
     nein: 0
     nichtabgegeben: 25
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 37
+    nein: 0
+    nichtabgegeben: 32
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 80
+    ja: 67
+    nein: 0
+    nichtabgegeben: 13
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 193
     nein: 0
     nichtabgegeben: 53
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 37
-    nein: 0
-    nichtabgegeben: 32
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 80
-    ja: 67
-    nein: 0
-    nichtabgegeben: 13
     ungueltig: 0
   file: 20200325_1_xls-data.xlsx
   fraktionslos:

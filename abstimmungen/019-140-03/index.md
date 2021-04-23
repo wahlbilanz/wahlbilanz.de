@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 140
+  datum: 16. Januar 2020
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20200116_3_xls-data.csv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20200116_3_xls-data.csv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 18
     gesamt: 90
     ja: 27
     nein: 42
     nichtabgegeben: 3
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 2
     gesamt: 67
     ja: 60
     nein: 3
     nichtabgegeben: 2
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 4
+    gesamt: 69
+    ja: 44
+    nein: 14
+    nichtabgegeben: 7
+    ungueltig: 0
+  FDP:
+    enthaltung: 2
+    gesamt: 80
+    ja: 70
+    nein: 3
+    nichtabgegeben: 5
     ungueltig: 0
   cdu/csu:
     enthaltung: 9
@@ -33,20 +48,6 @@ ergebnis:
     ja: 159
     nein: 67
     nichtabgegeben: 11
-    ungueltig: 0
-  die linke.:
-    enthaltung: 4
-    gesamt: 69
-    ja: 44
-    nein: 14
-    nichtabgegeben: 7
-    ungueltig: 0
-  fdp:
-    enthaltung: 2
-    gesamt: 80
-    ja: 70
-    nein: 3
-    nichtabgegeben: 5
     ungueltig: 0
   file: 20200116_3_xls-data.xlsx
   fraktionslos:

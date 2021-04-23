@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 137
+  datum: 19. Dezember 2019
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20191219_2_xls-data.csv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20191219_2_xls-data.csv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 3
     gesamt: 90
     ja: 0
     nein: 75
     nichtabgegeben: 12
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 65
     nein: 0
     nichtabgegeben: 2
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 60
+    nein: 0
+    nichtabgegeben: 9
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 80
+    ja: 73
+    nein: 0
+    nichtabgegeben: 7
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 230
     nein: 0
     nichtabgegeben: 16
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 60
-    nein: 0
-    nichtabgegeben: 9
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 80
-    ja: 73
-    nein: 0
-    nichtabgegeben: 7
     ungueltig: 0
   file: 20191219_2_xls-data.xlsx
   fraktionslos:

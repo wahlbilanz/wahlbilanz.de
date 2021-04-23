@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 105
+  datum: 7. Juni 2019
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20190607_3_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20190607_3_xls-datacsv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 0
     gesamt: 91
     ja: 0
     nein: 65
     nichtabgegeben: 26
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 0
     nein: 56
     nichtabgegeben: 11
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 51
+    nichtabgegeben: 18
+    ungueltig: 0
+  FDP:
+    enthaltung: 50
+    gesamt: 80
+    ja: 0
+    nein: 0
+    nichtabgegeben: 30
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 228
     nein: 0
     nichtabgegeben: 18
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 0
-    nein: 51
-    nichtabgegeben: 18
-    ungueltig: 0
-  fdp:
-    enthaltung: 50
-    gesamt: 80
-    ja: 0
-    nein: 0
-    nichtabgegeben: 30
     ungueltig: 0
   file: 20190607_3_xls-data.xls
   fraktionslos:

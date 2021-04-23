@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 191
+  datum: 18. November 2020
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,17 +14,31 @@ data:
 - title: Abstimmungsergebnis 20201118_1_xls-data.csv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20201118_1_xls-data.csv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 0
     gesamt: 89
     ja: 0
     nein: 84
     nichtabgegeben: 5
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 66
     gesamt: 67
     ja: 1
+    nein: 0
+    nichtabgegeben: 0
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 57
+    nein: 0
+    nichtabgegeben: 12
+    ungueltig: 0
+  FDP:
+    enthaltung: 1
+    gesamt: 80
+    ja: 79
     nein: 0
     nichtabgegeben: 0
     ungueltig: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 0
     nein: 229
     nichtabgegeben: 16
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 57
-    nein: 0
-    nichtabgegeben: 12
-    ungueltig: 0
-  fdp:
-    enthaltung: 1
-    gesamt: 80
-    ja: 79
-    nein: 0
-    nichtabgegeben: 0
     ungueltig: 0
   file: 20201118_1_xls-data.xlsx
   fraktionslos:

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 1
   bundestagssitzung: 39
+  datum: 14. Juni 2018
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20180614_1_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20180614_1_xls-datacsv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 0
     gesamt: 92
     ja: 0
     nein: 83
     nichtabgegeben: 9
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 0
     nein: 63
     nichtabgegeben: 4
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 66
+    nichtabgegeben: 3
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 80
+    ja: 77
+    nein: 0
+    nichtabgegeben: 3
     ungueltig: 0
   cdu/csu:
     enthaltung: 1
@@ -33,20 +48,6 @@ ergebnis:
     ja: 1
     nein: 227
     nichtabgegeben: 17
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 0
-    nein: 66
-    nichtabgegeben: 3
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 80
-    ja: 77
-    nein: 0
-    nichtabgegeben: 3
     ungueltig: 0
   file: 20180614_1_xls-data.xls
   fraktionslos:

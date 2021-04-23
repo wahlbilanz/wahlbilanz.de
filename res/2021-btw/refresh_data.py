@@ -149,27 +149,6 @@ def excel2csv (xls_file, csv_file):
     if c in data.columns:
       data = data.dropna(subset=[c])
       data[c] = data[c].astype(int)
-  
-  # pandas_make_int(data, "Wahlperiode")
-  # pandas_make_int(data, "Sitzungnr")
-  # pandas_make_int(data, "Abstimmnr")
-  # pandas_make_int(data, "ja")
-  # pandas_make_int(data, "nein")
-  # pandas_make_int(data, "Enthaltung")
-  # pandas_make_int(data, "ungültig")
-  # pandas_make_int(data, "nichtabgegeben")
-  # if "Wahlperiode" in data.columns:
-    # data = data.dropna(subset=["Wahlperiode"])
-    # data["Wahlperiode"] = data["Wahlperiode"].astype(int)
-  # if "Sitzungnr" in data.columns:
-    # data = data.dropna(subset=["Sitzungnr"])
-    # data["Sitzungnr"] = data["Sitzungnr"].astype(int)
-  # if "Abstimmnr" in data.columns:
-    # data = data.dropna(subset=["Abstimmnr"])
-    # data["Abstimmnr"] = data["Abstimmnr"].astype(int)
-  # if "" in data.columns:
-    # data = data.dropna(subset=[""])
-    # data[""] = data[""].astype(int)
 
   data.to_csv (csv_file, encoding='utf-8', index=False)
   return csv_file
@@ -234,20 +213,6 @@ def get_pdf_preview (f):
     t = t[:i]
   return t.strip()
 
-# find the link id of an abstimmung given a drucksache... m(
-# def find_bundestags_ids (drucksache):
-  # print ('searching for ' + drucksache)
-  # ids = []
-  # for f in listdir (bundestagslinks):
-    # with open (os.path.join (bundestagslinks, f)) as l:
-      # # soup = BeautifulSoup(l, 'html.parser')
-      # # for i in soup.select("article.bt-artikel > p"):
-        # # print (''.join(i.findAll(text=True, recursive=False)))
-      # if drucksache in l.read ():
-        # # print(bundestagspages[f]['text'])
-        # # print ('found ' + f)
-        # ids.append (f)
-  # return ids
 
 def nDrucksachen (s):
   # print (s)
@@ -284,8 +249,12 @@ def find_bundestags_id (drucksachen, abst_key):
     i = btid
   return i
 
+def get_date_of_abstimmung(id_on_bundestag):
+  # print (id_on_bundestag)
+  return bundestagspages[id_on_bundestag]['date']
+
 def get_title_of_abstimmung(id_on_bundestag):
-  print (id_on_bundestag)
+  # print (id_on_bundestag)
   return bundestagspages[id_on_bundestag]['title']
   # with open (os.path.join (bundestagslinks, id_on_bundestag)) as f:
     # soup = BeautifulSoup(f, 'html.parser')
@@ -303,14 +272,23 @@ def most_frequent(l):
             num = i
     return num
 
-# were there results before?
-# if os.path.isfile (summary_json):
-  # with open (summary_json) as data:
-    # abst_dict = json.load(data)
-    # for abst in abst_dict:
-      # for fraktion in abst_dict[abst]:
-        # if fraktion not in fraktionen and fraktion != "file":
-          # fraktionen.append (fraktion)
+def fraktionsmapper(s):
+  if "afd" in s:
+    return "AfD"
+  if "bü90/gr" in s:
+    return "Bündnis 90/Die Grünen"
+  if "CDU/CSU" in s:
+    return "CDU/CSU"
+  if "die linke." in s:
+    return "Die Linke"
+  if "fdp" in s:
+    return "FDP"
+  if "Fraktionslos" in s:
+    return "Fraktionslos"
+  if "SPD" in s:
+    return "SPD"
+  return s
+  
 
 
 print ('start')
@@ -361,17 +339,7 @@ for f in listdir (xls_path):
           print (abst_key)
           print ("%03d-%03d-%02d" % (int (row[rowids["periode"]]), int (row[rowids["siztung"]]), int (row[rowids["abstimmung"]])))
           sys.exit(1)
-        fraktion = row[rowids["fraktion"]]
-        
-        # print ("  > " + abst_key)
-
-        #if 'B' in fraktion and 'gr' in fraktion.lower ():
-          #fraktion = 'Gruenen'
-
-        #if 'linke' in fraktion.lower ():
-          #fraktion = 'die.linke'
-
-        fraktion = fraktion.lower ()
+        fraktion = fraktionsmapper(row[rowids["fraktion"]].lower ())
 
         if fraktion not in fraktionen:
           fraktionen.append (fraktion)
@@ -465,7 +433,8 @@ for f in listdir (xls_path):
       
 
       abstimmungstitle = get_title_of_abstimmung(potential_bundestagsid)
-      print (str(potential_bundestagsid) + " -> " + abstimmungstitle)
+      abstimmungsdate = get_date_of_abstimmung(potential_bundestagsid)
+      print (str(potential_bundestagsid) + " -> " + abstimmungstitle + ' -> ' + abstimmungsdate)
 
 
       # print (abst_dict)
@@ -489,6 +458,7 @@ for f in listdir (xls_path):
       abstimmung.set_abstimmungs_ergebnisse (abst_dict[abst_key])
       abstimmung.set_title ("Abstimmung: " + abstimmungstitle)
       abstimmung.add_link ({"title": "Link zu bundestag.de", "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=" + potential_bundestagsid})
+      abstimmung.set_datum(abstimmungsdate)
 
       datafiles = abstimmung.get_data_files()
       # TODO: check if the files are not there yet!

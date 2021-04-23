@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 2
   bundestagssitzung: 29
+  datum: 26. April 2018
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20180426_2_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20180426_2_xls-datacsv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 0
     gesamt: 92
     ja: 76
     nein: 5
     nichtabgegeben: 11
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 35
     gesamt: 67
     ja: 21
     nein: 9
     nichtabgegeben: 2
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 60
+    nichtabgegeben: 9
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 80
+    ja: 75
+    nein: 0
+    nichtabgegeben: 5
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 225
     nein: 0
     nichtabgegeben: 21
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 0
-    nein: 60
-    nichtabgegeben: 9
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 80
-    ja: 75
-    nein: 0
-    nichtabgegeben: 5
     ungueltig: 0
   file: 20180426_2_xls-data.xls
   fraktionslos:

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 87
+  datum: 15. März 2019
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20190315_3_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20190315_3_xls-datacsv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 67
     gesamt: 91
     ja: 0
     nein: 0
     nichtabgegeben: 24
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 61
     gesamt: 67
     ja: 0
     nein: 0
     nichtabgegeben: 6
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 49
+    gesamt: 69
+    ja: 0
+    nein: 0
+    nichtabgegeben: 20
+    ungueltig: 0
+  FDP:
+    enthaltung: 61
+    gesamt: 80
+    ja: 0
+    nein: 0
+    nichtabgegeben: 19
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 218
     nein: 0
     nichtabgegeben: 28
-    ungueltig: 0
-  die linke.:
-    enthaltung: 49
-    gesamt: 69
-    ja: 0
-    nein: 0
-    nichtabgegeben: 20
-    ungueltig: 0
-  fdp:
-    enthaltung: 61
-    gesamt: 80
-    ja: 0
-    nein: 0
-    nichtabgegeben: 19
     ungueltig: 0
   file: 20190315_3_xls-data.xls
   fraktionslos:

@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 9
   bundestagssitzung: 89
+  datum: 21. März 2019
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20190321_6_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20190321_6_xls-datacsv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 2
     gesamt: 91
     ja: 80
     nein: 0
     nichtabgegeben: 9
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 57
     nein: 0
     nichtabgegeben: 10
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 60
+    nein: 0
+    nichtabgegeben: 9
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 80
+    ja: 71
+    nein: 0
+    nichtabgegeben: 9
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 230
     nein: 0
     nichtabgegeben: 16
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 60
-    nein: 0
-    nichtabgegeben: 9
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 80
-    ja: 71
-    nein: 0
-    nichtabgegeben: 9
     ungueltig: 0
   file: 20190321_6_xls-data.xls
   fraktionslos:

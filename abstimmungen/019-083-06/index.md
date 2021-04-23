@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 6
   bundestagssitzung: 83
+  datum: 21. Februar 2019
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20190221_6_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20190221_6_xls-datacsv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 0
     gesamt: 91
     ja: 76
     nein: 0
     nichtabgegeben: 15
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 0
     nein: 65
     nichtabgegeben: 2
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 62
+    gesamt: 69
+    ja: 0
+    nein: 0
+    nichtabgegeben: 7
+    ungueltig: 0
+  FDP:
+    enthaltung: 1
+    gesamt: 80
+    ja: 72
+    nein: 0
+    nichtabgegeben: 7
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 232
     nein: 0
     nichtabgegeben: 14
-    ungueltig: 0
-  die linke.:
-    enthaltung: 62
-    gesamt: 69
-    ja: 0
-    nein: 0
-    nichtabgegeben: 7
-    ungueltig: 0
-  fdp:
-    enthaltung: 1
-    gesamt: 80
-    ja: 72
-    nein: 0
-    nichtabgegeben: 7
     ungueltig: 0
   file: 20190221_6_xls-data.xls
   fraktionslos:

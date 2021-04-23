@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 4
   bundestagssitzung: 61
+  datum: 8. November 2018
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20181108_4_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20181108_4_xls-datacsv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 1
     gesamt: 92
     ja: 83
     nein: 0
     nichtabgegeben: 8
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 0
     nein: 59
     nichtabgegeben: 8
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 63
+    nichtabgegeben: 6
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 80
+    ja: 67
+    nein: 0
+    nichtabgegeben: 13
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 0
     nein: 224
     nichtabgegeben: 22
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 0
-    nein: 63
-    nichtabgegeben: 6
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 80
-    ja: 67
-    nein: 0
-    nichtabgegeben: 13
     ungueltig: 0
   file: 20181108_4_xls-data.xls
   fraktionslos:

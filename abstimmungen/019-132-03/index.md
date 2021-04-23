@@ -2,6 +2,7 @@
 abstimmung:
   abstimmung: 3
   bundestagssitzung: 132
+  datum: 29. November 2019
   legislaturperiode: 19
 categories:
 - Todo
@@ -13,19 +14,33 @@ data:
 - title: Abstimmungsergebnis 20191129_3_xls-data.csv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20191129_3_xls-data.csv
 ergebnis:
-  afd:
+  AfD:
     enthaltung: 1
     gesamt: 91
     ja: 83
     nein: 0
     nichtabgegeben: 7
     ungueltig: 0
-  bü90/gr:
+  Bündnis 90/Die Grünen:
     enthaltung: 0
     gesamt: 67
     ja: 0
     nein: 60
     nichtabgegeben: 7
+    ungueltig: 0
+  Die Linke:
+    enthaltung: 0
+    gesamt: 69
+    ja: 0
+    nein: 58
+    nichtabgegeben: 11
+    ungueltig: 0
+  FDP:
+    enthaltung: 0
+    gesamt: 79
+    ja: 0
+    nein: 69
+    nichtabgegeben: 10
     ungueltig: 0
   cdu/csu:
     enthaltung: 0
@@ -33,20 +48,6 @@ ergebnis:
     ja: 0
     nein: 235
     nichtabgegeben: 11
-    ungueltig: 0
-  die linke.:
-    enthaltung: 0
-    gesamt: 69
-    ja: 0
-    nein: 58
-    nichtabgegeben: 11
-    ungueltig: 0
-  fdp:
-    enthaltung: 0
-    gesamt: 79
-    ja: 0
-    nein: 69
-    nichtabgegeben: 10
     ungueltig: 0
   file: 20191129_3_xls-data.xlsx
   fraktionslos:
