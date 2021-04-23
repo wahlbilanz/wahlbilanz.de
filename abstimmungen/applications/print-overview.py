@@ -20,7 +20,7 @@ for f in listdir (abstimmungs_dir):
       # abstimmung parsen und den titel ausgeben
       abstimmung = Abstimmung ()
       abstimmung.parse_abstimmung (abstimmungs_file)
-      pages[f] =  ('* [' + abstimmung.get_title().replace ("Abstimmung: ", "") + ']('+f+'/) ('+str(abstimmung.get_bundestagssitzung())+'. Sitzung des '+str(abstimmung.get_legislaturperiode())+'. Deutschen Bundestages '+abstimmung.get_datum()+')')
+      pages[f] =  ('* [' + abstimmung.get_title().replace ("Abstimmung: ", "") + ']('+f+'/) ('+str(abstimmung.get_bundestagssitzung())+'. Sitzung des '+str(abstimmung.get_legislaturperiode())+'. Deutschen Bundestages, '+abstimmung.get_datum()+')')
 
 
 for key, value in sorted(pages.items(), key=lambda x: x[0], reverse=True):
