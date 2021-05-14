@@ -35,10 +35,12 @@ blockquote {
 a {
    text-decoration: none;
    color: $primary;
+   font-weight: bold;
    &:hover,
    &:focus {
      color: lighten($primary, 14%);
      text-decoration: none;
+     font-weight: bolder;
    }
 }
 

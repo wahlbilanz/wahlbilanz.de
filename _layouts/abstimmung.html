@@ -15,10 +15,10 @@ layout: default
 			
 			<div class="abstimmungs-id">
 				<ul>
-					<li>Legislaturperiode: {{ page.abstimmung.legislaturperiode }}</li>
-					<li>Bundestagssitzung: {{ page.abstimmung.bundestagssitzung }}</li>
-					<li>Abstimmung: {{ page.abstimmung.abstimmung }}</li>
-					<li>Datum: {{ page.abstimmung.datum }}</li>
+					<li>Legislaturperiode: <strong>{{ page.abstimmung.legislaturperiode }}</strong></li>
+					<li>Bundestagssitzung: <strong>{{ page.abstimmung.bundestagssitzung }}</strong></li>
+					<li>Abstimmung: <strong>{{ page.abstimmung.abstimmung }}</strong></li>
+					<li>Datum: <strong>{{ page.abstimmung.datum }}</strong></li>
 				</ul>
 			</div>
 			
@@ -42,10 +42,10 @@ layout: default
 					<tbody>
 					{% for party in page.ergebnis %}
 						{% unless party[0] == "file" %}
-						<tr class="party-ergebnis party-{{party[0] | slugify }}">
-							<td><span class="party-name">{{party[0] | party_name}}</span></td>
-							<td><span class="party-ja">{{party[1].ja}}</span>
-							<td><span class="party-nein">{{party[1].nein}}</span>
+						<tr class="party-ergebnis party-{{party[0] | slugify }} party-ergebnis-{% if party[1].ja > party[1].nein %}ja{% else %}nein{% endif %}">
+							<td class="partyname"><span class="party-name">{{party[0] | party_name}}</span></td>
+							<td {% if party[1].ja > party[1].nein %}class="party-ergebnis-decision"{% endif %}><span class="party-ja">{{party[1].ja}}</span>
+							<td {% if party[1].ja < party[1].nein %}class="party-ergebnis-decision"{% endif %}><span class="party-nein">{{party[1].nein}}</span>
 							<td><span class="party-enthaltung">{{party[1].enthaltung}}</span>
 							<td><span class="party-ungueltig">{{party[1].ungueltig}}</span>
 							<td><span class="party-nichtabgegeben">{{party[1].nichtabgegeben}}</span>
@@ -57,7 +57,7 @@ layout: default
 				
 				{% if page.data %}
 				<div class="ergebnis-docs">
-					<h4>Dokumente</h4>
+					<h4>Offizielle Dokumente zur Abstimmung</h4>
 					<ul>
 					{% for d in page.data %}
 						<li>
@@ -113,7 +113,7 @@ layout: default
 			
 			{% if page.preview %}
 			<div class="preview">
-				<h3>Kurzübersicht</h3>
+				<h3>Vorschau</h3>
 				<blockquote>
 				{{ page.preview | markdownify }}
 				</blockquote>
