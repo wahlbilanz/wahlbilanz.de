@@ -13,6 +13,10 @@ data:
   url: /res/2021-btw/abstimmungsergebnisse/20190314_3_xls-data.xls
 - title: Abstimmungsergebnis 20190314_3_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20190314_3_xls-datacsv
+documents:
+- local: /res/2021-btw/drucksachen/07560.pdf
+  title: Drucksache 19/07560
+  url: https://dip21.bundestag.de/dip21/btd/19/075/1907560.pdf
 ergebnis:
   AfD:
     enthaltung: 3

@@ -13,6 +13,37 @@ data:
   url: /res/2021-btw/abstimmungsergebnisse/20181123_2_xls-data.xls
 - title: Abstimmungsergebnis 20181123_2_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20181123_2_xls-datacsv
+documents:
+- local: /res/2021-btw/drucksachen/03400.pdf
+  title: Drucksache 19/03400
+  url: https://dip21.bundestag.de/dip21/btd/19/034/1903400.pdf
+- local: /res/2021-btw/drucksachen/03402.pdf
+  title: Drucksache 19/03402
+  url: https://dip21.bundestag.de/dip21/btd/19/034/1903402.pdf
+- local: /res/2021-btw/drucksachen/04601.pdf
+  title: Drucksache 19/04601
+  url: https://dip21.bundestag.de/dip21/btd/19/046/1904601.pdf
+- local: /res/2021-btw/drucksachen/04605.pdf
+  title: Drucksache 19/04605
+  url: https://dip21.bundestag.de/dip21/btd/19/046/1904605.pdf
+- local: /res/2021-btw/drucksachen/04609.pdf
+  title: Drucksache 19/04609
+  url: https://dip21.bundestag.de/dip21/btd/19/046/1904609.pdf
+- local: /res/2021-btw/drucksachen/04611.pdf
+  title: Drucksache 19/04611
+  url: https://dip21.bundestag.de/dip21/btd/19/046/1904611.pdf
+- local: /res/2021-btw/drucksachen/04613.pdf
+  title: Drucksache 19/04613
+  url: https://dip21.bundestag.de/dip21/btd/19/046/1904613.pdf
+- local: /res/2021-btw/drucksachen/04617.pdf
+  title: Drucksache 19/04617
+  url: https://dip21.bundestag.de/dip21/btd/19/046/1904617.pdf
+- local: /res/2021-btw/drucksachen/04620.pdf
+  title: Drucksache 19/04620
+  url: https://dip21.bundestag.de/dip21/btd/19/046/1904620.pdf
+- local: /res/2021-btw/drucksachen/04626.pdf
+  title: Drucksache 19/04626
+  url: https://dip21.bundestag.de/dip21/btd/19/046/1904626.pdf
 ergebnis:
   AfD:
     enthaltung: 0

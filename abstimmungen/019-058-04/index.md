@@ -13,6 +13,13 @@ data:
   url: /res/2021-btw/abstimmungsergebnisse/20181018_4_xls-data.xls
 - title: Abstimmungsergebnis 20181018_4_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20181018_4_xls-datacsv
+documents:
+- local: /res/2021-btw/drucksachen/04719.pdf
+  title: Drucksache 19/04719
+  url: https://dip21.bundestag.de/dip21/btd/19/047/1904719.pdf
+- local: /res/2021-btw/drucksachen/05051.pdf
+  title: Drucksache 19/05051
+  url: https://dip21.bundestag.de/dip21/btd/19/050/1905051.pdf
 ergebnis:
   AfD:
     enthaltung: 0

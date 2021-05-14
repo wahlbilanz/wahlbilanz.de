@@ -90,7 +90,8 @@ class Abstimmung:
 	def add_category (self, category):
 		if not "categories" in self.data:
 			self.data["categories"] = []
-		self.data["categories"].append (category)
+		if category not in self.data["categories"]:
+			self.data["categories"].append (category)
 
 
 
@@ -103,7 +104,8 @@ class Abstimmung:
 	def add_tag (self, tag):
 		if not "tags" in self.data:
 			self.data["tags"] = []
-		self.data["tags"].append (tag)
+		if tag not in self.data["tags"]:
+			self.data["tags"].append (tag)
 
 
 
@@ -139,7 +141,8 @@ class Abstimmung:
 	def add_data_file (self, data_file):
 		if not "data" in self.data:
 			self.data["data"] = []
-		self.data["data"].append (data_file)
+		if data_file not in self.data["data"]:
+			self.data["data"].append (data_file)
 	#
 	#######################################################################
 
@@ -155,7 +158,8 @@ class Abstimmung:
 	def add_document (self, document):
 		if not "documents" in self.data:
 			self.data["documents"] = []
-		self.data["documents"].append (document)
+		if document not in self.data["documents"]:
+			self.data["documents"].append (document)
 
 
 
@@ -169,7 +173,8 @@ class Abstimmung:
 	def add_link (self, links):
 		if not "links" in self.data:
 			self.data["links"] = []
-		self.data["links"].append (links)
+		if links not in self.data["links"]:
+			self.data["links"].append (links)
 
 
 

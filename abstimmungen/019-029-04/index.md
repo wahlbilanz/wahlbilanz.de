@@ -13,6 +13,10 @@ data:
   url: /res/2021-btw/abstimmungsergebnisse/20180426_4_xls-data.xls
 - title: Abstimmungsergebnis 20180426_4_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20180426_4_xls-datacsv
+documents:
+- local: /res/2021-btw/drucksachen/01824.pdf
+  title: Drucksache 19/01824
+  url: https://dip21.bundestag.de/dip21/btd/19/018/1901824.pdf
 ergebnis:
   AfD:
     enthaltung: 78

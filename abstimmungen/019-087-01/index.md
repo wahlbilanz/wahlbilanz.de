@@ -13,6 +13,13 @@ data:
   url: /res/2021-btw/abstimmungsergebnisse/20190315_1_xls-data.xls
 - title: Abstimmungsergebnis 20190315_1_xls-datacsv
   url: /res/2021-btw/abstimmungsergebnisse/csv/20190315_1_xls-datacsv
+documents:
+- local: /res/2021-btw/drucksachen/03171.pdf
+  title: Drucksache 19/03171
+  url: https://dip21.bundestag.de/dip21/btd/19/031/1903171.pdf
+- local: /res/2021-btw/drucksachen/08177.pdf
+  title: Drucksache 19/08177
+  url: https://dip21.bundestag.de/dip21/btd/19/081/1908177.pdf
 ergebnis:
   AfD:
     enthaltung: 65

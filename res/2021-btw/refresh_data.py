@@ -400,6 +400,7 @@ for f in listdir (xls_path):
           d = "0" + d
         drs_url = DRUCKSACHEN + d[:3] + "/19" + d + ".pdf"
         drs_path = os.path.join (drucksachen_path, d + ".pdf")
+        drucksachen.append({"id": d, "url": drs_url})
         
         # potential_bundestagsids += find_bundestags_ids (drs_url)
         # print (potential_bundestagsids)
@@ -413,7 +414,6 @@ for f in listdir (xls_path):
         r = requests.get(drs_url)
         with open(drs_path,'wb') as output_file:
           output_file.write(r.content)
-        drucksachen.append({"id": d, "url": drs_url})
       
       
       potential_bundestagsid = find_bundestags_id(drs, abst_key)
