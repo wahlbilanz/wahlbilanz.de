@@ -79,10 +79,10 @@ owner:
 authors:
     binfalse:
         display_name: Martin Scharm
-        link: https://binfalse.de
-        about: Bioinformatiker und System Administrator an der Uni Rostock.
+        link: https://codahoi.de
+        about: Freiberuflicher IT-Ingenieur.
         twitter: binfalse
-        mastodon: https://mstdn.binfalse.de/@martin
+        mastodon: https://fosstodon.org/@mascha
         github: binfalse
         bitbucket: binfalse
         facebook:
