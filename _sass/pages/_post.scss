@@ -35,6 +35,11 @@
 // Post Section
 section.post {
 	margin-bottom: 80px;
+    &:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
 }
 
 // Back home button

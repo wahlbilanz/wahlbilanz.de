@@ -225,3 +225,20 @@ figcaption
 	}
 }
 
+.authorlistcard {
+	border: 1px solid #666;
+	padding: 5px;
+	background-color: #fafafa;
+	font-size: 90%;
+	margin: 15px 0;
+  display:block;
+	& .authorabout {
+		font-size: 90%;
+		margin: 0;
+	}
+	& .authorpic {
+		float: left;
+		max-width: 100px;
+		margin-right: 20px;
+	}
+}

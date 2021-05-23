@@ -7,7 +7,7 @@
     </div>
     {% endif %}
     <div class="authorprops">
-        <h4>{{ author.display_name }}</h4>
+        <h4><a href="/authors/#{{ author.display_name | slugify }}">{{ author.display_name }}</h4>
         <div id="social-author">
             {% if author.link %}
                 <a href="{{ author.link }}" ><i class="fa fa-external-link-square-alt"></i></a>

@@ -1,0 +1,60 @@
+---
+layout: page
+title:  Autoren
+permalink: /authors/
+sidebar: true
+---
+
+
+
+{% for author in site.authors %}
+  
+  <div class="authorlistcard" id="{{author[1].display_name | slugify}}">
+    {% if author[1].image %}
+    <div class="authorpic">
+        <img src="{{ author[1].image }}" alt="Bild von {{ author[1].display_name }}">
+    </div>
+    {% endif %}
+    <h2>{{author[1].display_name}}</h2>
+    <div class="authorprops">
+        <div id="social-author">
+            {% if author[1].link %}
+                <a href="{{ author[1].link }}" ><i class="fa fa-external-link-square-alt"></i></a>
+            {% endif %}
+            {% if author[1].mastodon %}
+                <a href="{{ author[1].mastodon }}" ><i class="fab fa-mastodon"></i></a>
+            {% endif %}
+            {% if author[1].twitter %}
+                <a href="https://twitter.com/{{ author[1].twitter }}" ><i class="fab fa-twitter-square"></i></a>
+            {% endif %}
+            {% if author[1].facebook %}
+                <a href="https://www.facebook.com/public/{{ author[1].facebook }}" ><i class="fab fa-facebook-square"></i></a>
+            {% endif %}
+            {% if author[1].github %}
+                <a href="https://github.com/{{ author[1].github }}" ><i class="fab fa-github-square"></i></a>
+            {% endif %}
+            {% if author[1].bitbucket %}
+                <a href="https://bitbucket.org/{{ author[1].bitbucket }}" ><i class="fab fa-bitbucket"></i></a>
+            {% endif %}
+          </div>
+        {% if author[1].about %}
+        <p class="authorabout">{{ author[1].about }}</p>
+        {% endif %}
+    </div>
+  </div>
+  <p>
+  Artikel von {{author[1].display_name}}:
+  </p>
+  <ul>
+    {% for post in site.posts %}
+    {% if post.authors contains author[0] %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a> <small>({{ post.date | date_to_string }})</small>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+    
+{% endfor %}
+
+

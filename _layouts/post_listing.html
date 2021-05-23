@@ -22,19 +22,19 @@ layout: default
       •
       {% for a in post.authors %}
         {% assign author = site.authors[a] %}
-        <span class="post-author">{{ author.display_name }}</span>
+        <span class="post-author"><a href="/authors/#{{ author.display_name | slugify }}">{{ author.display_name }}</span>
         {% unless forloop.last %}
         <span>/</span>
         {% endunless %}
       {% endfor %}
       {% endif %}
     </p>
-    <h4>
+    <h1>
       <a href="{{ post.url }}" class="post-title" title="{{ post.title }}">{{ post.title }}</a>
       {% if post.link %}
       <a class="post-title-link" href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-external-link"></i></a>
       {% endif %}
-    </h4>
+    </h1>
 
     {% if post.author %}
       {% assign author = site.data.authors[post.author] %}

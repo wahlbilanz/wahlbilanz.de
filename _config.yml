@@ -87,12 +87,12 @@ authors:
         bitbucket: binfalse
         facebook:
         image: /img/profiles/binfalse.jpg
-    tomthe:
-        display_name: Tom Theile
-        link:
-        about:
-        twitter:
-        github: tomthe
-        bitbucket: tomthe
-        facebook:
-        image:
+    #tomthe:
+        #display_name: Tom Theile
+        #link:
+        #about:
+        #twitter:
+        #github: tomthe
+        #bitbucket: tomthe
+        #facebook:
+        #image:
