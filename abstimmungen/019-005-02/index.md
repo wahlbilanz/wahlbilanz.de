@@ -5,7 +5,8 @@ abstimmung:
   datum: 13. Dezember 2017
   legislaturperiode: 19
 categories:
-- Todo
+- Bundeswehr
+- Ausland
 data:
 - title: Abstimmungsergebnis 20171213_2-data.pdf
   url: /res/2021-btw/abstimmungsergebnisse/20171213_2-data.pdf
@@ -98,6 +99,9 @@ preview: 'Deutscher Bundestag
 
   Drs. 19/20 und 19/175'
 tags:
-- Todo
+- UN
+- Südsudan
+- Bundeswehr
+- UNMISS
 title: 'Abstimmung: Bundeswehreinsatz in Südsudan (UNMISS)'
 ---

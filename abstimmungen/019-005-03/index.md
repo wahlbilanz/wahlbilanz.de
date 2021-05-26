@@ -5,7 +5,8 @@ abstimmung:
   datum: 13. Dezember 2017
   legislaturperiode: 19
 categories:
-- Todo
+- Bundestag
+- Recht
 data:
 - title: Abstimmungsergebnis 20171213_3-data.pdf
   url: /res/2021-btw/abstimmungsergebnisse/20171213_3-data.pdf
@@ -89,6 +90,7 @@ preview: 'Deutscher Bundestag
 
   Drs. 19/236'
 tags:
-- Todo
+- Bundestag
+- Gesetz
 title: 'Abstimmung: Anpassungsverfahren § 11 des Abgeordnetengesetzes'
 ---

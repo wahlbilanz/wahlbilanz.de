@@ -5,7 +5,8 @@ abstimmung:
   datum: 13. Dezember 2017
   legislaturperiode: 19
 categories:
-- Todo
+- Bundeswehr
+- Ausland
 data:
 - title: Abstimmungsergebnis 20171213_1-data.pdf
   url: /res/2021-btw/abstimmungsergebnisse/20171213_1-data.pdf
@@ -97,6 +98,9 @@ preview: 'Deutscher Bundestag
 
   - Drucksachen 19/19 und 19/174 -'
 tags:
-- Todo
+- Bundeswehr
+- Dafur
+- UNAMID
+- UN
 title: 'Abstimmung: Bundeswehreinsatz in Darfur (UNAMID)'
 ---

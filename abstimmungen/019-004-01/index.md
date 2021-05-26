@@ -5,7 +5,8 @@ abstimmung:
   datum: 12. Dezember 2017
   legislaturperiode: 19
 categories:
-- Todo
+- Bundeswehr
+- Ausland
 data:
 - title: Abstimmungsergebnis 20171212_1-data.pdf
   url: /res/2021-btw/abstimmungsergebnisse/20171212_1-data.pdf
@@ -94,6 +95,10 @@ preview: 'Deutscher Bundestag
 
   Drs. 19/22 und 19/176'
 tags:
-- Todo
+- Bundeswehr
+- Mittelmeer
+- SEAGUARDIAN
+- NATO
+- OAE
 title: 'Abstimmung: Bundeswehreinsatz im Mittelmeer (SEA GUARDIAN)'
 ---

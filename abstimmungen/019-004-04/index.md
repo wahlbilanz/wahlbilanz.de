@@ -5,7 +5,8 @@ abstimmung:
   datum: 12. Dezember 2017
   legislaturperiode: 19
 categories:
-- Todo
+- Bundeswehr
+- Ausland
 data:
 - title: Abstimmungsergebnis 20171212_4-data.pdf
   url: /res/2021-btw/abstimmungsergebnisse/20171212_4-data.pdf
@@ -100,6 +101,8 @@ preview: 'Deutscher Bundestag
 
   Drs. 19/21, 19/193 und 19/206'
 tags:
-- Todo
+- Bundeswehr
+- Afghanistan
+- NATO
 title: 'Abstimmung: Bundeswehreinsatz in Afghanistan (Resolute Support)'
 ---

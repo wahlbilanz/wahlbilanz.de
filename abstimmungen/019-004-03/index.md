@@ -5,7 +5,8 @@ abstimmung:
   datum: 12. Dezember 2017
   legislaturperiode: 19
 categories:
-- Todo
+- Bundeswehr
+- Ausland
 data:
 - title: Abstimmungsergebnis 20171212_3-data.pdf
   url: /res/2021-btw/abstimmungsergebnisse/20171212_3-data.pdf
@@ -96,6 +97,9 @@ preview: 'Deutscher Bundestag
 
   Drs. 19/25 und 19/178'
 tags:
-- Todo
+- Bundeswehr
+- Kurdistan
+- Irak
+- Ausbildung
 title: 'Abstimmung: Bundeswehreinsatz im Irak'
 ---

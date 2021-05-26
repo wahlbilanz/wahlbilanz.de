@@ -5,7 +5,8 @@ abstimmung:
   datum: 12. Dezember 2017
   legislaturperiode: 19
 categories:
-- Todo
+- Bundeswehr
+- Ausland
 data:
 - title: Abstimmungsergebnis 20171212_2-data.pdf
   url: /res/2021-btw/abstimmungsergebnisse/20171212_2-data.pdf
@@ -108,6 +109,10 @@ preview: 'Deutscher Bundestag
 
   - Drucksachen 19/23, 19/192 und 19/205 -'
 tags:
-- Todo
+- Bundeswehr
+- IS
+- UN
+- Syrien
+- NATO
 title: 'Abstimmung: Bundeswehreinsatz gegen die Terrororganisation IS'
 ---
