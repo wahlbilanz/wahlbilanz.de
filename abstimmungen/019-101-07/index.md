@@ -5,7 +5,9 @@ abstimmung:
   datum: 16. Mai 2019
   legislaturperiode: 19
 categories:
-- Todo
+- Ausbildung
+- Bildung
+- Finanzen
 data:
 - title: Abstimmungsergebnis 20190516_3-data.pdf
   url: /res/2021-btw/abstimmungsergebnisse/20190516_3-data.pdf
@@ -94,7 +96,10 @@ preview: 'Deutscher Bundestag
 
   Drs. 19/8749 und 19/10249'
 tags:
-- Todo
+- Ausbildung
+- BAföG
+- Forschung
+- Hochschulen
 title: 'Abstimmung: Änderung des Bundesausbildungsförderungsgesetzes (26. BAFöGÄndG)
   (Gesetzentwurf der Bundesregierung)'
 ---
