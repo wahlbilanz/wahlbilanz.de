@@ -75,6 +75,8 @@ layout: abstimmung
 links:
 - title: Link zu bundestag.de
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=656
+- title: abgeordnetenwatch.de
+  url: https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/organspenden-reform-zustimmungsloesung
 preview: 'Deutscher Bundestag
 
 
