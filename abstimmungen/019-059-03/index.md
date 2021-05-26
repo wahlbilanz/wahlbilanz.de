@@ -5,7 +5,7 @@ abstimmung:
   datum: 19. Oktober 2018
   legislaturperiode: 19
 categories:
-- Todo
+- Recht
 data:
 - title: Abstimmungsergebnis 20181019_3-data.pdf
   url: /res/2021-btw/abstimmungsergebnisse/20181019_3-data.pdf
@@ -75,6 +75,8 @@ layout: abstimmung
 links:
 - title: Link zu bundestag.de
   url: https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=546
+- title: abgeordnetenwatch.de
+  url: https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/staerkung-des-menschenrechts-auf-religionsfreiheit
 preview: 'Deutscher Bundestag
 
 
@@ -98,7 +100,11 @@ preview: 'Deutscher Bundestag
 
   Drucksachen 19/1698 und 19/5115'
 tags:
-- Todo
+- Religion
+- Menschenrecht
+- Integration
+- Minderheiten
+- Recht 
 title: 'Abstimmung: Menschenrecht auf Religionsfreiheit - Beschlussempfehlung zu Antrag
   AfD'
 ---
