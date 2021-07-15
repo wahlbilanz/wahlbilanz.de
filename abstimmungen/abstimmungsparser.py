@@ -150,6 +150,8 @@ class Abstimmung:
 
 
 	def get_documents (self):
+		if not "documents" in self.data:
+			self.data["documents"] = []
 		return self.data["documents"]
 
 	def set_documents (self, documents):
@@ -165,6 +167,8 @@ class Abstimmung:
 
 
 	def get_links (self):
+		if not "links" in self.data:
+			self.data["links"] = []
 		return self.data["links"]
 
 	def set_links (self, links):
