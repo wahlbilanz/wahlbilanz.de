@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # neueste namentliche abstimmung
-last=721
+last=752
 first=487
 url_prefix="https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id="
 
