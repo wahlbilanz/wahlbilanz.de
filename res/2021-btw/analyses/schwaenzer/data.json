@@ -1,0 +1,37 @@
+{
+    "AfD": {
+        "absolut": 2732,
+        "relativ": 30.300416932305055,
+        "abstimmungen": 240
+    },
+    "B\u00fcndnis 90/Die Gr\u00fcnen": {
+        "absolut": 1512,
+        "relativ": 22.567164179104477,
+        "abstimmungen": 240
+    },
+    "Die Linke": {
+        "absolut": 2624,
+        "relativ": 38.02898550724641,
+        "abstimmungen": 240
+    },
+    "FDP": {
+        "absolut": 1990,
+        "relativ": 24.88417721518988,
+        "abstimmungen": 240
+    },
+    "cdu/csu": {
+        "absolut": 4748,
+        "relativ": 19.314730026356806,
+        "abstimmungen": 240
+    },
+    "fraktionslos": {
+        "absolut": 448,
+        "relativ": 93.60000000000002,
+        "abstimmungen": 240
+    },
+    "spd": {
+        "absolut": 3783,
+        "relativ": 24.866912647480245,
+        "abstimmungen": 240
+    }
+}

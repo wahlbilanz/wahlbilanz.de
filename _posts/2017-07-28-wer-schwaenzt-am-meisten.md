@@ -82,13 +82,13 @@ Da sich die Werte in einer Grafik aber leichter vergleichen lassen:
 
 Ja, also relativ gesehen hatte Einstein wohl recht: Da sieht die Sache plötzlich ganz anders aus.
 
-Verglichen mit der Zahl an abgegeben Stimmen fallen die 4635 nicht abgegebenen Stimmen der CDU/CSU fast gar nicht mehr auf.
+Verglichen mit der Zahl an abgegeben Stimmen fallen die 4635 nicht-abgegebenen Stimmen der CDU/CSU fast gar nicht mehr auf.
 Nun sehen die Abgeordneten der CDU/CSU mit im Schnitt nur 14.94% versäumten Stimmen sogar richtig fleißig aus!
 Knapp gefolgt von der SPD, die im Durchschnitt 17.60% der Stimmen nicht wahr genommen hat.
 
 Aber was ist denn da mit den Linken los?
 Im Bild oben noch ganz unscheinbar, ergibt sich nun ein völlig anderes Bild.
-Mit durchschnittlich 30.08% nicht abgegebenen Stimmen sticht Die Linke nun ziemlich heraus.
+Mit durchschnittlich 30.08% nicht-abgegebenen Stimmen sticht Die Linke nun ziemlich heraus.
 
 
 
