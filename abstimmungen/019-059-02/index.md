@@ -97,6 +97,6 @@ tags:
 - Menschenrecht
 - Integration
 - Minderheiten
-- Recht 
+- Recht
 title: 'Abstimmung: Menschenrecht auf Religionsfreiheit - Antrag Bündnis 90/Die Grünen'
 ---

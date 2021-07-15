@@ -104,7 +104,7 @@ tags:
 - Menschenrecht
 - Integration
 - Minderheiten
-- Recht 
+- Recht
 title: 'Abstimmung: Menschenrecht auf Religionsfreiheit - Beschlussempfehlung zu Antrag
   AfD'
 ---

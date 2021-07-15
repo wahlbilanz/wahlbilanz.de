@@ -95,6 +95,6 @@ tags:
 - Menschenrecht
 - Integration
 - Minderheiten
-- Recht 
+- Recht
 title: 'Abstimmung: Menschenrecht auf Religionsfreiheit - Antrag CDU/CSU und SPD'
 ---
