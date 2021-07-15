@@ -73,7 +73,7 @@ bundestags_extra_map = {
   "019-101-07": "603",
   "019-184-02": "691",
   "019-191-04": "699",
-  # "": "",
+  "019-234-02": "746",
   # "": "",
 }
 
@@ -120,7 +120,7 @@ for f in listdir (bundestagslinks):
         bundestagspages[f] = o
         save_bundestag = True
       else:
-        print ('error withe meta of ' + f)
+        print ('error with meta of ' + f)
       # print (bundestagspages[f])
       # sys.exit(1)
 
@@ -386,7 +386,7 @@ for f in listdir (xls_path):
         drs = ["24387"]
       
       if len(drs) < 1:
-        if "20180517-data" in pdf_file:
+        if "20180517-data" in pdf_file or "20210520_1" in pdf_file:
           print ("no drucksachen fuer den einspruch...")
         else:
           print ("oops! no drucksachen!?: " + f)
