@@ -40,10 +40,18 @@ colnames(m)<-sapply (colnames(m), function (x) {
 
 m[m==-1]=NA
 
+colfunc <- colorRampPalette(c("#FF0000FF", "#FFFF00FF"))
+
 # cluster and plot the data using gplot's heatmap.2 tool
 pdf ("abstimmungscluster.pdf", height=30)
-colfunc <- colorRampPalette(c("#FF0000FF", "#FFFF00FF"))
 heatmap.2 (m, tracecol=1, cexCol=.9, margins=c(9,4),
            na.rm=TRUE, col=colfunc(15), na.color="#DDDDDDFF")
 dev.off ()
+
+png("abstimmungscluster.png", height=1440)
+heatmap.2 (m, tracecol=1, cexCol=.9, margins=c(9,4),
+           na.rm=TRUE, col=colfunc(15), na.color="#DDDDDDFF")
+dev.off ()
+
+
 
