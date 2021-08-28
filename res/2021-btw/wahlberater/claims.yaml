@@ -1,0 +1,535 @@
+claims:
+- id: nato_ruestungsziel
+  invert: true
+  order: 1
+  title: "Sollte Deutschland die Umsetzung des 2%-R\xFCstungsziels verweigern?"
+  category: internationales
+  description: "2014 haben die NATO-Mitgliedsl\xE4nder beschlossen, dass jeder Natostaat\
+    \ mindestens 2% seines Bruttoinlandsproduktes in das Milit\xE4r stecken sollte."
+  bundestagsid: 019-061-02
+- id: grenzkontrollen
+  invert: true
+  order: 2
+  title: "Sollte die Bundesrepublik umfassende Grenzkontrollen einf\xFChren?"
+  category: internationales
+  description: ist die kategorie richtig!?
+  bundestagsid: 019-021-01
+- id: familiennachzug
+  invert: false
+  order: 3
+  title: "Sollte der Familiennachzug f\xFCr subsidi\xE4r Schutzberechtigte abgeschafft\
+    \ werden?"
+  category: internationales
+  description: "Subsidi\xE4r Schutzberechtigte sind Fl\xFCchtlinge ohne vollen Fl\xFC\
+    chtlingsstatus. Der Familiennachzug erm\xF6glicht es diesen Fl\xFCchtlingen, tempor\xE4\
+    re Aufenthaltsgenehmigungen f\xFCr engste Angeh\xF6rige (eigene Kinder, bei Minderj\xE4\
+    hrigen auch deren Eltern) zu erhalten."
+  bundestagsid: 019-011-02
+- id: herkunftslaender
+  invert: false
+  order: 4
+  title: "Sollten Georgien, Algerien, Marokko und Tunesien als sichere Herkunftsl\xE4\
+    nder eingestuft werden?"
+  category: internationales
+  description: "Die Abstimmung fand im Januar 2019 statt. In Asylantr\xE4gen spielt\
+    \ es eine wichtige Rolle, ob das Herkunftsland als sicher gilt."
+  bundestagsid: 019-075-01
+- id: israel
+  invert: false
+  order: 5
+  title: "Sollte sich die Bundesregierung st\xE4rker f\xFCr das Existenzrecht Israels\
+    \ einsetzen?"
+  category: internationales
+  description: ''
+  bundestagsid: 019-086-03
+- id: kohlekraftwerke
+  invert: false
+  order: 1
+  title: Sollten alle Braunkohlekraftwerke bis Ende 2022 abgeschaltet werden?
+  category: natur_umwelt
+  description: Das Thema wurde im Juni 2019 abgestimmt.
+  bundestagsid: 019-108-03
+- id: atomkraftwerke
+  invert: true
+  order: 2
+  title: Sollte in die Erforschung und Entwicklung von neuartigen Atomkraftwerken
+    investiert werden?
+  category: natur_umwelt
+  description: ''
+  bundestagsid: 019-220-01
+- id: wolfsjagd
+  invert: false
+  order: 3
+  title: Sollte der Wolf als jagdbare Tierart eingestuft werden?
+  category: natur_umwelt
+  description: "Jagdbare Tierarten k\xF6nnen ohne zus\xE4tzliche Genehmigung geschossen\
+    \ werden."
+  bundestagsid: 019-137-06
+- id: no2
+  invert: false
+  order: 4
+  title: "Sollten Autos, die h\xF6chstens 270mg NO2 pro Kilometer aussto\xDFen, von\
+    \ Fahrverboten generell ausgenommen werden?"
+  category: natur_umwelt
+  description: "Laut einer EU-Richtlinie zur Verbesserung der Luftqualit\xE4t, m\xFC\
+    ssen bei zu hohen Stickoxid-Werten Fahrverbote verh\xE4ngt werden. Autos die nach\
+    \ 2014 zugelassen wurden, d\xFCrfen laut Abgasnorm nicht mehr als 80 mg Stickoxide\
+    \ pro Kilometer aussto\xDFen."
+  bundestagsid: 019-086-01
+- id: co2
+  invert: false
+  order: 5
+  title: "Sollte ab 2021 der CO<sub>2</sub> Preis auf 25 \u20AC pro Tonne angehoben\
+    \ und dann pro Jahr um 5 \u20AC erh\xF6ht werden?"
+  category: natur_umwelt
+  description: "Die Klimaschutzaktivisten von Fridays for Future verlangen eine Steuer\
+    \ auf den CO<sub>2</sub> Aussto\xDF in H\xF6he von 180 \u20AC."
+  bundestagsid: 019-137-03
+- id: masernschutz
+  invert: false
+  order: 1
+  title: "Sollte eine Masernimpfung in Einrichtungen wie Kinderg\xE4rten, Schulen\
+    \ usw. vorgeschrieben werden?"
+  category: gesellschaft
+  description: Diese Abstimmung fand 2019 und damit vor der Coronapandemie statt.
+  bundestagsid: 019-127-05
+- id: ferkel_kastration
+  invert: false
+  order: 2
+  title: "Sollten Ferkel f\xFCr weitere zwei Jahre ohne Bet\xE4ubung kastriert werden\
+    \ d\xFCrfen?"
+  category: gesellschaft
+  description: "Eine Kastration sollte ab 2019 nur noch mit Bet\xE4ubung zul\xE4ssig\
+    \ sein. Jedoch wurde dies nicht umgesetzt."
+  bundestagsid: 019-068-06
+- id: selbstbestimmungsgesetz
+  invert: false
+  order: 3
+  title: "Sollten die H\xFCrden f\xFCr die \xC4nderung des Vornamens und des amtlich\
+    \ dokumentieren Geschlechts verringert werden?"
+  category: gesellschaft
+  description: "Das Transsexuellen-Gesetz (von 1980) stellt hohe Anforderungen f\xFC\
+    r die \xC4nderungen des Vornamens und des amtlich dokumentierten Geschlechts."
+  bundestagsid: 019-229-02
+- id: organspende
+  invert: false
+  order: 4
+  title: "Sollte jede Person automatisch Organspender sein, wenn sie zu Lebzeiten\
+    \ nicht ausdr\xFCcklich widersprochen hat?"
+  category: gesellschaft
+  description: ''
+  bundestagsid: 019-140-01
+- id: quellentkue
+  invert: false
+  order: 5
+  title: "Sollten Computer und Smartphones von Verd\xE4chtigen nach richterlichem\
+    \ Beschluss durch Sicherheitsbeh\xF6rden \xFCberwacht werden k\xF6nnen, um Telefongespr\xE4\
+    che und Chatnachrichten aufzunehmen?"
+  category: gesellschaft
+  description: ''
+  bundestagsid: 019-233-02
+- id: bnd
+  invert: false
+  order: 6
+  title: Sollte der BND durch ein parlamentarisches Amt beaufsichtigt werden, das
+    Einsichten in geheime Dokumente, Daten und Besprechungen bekommt?
+  category: gesellschaft
+  description: ''
+  bundestagsid: 019-218-02
+- id: bundesnotbremse
+  invert: false
+  order: 7
+  title: "Stimmst du einer Einf\xFChrung der Bundesnotbremse zur Eind\xE4mmung von\
+    \ Corona zu?"
+  category: gesellschaft
+  description: "Die Bundesregierung schl\xE4gt im April 2020 Corona-Infektionsschutzma\xDF\
+    nahmen vor, besser bekannt als \"Bundesnotbremse\"."
+  bundestagsid: 019-223-06
+- id: 219aStGB
+  invert: false
+  order: 8
+  title: "Sollte das Werbeverbot f\xFCr Schwangerschaftsabbr\xFCche aufgehoben werden?"
+  category: gesellschaft
+  description: "Es ist in Deutschland verboten f\xFCr Abtreibungen zu werben. Unter\
+    \ das Verbot f\xE4llt auch eine sachliche Information der Allgemeinheit. \xC4\
+    rzte die Abtreibungen durchf\xFChren, d\xFCrfen das nicht auf ihrer Internetseite\
+    \ angeben oder Informationen zum Ablauf und Nebenwirkungen darstellen."
+  bundestagsid: 019-083-05
+- id: solidaritaetszuschlag
+  invert: false
+  order: 9
+  title: "Sollte der Solidarit\xE4tszuschlag abgeschafft werden?"
+  category: gesellschaft
+  description: ''
+  bundestagsid: 019-127-02
+- id: tempo130
+  invert: true
+  order: 10
+  title: "Sollte auf den Autobahnen eine allgemeine H\xF6chstgeschwindigkeit von 130\
+    \ km/h gelten?"
+  category: gesellschaft
+  description: ''
+  bundestagsid: 019-118-02
+- id: arbeitsbedingungen_fleischindustrie
+  invert: false
+  order: 1
+  title: Sollten die Arbeitsbedingungen in der Fleischindustrie strenger geregelt
+    und kontrolliert werden?
+  category: wirtschaft_finanzen
+  description: "Nach Corona-Ausbr\xFCchen kamen die vorherrschenden Arbeitsbedingungen\
+    \ in fleischverarbeitenden Betrieben an die \xD6ffentlichkeit."
+  bundestagsid: 019-201-01
+- id: unternehmenssteuern
+  invert: true
+  order: 2
+  title: "Sollte die Steuerbelastung f\xFCr Unternehmen gesenkt werden?"
+  category: wirtschaft_finanzen
+  description: ''
+  bundestagsid: 019-127-04
+- id: steuerflucht
+  invert: true
+  order: 3
+  title: "Sollten diese internationalen Konzerne Kennzahlen wie Umsatz, Gewinn und\
+    \ Steuern f\xFCr jedes Land individuell ver\xF6ffentlichen?"
+  category: wirtschaft_finanzen
+  description: "International operierende Konzerne verschieben ihre Gewinne in L\xE4\
+    nder mit niedrigen Unternehmenssteuern, um Steuern zu vermeiden."
+  bundestagsid: 019-098-04
+- id: impfpatente
+  invert: true
+  order: 4
+  title: "Sollte der Patentschutz f\xFCr Impfstoffe gegen Corona ausgesetzt werden?"
+  category: wirtschaft_finanzen
+  description: ''
+  bundestagsid: 019-227-04
+- id: grundsteuer
+  invert: true
+  order: 5
+  title: "Sollten Vermieter:innen weiterhin die Grundsteuer auf Mieter:innen umlegen\
+    \ k\xF6nnen?"
+  category: wirtschaft_finanzen
+  description: "Die Grundsteuer richtet sich nach dem Wert von Grundst\xFCcken und\
+    \ deren Immobilien."
+  bundestagsid: 019-119-02
+- id: bundeswehr019-004-03
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-004-03
+- id: bundeswehr019-186-02
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-186-02
+- id: bundeswehr019-023-01
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-023-01
+- id: bundeswehr019-004-02
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-004-02
+- id: bundeswehr019-121-01
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-121-01
+- id: bundeswehr019-058-04
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-058-04
+- id: bundeswehr019-089-06
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-089-06
+- id: bundeswehr019-214-02
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-214-02
+- id: bundeswehr019-153-02
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-153-02
+- id: bundeswehr019-023-03
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-023-03
+- id: bundeswehr019-004-01
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-004-01
+- id: bundeswehr019-039-02
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-039-02
+- id: bundeswehr019-158-02
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-158-02
+- id: bundeswehr019-223-08
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-223-08
+- id: bundeswehr019-108-02
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-108-02
+- id: bundeswehr019-165-02
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-165-02
+- id: bundeswehr019-039-03
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-039-03
+- id: bundeswehr019-236-06
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-236-06
+- id: bundeswehr019-098-01
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-098-01
+- id: bundeswehr019-029-01
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-029-01
+- id: bundeswehr019-029-03
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-029-03
+- id: bundeswehr019-004-05
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-004-05
+- id: bundeswehr019-098-02
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-098-02
+- id: bundeswehr019-229-05
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-229-05
+- id: bundeswehr019-229-01
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-229-01
+- id: bundeswehr019-153-01
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-153-01
+- id: bundeswehr019-089-04
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-089-04
+- id: bundeswehr019-023-02
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-023-02
+- id: bundeswehr019-089-05
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-089-05
+- id: bundeswehr019-004-04
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-004-04
+- id: bundeswehr019-218-03
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-218-03
+- id: bundeswehr019-029-02
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-029-02
+- id: bundeswehr019-098-03
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-098-03
+- id: bundeswehr019-162-01
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-162-01
+- id: bundeswehr019-223-07
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-223-07
+- id: bundeswehr019-089-07
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-089-07
+- id: bundeswehr019-005-02
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-005-02
+- id: bundeswehr019-214-01
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-214-01
+- id: bundeswehr019-023-04
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-023-04
+- id: bundeswehr019-039-04
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-039-04
+- id: bundeswehr019-108-01
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-108-01
+- id: bundeswehr019-236-05
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-236-05
+- id: bundeswehr019-023-05
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-023-05
+- id: bundeswehr019-089-08
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-089-08
+- id: bundeswehr019-005-01
+  invert: false
+  order: 0
+  title: ''
+  category: bundeswehr
+  description: ''
+  bundestagsid: 019-005-01
+- bundestagsid: bundeswehr
+  category: internationales
+  description: "Die Bundeswehr wurde in der letzen Legislaturperiode in den folgenden\
+    \ L\xE4ndern eingesetzt: ..."
+  id: bundeswehr
+  order: 6
+  title: "Bundeswehreins\xE4tze in diesen Gebieten sind gerechtfertigt."

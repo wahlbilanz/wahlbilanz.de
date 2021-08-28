@@ -1,0 +1,4526 @@
+{
+  "-zdemir-Cem-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Cem \u00d6zdemir",
+    "picture": null
+  },
+  "-zdemir-Duisburg-Mahmut-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Mahmut \u00d6zdemir (Duisburg)",
+    "picture": null
+  },
+  "-zoguz-Aydan-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Aydan \u00d6zoguz",
+    "picture": null
+  },
+  "Abercron-Michael-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Michael von Abercron",
+    "picture": null
+  },
+  "Achelwilm-Doris-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Doris Achelwilm",
+    "picture": null
+  },
+  "Aggelidis-Grigorios-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Grigorios Aggelidis",
+    "picture": null
+  },
+  "Akbulut-G-kay-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "G\u00f6kay Akbulut",
+    "picture": null
+  },
+  "Albani-Stephan-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Stephan Albani",
+    "picture": null
+  },
+  "Alt-Renata-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Renata Alt",
+    "picture": null
+  },
+  "Altenkamp-Norbert-Maria-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Norbert Maria Altenkamp",
+    "picture": null
+  },
+  "Altmaier-Peter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Peter Altmaier",
+    "picture": null
+  },
+  "Amthor-Philipp-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Philipp Amthor",
+    "picture": null
+  },
+  "Amtsberg-Luise-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Luise Amtsberg",
+    "picture": null
+  },
+  "Andreae-Kerstin-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Kerstin Andreae",
+    "picture": null
+  },
+  "Annen-Niels-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Niels Annen",
+    "picture": null
+  },
+  "Arndt-Brauer-Ingrid-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Ingrid Arndt-Brauer",
+    "picture": null
+  },
+  "Aschenberg-Dugnus-Christine-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Christine Aschenberg-Dugnus",
+    "picture": null
+  },
+  "Auernhammer-Artur-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Artur Auernhammer",
+    "picture": null
+  },
+  "Aumer-Peter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Peter Aumer",
+    "picture": null
+  },
+  "B-hl-Marcus-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Marcus B\u00fchl",
+    "picture": null
+  },
+  "B-low-Marco-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Marco B\u00fclow",
+    "picture": null
+  },
+  "B-r-Dorothee-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dorothee B\u00e4r",
+    "picture": null
+  },
+  "B-ttner-Matthias-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Matthias B\u00fcttner",
+    "picture": null
+  },
+  "Bach-Bela-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Bela Bach",
+    "picture": null
+  },
+  "Badum-Lisa-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Lisa Badum",
+    "picture": null
+  },
+  "Baehrens-Heike-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Heike Baehrens",
+    "picture": null
+  },
+  "Baerbock-Annalena-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Annalena Baerbock",
+    "picture": null
+  },
+  "Bahr-Ulrike-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Ulrike Bahr",
+    "picture": null
+  },
+  "Baradari-Nezahat-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Nezahat Baradari",
+    "picture": null
+  },
+  "Barei-Thomas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Barei\u00df",
+    "picture": null
+  },
+  "Barley-Katarina-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Katarina Barley",
+    "picture": null
+  },
+  "Barnett-Doris-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Doris Barnett",
+    "picture": null
+  },
+  "Barrientos-Simone-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Simone Barrientos",
+    "picture": null
+  },
+  "Barthle-Norbert-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Norbert Barthle",
+    "picture": null
+  },
+  "Bartke-Matthias-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Matthias Bartke",
+    "picture": null
+  },
+  "Bartol-S-ren-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "S\u00f6ren Bartol",
+    "picture": null
+  },
+  "Bartsch-Dietmar-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Dietmar Bartsch",
+    "picture": null
+  },
+  "Bas-B-rbel-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "B\u00e4rbel Bas",
+    "picture": null
+  },
+  "Bauer-Nicole-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Nicole Bauer",
+    "picture": null
+  },
+  "Baumann-Bernd-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Bernd Baumann",
+    "picture": null
+  },
+  "Bause-Margarete-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Margarete Bause",
+    "picture": null
+  },
+  "Bayaz-Danyal-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Danyal Bayaz",
+    "picture": null
+  },
+  "Bayram-Canan-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Canan Bayram",
+    "picture": null
+  },
+  "Beeck-Jens-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Jens Beeck",
+    "picture": null
+  },
+  "Beer-Nicola-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Nicola Beer",
+    "picture": null
+  },
+  "Beermann-Maik-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Maik Beermann",
+    "picture": null
+  },
+  "Behrens-B-rde-Manfred-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Manfred Behrens (B\u00f6rde)",
+    "picture": null
+  },
+  "Bellmann-Veronika-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Veronika Bellmann",
+    "picture": null
+  },
+  "Benning-Sybille-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Sybille Benning",
+    "picture": null
+  },
+  "Berghegger-Andr-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Andr\u00e9 Berghegger",
+    "picture": null
+  },
+  "Bernhard-Marc-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Marc Bernhard",
+    "picture": null
+  },
+  "Bernstein-Melanie-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Melanie Bernstein",
+    "picture": null
+  },
+  "Bernstiel-Christoph-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Christoph Bernstiel",
+    "picture": null
+  },
+  "Beutin-Lorenz-G-sta-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Lorenz G\u00f6sta Beutin",
+    "picture": null
+  },
+  "Beyer-Peter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Peter Beyer",
+    "picture": null
+  },
+  "Biadacz-Marc-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Marc Biadacz",
+    "picture": null
+  },
+  "Bilger-Steffen-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Steffen Bilger",
+    "picture": null
+  },
+  "Binding-Heidelberg-Lothar-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Lothar Binding (Heidelberg)",
+    "picture": null
+  },
+  "Birkwald-Matthias-W-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Matthias W. Birkwald",
+    "picture": null
+  },
+  "Bleck-Andreas-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Andreas Bleck",
+    "picture": null
+  },
+  "Bleser-Peter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Peter Bleser",
+    "picture": null
+  },
+  "Bluhm-F-rster-Heidrun-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Heidrun Bluhm-F\u00f6rster",
+    "picture": null
+  },
+  "Bluhm-Heidrun-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Heidrun Bluhm",
+    "picture": null
+  },
+  "Boehringer-Peter-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Peter Boehringer",
+    "picture": null
+  },
+  "Brackmann-Norbert-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Norbert Brackmann",
+    "picture": null
+  },
+  "Brand-Fulda-Michael-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Brand (Fulda)",
+    "picture": null
+  },
+  "Brandenburg-Mario-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Mario Brandenburg",
+    "picture": null
+  },
+  "Brandenburg-Rhein-Neckar-Jens-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Jens Brandenburg (Rhein-Neckar)",
+    "picture": null
+  },
+  "Brandenburg-S-dpfalz-Mario-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Mario Brandenburg (S\u00fcdpfalz)",
+    "picture": null
+  },
+  "Brandl-Reinhard-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Reinhard Brandl",
+    "picture": null
+  },
+  "Brandner-Stephan-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Stephan Brandner",
+    "picture": null
+  },
+  "Brandt-Michel-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Michel Brandt",
+    "picture": null
+  },
+  "Brantner-Franziska-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Franziska Brantner",
+    "picture": null
+  },
+  "Brauksiepe-Ralf-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Ralf Brauksiepe",
+    "picture": null
+  },
+  "Braun-Helge-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Helge Braun",
+    "picture": null
+  },
+  "Braun-J-rgen-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "J\u00fcrgen Braun",
+    "picture": null
+  },
+  "Brecht-Eberhard-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Eberhard Brecht",
+    "picture": null
+  },
+  "Breher-Silvia-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Silvia Breher",
+    "picture": null
+  },
+  "Brehm-Sebastian-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Sebastian Brehm",
+    "picture": null
+  },
+  "Brehmer-Heike-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Heike Brehmer",
+    "picture": null
+  },
+  "Breymaier-Leni-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Leni Breymaier",
+    "picture": null
+  },
+  "Brinkhaus-Ralph-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Ralph Brinkhaus",
+    "picture": null
+  },
+  "Brodesser-Carsten-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Carsten Brodesser",
+    "picture": null
+  },
+  "Brugger-Agnieszka-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Agnieszka Brugger",
+    "picture": null
+  },
+  "Brunner-Karl-Heinz-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Karl-Heinz Brunner",
+    "picture": null
+  },
+  "Bubendorfer-Licht-Sandra-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Sandra Bubendorfer-Licht",
+    "picture": null
+  },
+  "Buchholz-Christine-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Christine Buchholz",
+    "picture": null
+  },
+  "Budde-Katrin-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Katrin Budde",
+    "picture": null
+  },
+  "Bull-Bischoff-Birke-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Birke Bull-Bischoff",
+    "picture": null
+  },
+  "Burkert-Martin-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Martin Burkert",
+    "picture": null
+  },
+  "Buschmann-Marco-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Marco Buschmann",
+    "picture": null
+  },
+  "Busen-Karlheinz-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Karlheinz Busen",
+    "picture": null
+  },
+  "Bystron-Petr-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Petr Bystron",
+    "picture": null
+  },
+  "Castellucci-Lars-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Lars Castellucci",
+    "picture": null
+  },
+  "Cezanne-J-rg-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "J\u00f6rg Cezanne",
+    "picture": null
+  },
+  "Christmann-Anna-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Anna Christmann",
+    "picture": null
+  },
+  "Chrupalla-Tino-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Tino Chrupalla",
+    "picture": null
+  },
+  "Connemann-Gitta-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Gitta Connemann",
+    "picture": null
+  },
+  "Cotar-Joana-Eleonora-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Joana Eleonora Cotar",
+    "picture": null
+  },
+  "Cotar-Joana-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Joana Cotar",
+    "picture": null
+  },
+  "Cronenberg-Carl-Julius-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Carl-Julius Cronenberg",
+    "picture": null
+  },
+  "Curio-Gottfried-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Gottfried Curio",
+    "picture": null
+  },
+  "D-rner-Katja-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Katja D\u00f6rner",
+    "picture": null
+  },
+  "D-rr-Christian-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Christian D\u00fcrr",
+    "picture": null
+  },
+  "D-tt-Marie-Luise-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Marie-Luise D\u00f6tt",
+    "picture": null
+  },
+  "Dagdelen-Sevim-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Sevim Dagdelen",
+    "picture": null
+  },
+  "Dahmen-Janosch-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Janosch Dahmen",
+    "picture": null
+  },
+  "Daldrup-Bernhard-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Bernhard Daldrup",
+    "picture": null
+  },
+  "Damerow-Astrid-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Astrid Damerow",
+    "picture": null
+  },
+  "Dassler-Britta-Katharina-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Britta Katharina Dassler",
+    "picture": null
+  },
+  "De-Masi-Fabio-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Fabio De Masi",
+    "picture": null
+  },
+  "De-Ridder-Daniela-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Daniela De Ridder",
+    "picture": null
+  },
+  "Dehm-Diether-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Diether Dehm",
+    "picture": null
+  },
+  "Delig-z-Ekin-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Ekin Delig\u00f6z",
+    "picture": null
+  },
+  "Diaby-Karamba-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Karamba Diaby",
+    "picture": null
+  },
+  "Dilcher-Esther-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Esther Dilcher",
+    "picture": null
+  },
+  "Dittmar-Sabine-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Sabine Dittmar",
+    "picture": null
+  },
+  "Djir-Sarai-Bijan-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Bijan Djir-Sarai",
+    "picture": null
+  },
+  "Dobrindt-Alexander-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Alexander Dobrindt",
+    "picture": null
+  },
+  "Domscheit-Berg-Anke-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Anke Domscheit-Berg",
+    "picture": null
+  },
+  "Donth-Michael-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Donth",
+    "picture": null
+  },
+  "Dr-ge-Katharina-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Katharina Dr\u00f6ge",
+    "picture": null
+  },
+  "Droese-Siegbert-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Siegbert Droese",
+    "picture": null
+  },
+  "Durz-Hansj-rg-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Hansj\u00f6rg Durz",
+    "picture": null
+  },
+  "Ebbing-Hartmut-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Hartmut Ebbing",
+    "picture": null
+  },
+  "Ebner-Harald-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Harald Ebner",
+    "picture": null
+  },
+  "Ehrhorn-Thomas-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Ehrhorn",
+    "picture": null
+  },
+  "Elsner-von-Gronow-Berengar-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Berengar Elsner von Gronow",
+    "picture": null
+  },
+  "Emmerich-Marcel-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Marcel Emmerich",
+    "picture": null
+  },
+  "Erndl-Thomas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Erndl",
+    "picture": null
+  },
+  "Ernst-Klaus-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Klaus Ernst",
+    "picture": null
+  },
+  "Esdar-Wiebke-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Wiebke Esdar",
+    "picture": null
+  },
+  "Esken-Saskia-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Saskia Esken",
+    "picture": null
+  },
+  "Espendiller-Michael-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Michael Espendiller",
+    "picture": null
+  },
+  "F-rber-Hermann-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Hermann F\u00e4rber",
+    "picture": null
+  },
+  "F-st-Daniel-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Daniel F\u00f6st",
+    "picture": null
+  },
+  "Faber-Marcus-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Marcus Faber",
+    "picture": null
+  },
+  "Fabritius-Bernd-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Dr. h. c. Bernd Fabritius",
+    "picture": null
+  },
+  "Fahimi-Yasmin-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Yasmin Fahimi",
+    "picture": null
+  },
+  "Fechner-Johannes-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Johannes Fechner",
+    "picture": null
+  },
+  "Feiler-Uwe-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Uwe Feiler",
+    "picture": null
+  },
+  "Felgentreu-Fritz-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Fritz Felgentreu",
+    "picture": null
+  },
+  "Felser-Peter-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Peter Felser",
+    "picture": null
+  },
+  "Ferlemann-Enak-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Enak Ferlemann",
+    "picture": null
+  },
+  "Ferschl-Susanne-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Susanne Ferschl",
+    "picture": null
+  },
+  "Fischer-Karlsruhe-Land-Axel-E-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Axel E. Fischer (Karlsruhe-Land)",
+    "picture": null
+  },
+  "Flachsbarth-Maria-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Maria Flachsbarth",
+    "picture": null
+  },
+  "Fr-mming-G-tz-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. G\u00f6tz Fr\u00f6mming",
+    "picture": null
+  },
+  "Franke-Edgar-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Edgar Franke",
+    "picture": null
+  },
+  "Freese-Ulrich-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Ulrich Freese",
+    "picture": null
+  },
+  "Frei-Thorsten-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Thorsten Frei",
+    "picture": null
+  },
+  "Freihold-Brigitte-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Brigitte Freihold",
+    "picture": null
+  },
+  "Freitag-Dagmar-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dagmar Freitag",
+    "picture": null
+  },
+  "Freudenstein-Astrid-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Astrid Freudenstein",
+    "picture": null
+  },
+  "Fricke-Otto-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Otto Fricke",
+    "picture": null
+  },
+  "Friedhoff-Dietmar-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dietmar Friedhoff",
+    "picture": null
+  },
+  "Friedrich-Hof-Hans-Peter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Hans-Peter Friedrich (Hof)",
+    "picture": null
+  },
+  "Friemann-Jennert-Maika-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Maika Friemann-Jennert",
+    "picture": null
+  },
+  "Friesen-Anton-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Anton Friesen",
+    "picture": null
+  },
+  "Frieser-Michael-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Frieser",
+    "picture": null
+  },
+  "Frohnmaier-Markus-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Markus Frohnmaier",
+    "picture": null
+  },
+  "Fuchtel-Hans-Joachim-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Hans-Joachim Fuchtel",
+    "picture": null
+  },
+  "G-dechens-Ingo-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Ingo G\u00e4dechens",
+    "picture": null
+  },
+  "G-ntzler-Fritz-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Fritz G\u00fcntzler",
+    "picture": null
+  },
+  "G-ring-Eckardt-Katrin-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Katrin G\u00f6ring-Eckardt",
+    "picture": null
+  },
+  "Gabelmann-Sylvia-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Sylvia Gabelmann",
+    "picture": null
+  },
+  "Gabriel-Sigmar-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Sigmar Gabriel",
+    "picture": null
+  },
+  "Gastel-Matthias-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Matthias Gastel",
+    "picture": null
+  },
+  "Gauland-Alexander-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Alexander Gauland",
+    "picture": null
+  },
+  "Gebhart-Thomas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Thomas Gebhart",
+    "picture": null
+  },
+  "Gehring-Kai-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Kai Gehring",
+    "picture": null
+  },
+  "Gehrke-Axel-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Axel Gehrke",
+    "picture": null
+  },
+  "Gelbhaar-Stefan-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Stefan Gelbhaar",
+    "picture": null
+  },
+  "Gerdes-Michael-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Gerdes",
+    "picture": null
+  },
+  "Gerig-Alois-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Alois Gerig",
+    "picture": null
+  },
+  "Gerster-Martin-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Martin Gerster",
+    "picture": null
+  },
+  "Gienger-Eberhard-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Eberhard Gienger",
+    "picture": null
+  },
+  "Gl-ckner-Angelika-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Angelika Gl\u00f6ckner",
+    "picture": null
+  },
+  "Glaser-Albrecht-Heinz-Erhard-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Albrecht Heinz Erhard Glaser",
+    "picture": null
+  },
+  "Glaser-Albrecht-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Albrecht Glaser",
+    "picture": null
+  },
+  "Gminder-Franziska-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Franziska Gminder",
+    "picture": null
+  },
+  "Gnodtke-Eckhard-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Eckhard Gnodtke",
+    "picture": null
+  },
+  "Gohl-Christopher-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Christopher Gohl",
+    "picture": null
+  },
+  "Gohlke-Nicole-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Nicole Gohlke",
+    "picture": null
+  },
+  "Gottberg-Wilhelm-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Wilhelm von Gottberg",
+    "picture": null
+  },
+  "Gottschalk-Kay-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Kay Gottschalk",
+    "picture": null
+  },
+  "Gr-bel-Markus-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Markus Gr\u00fcbel",
+    "picture": null
+  },
+  "Gr-he-Hermann-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Hermann Gr\u00f6he",
+    "picture": null
+  },
+  "Gr-hler-Klaus-Dieter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Klaus-Dieter Gr\u00f6hler",
+    "picture": null
+  },
+  "Gr-tsch-Uli-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Uli Gr\u00f6tsch",
+    "picture": null
+  },
+  "Gr-tters-Monika-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Monika Gr\u00fctters",
+    "picture": null
+  },
+  "Gremmels-Timon-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Timon Gremmels",
+    "picture": null
+  },
+  "Griese-Kerstin-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Kerstin Griese",
+    "picture": null
+  },
+  "Gro-Michael-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Gro\u00df",
+    "picture": null
+  },
+  "Groden-Kranich-Ursula-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Ursula Groden-Kranich",
+    "picture": null
+  },
+  "Grosse-Br-mer-Michael-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Grosse-Br\u00f6mer",
+    "picture": null
+  },
+  "Grotel-schen-Astrid-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Astrid Grotel\u00fcschen",
+    "picture": null
+  },
+  "Grund-Manfred-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Manfred Grund",
+    "picture": null
+  },
+  "Grundl-Erhard-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Erhard Grundl",
+    "picture": null
+  },
+  "Grundmann-Oliver-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Oliver Grundmann",
+    "picture": null
+  },
+  "Gutting-Olav-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Olav Gutting",
+    "picture": null
+  },
+  "Gysi-Gregor-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Gregor Gysi",
+    "picture": null
+  },
+  "H-chst-Nicole-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Nicole H\u00f6chst",
+    "picture": null
+  },
+  "H-ferlin-Manuel-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Manuel H\u00f6ferlin",
+    "picture": null
+  },
+  "H-gl-Eva-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Eva H\u00f6gl",
+    "picture": null
+  },
+  "H-hn-Matthias-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Matthias H\u00f6hn",
+    "picture": null
+  },
+  "H-nsel-Heike-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Heike H\u00e4nsel",
+    "picture": null
+  },
+  "Ha-elmann-Britta-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Britta Ha\u00dfelmann",
+    "picture": null
+  },
+  "Haase-Christian-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Christian Haase",
+    "picture": null
+  },
+  "Hacker-Thomas-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Hacker",
+    "picture": null
+  },
+  "Hagedorn-Bettina-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Bettina Hagedorn",
+    "picture": null
+  },
+  "Hagl-Kehl-Rita-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Rita Hagl-Kehl",
+    "picture": null
+  },
+  "Hahn-Andr-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Andr\u00e9 Hahn",
+    "picture": null
+  },
+  "Hahn-Florian-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Florian Hahn",
+    "picture": null
+  },
+  "Hajduk-Anja-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Anja Hajduk",
+    "picture": null
+  },
+  "Hakverdi-Metin-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Metin Hakverdi",
+    "picture": null
+  },
+  "Hampel-Armin-Paulus-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Armin-Paulus Hampel",
+    "picture": null
+  },
+  "Hanke-Reginald-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Reginald Hanke",
+    "picture": null
+  },
+  "Harbarth-Stephan-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Stephan Harbarth",
+    "picture": null
+  },
+  "Harder-K-hnel-Mariana-Iris-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Mariana Iris Harder-K\u00fchnel",
+    "picture": null
+  },
+  "Hardt-J-rgen-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "J\u00fcrgen Hardt",
+    "picture": null
+  },
+  "Hartmann-Sebastian-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Sebastian Hartmann",
+    "picture": null
+  },
+  "Hartmann-Verena-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Verena Hartmann",
+    "picture": null
+  },
+  "Hartwig-Roland-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Roland Hartwig",
+    "picture": null
+  },
+  "Hauer-Matthias-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Matthias Hauer",
+    "picture": null
+  },
+  "Haug-Jochen-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Jochen Haug",
+    "picture": null
+  },
+  "Hauptmann-Mark-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Mark Hauptmann",
+    "picture": null
+  },
+  "He-enkemper-Heiko-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Heiko He\u00dfenkemper",
+    "picture": null
+  },
+  "Hebner-Martin-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Martin Hebner",
+    "picture": null
+  },
+  "Heidenblut-Dirk-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dirk Heidenblut",
+    "picture": null
+  },
+  "Heider-Matthias-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Matthias Heider",
+    "picture": null
+  },
+  "Heidt-Peter-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Peter Heidt",
+    "picture": null
+  },
+  "Heil-Mechthild-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Mechthild Heil",
+    "picture": null
+  },
+  "Heil-Peine-Hubertus-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Hubertus Heil (Peine)",
+    "picture": null
+  },
+  "Heilmann-Thomas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Heilmann",
+    "picture": null
+  },
+  "Heinrich-Chemnitz-Frank-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Frank Heinrich (Chemnitz)",
+    "picture": null
+  },
+  "Heinrich-Gabriela-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Gabriela Heinrich",
+    "picture": null
+  },
+  "Held-Marcus-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Marcus Held",
+    "picture": null
+  },
+  "Helfrich-Mark-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Mark Helfrich",
+    "picture": null
+  },
+  "Helling-Plahr-Katrin-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Katrin Helling-Plahr",
+    "picture": null
+  },
+  "Hellmich-Wolfgang-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Wolfgang Hellmich",
+    "picture": null
+  },
+  "Hemmelgarn-Udo-Theodor-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Udo Theodor Hemmelgarn",
+    "picture": null
+  },
+  "Hendricks-Barbara-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Barbara Hendricks",
+    "picture": null
+  },
+  "Henke-Rudolf-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Rudolf Henke",
+    "picture": null
+  },
+  "Hennrich-Michael-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Hennrich",
+    "picture": null
+  },
+  "Henrichmann-Marc-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Marc Henrichmann",
+    "picture": null
+  },
+  "Herbrand-Markus-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Markus Herbrand",
+    "picture": null
+  },
+  "Herbst-Torsten-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Torsten Herbst",
+    "picture": null
+  },
+  "Herdt-Waldemar-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Waldemar Herdt",
+    "picture": null
+  },
+  "Herrmann-Lars-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Lars Herrmann",
+    "picture": null
+  },
+  "Herzog-Gustav-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Gustav Herzog",
+    "picture": null
+  },
+  "Hess-Martin-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Martin Hess",
+    "picture": null
+  },
+  "Hessel-Katja-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Katja Hessel",
+    "picture": null
+  },
+  "Heveling-Ansgar-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Ansgar Heveling",
+    "picture": null
+  },
+  "Hiller-Ohm-Gabriele-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Gabriele Hiller-Ohm",
+    "picture": null
+  },
+  "Hilse-Karsten-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Karsten Hilse",
+    "picture": null
+  },
+  "Hirte-Christian-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Christian Hirte",
+    "picture": null
+  },
+  "Hirte-Heribert-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Heribert Hirte",
+    "picture": null
+  },
+  "Hitschler-Thomas-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Hitschler",
+    "picture": null
+  },
+  "Hocker-Gero-Clemens-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Gero Clemens Hocker",
+    "picture": null
+  },
+  "Hoffmann-Alexander-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Alexander Hoffmann",
+    "picture": null
+  },
+  "Hoffmann-Bettina-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Bettina Hoffmann",
+    "picture": null
+  },
+  "Hoffmann-Christoph-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Christoph Hoffmann",
+    "picture": null
+  },
+  "Hofreiter-Anton-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Anton Hofreiter",
+    "picture": null
+  },
+  "Hohmann-Martin-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Martin Hohmann",
+    "picture": null
+  },
+  "Hollnagel-Bruno-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Bruno Hollnagel",
+    "picture": null
+  },
+  "Holm-Leif-Erik-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Leif-Erik Holm",
+    "picture": null
+  },
+  "Holmeier-Karl-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Karl Holmeier",
+    "picture": null
+  },
+  "Holtz-Ottmar-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Ottmar von Holtz",
+    "picture": null
+  },
+  "Hoppenstedt-Hendrik-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Hendrik Hoppenstedt",
+    "picture": null
+  },
+  "Houben-Reinhard-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Reinhard Houben",
+    "picture": null
+  },
+  "Huber-Johannes-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Johannes Huber",
+    "picture": null
+  },
+  "Hunko-Andrej-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Andrej Hunko",
+    "picture": null
+  },
+  "Ihnen-Ulla-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Ulla Ihnen",
+    "picture": null
+  },
+  "In-der-Beek-Olaf-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Olaf In der Beek",
+    "picture": null
+  },
+  "Irlstorfer-Erich-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Erich Irlstorfer",
+    "picture": null
+  },
+  "Irmer-Hans-J-rgen-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Hans-J\u00fcrgen Irmer",
+    "picture": null
+  },
+  "Jacobi-Fabian-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Fabian Jacobi",
+    "picture": null
+  },
+  "Janecek-Dieter-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dieter Janecek",
+    "picture": null
+  },
+  "Jarzombek-Thomas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Jarzombek",
+    "picture": null
+  },
+  "Jelpke-Ulla-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Ulla Jelpke",
+    "picture": null
+  },
+  "Jensen-Gyde-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Gyde Jensen",
+    "picture": null
+  },
+  "Jongen-Marc-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Marc Jongen",
+    "picture": null
+  },
+  "Jung-Andreas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Andreas Jung",
+    "picture": null
+  },
+  "Jung-Christian-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Christian Jung",
+    "picture": null
+  },
+  "Jung-Ingmar-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Ingmar Jung",
+    "picture": null
+  },
+  "Junge-Frank-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Frank Junge",
+    "picture": null
+  },
+  "Juratovic-Josip-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Josip Juratovic",
+    "picture": null
+  },
+  "Jurk-Thomas-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Jurk",
+    "picture": null
+  },
+  "K-hler-Lukas-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Lukas K\u00f6hler",
+    "picture": null
+  },
+  "K-hn-Dresden-Stephan-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Stephan K\u00fchn (Dresden)",
+    "picture": null
+  },
+  "K-hn-T-bingen-Christian-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Christian K\u00fchn (T\u00fcbingen)",
+    "picture": null
+  },
+  "K-hne-Roy-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Roy K\u00fchne",
+    "picture": null
+  },
+  "K-nast-Renate-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Renate K\u00fcnast",
+    "picture": null
+  },
+  "K-nig-J-rn-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "J\u00f6rn K\u00f6nig",
+    "picture": null
+  },
+  "K-rber-Carsten-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Carsten K\u00f6rber",
+    "picture": null
+  },
+  "Kaczmarek-Oliver-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Oliver Kaczmarek",
+    "picture": null
+  },
+  "Kahrs-Johannes-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Johannes Kahrs",
+    "picture": null
+  },
+  "Kaiser-Elisabeth-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Elisabeth Kaiser",
+    "picture": null
+  },
+  "Kamann-Uwe-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Uwe Kamann",
+    "picture": null
+  },
+  "Kappert-Gonther-Kirsten-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Kirsten Kappert-Gonther",
+    "picture": null
+  },
+  "Kapschack-Ralf-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Ralf Kapschack",
+    "picture": null
+  },
+  "Karl-Alois-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Alois Karl",
+    "picture": null
+  },
+  "Karliczek-Anja-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Anja Karliczek",
+    "picture": null
+  },
+  "Kartes-Torbj-rn-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Torbj\u00f6rn Kartes",
+    "picture": null
+  },
+  "Kassner-Kerstin-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Kerstin Kassner",
+    "picture": null
+  },
+  "Katzmarek-Gabriele-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Gabriele Katzmarek",
+    "picture": null
+  },
+  "Kauder-Volker-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Volker Kauder",
+    "picture": null
+  },
+  "Kaufmann-Stefan-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Stefan Kaufmann",
+    "picture": null
+  },
+  "Kekeritz-Uwe-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Uwe Kekeritz",
+    "picture": null
+  },
+  "Kelber-Ulrich-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Ulrich Kelber",
+    "picture": null
+  },
+  "Kemmer-Ronja-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Ronja Kemmer",
+    "picture": null
+  },
+  "Kemmerich-Thomas-L-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas L. Kemmerich",
+    "picture": null
+  },
+  "Kessler-Achim-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Achim Kessler",
+    "picture": null
+  },
+  "Kestner-Jens-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Jens Kestner",
+    "picture": null
+  },
+  "Keul-Katja-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Katja Keul",
+    "picture": null
+  },
+  "Keuter-Stefan-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Stefan Keuter",
+    "picture": null
+  },
+  "Kie-ling-Michael-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Kie\u00dfling",
+    "picture": null
+  },
+  "Kiesewetter-Roderich-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Roderich Kiesewetter",
+    "picture": null
+  },
+  "Kindler-Sven-Christian-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Sven-Christian Kindler",
+    "picture": null
+  },
+  "Kippels-Georg-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Georg Kippels",
+    "picture": null
+  },
+  "Kipping-Katja-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Katja Kipping",
+    "picture": null
+  },
+  "Kiziltepe-Cansel-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Cansel Kiziltepe",
+    "picture": null
+  },
+  "Klare-Arno-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Arno Klare",
+    "picture": null
+  },
+  "Klein-Karsten-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Karsten Klein",
+    "picture": null
+  },
+  "Klein-Schmeink-Maria-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Maria Klein-Schmeink",
+    "picture": null
+  },
+  "Klein-Volkmar-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Volkmar Klein",
+    "picture": null
+  },
+  "Kleinw-chter-Norbert-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Norbert Kleinw\u00e4chter",
+    "picture": null
+  },
+  "Klingbeil-Lars-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Lars Klingbeil",
+    "picture": null
+  },
+  "Klinge-Marcel-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Marcel Klinge",
+    "picture": null
+  },
+  "Kloke-Katharina-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Katharina Kloke",
+    "picture": null
+  },
+  "Kluckert-Daniela-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Daniela Kluckert",
+    "picture": null
+  },
+  "Knoerig-Axel-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Axel Knoerig",
+    "picture": null
+  },
+  "Kober-Pascal-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Pascal Kober",
+    "picture": null
+  },
+  "Koeppen-Jens-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Jens Koeppen",
+    "picture": null
+  },
+  "Kofler-B-rbel-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. B\u00e4rbel Kofler",
+    "picture": null
+  },
+  "Kolbe-Daniela-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Daniela Kolbe",
+    "picture": null
+  },
+  "Komning-Enrico-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Enrico Komning",
+    "picture": null
+  },
+  "Konrad-Carina-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Carina Konrad",
+    "picture": null
+  },
+  "Koob-Markus-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Markus Koob",
+    "picture": null
+  },
+  "Korkmaz-Elvan-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Elvan Korkmaz",
+    "picture": null
+  },
+  "Korkmaz-Emre-Elvan-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Elvan Korkmaz-Emre",
+    "picture": null
+  },
+  "Korte-Jan-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Jan Korte",
+    "picture": null
+  },
+  "Kotr-Steffen-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Steffen Kotr\u00e9",
+    "picture": null
+  },
+  "Kotting-Uhl-Sylvia-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Sylvia Kotting-Uhl",
+    "picture": null
+  },
+  "Kovac-Kordula-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Kordula Kovac",
+    "picture": null
+  },
+  "Kraft-Rainer-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Rainer Kraft",
+    "picture": null
+  },
+  "Kramme-Anette-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Anette Kramme",
+    "picture": null
+  },
+  "Krau-Alexander-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Alexander Krau\u00df",
+    "picture": null
+  },
+  "Krellmann-Jutta-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Jutta Krellmann",
+    "picture": null
+  },
+  "Krichbaum-Gunther-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Gunther Krichbaum",
+    "picture": null
+  },
+  "Krings-G-nter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. G\u00fcnter Krings",
+    "picture": null
+  },
+  "Krischer-Oliver-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Oliver Krischer",
+    "picture": null
+  },
+  "Kruse-R-diger-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "R\u00fcdiger Kruse",
+    "picture": null
+  },
+  "Kubicki-Wolfgang-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Wolfgang Kubicki",
+    "picture": null
+  },
+  "Kuffer-Michael-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Kuffer",
+    "picture": null
+  },
+  "Kuhle-Konstantin-Elias-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Konstantin Elias Kuhle",
+    "picture": null
+  },
+  "Kuhle-Konstantin-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Konstantin Kuhle",
+    "picture": null
+  },
+  "Kulitz-Alexander-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Alexander Kulitz",
+    "picture": null
+  },
+  "Kurth-Markus-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Markus Kurth",
+    "picture": null
+  },
+  "L-bel-Nikolas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Nikolas L\u00f6bel",
+    "picture": null
+  },
+  "L-hmann-Kirsten-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Kirsten L\u00fchmann",
+    "picture": null
+  },
+  "L-mmel-Andreas-G-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Andreas G. L\u00e4mmel",
+    "picture": null
+  },
+  "L-tzsch-Gesine-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Gesine L\u00f6tzsch",
+    "picture": null
+  },
+  "Lambrecht-Christine-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Christine Lambrecht",
+    "picture": null
+  },
+  "Lambsdorff-Alexander-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Alexander Graf Lambsdorff",
+    "picture": null
+  },
+  "Lamers-Karl-A-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Dr. h.c. Karl A. Lamers",
+    "picture": null
+  },
+  "Landgraf-Katharina-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Katharina Landgraf",
+    "picture": null
+  },
+  "Lange-Backnang-Christian-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Christian Lange (Backnang)",
+    "picture": null
+  },
+  "Lange-Ulrich-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Ulrich Lange",
+    "picture": null
+  },
+  "Launert-Silke-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Silke Launert",
+    "picture": null
+  },
+  "Lauterbach-Karl-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Karl Lauterbach",
+    "picture": null
+  },
+  "Lay-Caren-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Caren Lay",
+    "picture": null
+  },
+  "Lazar-Monika-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Monika Lazar",
+    "picture": null
+  },
+  "Lechte-Ulrich-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Ulrich Lechte",
+    "picture": null
+  },
+  "Lehmann-Jens-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Jens Lehmann",
+    "picture": null
+  },
+  "Lehmann-Sven-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Sven Lehmann",
+    "picture": null
+  },
+  "Lehmann-Sylvia-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Sylvia Lehmann",
+    "picture": null
+  },
+  "Lehrieder-Paul-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Paul Lehrieder",
+    "picture": null
+  },
+  "Leidig-Sabine-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Sabine Leidig",
+    "picture": null
+  },
+  "Leikert-Katja-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Katja Leikert",
+    "picture": null
+  },
+  "Lemke-Steffi-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Steffi Lemke",
+    "picture": null
+  },
+  "Lenkert-Ralph-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Ralph Lenkert",
+    "picture": null
+  },
+  "Lenz-Andreas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Andreas Lenz",
+    "picture": null
+  },
+  "Leutert-Michael-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Leutert",
+    "picture": null
+  },
+  "Leyen-Ursula-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Ursula von der Leyen",
+    "picture": null
+  },
+  "Lezius-Antje-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Antje Lezius",
+    "picture": null
+  },
+  "Liebich-Stefan-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Stefan Liebich",
+    "picture": null
+  },
+  "Lindh-Helge-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Helge Lindh",
+    "picture": null
+  },
+  "Lindholz-Andrea-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Andrea Lindholz",
+    "picture": null
+  },
+  "Lindner-Christian-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Christian Lindner",
+    "picture": null
+  },
+  "Lindner-Tobias-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Tobias Lindner",
+    "picture": null
+  },
+  "Link-Heilbronn-Michael-Georg-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Georg Link (Heilbronn)",
+    "picture": null
+  },
+  "Link-Heilbronn-Michael-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Link (Heilbronn)",
+    "picture": null
+  },
+  "Linnemann-Carsten-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Carsten Linnemann",
+    "picture": null
+  },
+  "Lips-Patricia-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Patricia Lips",
+    "picture": null
+  },
+  "Lischka-Burkhard-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Burkhard Lischka",
+    "picture": null
+  },
+  "Loos-Bernhard-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Bernhard Loos",
+    "picture": null
+  },
+  "Lotze-Hiltrud-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Hiltrud Lotze",
+    "picture": null
+  },
+  "Lucassen-R-diger-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "R\u00fcdiger Lucassen",
+    "picture": null
+  },
+  "Luczak-Jan-Marco-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Jan-Marco Luczak",
+    "picture": null
+  },
+  "Ludwig-Daniela-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Daniela Ludwig",
+    "picture": null
+  },
+  "Ludwig-Saskia-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Saskia Ludwig",
+    "picture": null
+  },
+  "Luksic-Oliver-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Oliver Luksic",
+    "picture": null
+  },
+  "Lutze-Thomas-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Lutze",
+    "picture": null
+  },
+  "M-hring-Cornelia-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Cornelia M\u00f6hring",
+    "picture": null
+  },
+  "M-ller-Alexander-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Alexander M\u00fcller",
+    "picture": null
+  },
+  "M-ller-Axel-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Axel M\u00fcller",
+    "picture": null
+  },
+  "M-ller-B-hm-Roman-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Roman M\u00fcller-B\u00f6hm",
+    "picture": null
+  },
+  "M-ller-Bettina-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Bettina M\u00fcller",
+    "picture": null
+  },
+  "M-ller-Braunschweig-Carsten-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Carsten M\u00fcller (Braunschweig)",
+    "picture": null
+  },
+  "M-ller-Chemnitz-Detlef-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Detlef M\u00fcller (Chemnitz)",
+    "picture": null
+  },
+  "M-ller-Claudia-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Claudia M\u00fcller",
+    "picture": null
+  },
+  "M-ller-Erlangen-Stefan-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Stefan M\u00fcller (Erlangen)",
+    "picture": null
+  },
+  "M-ller-Gemmeke-Beate-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Beate M\u00fcller-Gemmeke",
+    "picture": null
+  },
+  "M-ller-Gerd-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Gerd M\u00fcller",
+    "picture": null
+  },
+  "M-ller-Hansj-rg-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Hansj\u00f6rg M\u00fcller",
+    "picture": null
+  },
+  "M-ller-Potsdam-Norbert-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Norbert M\u00fcller (Potsdam)",
+    "picture": null
+  },
+  "M-ller-Rosentritt-Frank-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Frank M\u00fcller-Rosentritt",
+    "picture": null
+  },
+  "M-ller-Sepp-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Sepp M\u00fcller",
+    "picture": null
+  },
+  "M-ller-Siemtje-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Siemtje M\u00f6ller",
+    "picture": null
+  },
+  "M-ntefering-Michelle-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Michelle M\u00fcntefering",
+    "picture": null
+  },
+  "M-nz-Volker-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Volker M\u00fcnz",
+    "picture": null
+  },
+  "M-nzenmaier-Sebastian-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Sebastian M\u00fcnzenmaier",
+    "picture": null
+  },
+  "M-ring-Karsten-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Karsten M\u00f6ring",
+    "picture": null
+  },
+  "M-tzenich-Rolf-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Rolf M\u00fctzenich",
+    "picture": null
+  },
+  "Maag-Karin-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Karin Maag",
+    "picture": null
+  },
+  "Maas-Heiko-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Heiko Maas",
+    "picture": null
+  },
+  "Mackensen-Geis-Isabel-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Isabel Mackensen-Geis",
+    "picture": null
+  },
+  "Mackensen-Isabel-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Isabel Mackensen",
+    "picture": null
+  },
+  "Magnitz-Frank-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Frank Magnitz",
+    "picture": null
+  },
+  "Magwas-Yvonne-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Yvonne Magwas",
+    "picture": null
+  },
+  "Maier-Jens-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Jens Maier",
+    "picture": null
+  },
+  "Maier-Lothar-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Lothar Maier",
+    "picture": null
+  },
+  "Maizi-re-Thomas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Thomas de Maizi\u00e8re",
+    "picture": null
+  },
+  "Malsack-Winkemann-Birgit-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Birgit Malsack-Winkemann",
+    "picture": null
+  },
+  "Manderla-Gisela-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Gisela Manderla",
+    "picture": null
+  },
+  "Mannes-Astrid-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Astrid Mannes",
+    "picture": null
+  },
+  "Mansmann-Till-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Till Mansmann",
+    "picture": null
+  },
+  "Marks-Caren-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Caren Marks",
+    "picture": null
+  },
+  "Marschall-Matern-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Matern von Marschall",
+    "picture": null
+  },
+  "Martens-J-rgen-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. J\u00fcrgen Martens",
+    "picture": null
+  },
+  "Martin-Dorothee-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dorothee Martin",
+    "picture": null
+  },
+  "Marwitz-Hans-Georg-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Hans-Georg von der Marwitz",
+    "picture": null
+  },
+  "Mast-Katja-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Katja Mast",
+    "picture": null
+  },
+  "Matschie-Christoph-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Christoph Matschie",
+    "picture": null
+  },
+  "Mattfeldt-Andreas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Andreas Mattfeldt",
+    "picture": null
+  },
+  "Mattheis-Hilde-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Hilde Mattheis",
+    "picture": null
+  },
+  "Mayer-Alt-tting-Stephan-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Stephan Mayer (Alt\u00f6tting)",
+    "picture": null
+  },
+  "Meiser-Pascal-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Pascal Meiser",
+    "picture": null
+  },
+  "Meister-Michael-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Michael Meister",
+    "picture": null
+  },
+  "Merkel-Angela-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Angela Merkel",
+    "picture": null
+  },
+  "Metzler-Jan-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Jan Metzler",
+    "picture": null
+  },
+  "Meyer-Christoph-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Christoph Meyer",
+    "picture": null
+  },
+  "Miazga-Corinna-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Corinna Miazga",
+    "picture": null
+  },
+  "Michelbach-Hans-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. h.c. Hans Michelbach",
+    "picture": null
+  },
+  "Middelberg-Mathias-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Mathias Middelberg",
+    "picture": null
+  },
+  "Miersch-Matthias-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Matthias Miersch",
+    "picture": null
+  },
+  "Mihalic-Irene-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Irene Mihalic",
+    "picture": null
+  },
+  "Mindrup-Klaus-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Klaus Mindrup",
+    "picture": null
+  },
+  "Mittag-Susanne-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Susanne Mittag",
+    "picture": null
+  },
+  "Mohamed-Ali-Amira-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Amira Mohamed Ali",
+    "picture": null
+  },
+  "Mohrs-Falko-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Falko Mohrs",
+    "picture": null
+  },
+  "Moll-Claudia-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Claudia Moll",
+    "picture": null
+  },
+  "Monstadt-Dietrich-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dietrich Monstadt",
+    "picture": null
+  },
+  "Mortler-Marlene-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Marlene Mortler",
+    "picture": null
+  },
+  "Motschmann-Elisabeth-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Elisabeth Motschmann",
+    "picture": null
+  },
+  "Movassat-Niema-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Niema Movassat",
+    "picture": null
+  },
+  "Mrosek-Andreas-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Andreas Mrosek",
+    "picture": null
+  },
+  "N-lein-Georg-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Georg N\u00fc\u00dflein",
+    "picture": null
+  },
+  "N-lke-Matthias-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Matthias N\u00f6lke",
+    "picture": null
+  },
+  "Nahles-Andrea-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Andrea Nahles",
+    "picture": null
+  },
+  "Nastic-Zaklin-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Zaklin Nastic",
+    "picture": null
+  },
+  "Natterer-Christian-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Christian Natterer",
+    "picture": null
+  },
+  "Nestle-Ingrid-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Ingrid Nestle",
+    "picture": null
+  },
+  "Neu-Alexander-S-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Alexander S. Neu",
+    "picture": null
+  },
+  "Neumann-Christoph-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Christoph Neumann",
+    "picture": null
+  },
+  "Neumann-Lausitz-Martin-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Martin Neumann (Lausitz)",
+    "picture": null
+  },
+  "Nick-Andreas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Andreas Nick",
+    "picture": null
+  },
+  "Nicolaisen-Petra-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Petra Nicolaisen",
+    "picture": null
+  },
+  "Nietan-Dietmar-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dietmar Nietan",
+    "picture": null
+  },
+  "Nissen-Ulli-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Ulli Nissen",
+    "picture": null
+  },
+  "Noll-Michaela-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Michaela Noll",
+    "picture": null
+  },
+  "Nolte-Jan-Ralf-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Jan Ralf Nolte",
+    "picture": null
+  },
+  "Nord-Thomas-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Nord",
+    "picture": null
+  },
+  "Nordt-Kristina-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Kristina Nordt",
+    "picture": null
+  },
+  "Notz-Konstantin-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Konstantin von Notz",
+    "picture": null
+  },
+  "Nouripour-Omid-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Omid Nouripour",
+    "picture": null
+  },
+  "O-ner-Florian-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Florian O\u00dfner",
+    "picture": null
+  },
+  "Oehme-Ulrich-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Ulrich Oehme",
+    "picture": null
+  },
+  "Oellers-Wilfried-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Wilfried Oellers",
+    "picture": null
+  },
+  "Oppermann-Thomas-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Oppermann",
+    "picture": null
+  },
+  "Ortleb-Josephine-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Josephine Ortleb",
+    "picture": null
+  },
+  "Ostendorff-Friedrich-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Friedrich Ostendorff",
+    "picture": null
+  },
+  "Oster-Josef-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Josef Oster",
+    "picture": null
+  },
+  "Ostermann-Tim-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Tim Ostermann",
+    "picture": null
+  },
+  "Otte-Henning-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Henning Otte",
+    "picture": null
+  },
+  "Otten-Gerold-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Gerold Otten",
+    "picture": null
+  },
+  "Pahlmann-Ingrid-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Ingrid Pahlmann",
+    "picture": null
+  },
+  "Pantel-Sylvia-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Sylvia Pantel",
+    "picture": null
+  },
+  "Paschke-Markus-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Markus Paschke",
+    "picture": null
+  },
+  "Pasemann-Frank-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Frank Pasemann",
+    "picture": null
+  },
+  "Patzelt-Martin-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Martin Patzelt",
+    "picture": null
+  },
+  "Pau-Petra-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Petra Pau",
+    "picture": null
+  },
+  "Paus-Lisa-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Lisa Paus",
+    "picture": null
+  },
+  "Pellmann-S-ren-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "S\u00f6ren Pellmann",
+    "picture": null
+  },
+  "Perli-Victor-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Victor Perli",
+    "picture": null
+  },
+  "Peterka-Tobias-Matthias-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Tobias Matthias Peterka",
+    "picture": null
+  },
+  "Petry-Christian-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Christian Petry",
+    "picture": null
+  },
+  "Pfeiffer-Joachim-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Joachim Pfeiffer",
+    "picture": null
+  },
+  "Pfl-ger-Tobias-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Tobias Pfl\u00fcger",
+    "picture": null
+  },
+  "Pilger-Detlev-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Detlev Pilger",
+    "picture": null
+  },
+  "Pilsinger-Stephan-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Stephan Pilsinger",
+    "picture": null
+  },
+  "Plo-Christoph-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Christoph Plo\u00df",
+    "picture": null
+  },
+  "Podolay-Paul-Viktor-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Paul Viktor Podolay",
+    "picture": null
+  },
+  "Pohl-J-rgen-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "J\u00fcrgen Pohl",
+    "picture": null
+  },
+  "Polat-Filiz-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Filiz Polat",
+    "picture": null
+  },
+  "Pols-Eckhard-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Eckhard Pols",
+    "picture": null
+  },
+  "Poschmann-Sabine-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Sabine Poschmann",
+    "picture": null
+  },
+  "Post-Florian-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Florian Post",
+    "picture": null
+  },
+  "Post-Minden-Achim-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Achim Post (Minden)",
+    "picture": null
+  },
+  "Pronold-Florian-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Florian Pronold",
+    "picture": null
+  },
+  "Protschka-Stephan-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Stephan Protschka",
+    "picture": null
+  },
+  "R-ddel-Erwin-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Erwin R\u00fcddel",
+    "picture": null
+  },
+  "R-ffer-Corinna-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Corinna R\u00fcffer",
+    "picture": null
+  },
+  "R-ner-Tabea-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Tabea R\u00f6\u00dfner",
+    "picture": null
+  },
+  "R-ring-Johannes-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Johannes R\u00f6ring",
+    "picture": null
+  },
+  "R-spel-Ren-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Ren\u00e9 R\u00f6spel",
+    "picture": null
+  },
+  "R-thrich-Susann-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Susann R\u00fcthrich",
+    "picture": null
+  },
+  "R-ttgen-Norbert-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Norbert R\u00f6ttgen",
+    "picture": null
+  },
+  "R-tzel-Bernd-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Bernd R\u00fctzel",
+    "picture": null
+  },
+  "Raabe-Sascha-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Sascha Raabe",
+    "picture": null
+  },
+  "Rabanus-Martin-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Martin Rabanus",
+    "picture": null
+  },
+  "Rachel-Thomas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Rachel",
+    "picture": null
+  },
+  "Radomski-Kerstin-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Kerstin Radomski",
+    "picture": null
+  },
+  "Radwan-Alexander-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Alexander Radwan",
+    "picture": null
+  },
+  "Rainer-Alois-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Alois Rainer",
+    "picture": null
+  },
+  "Ramsauer-Peter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Peter Ramsauer",
+    "picture": null
+  },
+  "Rawert-Mechthild-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Mechthild Rawert",
+    "picture": null
+  },
+  "Rehberg-Eckhardt-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Eckhardt Rehberg",
+    "picture": null
+  },
+  "Reichardt-Martin-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Martin Reichardt",
+    "picture": null
+  },
+  "Reinhold-Hagen-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Hagen Reinhold",
+    "picture": null
+  },
+  "Remmers-Ingrid-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Ingrid Remmers",
+    "picture": null
+  },
+  "Renner-Martin-Erwin-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Martin Erwin Renner",
+    "picture": null
+  },
+  "Renner-Martina-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Martina Renner",
+    "picture": null
+  },
+  "Reusch-Roman-Johannes-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Roman Johannes Reusch",
+    "picture": null
+  },
+  "Reuther-Bernd-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Bernd Reuther",
+    "picture": null
+  },
+  "Riebsamen-Lothar-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Lothar Riebsamen",
+    "picture": null
+  },
+  "Rief-Josef-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Josef Rief",
+    "picture": null
+  },
+  "Riexinger-Bernd-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Bernd Riexinger",
+    "picture": null
+  },
+  "Rimkus-Andreas-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Andreas Rimkus",
+    "picture": null
+  },
+  "Rix-S-nke-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "S\u00f6nke Rix",
+    "picture": null
+  },
+  "Rohde-Dennis-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dennis Rohde",
+    "picture": null
+  },
+  "Rosemann-Martin-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Martin Rosemann",
+    "picture": null
+  },
+  "Rossmann-Ernst-Dieter-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Ernst Dieter Rossmann",
+    "picture": null
+  },
+  "Roth-Augsburg-Claudia-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Claudia Roth (Augsburg)",
+    "picture": null
+  },
+  "Roth-Heringen-Michael-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Roth (Heringen)",
+    "picture": null
+  },
+  "Rottmann-Manuela-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Manuela Rottmann",
+    "picture": null
+  },
+  "Rouenhoff-Stefan-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Stefan Rouenhoff",
+    "picture": null
+  },
+  "Ruppert-Stefan-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Stefan Ruppert",
+    "picture": null
+  },
+  "Rupprecht-Albert-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Albert Rupprecht",
+    "picture": null
+  },
+  "Ryglewski-Sarah-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Sarah Ryglewski",
+    "picture": null
+  },
+  "Saathoff-Johann-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Johann Saathoff",
+    "picture": null
+  },
+  "Sarrazin-Manuel-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Manuel Sarrazin",
+    "picture": null
+  },
+  "Sattelberger-Thomas-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. h.c. Thomas Sattelberger",
+    "picture": null
+  },
+  "Sauer-Stefan-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Stefan Sauer",
+    "picture": null
+  },
+  "Sauter-Christian-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Christian Sauter",
+    "picture": null
+  },
+  "Sch-fer-Bochum-Axel-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Axel Sch\u00e4fer (Bochum)",
+    "picture": null
+  },
+  "Sch-fer-Saalstadt-Anita-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Anita Sch\u00e4fer (Saalstadt)",
+    "picture": null
+  },
+  "Sch-ffler-Frank-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Frank Sch\u00e4ffler",
+    "picture": null
+  },
+  "Sch-le-Manja-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Manja Sch\u00fcle",
+    "picture": null
+  },
+  "Sch-n-Nadine-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Nadine Sch\u00f6n",
+    "picture": null
+  },
+  "Sch-uble-Wolfgang-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Wolfgang Sch\u00e4uble",
+    "picture": null
+  },
+  "Schauws-Ulle-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Ulle Schauws",
+    "picture": null
+  },
+  "Scheer-Nina-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Nina Scheer",
+    "picture": null
+  },
+  "Scheuer-Andreas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Andreas Scheuer",
+    "picture": null
+  },
+  "Schick-Gerhard-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Gerhard Schick",
+    "picture": null
+  },
+  "Schieder-Marianne-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Marianne Schieder",
+    "picture": null
+  },
+  "Schiefner-Udo-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Udo Schiefner",
+    "picture": null
+  },
+  "Schielke-Ziesing-Ulrike-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Ulrike Schielke-Ziesing",
+    "picture": null
+  },
+  "Schimke-Jana-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Jana Schimke",
+    "picture": null
+  },
+  "Schinnenburg-Wieland-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Wieland Schinnenburg",
+    "picture": null
+  },
+  "Schipanski-Tankred-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Tankred Schipanski",
+    "picture": null
+  },
+  "Schlund-Robby-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Robby Schlund",
+    "picture": null
+  },
+  "Schmid-Nils-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Nils Schmid",
+    "picture": null
+  },
+  "Schmidt-Aachen-Ulla-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Ulla Schmidt (Aachen)",
+    "picture": null
+  },
+  "Schmidt-F-rth-Christian-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Christian Schmidt (F\u00fcrth)",
+    "picture": null
+  },
+  "Schmidt-Frithjof-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Frithjof Schmidt",
+    "picture": null
+  },
+  "Schmidt-Stefan-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Stefan Schmidt",
+    "picture": null
+  },
+  "Schmidt-Uwe-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Uwe Schmidt",
+    "picture": null
+  },
+  "Schmidt-Wetzlar-Dagmar-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dagmar Schmidt (Wetzlar)",
+    "picture": null
+  },
+  "Schmidtke-Claudia-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Claudia Schmidtke",
+    "picture": null
+  },
+  "Schneider-Erfurt-Carsten-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Carsten Schneider (Erfurt)",
+    "picture": null
+  },
+  "Schneider-J-rg-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "J\u00f6rg Schneider",
+    "picture": null
+  },
+  "Schneidewind-Hartnagel-Charlotte-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Charlotte Schneidewind-Hartnagel",
+    "picture": null
+  },
+  "Schnieder-Patrick-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Patrick Schnieder",
+    "picture": null
+  },
+  "Schraps-Johannes-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Johannes Schraps",
+    "picture": null
+  },
+  "Schreiber-Eva-Maria-Elisabeth-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Eva-Maria Elisabeth Schreiber",
+    "picture": null
+  },
+  "Schreiber-Eva-Maria-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Eva-Maria Schreiber",
+    "picture": null
+  },
+  "Schreiner-Felix-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Felix Schreiner",
+    "picture": null
+  },
+  "Schrodi-Michael-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Schrodi",
+    "picture": null
+  },
+  "Schulte-Ursula-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Ursula Schulte",
+    "picture": null
+  },
+  "Schulz-Asche-Kordula-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Kordula Schulz-Asche",
+    "picture": null
+  },
+  "Schulz-Jimmy-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Jimmy Schulz",
+    "picture": null
+  },
+  "Schulz-Martin-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Martin Schulz",
+    "picture": null
+  },
+  "Schulz-Spandau-Swen-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Swen Schulz (Spandau)",
+    "picture": null
+  },
+  "Schulz-Uwe-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Uwe Schulz",
+    "picture": null
+  },
+  "Schulze-Klaus-Peter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Klaus-Peter Schulze",
+    "picture": null
+  },
+  "Schummer-Uwe-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Uwe Schummer",
+    "picture": null
+  },
+  "Schuster-Weil-am-Rhein-Armin-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Armin Schuster (Weil am Rhein)",
+    "picture": null
+  },
+  "Schwabe-Frank-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Frank Schwabe",
+    "picture": null
+  },
+  "Schwartze-Stefan-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Stefan Schwartze",
+    "picture": null
+  },
+  "Schwarz-Andreas-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Andreas Schwarz",
+    "picture": null
+  },
+  "Schwarzel-hr-Sutter-Rita-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Rita Schwarzel\u00fchr-Sutter",
+    "picture": null
+  },
+  "Schweiger-Torsten-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Torsten Schweiger",
+    "picture": null
+  },
+  "Seestern-Pauly-Matthias-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Matthias Seestern-Pauly",
+    "picture": null
+  },
+  "Seif-Detlef-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Detlef Seif",
+    "picture": null
+  },
+  "Seitz-Thomas-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Seitz",
+    "picture": null
+  },
+  "Selle-Johannes-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Johannes Selle",
+    "picture": null
+  },
+  "Sendker-Reinhold-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Reinhold Sendker",
+    "picture": null
+  },
+  "Sensburg-Patrick-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Patrick Sensburg",
+    "picture": null
+  },
+  "Sichert-Martin-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Martin Sichert",
+    "picture": null
+  },
+  "Siebert-Bernd-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Bernd Siebert",
+    "picture": null
+  },
+  "Silberhorn-Thomas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Silberhorn",
+    "picture": null
+  },
+  "Simon-Bj-rn-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Bj\u00f6rn Simon",
+    "picture": null
+  },
+  "Sitta-Frank-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Frank Sitta",
+    "picture": null
+  },
+  "Sitte-Petra-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Petra Sitte",
+    "picture": null
+  },
+  "Skudelny-Judith-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Judith Skudelny",
+    "picture": null
+  },
+  "Solms-Hermann-Otto-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Hermann Otto Solms",
+    "picture": null
+  },
+  "Sommer-Helin-Evrim-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Helin Evrim Sommer",
+    "picture": null
+  },
+  "Sorge-Tino-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Tino Sorge",
+    "picture": null
+  },
+  "Spahn-Jens-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Jens Spahn",
+    "picture": null
+  },
+  "Spangenberg-Detlev-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Detlev Spangenberg",
+    "picture": null
+  },
+  "Spaniel-Dirk-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Dirk Spaniel",
+    "picture": null
+  },
+  "Spiering-Rainer-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Rainer Spiering",
+    "picture": null
+  },
+  "Springer-Ren-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Ren\u00e9 Springer",
+    "picture": null
+  },
+  "St-bgen-Michael-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael St\u00fcbgen",
+    "picture": null
+  },
+  "Stadler-Svenja-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Svenja Stadler",
+    "picture": null
+  },
+  "Staffler-Katrin-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Katrin Staffler",
+    "picture": null
+  },
+  "Stamm-Fibich-Martina-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Martina Stamm-Fibich",
+    "picture": null
+  },
+  "Stark-Watzinger-Bettina-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Bettina Stark-Watzinger",
+    "picture": null
+  },
+  "Steffel-Frank-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Frank Steffel",
+    "picture": null
+  },
+  "Steffen-Sonja-Amalie-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Sonja Amalie Steffen",
+    "picture": null
+  },
+  "Stefinger-Wolfgang-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Wolfgang Stefinger",
+    "picture": null
+  },
+  "Stegemann-Albert-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Albert Stegemann",
+    "picture": null
+  },
+  "Steier-Andreas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Andreas Steier",
+    "picture": null
+  },
+  "Stein-Mathias-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Mathias Stein",
+    "picture": null
+  },
+  "Stein-Rostock-Peter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Peter Stein (Rostock)",
+    "picture": null
+  },
+  "Steineke-Sebastian-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Sebastian Steineke",
+    "picture": null
+  },
+  "Steiniger-Johannes-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Johannes Steiniger",
+    "picture": null
+  },
+  "Steinke-Kersten-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Kersten Steinke",
+    "picture": null
+  },
+  "Stetten-Christian-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Christian Frhr. von Stetten",
+    "picture": null
+  },
+  "Stier-Dieter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dieter Stier",
+    "picture": null
+  },
+  "Storch-Beatrix-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Beatrix von Storch",
+    "picture": null
+  },
+  "Storjohann-Gero-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Gero Storjohann",
+    "picture": null
+  },
+  "Strack-Zimmermann-Marie-Agnes-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Marie-Agnes Strack-Zimmermann",
+    "picture": null
+  },
+  "Stracke-Stephan-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Stephan Stracke",
+    "picture": null
+  },
+  "Straetmanns-Friedrich-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Friedrich Straetmanns",
+    "picture": null
+  },
+  "Strasser-Benjamin-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Benjamin Strasser",
+    "picture": null
+  },
+  "Straubinger-Max-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Max Straubinger",
+    "picture": null
+  },
+  "Strengmann-Kuhn-Wolfgang-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Wolfgang Strengmann-Kuhn",
+    "picture": null
+  },
+  "Strenz-Karin-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Karin Strenz",
+    "picture": null
+  },
+  "Stumpp-Margit-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Margit Stumpp",
+    "picture": null
+  },
+  "Suding-Katja-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Katja Suding",
+    "picture": null
+  },
+  "T-ns-Markus-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Markus T\u00f6ns",
+    "picture": null
+  },
+  "Tack-Kerstin-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Kerstin Tack",
+    "picture": null
+  },
+  "Tackmann-Kirsten-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Kirsten Tackmann",
+    "picture": null
+  },
+  "Tatti-Jessica-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Jessica Tatti",
+    "picture": null
+  },
+  "Tauber-Peter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Peter Tauber",
+    "picture": null
+  },
+  "Tausend-Claudia-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Claudia Tausend",
+    "picture": null
+  },
+  "Tebroke-Hermann-Josef-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Hermann-Josef Tebroke",
+    "picture": null
+  },
+  "Teuteberg-Linda-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Linda Teuteberg",
+    "picture": null
+  },
+  "Theurer-Michael-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Theurer",
+    "picture": null
+  },
+  "Thews-Michael-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Michael Thews",
+    "picture": null
+  },
+  "Thies-Hans-J-rgen-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Hans-J\u00fcrgen Thies",
+    "picture": null
+  },
+  "Thomae-Stephan-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Stephan Thomae",
+    "picture": null
+  },
+  "Throm-Alexander-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Alexander Throm",
+    "picture": null
+  },
+  "Tiemann-Dietlind-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Dietlind Tiemann",
+    "picture": null
+  },
+  "Tillmann-Antje-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Antje Tillmann",
+    "picture": null
+  },
+  "Todtenhausen-Manfred-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Manfred Todtenhausen",
+    "picture": null
+  },
+  "Toncar-Florian-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Florian Toncar",
+    "picture": null
+  },
+  "Tr-ger-Carsten-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Carsten Tr\u00e4ger",
+    "picture": null
+  },
+  "Tressel-Markus-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Markus Tressel",
+    "picture": null
+  },
+  "Trittin-J-rgen-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "J\u00fcrgen Trittin",
+    "picture": null
+  },
+  "Troost-Axel-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Axel Troost",
+    "picture": null
+  },
+  "Uhl-Markus-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Markus Uhl",
+    "picture": null
+  },
+  "Ullmann-Andrew-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Andrew Ullmann",
+    "picture": null
+  },
+  "Ullrich-Gerald-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Gerald Ullrich",
+    "picture": null
+  },
+  "Ullrich-Volker-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Volker Ullrich",
+    "picture": null
+  },
+  "Ulrich-Alexander-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Alexander Ulrich",
+    "picture": null
+  },
+  "V-llers-Marja-Liisa-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Marja-Liisa V\u00f6llers",
+    "picture": null
+  },
+  "V-pel-Dirk-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dirk V\u00f6pel",
+    "picture": null
+  },
+  "Vaatz-Arnold-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Arnold Vaatz",
+    "picture": null
+  },
+  "Veith-Oswin-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Oswin Veith",
+    "picture": null
+  },
+  "Verlinden-Julia-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Julia Verlinden",
+    "picture": null
+  },
+  "Vieregge-Kerstin-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Kerstin Vieregge",
+    "picture": null
+  },
+  "Viesehon-Thomas-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Thomas Viesehon",
+    "picture": null
+  },
+  "Vogel-Kleinsaara-Volkmar-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Volkmar Vogel (Kleinsaara)",
+    "picture": null
+  },
+  "Vogel-L-denscheid-Johannes-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Johannes Vogel (L\u00fcdenscheid)",
+    "picture": null
+  },
+  "Vogel-Olpe-Johannes-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Johannes Vogel (Olpe)",
+    "picture": null
+  },
+  "Vogler-Kathrin-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Kathrin Vogler",
+    "picture": null
+  },
+  "Vogt-Ute-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Ute Vogt",
+    "picture": null
+  },
+  "Vries-Christoph-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Christoph de Vries",
+    "picture": null
+  },
+  "Vries-Kees-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Kees de Vries",
+    "picture": null
+  },
+  "Wadephul-Johann-David-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Johann David Wadephul",
+    "picture": null
+  },
+  "Wagenknecht-Sahra-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Sahra Wagenknecht",
+    "picture": null
+  },
+  "Wagner-Andreas-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Andreas Wagner",
+    "picture": null
+  },
+  "Wagner-Daniela-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Daniela Wagner",
+    "picture": null
+  },
+  "Walter-Rosenheimer-Beate-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Beate Walter-Rosenheimer",
+    "picture": null
+  },
+  "Wanderwitz-Marco-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Marco Wanderwitz",
+    "picture": null
+  },
+  "Warken-Nina-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Nina Warken",
+    "picture": null
+  },
+  "Weber-Gabi-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Gabi Weber",
+    "picture": null
+  },
+  "Weeser-Sandra-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Sandra Weeser",
+    "picture": null
+  },
+  "Wegner-Kai-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Kai Wegner",
+    "picture": null
+  },
+  "Wei-Emmendingen-Peter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Peter Wei\u00df (Emmendingen)",
+    "picture": null
+  },
+  "Weidel-Alice-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Alice Weidel",
+    "picture": null
+  },
+  "Weiler-Albert-H-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. h. c. (NUACA) Albert H. Weiler",
+    "picture": null
+  },
+  "Weiler-Albert-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. h.c. Albert Weiler",
+    "picture": null
+  },
+  "Weinberg-Hamburg-Marcus-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Marcus Weinberg (Hamburg)",
+    "picture": null
+  },
+  "Weinberg-Harald-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Harald Weinberg",
+    "picture": null
+  },
+  "Weingarten-Joe-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Joe Weingarten",
+    "picture": null
+  },
+  "Weisgerber-Anja-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Anja Weisgerber",
+    "picture": null
+  },
+  "Weiss-Wesel-I-Sabine-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Sabine Weiss (Wesel I)",
+    "picture": null
+  },
+  "Wellenreuther-Ingo-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Ingo Wellenreuther",
+    "picture": null
+  },
+  "Wendt-Marian-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Marian Wendt",
+    "picture": null
+  },
+  "Werner-Katrin-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Katrin Werner",
+    "picture": null
+  },
+  "Westig-Nicole-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Nicole Westig",
+    "picture": null
+  },
+  "Westphal-Bernd-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Bernd Westphal",
+    "picture": null
+  },
+  "Wetzel-Wolfgang-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Wolfgang Wetzel",
+    "picture": null
+  },
+  "Weyel-Harald-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Harald Weyel",
+    "picture": null
+  },
+  "Whittaker-Kai-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Kai Whittaker",
+    "picture": null
+  },
+  "Widmann-Mauz-Annette-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Annette Widmann-Mauz",
+    "picture": null
+  },
+  "Wiehle-Wolfgang-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Wolfgang Wiehle",
+    "picture": null
+  },
+  "Wiese-Dirk-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dirk Wiese",
+    "picture": null
+  },
+  "Wiesmann-Bettina-Margarethe-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Bettina Margarethe Wiesmann",
+    "picture": null
+  },
+  "Wildberg-Heiko-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Heiko Wildberg",
+    "picture": null
+  },
+  "Willkomm-Katharina-fdp": {
+    "color1": null,
+    "color2": null,
+    "name": "Katharina Willkomm",
+    "picture": null
+  },
+  "Willsch-Klaus-Peter-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Klaus-Peter Willsch",
+    "picture": null
+  },
+  "Winkelmeier-Becker-Elisabeth-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Elisabeth Winkelmeier-Becker",
+    "picture": null
+  },
+  "Wirth-Christian-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Christian Wirth",
+    "picture": null
+  },
+  "Witt-Uwe-afd": {
+    "color1": null,
+    "color2": null,
+    "name": "Uwe Witt",
+    "picture": null
+  },
+  "Wittke-Oliver-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Oliver Wittke",
+    "picture": null
+  },
+  "Y-ksel-G-listan-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "G\u00fclistan Y\u00fcksel",
+    "picture": null
+  },
+  "Zdebel-Hubertus-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Hubertus Zdebel",
+    "picture": null
+  },
+  "Zech-Tobias-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Tobias Zech",
+    "picture": null
+  },
+  "Zeulner-Emmi-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Emmi Zeulner",
+    "picture": null
+  },
+  "Zickenheiner-Gerhard-buendnis-90-die-gruenen": {
+    "color1": null,
+    "color2": null,
+    "name": "Gerhard Zickenheiner",
+    "picture": null
+  },
+  "Ziegler-Dagmar-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dagmar Ziegler",
+    "picture": null
+  },
+  "Ziemiak-Paul-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Paul Ziemiak",
+    "picture": null
+  },
+  "Zierke-Stefan-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Stefan Zierke",
+    "picture": null
+  },
+  "Zimmer-Matthias-cdu-csu": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Matthias Zimmer",
+    "picture": null
+  },
+  "Zimmermann-Jens-spd": {
+    "color1": null,
+    "color2": null,
+    "name": "Dr. Jens Zimmermann",
+    "picture": null
+  },
+  "Zimmermann-Pia-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Pia Zimmermann",
+    "picture": null
+  },
+  "Zimmermann-Zwickau-Sabine-die-linke": {
+    "color1": null,
+    "color2": null,
+    "name": "Sabine Zimmermann (Zwickau)",
+    "picture": null
+  }
+}
