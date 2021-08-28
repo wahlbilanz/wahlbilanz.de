@@ -20,7 +20,11 @@ claims = [
     "category": "internationales",
     "description": "2014 haben die NATO-Mitgliedsländer beschlossen, dass jeder Natostaat mindestens 2% seines Bruttoinlandsproduktes in das Militär stecken sollte.",
     "bundestagsid": "019-061-02",
-    "moreinfo":""
+    "shorttitle":"2%-Rüstungsziel",
+    "moreinfo":[
+      "Die Abstimmung fand am 8. November 2018 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=555)"
+    ]
 
   },
   {
@@ -31,6 +35,7 @@ claims = [
     "category": "internationales",
     "description": ",
     "bundestagsid": "019-021-01",
+    "shorttitle":"Grenzkontrollen einführen",
     "moreinfo":[
       "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=504)",
       "Die Abstimmung fand am  16. März 2018 statt."
@@ -41,13 +46,16 @@ claims = [
     "id": "familiennachzug",
     "invert": False,
     "order": 3,
-    "title": "Sollte der Familiennachzug für subsidiär Schutzberechtigte abgeschafft werden?",
+    "title": "Sollte der Familiennachzug für subsidiär Schutzberechtigte komplett abgeschafft werden?",
     "category": "internationales",
     "description": "Subsidiär Schutzberechtigte sind Flüchtlinge ohne vollen Flüchtlingsstatus. Der Familiennachzug ermöglicht es diesen Flüchtlingen, temporäre Aufenthaltsgenehmigungen für engste Angehörige (eigene Kinder, bei Minderjährigen auch deren Eltern) zu erhalten.",
     "bundestagsid": "019-011-02",
+    "shorttitle":"Familiennachzug abschaffen",
     "moreinfo":[
-      "Die Abstimmung fand am  statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+      "Die Abstimmung fand am 1. Februar 2018 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=501)",
+      "[Subsidiär Schutzberechtigte](https://de.wikipedia.org/wiki/Subsidi%C3%A4r_Schutzberechtigter) haben zunächst nur eine temporäre Aufenthaltsberechtigung.",
+      "[Familienzusammenführungen](https://de.wikipedia.org/wiki/Familienzusammenf%C3%BChrung)" 
     ]
   },
   {
@@ -58,22 +66,26 @@ claims = [
     "category": "internationales",
     "description": "Die Abstimmung fand im Januar 2019 statt. In Asylanträgen spielt es eine wichtige Rolle, ob das Herkunftsland als sicher gilt.",
     "bundestagsid": "019-075-01",
+    "shorttitle":"Sichere Herkunftsländer",
     "moreinfo":[
-      "Die Abstimmung fand am  statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+      "Kommt ein:e Einwanderer:in aus einem [sicherem Herkunftsland](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland)), werden deren Asylanträge in der Regel abgelehnt.",
+      "Die Abstimmung fand am  18. Januar 2019 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=572)"
     ]
   },
   {
     "id": "israel",
     "invert": False,
       "order": 5,
-    "title": "Sollte sich die Bundesregierung stärker für das Existenzrecht Israels einsetzen?",
+    "title": "Sollte die Bundesregierung Israel bei Abstimmungen der UNO stärker unterstützen?",
     "category": "internationales",
     "description": "",
     "bundestagsid": "019-086-03",
+    "shorttitle":"Israel helfen",
     "moreinfo":[
-      "Die Abstimmung fand am  statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+      "Laut einigen Politikern werden relativ häufig UN-Resolutionen verabschiedet, die die Menschenrechtlage in Israel kritisieren, ohne dass Deutschland dagegen stimmt.",
+      "Die Abstimmung fand am 14. März 2019 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=585)"
     ]
   },
   #
@@ -100,6 +112,7 @@ claims = [
     "category": "natur_umwelt",
     "description": "Das Thema wurde im Juni 2019 abgestimmt.",
     "bundestagsid": "019-108-03",
+    "shorttitle":"",
     "moreinfo":[
       "Die Abstimmung fand am 28. Juni 2019 statt",
       "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=612#debatte)"
@@ -114,10 +127,11 @@ claims = [
     "category": "natur_umwelt",
     "description": "",
     "bundestagsid": "019-220-01",
+    "shorttitle":"Neue Atomkraft fördern",
     "moreinfo":[
       "Damit sind [Flüssigsalzreaktoren](https://de.wikipedia.org/wiki/Fl%C3%BCssigsalzreaktor) gemeint.",
-      "Die Abstimmung fand am  statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+      "Die Abstimmung fand am 14. April 2021 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=721)"
     ]
   },
   {
@@ -127,7 +141,15 @@ claims = [
     "title": "Sollte der Wolf als jagdbare Tierart eingestuft werden?",
     "category": "natur_umwelt",
     "description": "Jagdbare Tierarten können ohne zusätzliche Genehmigung geschossen werden.",
-    "bundestagsid": "019-137-06"
+    "bundestagsid": "019-137-06",
+    "shorttitle":"Wölfe abschießen",
+    "moreinfo":[
+      "Ansonsten bedarf es einer Einzelfallgenehmigung bevor ein Wolf geschossen werden darf.",
+      "[Jagdbare Tierart](https://www.jagdverband.de/rund-um-die-jagd/was-draussen-passiert/jagdbare-tierarten)",
+      "[Wölfe in Deutschland](https://de.wikipedia.org/wiki/W%C3%B6lfe_in_Deutschland)
+      "Die Abstimmung fand am 19. Dezember 2019 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=650)"
+    ]
 
   },
   {
@@ -136,8 +158,16 @@ claims = [
     "order": 4,
     "title": "Sollten Autos, die höchstens 270mg NO2 pro Kilometer ausstoßen, von Fahrverboten generell ausgenommen werden?",
     "category": "natur_umwelt",
+    "shorttitle":"Fahrverbote wegen Stickoxid",
     "description": "Laut einer EU-Richtlinie zur Verbesserung der Luftqualität, müssen bei zu hohen Stickoxid-Werten Fahrverbote verhängt werden. Autos die nach 2014 zugelassen wurden, dürfen laut Abgasnorm nicht mehr als 80 mg Stickoxide pro Kilometer ausstoßen.",
-    "bundestagsid": "019-086-01"
+    "bundestagsid": "019-086-01",
+    "shorttitle":"",
+    "moreinfo":[
+      "Die Abstimmung fand am 19. Oktober 2018 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=548)",
+      "[Der ADAC](https://www.stromseite.de/gas-nachrichten/stickoxid-ausstoss-adac-vergleicht-diesel-pkw_213308.html) hat mal nachgemessen, wie viel mg/km Stickoxide moderne und alte Autos unter realen Bedingungen ausstoßen.",
+      "[Das Umwelbundesamt zu Stickoxid-Emissionen](https://www.umweltbundesamt.de/daten/luft/luftschadstoff-emissionen-in-deutschland/stickstoffoxid-emissionen#erfullungsstand-der-emissionsminderungsbeschlusse)"
+    ]
 
   },
   {
@@ -147,7 +177,12 @@ claims = [
     "title": "Sollte ab 2021 der CO<sub>2</sub> Preis auf 25 € pro Tonne angehoben und dann pro Jahr um 5 € erhöht werden?",
     "category": "natur_umwelt",
     "description": "Die Klimaschutzaktivisten von Fridays for Future verlangen eine Steuer auf den CO<sub>2</sub> Ausstoß in Höhe von 180 €.",
-    "bundestagsid": "019-137-03"
+    "bundestagsid": "019-137-03",
+    "shorttitle":"",
+    "moreinfo":[
+      "Die Abstimmung fand am  statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=548)"
+    ]
 
   },
   #
@@ -173,7 +208,12 @@ claims = [
     "title": "Sollte eine Masernimpfung in Einrichtungen wie Kindergärten, Schulen usw. vorgeschrieben werden?",
     "category": "gesellschaft",
     "description": "Diese Abstimmung fand 2019 und damit vor der Coronapandemie statt.",
-    "bundestagsid": "019-127-05"
+    "bundestagsid": "019-127-05",
+    "shorttitle":"",
+    "moreinfo":[
+      "Die Abstimmung fand am  statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+    ]
 
   },
   {
@@ -183,7 +223,12 @@ claims = [
     "title": "Sollten Ferkel für weitere zwei Jahre ohne Betäubung kastriert werden dürfen?",
     "category": "gesellschaft",
     "description": "Eine Kastration sollte ab 2019 nur noch mit Betäubung zulässig sein. Jedoch wurde dies nicht umgesetzt.",
-    "bundestagsid": "019-068-06"
+    "bundestagsid": "019-068-06",
+    "shorttitle":"",
+    "moreinfo":[
+      "Die Abstimmung fand am  statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+    ]
   },
   {
     "id": "selbstbestimmungsgesetz",
@@ -192,7 +237,12 @@ claims = [
     "title": "Sollten die Hürden für die Änderung des Vornamens und des amtlich dokumentieren Geschlechts verringert werden?",
     "category": "gesellschaft",
     "description": "Das Transsexuellen-Gesetz (von 1980) stellt hohe Anforderungen für die Änderungen des Vornamens und des amtlich dokumentierten Geschlechts.",
-    "bundestagsid": "019-229-02"
+    "bundestagsid": "019-229-02",
+    "shorttitle":"",
+    "moreinfo":[
+      "Die Abstimmung fand am  statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+    ]
 
   },
   {
