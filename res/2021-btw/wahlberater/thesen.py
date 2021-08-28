@@ -19,7 +19,8 @@ claims = [
     "title": "Sollte Deutschland die Umsetzung des 2%-Rüstungsziels verweigern?",
     "category": "internationales",
     "description": "2014 haben die NATO-Mitgliedsländer beschlossen, dass jeder Natostaat mindestens 2% seines Bruttoinlandsproduktes in das Militär stecken sollte.",
-    "bundestagsid": "019-061-02"
+    "bundestagsid": "019-061-02",
+    "moreinfo":""
 
   },
   {
@@ -29,7 +30,8 @@ claims = [
     "title": "Sollte die Bundesrepublik umfassende Grenzkontrollen einführen?",
     "category": "internationales",
     "description": "ist die kategorie richtig!?",
-    "bundestagsid": "019-021-01"
+    "bundestagsid": "019-021-01",
+    "moreinfo":""
 
   },
   {
@@ -39,7 +41,8 @@ claims = [
     "title": "Sollte der Familiennachzug für subsidiär Schutzberechtigte abgeschafft werden?",
     "category": "internationales",
     "description": "Subsidiär Schutzberechtigte sind Flüchtlinge ohne vollen Flüchtlingsstatus. Der Familiennachzug ermöglicht es diesen Flüchtlingen, temporäre Aufenthaltsgenehmigungen für engste Angehörige (eigene Kinder, bei Minderjährigen auch deren Eltern) zu erhalten.",
-    "bundestagsid": "019-011-02"
+    "bundestagsid": "019-011-02",
+    "moreinfo":""
   },
   {
     "id": "herkunftslaender",
@@ -48,7 +51,8 @@ claims = [
     "title": "Sollten Georgien, Algerien, Marokko und Tunesien als sichere Herkunftsländer eingestuft werden?",
     "category": "internationales",
     "description": "Die Abstimmung fand im Januar 2019 statt. In Asylanträgen spielt es eine wichtige Rolle, ob das Herkunftsland als sicher gilt.",
-    "bundestagsid": "019-075-01"
+    "bundestagsid": "019-075-01",
+    "moreinfo":""
   },
   {
     "id": "israel",
@@ -57,7 +61,8 @@ claims = [
     "title": "Sollte sich die Bundesregierung stärker für das Existenzrecht Israels einsetzen?",
     "category": "internationales",
     "description": "",
-    "bundestagsid": "019-086-03"
+    "bundestagsid": "019-086-03",
+    "moreinfo":""
   },
   #
   #
@@ -82,7 +87,8 @@ claims = [
     "title": "Sollten alle Braunkohlekraftwerke bis Ende 2022 abgeschaltet werden?",
     "category": "natur_umwelt",
     "description": "Das Thema wurde im Juni 2019 abgestimmt.",
-    "bundestagsid": "019-108-03"
+    "bundestagsid": "019-108-03",
+    "moreinfo":"[Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=612#debatte)"
 
   },
   {
@@ -92,7 +98,8 @@ claims = [
     "title": "Sollte in die Erforschung und Entwicklung von neuartigen Atomkraftwerken investiert werden?",
     "category": "natur_umwelt",
     "description": "",
-    "bundestagsid": "019-220-01"
+    "bundestagsid": "019-220-01",
+    "moreinfo":"Damit sind [Flüssigsalzreaktoren](https://de.wikipedia.org/wiki/Fl%C3%BCssigsalzreaktor) gemeint."
 
   },
   {
@@ -235,7 +242,10 @@ claims = [
     "title": "Sollte auf den Autobahnen eine allgemeine Höchstgeschwindigkeit von 130 km/h gelten?",
     "category": "gesellschaft",
     "description": "",
-    "bundestagsid": "019-118-02"
+    "bundestagsid": "019-118-02",
+    "moreinfo":["Die Abstimmung fand am 17. Oktober 2019 statt",
+                "[Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=622#debatte)",
+                "Tagesschau.de zum Thema [Tempolimit](https://www.tagesschau.de/thema/tempolimit/)"]
 
   },
   #
@@ -261,7 +271,8 @@ claims = [
     "title": "Sollten die Arbeitsbedingungen in der Fleischindustrie strenger geregelt und kontrolliert werden?",
     "category": "wirtschaft_finanzen",
     "description": "Nach Corona-Ausbrüchen kamen die vorherrschenden Arbeitsbedingungen in fleischverarbeitenden Betrieben an die Öffentlichkeit.",
-    "bundestagsid": "019-201-01"
+    "bundestagsid": "019-201-01",
+    "moreinfo":"[Webseite des zuständigen Bundesamtes](https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/arbeitsschutzkontrollgesetz.html) und des [Bundestags](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=707#debatte)"
   },
   {
     "id": "unternehmenssteuern",
@@ -270,7 +281,8 @@ claims = [
     "title": "Sollte die Steuerbelastung für Unternehmen gesenkt werden?",
     "category": "wirtschaft_finanzen",
     "description": "",
-    "bundestagsid": "019-127-04"
+    "bundestagsid": "019-127-04",
+    "moreinfo":"Dieser Antrag enthält mehrere Maßnahmen wie zum Beispiel die Abschaffung der Gewerbesteuer, eine Senkung der Körperschaftssteuer und schnellere Abschreibungsfristen. Die Abstimmung war am 14. November 2019 [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=635), [Wikipedia Unternehmenssteuern](https://de.wikipedia.org/wiki/Unternehmensbesteuerung)"
 
   },
   {
