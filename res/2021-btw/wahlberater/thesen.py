@@ -29,9 +29,12 @@ claims = [
     "order": 2,
     "title": "Sollte die Bundesrepublik umfassende Grenzkontrollen einführen?",
     "category": "internationales",
-    "description": "ist die kategorie richtig!?",
+    "description": ",
     "bundestagsid": "019-021-01",
-    "moreinfo":""
+    "moreinfo":[
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=504)",
+      "Die Abstimmung fand am  16. März 2018 statt."
+    ]
 
   },
   {
@@ -42,7 +45,10 @@ claims = [
     "category": "internationales",
     "description": "Subsidiär Schutzberechtigte sind Flüchtlinge ohne vollen Flüchtlingsstatus. Der Familiennachzug ermöglicht es diesen Flüchtlingen, temporäre Aufenthaltsgenehmigungen für engste Angehörige (eigene Kinder, bei Minderjährigen auch deren Eltern) zu erhalten.",
     "bundestagsid": "019-011-02",
-    "moreinfo":""
+    "moreinfo":[
+      "Die Abstimmung fand am  statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+    ]
   },
   {
     "id": "herkunftslaender",
@@ -52,7 +58,10 @@ claims = [
     "category": "internationales",
     "description": "Die Abstimmung fand im Januar 2019 statt. In Asylanträgen spielt es eine wichtige Rolle, ob das Herkunftsland als sicher gilt.",
     "bundestagsid": "019-075-01",
-    "moreinfo":""
+    "moreinfo":[
+      "Die Abstimmung fand am  statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+    ]
   },
   {
     "id": "israel",
@@ -62,7 +71,10 @@ claims = [
     "category": "internationales",
     "description": "",
     "bundestagsid": "019-086-03",
-    "moreinfo":""
+    "moreinfo":[
+      "Die Abstimmung fand am  statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+    ]
   },
   #
   #
@@ -88,7 +100,10 @@ claims = [
     "category": "natur_umwelt",
     "description": "Das Thema wurde im Juni 2019 abgestimmt.",
     "bundestagsid": "019-108-03",
-    "moreinfo":"[Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=612#debatte)"
+    "moreinfo":[
+      "Die Abstimmung fand am 28. Juni 2019 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=612#debatte)"
+    ]
 
   },
   {
@@ -99,8 +114,11 @@ claims = [
     "category": "natur_umwelt",
     "description": "",
     "bundestagsid": "019-220-01",
-    "moreinfo":"Damit sind [Flüssigsalzreaktoren](https://de.wikipedia.org/wiki/Fl%C3%BCssigsalzreaktor) gemeint."
-
+    "moreinfo":[
+      "Damit sind [Flüssigsalzreaktoren](https://de.wikipedia.org/wiki/Fl%C3%BCssigsalzreaktor) gemeint.",
+      "Die Abstimmung fand am  statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+    ]
   },
   {
     "id": "wolfsjagd",
