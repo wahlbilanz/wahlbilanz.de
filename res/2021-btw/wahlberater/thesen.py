@@ -161,7 +161,6 @@ claims = [
     "shorttitle":"Fahrverbote wegen Stickoxid",
     "description": "Laut einer EU-Richtlinie zur Verbesserung der Luftqualität, müssen bei zu hohen Stickoxid-Werten Fahrverbote verhängt werden. Autos die nach 2014 zugelassen wurden, dürfen laut Abgasnorm nicht mehr als 80 mg Stickoxide pro Kilometer ausstoßen.",
     "bundestagsid": "019-086-01",
-    "shorttitle":"",
     "moreinfo":[
       "Die Abstimmung fand am 19. Oktober 2018 statt",
       "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=548)",
@@ -176,12 +175,14 @@ claims = [
     "order": 5,
     "title": "Sollte ab 2021 der CO<sub>2</sub> Preis auf 25 € pro Tonne angehoben und dann pro Jahr um 5 € erhöht werden?",
     "category": "natur_umwelt",
-    "description": "Die Klimaschutzaktivisten von Fridays for Future verlangen eine Steuer auf den CO<sub>2</sub> Ausstoß in Höhe von 180 €.",
+    "description": "Laut Umweltbundesamt verursacht der Ausstoß von einer Tonne CO<sub>2</sub> Schäden in Höhe von etwa 180 €.",
     "bundestagsid": "019-137-03",
-    "shorttitle":"",
+    "shorttitle":"CO2-Steuer",
     "moreinfo":[
-      "Die Abstimmung fand am  statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=548)"
+      "[Kostenschätzung](https://www.umweltbundesamt.de/presse/pressemitteilungen/hohe-kosten-durch-unterlassenen-umweltschutz) des Umweltbundesamtes.",
+      "Bereits 2019 musste eine [CO2 Abgabe](https://de.wikipedia.org/wiki/CO2-Steuer#Deutschland) in Höhe von etwa 19 € pro KWh gezahlt werden",
+      "Die Abstimmung fand am 19. Dezember 2019 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=647)"
     ]
 
   },
@@ -209,10 +210,10 @@ claims = [
     "category": "gesellschaft",
     "description": "Diese Abstimmung fand 2019 und damit vor der Coronapandemie statt.",
     "bundestagsid": "019-127-05",
-    "shorttitle":"",
+    "shorttitle":"Masernimpfung Pflicht",
     "moreinfo":[
-      "Die Abstimmung fand am  statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+      "Die Abstimmung fand am 14. November 2019 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=636)"
     ]
 
   },
@@ -224,10 +225,11 @@ claims = [
     "category": "gesellschaft",
     "description": "Eine Kastration sollte ab 2019 nur noch mit Betäubung zulässig sein. Jedoch wurde dies nicht umgesetzt.",
     "bundestagsid": "019-068-06",
-    "shorttitle":"",
+    "shorttitle":"Ferkelkastration erlauben",
     "moreinfo":[
-      "Die Abstimmung fand am  statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+      "Seit Januar 2021 dürfen Ferkel tatsächlich nicht mehr ohne Betäubung kastriert werden."
+      "Die Abstimmung fand am 29. November 2018 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=569)"
     ]
   },
   {
@@ -238,10 +240,10 @@ claims = [
     "category": "gesellschaft",
     "description": "Das Transsexuellen-Gesetz (von 1980) stellt hohe Anforderungen für die Änderungen des Vornamens und des amtlich dokumentierten Geschlechts.",
     "bundestagsid": "019-229-02",
-    "shorttitle":"",
+    "shorttitle":"Sexuelle Selbstbestimmung",
     "moreinfo":[
-      "Die Abstimmung fand am  statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+      "Die Abstimmung fand am 19. Mai 2021 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=737)"
     ]
 
   },
@@ -252,7 +254,14 @@ claims = [
     "title": "Sollte jede Person automatisch Organspender sein, wenn sie zu Lebzeiten nicht ausdrücklich widersprochen hat?",
     "category": "gesellschaft",
     "description": "",
-    "bundestagsid": "019-140-01"
+    "bundestagsid": "019-140-01",
+    "shorttitle":"",
+    "moreinfo":[
+      "Obwohl laut Umfragen 84% der Deutschen Organspenden positiv gegenüberstehen, besitzen nur 36% einen Organspendeausweis.",
+      "[Wikipedia](https://de.wikipedia.org/wiki/Organspendeausweis)",
+      "Die Abstimmung fand am 16. Januar 2020 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=656)"
+    ]
 
   },
   {
@@ -262,7 +271,14 @@ claims = [
     "title": "Sollten Computer und Smartphones von Verdächtigen nach richterlichem Beschluss durch Sicherheitsbehörden überwacht werden können, um Telefongespräche und Chatnachrichten aufzunehmen?",
     "category": "gesellschaft",
     "description": "",
-    "bundestagsid": "019-233-02"
+    "bundestagsid": "019-233-02",
+    "shorttitle":"Staatstrojaner",
+    "moreinfo":[
+      "In den Medien ist auch von [Staatstrojanern](https://www.tagesschau.de/inland/innenpolitik/staatstrojaner-bundestag-101.html) die Rede.",
+      "[Wikipedia QuellenTKÜ](https://de.wikipedia.org/wiki/Telekommunikations%C3%BCberwachung#Quellen-Telekommunikations%C3%BCberwachung), [Wikipedia Staatstrojaner](https://de.wikipedia.org/wiki/Staatstrojaner)
+      "Diese Abstimmung fand am 10. Juni 2021 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=742)"
+    ]
   },
   {
     "id": "bnd",
@@ -271,7 +287,14 @@ claims = [
     "title": "Sollte der BND durch ein parlamentarisches Amt beaufsichtigt werden, das Einsichten in geheime Dokumente, Daten und Besprechungen bekommt?",
     "category": "gesellschaft",
     "description": "",
-    "bundestagsid": "019-218-02"
+    "bundestagsid": "019-218-02",
+    "shorttitle":"Geheimdienstkontrolle",
+    "moreinfo":[
+      "Dieses Amt würde von Bundestagsabgeordneten geleitet und etwa 100 Mitarbeiter umfassen.",
+      "Bislang hat der Bundestag nur in Ausnahmefällen (z.B. nach Skandalen) in Untersuchungsausschüssen Einsicht in geheime Dokumente.",
+      "Die Abstimmung fand am 25. März 2021 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=718)"
+    ]
   },
   {
     "id": "bundesnotbremse",
@@ -280,7 +303,12 @@ claims = [
     "title": "Stimmst du einer Einführung der Bundesnotbremse zur Eindämmung von Corona zu?",
     "category": "gesellschaft",
     "description": "Die Bundesregierung schlägt im April 2020 Corona-Infektionsschutzmaßnahmen vor, besser bekannt als \"Bundesnotbremse\".",
-    "bundestagsid": "019-223-06"
+    "bundestagsid": "019-223-06",
+    "shorttitle":"Corona Bundesnotbremse",
+    "moreinfo":[
+      "Die Abstimmung fand am  statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+    ]
 
   },
   {
