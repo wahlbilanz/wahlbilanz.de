@@ -181,7 +181,7 @@ claims = [
     "shorttitle":"CO2-Steuer",
     "moreinfo":[
       "[Kostenschätzung](https://www.umweltbundesamt.de/presse/pressemitteilungen/hohe-kosten-durch-unterlassenen-umweltschutz) des Umweltbundesamtes.",
-      "Bereits 2019 musste eine [CO2 Abgabe](https://de.wikipedia.org/wiki/CO2-Steuer#Deutschland) in Höhe von etwa 19 € pro KWh gezahlt werden",
+      "Bereits 2019 musste eine [CO2 Abgabe](https://de.wikipedia.org/wiki/CO2-Steuer#Deutschland) in Höhe von etwa 19 € pro Tonne gezahlt werden",
       "Die Abstimmung fand am 19. Dezember 2019 statt",
       "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=647)"
     ]
