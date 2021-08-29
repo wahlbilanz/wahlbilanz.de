@@ -236,7 +236,7 @@ claims = [
     "id": "selbstbestimmungsgesetz",
     "invert": False,
     "order": 3,
-    "title": "Sollten die Hürden für die Änderung des Vornamens und des amtlich dokumentieren Geschlechts verringert werden?",
+    "title": "Sollten die Hürden für die Änderung des Vornamens und des amtlich dokumentierten Geschlechts verringert werden?",
     "category": "gesellschaft",
     "description": "Das Transsexuellen-Gesetz (von 1980) stellt hohe Anforderungen für die Änderungen des Vornamens und des amtlich dokumentierten Geschlechts.",
     "bundestagsid": "019-229-02",
