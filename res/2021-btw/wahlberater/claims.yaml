@@ -55,21 +55,6 @@ claims:
     \ werden deren Asylantr\xE4ge in der Regel abgelehnt."
   - Die Abstimmung fand am  18. Januar 2019 statt
   - Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=572)
-- id: israel
-  invert: false
-  order: 5
-  title: "Sollte die Bundesregierung Israel bei Abstimmungen der UNO st\xE4rker unterst\xFC\
-    tzen?"
-  category: internationales
-  description: ''
-  bundestagsid: 019-086-03
-  shorttitle: Israel helfen
-  moreinfo:
-  - "Laut einigen Politikern werden relativ h\xE4ufig UN-Resolutionen verabschiedet,\
-    \ die die Menschenrechtlage in Israel kritisieren, ohne dass Deutschland dagegen\
-    \ stimmt."
-  - "Die Abstimmung fand am 14. M\xE4rz 2019 statt"
-  - Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=585)
 - id: kohlekraftwerke
   invert: false
   order: 1
@@ -240,15 +225,15 @@ claims:
   title: "Stimmst du einer Einf\xFChrung der Bundesnotbremse zur Eind\xE4mmung von\
     \ Corona zu?"
   category: gesellschaft
-  description: "Die Bundesregierung schl\xE4gt im April 2020 Corona-Infektionsschutzma\xDF\
+  description: "Die Bundesregierung schl\xE4gt im April 2021 Corona-Infektionsschutzma\xDF\
     nahmen vor, besser bekannt als \"Bundesnotbremse\"."
   bundestagsid: 019-223-06
   shorttitle: Corona Bundesnotbremse
   moreinfo:
   - "Das Gesetz enth\xE4lt sehr viele verschiedene Ma\xDFnahmen zur Eind\xE4mmung\
     \ der Corona-Pandemie."
-  - Die Abstimmung fand am 14. Mai 2020 statt
-  - Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=670)
+  - Die Abstimmung fand am 21. April 2021 statt
+  - Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=726)
 - id: 219aStGB
   invert: false
   order: 8
@@ -677,7 +662,8 @@ claims:
 - bundestagsid: bundeswehr
   category: internationales
   description: "Die Bundeswehr wurde in der letzen Legislaturperiode in den folgenden\
-    \ L\xE4ndern eingesetzt: ..."
+    \ L\xE4ndern eingesetzt: Irak, Jordanien, Syrien, Mittelmeer, Libanon, Mali, Afghanistan,\
+    \ Somalia, S\xFCdsudan, Kosovo, Dafur."
   id: bundeswehr
   order: 6
   title: "Bundeswehreins\xE4tze in diesen Gebieten sind gerechtfertigt."

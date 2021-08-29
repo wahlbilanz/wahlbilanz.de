@@ -73,21 +73,21 @@ claims = [
       "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=572)"
     ]
   },
-  {
-    "id": "israel",
-    "invert": False,
-      "order": 5,
-    "title": "Sollte die Bundesregierung Israel bei Abstimmungen der UNO stärker unterstützen?",
-    "category": "internationales",
-    "description": "",
-    "bundestagsid": "019-086-03",
-    "shorttitle":"Israel helfen",
-    "moreinfo":[
-      "Laut einigen Politikern werden relativ häufig UN-Resolutionen verabschiedet, die die Menschenrechtlage in Israel kritisieren, ohne dass Deutschland dagegen stimmt.",
-      "Die Abstimmung fand am 14. März 2019 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=585)"
-    ]
-  },
+  # {
+  #   "id": "israel",
+  #   "invert": False,
+  #     "order": 5,
+  #   "title": "Sollte die Bundesregierung Israel bei Abstimmungen der UNO stärker unterstützen?",
+  #   "category": "internationales",
+  #   "description": "",
+  #   "bundestagsid": "019-086-03",
+  #   "shorttitle":"Israel helfen",
+  #   "moreinfo":[
+  #     "Laut einigen Politikern werden relativ häufig UN-Resolutionen verabschiedet, die die Menschenrechtlage in Israel kritisieren, ohne dass Deutschland dagegen stimmt.",
+  #     "Die Abstimmung fand am 14. März 2019 statt",
+  #     "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=585)"
+  #   ]
+  # },
   #
   #
   #
@@ -302,13 +302,13 @@ claims = [
     "order": 7,
     "title": "Stimmst du einer Einführung der Bundesnotbremse zur Eindämmung von Corona zu?",
     "category": "gesellschaft",
-    "description": "Die Bundesregierung schlägt im April 2020 Corona-Infektionsschutzmaßnahmen vor, besser bekannt als \"Bundesnotbremse\".",
+    "description": "Die Bundesregierung schlägt im April 2021 Corona-Infektionsschutzmaßnahmen vor, besser bekannt als \"Bundesnotbremse\".",
     "bundestagsid": "019-223-06",
     "shorttitle":"Corona Bundesnotbremse",
     "moreinfo":[
       "Das Gesetz enthält sehr viele verschiedene Maßnahmen zur Eindämmung der Corona-Pandemie.",
-      "Die Abstimmung fand am 14. Mai 2020 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=670)"
+      "Die Abstimmung fand am 21. April 2021 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=726)"
     ]
 
   },

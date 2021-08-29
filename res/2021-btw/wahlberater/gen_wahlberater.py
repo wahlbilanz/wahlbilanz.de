@@ -693,7 +693,7 @@ bundeswehr_id = "bundeswehr"
 bundeswehrclaim = {
     "bundestagsid": bundeswehr_id,
     "category": "internationales",
-    "description": "Die Bundeswehr wurde in der letzen Legislaturperiode in den folgenden Ländern eingesetzt: ...",
+    "description": "Die Bundeswehr wurde in der letzen Legislaturperiode in den folgenden Ländern eingesetzt: Irak, Jordanien, Syrien, Mittelmeer, Libanon, Mali, Afghanistan, Somalia, Südsudan, Kosovo, Dafur.",
     "id": bundeswehr_id,
     "order": 6,
     "title": "Bundeswehreinsätze in diesen Gebieten sind gerechtfertigt."
