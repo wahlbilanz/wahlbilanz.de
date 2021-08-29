@@ -113,7 +113,7 @@ claims = [
     "category": "natur_umwelt",
     "description": "Das Thema wurde im Juni 2019 abgestimmt.",
     "bundestagsid": "019-108-03",
-    "shorttitle":"",
+    "shorttitle":"Braunkohlekraftwerke abschalten",
     "moreinfo":[
       "Die Abstimmung fand am 28. Juni 2019 statt",
       "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=612#debatte)"
@@ -256,7 +256,7 @@ claims = [
     "category": "gesellschaft",
     "description": "",
     "bundestagsid": "019-140-01",
-    "shorttitle":"",
+    "shorttitle":"Organspende",
     "moreinfo":[
       "Obwohl laut Umfragen 84% der Deutschen Organspenden positiv gegenüberstehen, besitzen nur 36% einen Organspendeausweis.",
       "[Wikipedia](https://de.wikipedia.org/wiki/Organspendeausweis)",
@@ -429,9 +429,9 @@ claims = [
     "order": 4,
     "title": "Sollte der Patentschutz für Impfstoffe gegen Corona ausgesetzt werden?",
     "category": "wirtschaft_finanzen",
-    "description": "Patente freigeben",
+    "description": "",
     "bundestagsid": "019-227-04",
-    "shorttitle":"",
+    "shorttitle":"Patente freigeben",
     "moreinfo":[
       "Durch die Freigabe soll die Impstoffproduktion in anderen Ländern vergünstigt werden.",
       "Die Abstimmung fand am 6. Mai 2021 statt",
