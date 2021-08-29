@@ -55,7 +55,7 @@ claims = [
       "Die Abstimmung fand am 1. Februar 2018 statt",
       "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=501)",
       "[Subsidiär Schutzberechtigte](https://de.wikipedia.org/wiki/Subsidi%C3%A4r_Schutzberechtigter) haben zunächst nur eine temporäre Aufenthaltsberechtigung.",
-      "[Familienzusammenführungen](https://de.wikipedia.org/wiki/Familienzusammenf%C3%BChrung)" 
+      "[Familienzusammenführungen](https://de.wikipedia.org/wiki/Familienzusammenf%C3%BChrung)"
     ]
   },
   {
@@ -146,7 +146,7 @@ claims = [
     "moreinfo":[
       "Ansonsten bedarf es einer Einzelfallgenehmigung bevor ein Wolf geschossen werden darf.",
       "[Jagdbare Tierart](https://www.jagdverband.de/rund-um-die-jagd/was-draussen-passiert/jagdbare-tierarten)",
-      "[Wölfe in Deutschland](https://de.wikipedia.org/wiki/W%C3%B6lfe_in_Deutschland)
+      "[Wölfe in Deutschland](https://de.wikipedia.org/wiki/W%C3%B6lfe_in_Deutschland)",
       "Die Abstimmung fand am 19. Dezember 2019 statt",
       "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=650)"
     ]
@@ -275,7 +275,7 @@ claims = [
     "shorttitle":"Staatstrojaner",
     "moreinfo":[
       "In den Medien ist auch von [Staatstrojanern](https://www.tagesschau.de/inland/innenpolitik/staatstrojaner-bundestag-101.html) die Rede.",
-      "[Wikipedia QuellenTKÜ](https://de.wikipedia.org/wiki/Telekommunikations%C3%BCberwachung#Quellen-Telekommunikations%C3%BCberwachung), [Wikipedia Staatstrojaner](https://de.wikipedia.org/wiki/Staatstrojaner)
+      "[Wikipedia QuellenTKÜ](https://de.wikipedia.org/wiki/Telekommunikations%C3%BCberwachung#Quellen-Telekommunikations%C3%BCberwachung), [Wikipedia Staatstrojaner](https://de.wikipedia.org/wiki/Staatstrojaner)",
       "Diese Abstimmung fand am 10. Juni 2021 statt",
       "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=742)"
     ]
@@ -351,7 +351,7 @@ claims = [
     "title": "Sollte auf den Autobahnen eine allgemeine Höchstgeschwindigkeit von 130 km/h gelten?",
     "category": "gesellschaft",
     "description": "",
-    "bundestagsid": "019-118-02",,
+    "bundestagsid": "019-118-02",
     "shorttitle":"Tempo 130",
     "moreinfo":[
       "Die Abstimmung fand am 17. Oktober 2019 statt",
