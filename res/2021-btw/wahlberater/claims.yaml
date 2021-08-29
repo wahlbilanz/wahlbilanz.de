@@ -9,6 +9,8 @@ claims:
   bundestagsid: 019-061-02
   shorttitle: "2%-R\xFCstungsziel"
   moreinfo:
+  - "Derzeit gibt Deutschland [laut Statista](https://de.statista.com/statistik/daten/studie/183106/umfrage/anteil-der-militaerausgaben-am-bip-in-deutschland/)\
+    \ etwa 1,4 % des Bruttoinlandsproduktes f\xFCr Milit\xE4r aus."
   - Die Abstimmung fand am 8. November 2018 statt
   - Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=555)
 - id: grenzkontrollen
@@ -62,7 +64,7 @@ claims:
   category: natur_umwelt
   description: Das Thema wurde im Juni 2019 abgestimmt.
   bundestagsid: 019-108-03
-  shorttitle: ''
+  shorttitle: Braunkohlekraftwerke abschalten
   moreinfo:
   - Die Abstimmung fand am 28. Juni 2019 statt
   - Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=612#debatte)
@@ -85,8 +87,8 @@ claims:
   order: 3
   title: Sollte der Wolf als jagdbare Tierart eingestuft werden?
   category: natur_umwelt
-  description: "Jagdbare Tierarten k\xF6nnen ohne zus\xE4tzliche Genehmigung geschossen\
-    \ werden."
+  description: "Jagdbare Tierarten k\xF6nnen, wenn ihnen zus\xE4tzlich eine Jagdzeit\
+    \ zugewiesen wird, ohne Einzelfallgenehmigung geschossen werden."
   bundestagsid: 019-137-06
   shorttitle: "W\xF6lfe abschie\xDFen"
   moreinfo:
@@ -162,7 +164,7 @@ claims:
   invert: false
   order: 3
   title: "Sollten die H\xFCrden f\xFCr die \xC4nderung des Vornamens und des amtlich\
-    \ dokumentieren Geschlechts verringert werden?"
+    \ dokumentierten Geschlechts verringert werden?"
   category: gesellschaft
   description: "Das Transsexuellen-Gesetz (von 1980) stellt hohe Anforderungen f\xFC\
     r die \xC4nderungen des Vornamens und des amtlich dokumentierten Geschlechts."
@@ -179,7 +181,7 @@ claims:
   category: gesellschaft
   description: ''
   bundestagsid: 019-140-01
-  shorttitle: ''
+  shorttitle: Organspende
   moreinfo:
   - "Obwohl laut Umfragen 84% der Deutschen Organspenden positiv gegen\xFCberstehen,\
     \ besitzen nur 36% einen Organspendeausweis."
@@ -323,9 +325,9 @@ claims:
   order: 4
   title: "Sollte der Patentschutz f\xFCr Impfstoffe gegen Corona ausgesetzt werden?"
   category: wirtschaft_finanzen
-  description: Patente freigeben
+  description: ''
   bundestagsid: 019-227-04
-  shorttitle: ''
+  shorttitle: Patente freigeben
   moreinfo:
   - "Durch die Freigabe soll die Impstoffproduktion in anderen L\xE4ndern verg\xFC\
     nstigt werden."

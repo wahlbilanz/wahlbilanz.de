@@ -57533,6 +57533,7 @@
       "id": "019-061-02",
       "invert": true,
       "moreinfo": [
+        "Derzeit gibt Deutschland [laut Statista](https://de.statista.com/statistik/daten/studie/183106/umfrage/anteil-der-militaerausgaben-am-bip-in-deutschland/) etwa 1,4 % des Bruttoinlandsproduktes f\u00fcr Milit\u00e4r aus.",
         "Die Abstimmung fand am 8. November 2018 statt",
         "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=555)"
       ],
@@ -57625,7 +57626,7 @@
         "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=612#debatte)"
       ],
       "order": 1,
-      "shorttitle": "",
+      "shorttitle": "Braunkohlekraftwerke abschalten",
       "title": "Sollten alle Braunkohlekraftwerke bis Ende 2022 abgeschaltet werden?"
     },
     "019-118-02": {
@@ -57721,7 +57722,7 @@
     "019-137-06": {
       "bundestagsid": "019-137-06",
       "category": "natur_umwelt",
-      "description": "Jagdbare Tierarten k\u00f6nnen ohne zus\u00e4tzliche Genehmigung geschossen werden.",
+      "description": "Jagdbare Tierarten k\u00f6nnen, wenn ihnen zus\u00e4tzlich eine Jagdzeit zugewiesen wird, ohne Einzelfallgenehmigung geschossen werden.",
       "id": "019-137-06",
       "invert": false,
       "moreinfo": [
@@ -57748,7 +57749,7 @@
         "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=656)"
       ],
       "order": 4,
-      "shorttitle": "",
+      "shorttitle": "Organspende",
       "title": "Sollte jede Person automatisch Organspender sein, wenn sie zu Lebzeiten nicht ausdr\u00fccklich widersprochen hat?"
     },
     "019-201-01": {
@@ -57815,7 +57816,7 @@
     "019-227-04": {
       "bundestagsid": "019-227-04",
       "category": "wirtschaft_finanzen",
-      "description": "Patente freigeben",
+      "description": "",
       "id": "019-227-04",
       "invert": true,
       "moreinfo": [
@@ -57824,7 +57825,7 @@
         "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=734)"
       ],
       "order": 4,
-      "shorttitle": "",
+      "shorttitle": "Patente freigeben",
       "title": "Sollte der Patentschutz f\u00fcr Impfstoffe gegen Corona ausgesetzt werden?"
     },
     "019-229-02": {
@@ -57839,7 +57840,7 @@
       ],
       "order": 3,
       "shorttitle": "Sexuelle Selbstbestimmung",
-      "title": "Sollten die H\u00fcrden f\u00fcr die \u00c4nderung des Vornamens und des amtlich dokumentieren Geschlechts verringert werden?"
+      "title": "Sollten die H\u00fcrden f\u00fcr die \u00c4nderung des Vornamens und des amtlich dokumentierten Geschlechts verringert werden?"
     },
     "019-233-02": {
       "bundestagsid": "019-233-02",
