@@ -22,6 +22,7 @@ claims = [
     "bundestagsid": "019-061-02",
     "shorttitle":"2%-Rüstungsziel",
     "moreinfo":[
+      "Derzeit gibt Deutschland [laut Statista](https://de.statista.com/statistik/daten/studie/183106/umfrage/anteil-der-militaerausgaben-am-bip-in-deutschland/) etwa 1,4 % des Bruttoinlandsproduktes für Militär aus.",
       "Die Abstimmung fand am 8. November 2018 statt",
       "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=555)"
     ]
