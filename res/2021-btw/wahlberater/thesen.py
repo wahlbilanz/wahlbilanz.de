@@ -306,8 +306,9 @@ claims = [
     "bundestagsid": "019-223-06",
     "shorttitle":"Corona Bundesnotbremse",
     "moreinfo":[
-      "Die Abstimmung fand am  statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+      "Das Gesetz enthält sehr viele verschiedene Maßnahmen zur Eindämmung der Corona-Pandemie.",
+      "Die Abstimmung fand am 14. Mai 2020 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=670)"
     ]
 
   },
@@ -318,17 +319,29 @@ claims = [
     "title": "Sollte das Werbeverbot für Schwangerschaftsabbrüche aufgehoben werden?",
     "category": "gesellschaft",
     "description": "Es ist in Deutschland verboten für Abtreibungen zu werben. Unter das Verbot fällt auch eine sachliche Information der Allgemeinheit. Ärzte die Abtreibungen durchführen, dürfen das nicht auf ihrer Internetseite angeben oder Informationen zum Ablauf und Nebenwirkungen darstellen.",
-    "bundestagsid": "019-083-05"
+    "bundestagsid": "019-083-05",
+    "shorttitle":"Abtreibungswerbeverbot kippen",
+    "moreinfo":[
+      "[Wikipedia](https://de.wikipedia.org/wiki/Werbung_f%C3%BCr_den_Abbruch_der_Schwangerschaft) und [Tagesschau](https://www.tagesschau.de/inland/abtreibung-werbeverbot-105.html) zum Thema.",
+      "Die Abstimmung fand am 21. Februar 2019 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=582)"
+    ]
 
   },
   {
     "id": "solidaritaetszuschlag",
     "invert": False,
     "order": 9,
-    "title": "Sollte der Solidaritätszuschlag abgeschafft werden?",
+    "title": "Sollte der Solidaritätszuschlag komplett abgeschafft werden?",
     "category": "gesellschaft",
     "description": "",
-    "bundestagsid": "019-127-02"
+    "bundestagsid": "019-127-02",
+    "shorttitle":"Solidaritätszuschlag abschaffen",
+    "moreinfo":[
+      "[Wikipedia Solidaritätszuschlag](https://de.wikipedia.org/wiki/Solidarit%C3%A4tszuschlag)",
+      "Die Abstimmung fand am 14. November 2019 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=633)"
+    ]
 
   },
   {
@@ -338,10 +351,12 @@ claims = [
     "title": "Sollte auf den Autobahnen eine allgemeine Höchstgeschwindigkeit von 130 km/h gelten?",
     "category": "gesellschaft",
     "description": "",
-    "bundestagsid": "019-118-02",
-    "moreinfo":["Die Abstimmung fand am 17. Oktober 2019 statt",
-                "[Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=622#debatte)",
-                "Tagesschau.de zum Thema [Tempolimit](https://www.tagesschau.de/thema/tempolimit/)"]
+    "bundestagsid": "019-118-02",,
+    "shorttitle":"Tempo 130",
+    "moreinfo":[
+      "Die Abstimmung fand am 17. Oktober 2019 statt",
+      "[Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=622#debatte)",
+      "Tagesschau.de zum Thema [Tempolimit](https://www.tagesschau.de/thema/tempolimit/)"]
 
   },
   #
@@ -368,7 +383,12 @@ claims = [
     "category": "wirtschaft_finanzen",
     "description": "Nach Corona-Ausbrüchen kamen die vorherrschenden Arbeitsbedingungen in fleischverarbeitenden Betrieben an die Öffentlichkeit.",
     "bundestagsid": "019-201-01",
-    "moreinfo":"[Webseite des zuständigen Bundesamtes](https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/arbeitsschutzkontrollgesetz.html) und des [Bundestags](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=707#debatte)"
+    "shorttitle":"Arbeitsbedingungen Fleischindustrie",
+    "moreinfo":[
+      "[Webseite des zuständigen Bundesamtes](https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/arbeitsschutzkontrollgesetz.html) und des [Bundestags](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=707#debatte)",
+      "Die Abstimmung fand am 16. Dezember 2020 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=707)"
+    ]
   },
   {
     "id": "unternehmenssteuern",
@@ -378,7 +398,13 @@ claims = [
     "category": "wirtschaft_finanzen",
     "description": "",
     "bundestagsid": "019-127-04",
-    "moreinfo":"Dieser Antrag enthält mehrere Maßnahmen wie zum Beispiel die Abschaffung der Gewerbesteuer, eine Senkung der Körperschaftssteuer und schnellere Abschreibungsfristen. Die Abstimmung war am 14. November 2019 [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=635), [Wikipedia Unternehmenssteuern](https://de.wikipedia.org/wiki/Unternehmensbesteuerung)"
+    "shorttitle":"Unternehmenssteuern senken",
+    "moreinfo":[
+      "Dieser Antrag enthält mehrere Maßnahmen wie zum Beispiel die Abschaffung der Gewerbesteuer, eine Senkung der Körperschaftssteuer und schnellere Abschreibungsfristen.",
+      "[Wikipedia Unternehmenssteuern](https://de.wikipedia.org/wiki/Unternehmensbesteuerung)",
+      "Die Abstimmung fand am 14. November 2019 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=635)"
+             ]
 
   },
   {
@@ -388,7 +414,12 @@ claims = [
     "title": "Sollten diese internationalen Konzerne Kennzahlen wie Umsatz, Gewinn und Steuern für jedes Land individuell veröffentlichen?",
     "category": "wirtschaft_finanzen",
     "description": "International operierende Konzerne verschieben ihre Gewinne in Länder mit niedrigen Unternehmenssteuern, um Steuern zu vermeiden.",
-    "bundestagsid": "019-098-04"
+    "bundestagsid": "019-098-04",
+    "shorttitle":"Transparenz gegen Steuerflucht",
+    "moreinfo":[
+      "Die Abstimmung fand am 9. Mai 2019 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=600)"
+    ]
 
   },
   {
@@ -397,8 +428,14 @@ claims = [
     "order": 4,
     "title": "Sollte der Patentschutz für Impfstoffe gegen Corona ausgesetzt werden?",
     "category": "wirtschaft_finanzen",
-    "description": "",
-    "bundestagsid": "019-227-04"
+    "description": "Patente freigeben",
+    "bundestagsid": "019-227-04",
+    "shorttitle":"",
+    "moreinfo":[
+      "Durch die Freigabe soll die Impstoffproduktion in anderen Ländern vergünstigt werden.",
+      "Die Abstimmung fand am 6. Mai 2021 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=734)"
+    ]
 
   },
   {
@@ -408,7 +445,12 @@ claims = [
     "title": "Sollten Vermieter:innen weiterhin die Grundsteuer auf Mieter:innen umlegen können?",
     "category": "wirtschaft_finanzen",
     "description": "Die Grundsteuer richtet sich nach dem Wert von Grundstücken und deren Immobilien.",
-    "bundestagsid": "019-119-02"
+    "bundestagsid": "019-119-02",
+    "shorttitle":"Grundsteuer umlegen",
+    "moreinfo":[
+      "Die Abstimmung fand am 18. Oktober 2019 statt",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=624)"
+    ]
 
   },
 ]
