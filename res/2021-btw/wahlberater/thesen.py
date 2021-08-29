@@ -29,7 +29,7 @@ claims = [
     "order": 2,
     "title": "Sollte die Bundesrepublik umfassende Grenzkontrollen einführen?",
     "category": "internationales",
-    "description": ",
+    "description": "",
     "bundestagsid": "019-021-01",
     "moreinfo":[
       "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=504)",

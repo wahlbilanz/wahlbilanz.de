@@ -59617,15 +59617,23 @@
       "description": "Subsidi\u00e4r Schutzberechtigte sind Fl\u00fcchtlinge ohne vollen Fl\u00fcchtlingsstatus. Der Familiennachzug erm\u00f6glicht es diesen Fl\u00fcchtlingen, tempor\u00e4re Aufenthaltsgenehmigungen f\u00fcr engste Angeh\u00f6rige (eigene Kinder, bei Minderj\u00e4hrigen auch deren Eltern) zu erhalten.",
       "id": "019-011-02",
       "invert": false,
+      "moreinfo": [
+        "Die Abstimmung fand am  statt",
+        "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+      ],
       "order": 3,
       "title": "Sollte der Familiennachzug f\u00fcr subsidi\u00e4r Schutzberechtigte abgeschafft werden?"
     },
     "019-021-01": {
       "bundestagsid": "019-021-01",
       "category": "internationales",
-      "description": "ist die kategorie richtig!?",
+      "description": "",
       "id": "019-021-01",
       "invert": true,
+      "moreinfo": [
+        "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=504)",
+        "Die Abstimmung fand am  16. M\u00e4rz 2018 statt."
+      ],
       "order": 2,
       "title": "Sollte die Bundesrepublik umfassende Grenzkontrollen einf\u00fchren?"
     },
@@ -59635,6 +59643,7 @@
       "description": "2014 haben die NATO-Mitgliedsl\u00e4nder beschlossen, dass jeder Natostaat mindestens 2% seines Bruttoinlandsproduktes in das Milit\u00e4r stecken sollte.",
       "id": "019-061-02",
       "invert": true,
+      "moreinfo": "",
       "order": 1,
       "title": "Sollte Deutschland die Umsetzung des 2%-R\u00fcstungsziels verweigern?"
     },
@@ -59653,6 +59662,10 @@
       "description": "Die Abstimmung fand im Januar 2019 statt. In Asylantr\u00e4gen spielt es eine wichtige Rolle, ob das Herkunftsland als sicher gilt.",
       "id": "019-075-01",
       "invert": false,
+      "moreinfo": [
+        "Die Abstimmung fand am  statt",
+        "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+      ],
       "order": 4,
       "title": "Sollten Georgien, Algerien, Marokko und Tunesien als sichere Herkunftsl\u00e4nder eingestuft werden?"
     },
@@ -59680,6 +59693,10 @@
       "description": "",
       "id": "019-086-03",
       "invert": false,
+      "moreinfo": [
+        "Die Abstimmung fand am  statt",
+        "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+      ],
       "order": 5,
       "title": "Sollte sich die Bundesregierung st\u00e4rker f\u00fcr das Existenzrecht Israels einsetzen?"
     },
@@ -59698,6 +59715,10 @@
       "description": "Das Thema wurde im Juni 2019 abgestimmt.",
       "id": "019-108-03",
       "invert": false,
+      "moreinfo": [
+        "Die Abstimmung fand am 28. Juni 2019 statt",
+        "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=612#debatte)"
+      ],
       "order": 1,
       "title": "Sollten alle Braunkohlekraftwerke bis Ende 2022 abgeschaltet werden?"
     },
@@ -59707,6 +59728,11 @@
       "description": "",
       "id": "019-118-02",
       "invert": true,
+      "moreinfo": [
+        "Die Abstimmung fand am 17. Oktober 2019 statt",
+        "[Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=622#debatte)",
+        "Tagesschau.de zum Thema [Tempolimit](https://www.tagesschau.de/thema/tempolimit/)"
+      ],
       "order": 10,
       "title": "Sollte auf den Autobahnen eine allgemeine H\u00f6chstgeschwindigkeit von 130 km/h gelten?"
     },
@@ -59734,6 +59760,7 @@
       "description": "",
       "id": "019-127-04",
       "invert": true,
+      "moreinfo": "Dieser Antrag enth\u00e4lt mehrere Ma\u00dfnahmen wie zum Beispiel die Abschaffung der Gewerbesteuer, eine Senkung der K\u00f6rperschaftssteuer und schnellere Abschreibungsfristen. Die Abstimmung war am 14. November 2019 [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=635), [Wikipedia Unternehmenssteuern](https://de.wikipedia.org/wiki/Unternehmensbesteuerung)",
       "order": 2,
       "title": "Sollte die Steuerbelastung f\u00fcr Unternehmen gesenkt werden?"
     },
@@ -59779,6 +59806,7 @@
       "description": "Nach Corona-Ausbr\u00fcchen kamen die vorherrschenden Arbeitsbedingungen in fleischverarbeitenden Betrieben an die \u00d6ffentlichkeit.",
       "id": "019-201-01",
       "invert": false,
+      "moreinfo": "[Webseite des zust\u00e4ndigen Bundesamtes](https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/arbeitsschutzkontrollgesetz.html) und des [Bundestags](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=707#debatte)",
       "order": 1,
       "title": "Sollten die Arbeitsbedingungen in der Fleischindustrie strenger geregelt und kontrolliert werden?"
     },
@@ -59797,6 +59825,11 @@
       "description": "",
       "id": "019-220-01",
       "invert": true,
+      "moreinfo": [
+        "Damit sind [Fl\u00fcssigsalzreaktoren](https://de.wikipedia.org/wiki/Fl%C3%BCssigsalzreaktor) gemeint.",
+        "Die Abstimmung fand am  statt",
+        "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)"
+      ],
       "order": 2,
       "title": "Sollte in die Erforschung und Entwicklung von neuartigen Atomkraftwerken investiert werden?"
     },

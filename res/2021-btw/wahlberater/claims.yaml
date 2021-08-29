@@ -7,13 +7,17 @@ claims:
   description: "2014 haben die NATO-Mitgliedsl\xE4nder beschlossen, dass jeder Natostaat\
     \ mindestens 2% seines Bruttoinlandsproduktes in das Milit\xE4r stecken sollte."
   bundestagsid: 019-061-02
+  moreinfo: ''
 - id: grenzkontrollen
   invert: true
   order: 2
   title: "Sollte die Bundesrepublik umfassende Grenzkontrollen einf\xFChren?"
   category: internationales
-  description: ist die kategorie richtig!?
+  description: ''
   bundestagsid: 019-021-01
+  moreinfo:
+  - Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=504)
+  - "Die Abstimmung fand am  16. M\xE4rz 2018 statt."
 - id: familiennachzug
   invert: false
   order: 3
@@ -25,6 +29,9 @@ claims:
     re Aufenthaltsgenehmigungen f\xFCr engste Angeh\xF6rige (eigene Kinder, bei Minderj\xE4\
     hrigen auch deren Eltern) zu erhalten."
   bundestagsid: 019-011-02
+  moreinfo:
+  - Die Abstimmung fand am  statt
+  - Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)
 - id: herkunftslaender
   invert: false
   order: 4
@@ -34,6 +41,9 @@ claims:
   description: "Die Abstimmung fand im Januar 2019 statt. In Asylantr\xE4gen spielt\
     \ es eine wichtige Rolle, ob das Herkunftsland als sicher gilt."
   bundestagsid: 019-075-01
+  moreinfo:
+  - Die Abstimmung fand am  statt
+  - Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)
 - id: israel
   invert: false
   order: 5
@@ -42,6 +52,9 @@ claims:
   category: internationales
   description: ''
   bundestagsid: 019-086-03
+  moreinfo:
+  - Die Abstimmung fand am  statt
+  - Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)
 - id: kohlekraftwerke
   invert: false
   order: 1
@@ -49,6 +62,9 @@ claims:
   category: natur_umwelt
   description: Das Thema wurde im Juni 2019 abgestimmt.
   bundestagsid: 019-108-03
+  moreinfo:
+  - Die Abstimmung fand am 28. Juni 2019 statt
+  - Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=612#debatte)
 - id: atomkraftwerke
   invert: true
   order: 2
@@ -57,6 +73,11 @@ claims:
   category: natur_umwelt
   description: ''
   bundestagsid: 019-220-01
+  moreinfo:
+  - "Damit sind [Fl\xFCssigsalzreaktoren](https://de.wikipedia.org/wiki/Fl%C3%BCssigsalzreaktor)\
+    \ gemeint."
+  - Die Abstimmung fand am  statt
+  - Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=)
 - id: wolfsjagd
   invert: false
   order: 3
@@ -170,6 +191,10 @@ claims:
   category: gesellschaft
   description: ''
   bundestagsid: 019-118-02
+  moreinfo:
+  - Die Abstimmung fand am 17. Oktober 2019 statt
+  - '[Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=622#debatte)'
+  - Tagesschau.de zum Thema [Tempolimit](https://www.tagesschau.de/thema/tempolimit/)
 - id: arbeitsbedingungen_fleischindustrie
   invert: false
   order: 1
@@ -179,6 +204,8 @@ claims:
   description: "Nach Corona-Ausbr\xFCchen kamen die vorherrschenden Arbeitsbedingungen\
     \ in fleischverarbeitenden Betrieben an die \xD6ffentlichkeit."
   bundestagsid: 019-201-01
+  moreinfo: "[Webseite des zust\xE4ndigen Bundesamtes](https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/arbeitsschutzkontrollgesetz.html)\
+    \ und des [Bundestags](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=707#debatte)"
 - id: unternehmenssteuern
   invert: true
   order: 2
@@ -186,6 +213,10 @@ claims:
   category: wirtschaft_finanzen
   description: ''
   bundestagsid: 019-127-04
+  moreinfo: "Dieser Antrag enth\xE4lt mehrere Ma\xDFnahmen wie zum Beispiel die Abschaffung\
+    \ der Gewerbesteuer, eine Senkung der K\xF6rperschaftssteuer und schnellere Abschreibungsfristen.\
+    \ Die Abstimmung war am 14. November 2019 [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=635),\
+    \ [Wikipedia Unternehmenssteuern](https://de.wikipedia.org/wiki/Unternehmensbesteuerung)"
 - id: steuerflucht
   invert: true
   order: 3
