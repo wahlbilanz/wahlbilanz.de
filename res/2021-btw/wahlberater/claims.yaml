@@ -101,8 +101,8 @@ claims:
 - id: no2
   invert: false
   order: 4
-  title: "Sollten Autos, die h\xF6chstens 270mg NO2 pro Kilometer aussto\xDFen, von\
-    \ Fahrverboten generell ausgenommen werden?"
+  title: "Sollten Autos, die h\xF6chstens 270mg NO<sub>2</sub> pro Kilometer aussto\xDF\
+    en, von Fahrverboten generell ausgenommen werden?"
   category: natur_umwelt
   shorttitle: Fahrverbote wegen Stickoxid
   description: "Laut einer EU-Richtlinie zur Verbesserung der Luftqualit\xE4t, m\xFC\

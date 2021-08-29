@@ -157,7 +157,7 @@ claims = [
     "id": "no2",
     "invert": False,
     "order": 4,
-    "title": "Sollten Autos, die höchstens 270mg NO2 pro Kilometer ausstoßen, von Fahrverboten generell ausgenommen werden?",
+    "title": "Sollten Autos, die höchstens 270mg NO<sub>2</sub> pro Kilometer ausstoßen, von Fahrverboten generell ausgenommen werden?",
     "category": "natur_umwelt",
     "shorttitle":"Fahrverbote wegen Stickoxid",
     "description": "Laut einer EU-Richtlinie zur Verbesserung der Luftqualität, müssen bei zu hohen Stickoxid-Werten Fahrverbote verhängt werden. Autos die nach 2014 zugelassen wurden, dürfen laut Abgasnorm nicht mehr als 80 mg Stickoxide pro Kilometer ausstoßen.",
