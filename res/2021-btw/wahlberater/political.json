@@ -57722,7 +57722,7 @@
     "019-137-06": {
       "bundestagsid": "019-137-06",
       "category": "natur_umwelt",
-      "description": "Jagdbare Tierarten k\u00f6nnen, wenn ihnen zus\u00e4tzlich eine Jagdzeit zugewiesen wird, ohne Einzelfallgenehmigung geschossen werden.",
+      "description": "Jagdbare Tierarten k\u00f6nnen ohne Einzelfallgenehmigung geschossen werden, wenn ihnen zus\u00e4tzlich eine Jagdzeit zugewiesen wird.",
       "id": "019-137-06",
       "invert": false,
       "moreinfo": [

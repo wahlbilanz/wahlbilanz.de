@@ -141,7 +141,7 @@ claims = [
     "order": 3,
     "title": "Sollte der Wolf als jagdbare Tierart eingestuft werden?",
     "category": "natur_umwelt",
-    "description": "Jagdbare Tierarten können, wenn ihnen zusätzlich eine Jagdzeit zugewiesen wird, ohne Einzelfallgenehmigung geschossen werden.",
+    "description": "Jagdbare Tierarten können ohne Einzelfallgenehmigung geschossen werden, wenn ihnen zusätzlich eine Jagdzeit zugewiesen wird.",
     "bundestagsid": "019-137-06",
     "shorttitle":"Wölfe abschießen",
     "moreinfo":[

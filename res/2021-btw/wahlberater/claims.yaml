@@ -87,8 +87,8 @@ claims:
   order: 3
   title: Sollte der Wolf als jagdbare Tierart eingestuft werden?
   category: natur_umwelt
-  description: "Jagdbare Tierarten k\xF6nnen, wenn ihnen zus\xE4tzlich eine Jagdzeit\
-    \ zugewiesen wird, ohne Einzelfallgenehmigung geschossen werden."
+  description: "Jagdbare Tierarten k\xF6nnen ohne Einzelfallgenehmigung geschossen\
+    \ werden, wenn ihnen zus\xE4tzlich eine Jagdzeit zugewiesen wird."
   bundestagsid: 019-137-06
   shorttitle: "W\xF6lfe abschie\xDFen"
   moreinfo:
