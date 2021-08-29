@@ -141,7 +141,7 @@ claims = [
     "order": 3,
     "title": "Sollte der Wolf als jagdbare Tierart eingestuft werden?",
     "category": "natur_umwelt",
-    "description": "Jagdbare Tierarten können ohne zusätzliche Genehmigung geschossen werden.",
+    "description": "Jagdbare Tierarten können, wenn ihnen zusätzlich eine Jagdzeit zugewiesen wird, ohne Einzelfallgenehmigung geschossen werden.",
     "bundestagsid": "019-137-06",
     "shorttitle":"Wölfe abschießen",
     "moreinfo":[
@@ -303,7 +303,7 @@ claims = [
     "order": 7,
     "title": "Stimmst du einer Einführung der Bundesnotbremse zur Eindämmung von Corona zu?",
     "category": "gesellschaft",
-    "description": "Die Bundesregierung schlägt im April 2020 Corona-Infektionsschutzmaßnahmen vor, besser bekannt als \"Bundesnotbremse\".",
+    "description": "Die Bundesregierung schlägt im Mai 2021 Corona-Infektionsschutzmaßnahmen vor, besser bekannt als \"Bundesnotbremse\".",
     "bundestagsid": "019-223-06",
     "shorttitle":"Corona Bundesnotbremse",
     "moreinfo":[
