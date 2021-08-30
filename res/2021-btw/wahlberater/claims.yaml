@@ -664,7 +664,7 @@ claims:
 - bundestagsid: bundeswehr
   category: internationales
   description: "Die Bundeswehr wurde in der letzen Legislaturperiode in den folgenden\
-    \ L\xE4ndern eingesetzt: Irak, Jordanien, Syrien, Mittelmeer, Libanon, Mali, Afghanistan,\
+    \ Gebieten eingesetzt: Irak, Jordanien, Syrien, Mittelmeer, Libanon, Mali, Afghanistan,\
     \ Somalia, S\xFCdsudan, Kosovo, Dafur."
   id: bundeswehr
   order: 6

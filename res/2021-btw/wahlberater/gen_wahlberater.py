@@ -310,7 +310,7 @@ def fraktionsmapper(s):
       "name": "Alternative für Deutschland",
       "kuerzel": "AfD",
       "id": "afd",
-      "color": "#009fe1",
+      "color": "#467be1",
       "picture": "afd.svg",
       "links": {
         "wikipedia": "https://de.wikipedia.org/wiki/AfD-Fraktion_im_Deutschen_Bundestag"
@@ -325,7 +325,7 @@ def fraktionsmapper(s):
       "name": "Bündnis 90/Die Grünen",
       "kuerzel": "Grüne",
       "id": "buendnis-90-die-gruenen",
-      "color": "#19a329",
+      "color": "#0da400",
       "picture": "gruene.svg",
       "links": {
         "wikipedia": "https://de.wikipedia.org/wiki/Bundestagsfraktion_B%C3%BCndnis_90/Die_Gr%C3%BCnen"
@@ -355,7 +355,7 @@ def fraktionsmapper(s):
       "name": "Die Linke",
       "kuerzel": "DIE LINKE",
       "id": "die-linke",
-      "color": "#e0001a",
+      "color": "#c82864",
       "picture": "linke.svg",
       "links": {
         "wikipedia": "https://de.wikipedia.org/wiki/Fraktion_Die_Linke_im_Bundestag#Zusammensetzung_im_19._Deutschen_Bundestag"
@@ -370,7 +370,7 @@ def fraktionsmapper(s):
       "kuerzel": "FDP",
       "name": "Freie Demokratische Partei",
       "id": "fdp",
-      "color": "#ffee00",
+      "color": "#fbd81c",
       "picture": "fdp.svg",
       "links": {
         "wikipedia": "https://de.wikipedia.org/wiki/Fraktion_der_Freien_Demokraten"
@@ -400,7 +400,7 @@ def fraktionsmapper(s):
       "name": "Sozialdemokratische Partei Deutschlands",
       "kuerzel": "SPD",
       "id": "spd",
-      "color": "#ff481f",
+      "color": "#f40000",
       "picture": "spd.svg",
       "links": {
         "wikipedia": "https://de.wikipedia.org/wiki/SPD-Bundestagsfraktion"
@@ -693,7 +693,7 @@ bundeswehr_id = "bundeswehr"
 bundeswehrclaim = {
     "bundestagsid": bundeswehr_id,
     "category": "internationales",
-    "description": "Die Bundeswehr wurde in der letzen Legislaturperiode in den folgenden Ländern eingesetzt: Irak, Jordanien, Syrien, Mittelmeer, Libanon, Mali, Afghanistan, Somalia, Südsudan, Kosovo, Dafur.",
+    "description": "Die Bundeswehr wurde in der letzen Legislaturperiode in den folgenden Gebieten eingesetzt: Irak, Jordanien, Syrien, Mittelmeer, Libanon, Mali, Afghanistan, Somalia, Südsudan, Kosovo, Dafur.",
     "id": bundeswehr_id,
     "order": 6,
     "shorttitle":"Bundeswehreinsätze",
@@ -833,12 +833,12 @@ politicalData = {
 
 
 with open('personal.json', 'w') as json_file:
-    json.dump(personal_candidates, json_file, indent=2, sort_keys=True)
-    # json.dump(personal_candidates, json_file)
+    # json.dump(personal_candidates, json_file, indent=2, sort_keys=True)
+    json.dump(personal_candidates, json_file)
 
 with open('political.json', 'w') as json_file:
-    json.dump(politicalData, json_file, indent=2, sort_keys=True)
-    # json.dump(politicalData, json_file)
+    # json.dump(politicalData, json_file, indent=2, sort_keys=True)
+    json.dump(politicalData, json_file)
 
 
 

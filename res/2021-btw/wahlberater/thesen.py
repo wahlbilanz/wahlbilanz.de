@@ -412,7 +412,7 @@ claims = [
     "id": "steuerflucht",
     "invert": True,
     "order": 3,
-    "title": "Sollten diese internationalen Konzerne Kennzahlen wie Umsatz, Gewinn und Steuern für jedes Land individuell veröffentlichen?",
+    "title": "Sollten international agierende Konzerne Kennzahlen wie Umsatz, Gewinn und Steuern für jedes Land individuell veröffentlichen?",
     "category": "wirtschaft_finanzen",
     "description": "International operierende Konzerne verschieben ihre Gewinne in Länder mit niedrigen Unternehmenssteuern, um Steuern zu vermeiden.",
     "bundestagsid": "019-098-04",

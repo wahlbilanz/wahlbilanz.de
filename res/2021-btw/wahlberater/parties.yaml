@@ -63,7 +63,7 @@ parties:
 - name: Sozialdemokratische Partei Deutschlands
   kuerzel: SPD
   id: spd
-  color: '#ff481f'
+  color: '#f40000'
   picture: spd.svg
   links:
     wikipedia: https://de.wikipedia.org/wiki/SPD-Bundestagsfraktion
@@ -124,7 +124,7 @@ parties:
 - name: "Alternative f\xFCr Deutschland"
   kuerzel: AfD
   id: afd
-  color: '#009fe1'
+  color: '#467be1'
   picture: afd.svg
   links:
     wikipedia: https://de.wikipedia.org/wiki/AfD-Fraktion_im_Deutschen_Bundestag
@@ -185,7 +185,7 @@ parties:
 - kuerzel: FDP
   name: Freie Demokratische Partei
   id: fdp
-  color: '#ffee00'
+  color: '#fbd81c'
   picture: fdp.svg
   links:
     wikipedia: https://de.wikipedia.org/wiki/Fraktion_der_Freien_Demokraten
@@ -246,7 +246,7 @@ parties:
 - name: Die Linke
   kuerzel: DIE LINKE
   id: die-linke
-  color: '#e0001a'
+  color: '#c82864'
   picture: linke.svg
   links:
     wikipedia: https://de.wikipedia.org/wiki/Fraktion_Die_Linke_im_Bundestag#Zusammensetzung_im_19._Deutschen_Bundestag
@@ -307,7 +307,7 @@ parties:
 - name: "B\xFCndnis 90/Die Gr\xFCnen"
   kuerzel: "Gr\xFCne"
   id: buendnis-90-die-gruenen
-  color: '#19a329'
+  color: '#0da400'
   picture: gruene.svg
   links:
     wikipedia: https://de.wikipedia.org/wiki/Bundestagsfraktion_B%C3%BCndnis_90/Die_Gr%C3%BCnen
