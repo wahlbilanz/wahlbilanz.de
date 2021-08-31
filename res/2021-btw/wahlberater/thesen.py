@@ -441,7 +441,7 @@ claims = [
   },
   {
     "id": "grundsteuer",
-    "invert": True,
+    "invert": False,
     "order": 5,
     "title": "Sollten Vermieter:innen weiterhin die Grundsteuer auf Mieter:innen umlegen können?",
     "category": "wirtschaft_finanzen",

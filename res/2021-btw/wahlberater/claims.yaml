@@ -310,7 +310,7 @@ claims:
 - id: steuerflucht
   invert: true
   order: 3
-  title: "Sollten diese internationalen Konzerne Kennzahlen wie Umsatz, Gewinn und\
+  title: "Sollten international agierende Konzerne Kennzahlen wie Umsatz, Gewinn und\
     \ Steuern f\xFCr jedes Land individuell ver\xF6ffentlichen?"
   category: wirtschaft_finanzen
   description: "International operierende Konzerne verschieben ihre Gewinne in L\xE4\
@@ -334,7 +334,7 @@ claims:
   - Die Abstimmung fand am 6. Mai 2021 statt
   - Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=734)
 - id: grundsteuer
-  invert: true
+  invert: false
   order: 5
   title: "Sollten Vermieter:innen weiterhin die Grundsteuer auf Mieter:innen umlegen\
     \ k\xF6nnen?"
