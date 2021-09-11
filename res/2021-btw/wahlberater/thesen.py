@@ -20,11 +20,12 @@ claims = [
     "category": "internationales",
     "description": "2014 haben die NATO-Mitgliedsländer beschlossen, dass jeder Natostaat mindestens 2% seines Bruttoinlandsproduktes in das Militär stecken sollte.",
     "bundestagsid": "019-061-02",
-    "shorttitle":"2%-Rüstungsziel",
-    "moreinfo":[
+    "shorttitle": "2%-Rüstungsziel",
+    "moreinfo": [
+      "Die Abstimmung fand am 8. November 2018 statt.",
       "Derzeit gibt Deutschland [laut Statista](https://de.statista.com/statistik/daten/studie/183106/umfrage/anteil-der-militaerausgaben-am-bip-in-deutschland/) etwa 1,4 % des Bruttoinlandsproduktes für Militär aus.",
-      "Die Abstimmung fand am 8. November 2018 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=555)"
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=555).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/zwei-prozent-ruestungsziel-der-nato-antrag-der-fraktion-die-linke)."
     ]
 
   },
@@ -36,10 +37,11 @@ claims = [
     "category": "internationales",
     "description": "",
     "bundestagsid": "019-021-01",
-    "shorttitle":"Grenzkontrollen einführen",
-    "moreinfo":[
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=504)",
-      "Die Abstimmung fand am  16. März 2018 statt."
+    "shorttitle": "Grenzkontrollen einführen",
+    "moreinfo": [
+      "Die Abstimmung fand am  16. März 2018 statt.",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=504).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/verstaerkung-der-grenzkontrollen)."
     ]
 
   },
@@ -51,12 +53,13 @@ claims = [
     "category": "internationales",
     "description": "Subsidiär Schutzberechtigte sind Flüchtlinge ohne vollen Flüchtlingsstatus. Der Familiennachzug ermöglicht es diesen Flüchtlingen, temporäre Aufenthaltsgenehmigungen für engste Angehörige (eigene Kinder, bei Minderjährigen auch deren Eltern) zu erhalten.",
     "bundestagsid": "019-011-02",
-    "shorttitle":"Familiennachzug abschaffen",
-    "moreinfo":[
-      "Die Abstimmung fand am 1. Februar 2018 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=501)",
-      "[Subsidiär Schutzberechtigte](https://de.wikipedia.org/wiki/Subsidi%C3%A4r_Schutzberechtigter) haben zunächst nur eine temporäre Aufenthaltsberechtigung.",
-      "[Familienzusammenführungen](https://de.wikipedia.org/wiki/Familienzusammenf%C3%BChrung)"
+    "shorttitle": "Familiennachzug abschaffen",
+    "moreinfo": [
+      "Die Abstimmung fand am 1. Februar 2018 statt.",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=501).",
+      "[Subsidiär Schutzberechtigte (Wikipedia)](https://de.wikipedia.org/wiki/Subsidi%C3%A4r_Schutzberechtigter) haben zunächst nur eine temporäre Aufenthaltsberechtigung.",
+      "[Familienzusammenführungen (Wikipedia)](https://de.wikipedia.org/wiki/Familienzusammenf%C3%BChrung).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/gesetzesentwurf-der-afd-zum-familiennachzug)."
     ]
   },
   {
@@ -67,11 +70,12 @@ claims = [
     "category": "internationales",
     "description": "Die Abstimmung fand im Januar 2019 statt. In Asylanträgen spielt es eine wichtige Rolle, ob das Herkunftsland als sicher gilt.",
     "bundestagsid": "019-075-01",
-    "shorttitle":"Sichere Herkunftsländer",
-    "moreinfo":[
-      "Kommt ein:e Einwanderer:in aus einem [sicherem Herkunftsland](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland)), werden deren Asylanträge in der Regel abgelehnt.",
-      "Die Abstimmung fand am  18. Januar 2019 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=572)"
+    "shorttitle": "Sichere Herkunftsländer",
+    "moreinfo": [
+      "Die Abstimmung fand am  18. Januar 2019 statt.",
+      "Kommt ein:e Einwanderer:in aus einem [sicherem Herkunftsland (Wikipedia)](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland)), werden deren Asylanträge in der Regel abgelehnt.",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=572).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/einstufung-als-sichere-herkunftsstaaten-maghreb-staaten-und-georgien)."
     ]
   },
   # {
@@ -82,8 +86,8 @@ claims = [
   #   "category": "internationales",
   #   "description": "",
   #   "bundestagsid": "019-086-03",
-  #   "shorttitle":"Israel helfen",
-  #   "moreinfo":[
+  #   "shorttitle": "Israel helfen",
+  #   "moreinfo": [
   #     "Laut einigen Politikern werden relativ häufig UN-Resolutionen verabschiedet, die die Menschenrechtlage in Israel kritisieren, ohne dass Deutschland dagegen stimmt.",
   #     "Die Abstimmung fand am 14. März 2019 statt",
   #     "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=585)"
@@ -109,14 +113,15 @@ claims = [
     "id": "kohlekraftwerke",
     "invert": False,
     "order": 1,
-    "title": "Sollten alle Braunkohlekraftwerke bis Ende 2022 abgeschaltet werden?",
+    "title": "Sollte die Leistung aller Kohlekraftwerke in Deutschland innerhalb von 3 Jahren von 43 Gigawatt auf unter 36 GW reduziert werden?",
     "category": "natur_umwelt",
     "description": "Das Thema wurde im Juni 2019 abgestimmt.",
     "bundestagsid": "019-108-03",
-    "shorttitle":"Braunkohlekraftwerke abschalten",
-    "moreinfo":[
-      "Die Abstimmung fand am 28. Juni 2019 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=612#debatte)"
+    "shorttitle": "Braunkohlekraftwerke abschalten",
+    "moreinfo": [
+      "Die Abstimmung fand am 28. Juni 2019 statt.",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=612#debatte).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/betrieb-von-kohlekraftwerken-zur-stromerzeugung-beenden)."
     ]
 
   },
@@ -128,11 +133,12 @@ claims = [
     "category": "natur_umwelt",
     "description": "",
     "bundestagsid": "019-220-01",
-    "shorttitle":"Neue Atomkraft fördern",
-    "moreinfo":[
+    "shorttitle": "Neue Atomkraft fördern",
+    "moreinfo": [
+      "Die Abstimmung fand am 14. April 2021 statt.",
       "Damit sind [Flüssigsalzreaktoren](https://de.wikipedia.org/wiki/Fl%C3%BCssigsalzreaktor) gemeint.",
-      "Die Abstimmung fand am 14. April 2021 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=721)"
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=721).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/energieversorgung-in-deutschland)."
     ]
   },
   {
@@ -143,13 +149,14 @@ claims = [
     "category": "natur_umwelt",
     "description": "Jagdbare Tierarten können ohne Einzelfallgenehmigung geschossen werden, wenn ihnen zusätzlich eine Jagdzeit zugewiesen wird.",
     "bundestagsid": "019-137-06",
-    "shorttitle":"Wölfe abschießen",
-    "moreinfo":[
+    "shorttitle": "Wölfe abschießen",
+    "moreinfo": [
       "Ansonsten bedarf es einer Einzelfallgenehmigung bevor ein Wolf geschossen werden darf.",
-      "[Jagdbare Tierart](https://www.jagdverband.de/rund-um-die-jagd/was-draussen-passiert/jagdbare-tierarten)",
-      "[Wölfe in Deutschland](https://de.wikipedia.org/wiki/W%C3%B6lfe_in_Deutschland)",
-      "Die Abstimmung fand am 19. Dezember 2019 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=650)"
+      "Die Abstimmung fand am 19. Dezember 2019 statt.",
+      "[Erklärung Jagdbare Tierart (jagdverband.de)](https://www.jagdverband.de/rund-um-die-jagd/was-draussen-passiert/jagdbare-tierarten).",
+      "[Wölfe in Deutschland (Wikipedia)](https://de.wikipedia.org/wiki/W%C3%B6lfe_in_Deutschland).",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=650).",
+      "Thema auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/abschuss-von-woelfen-erleichtern)."
     ]
 
   },
@@ -159,14 +166,14 @@ claims = [
     "order": 4,
     "title": "Sollten Autos, die höchstens 270mg NO<sub>2</sub> pro Kilometer ausstoßen, von Fahrverboten generell ausgenommen werden?",
     "category": "natur_umwelt",
-    "shorttitle":"Fahrverbote wegen Stickoxid",
+    "shorttitle": "Fahrverbote wegen Stickoxid",
     "description": "Laut einer EU-Richtlinie zur Verbesserung der Luftqualität, müssen bei zu hohen Stickoxid-Werten Fahrverbote verhängt werden. Autos die nach 2014 zugelassen wurden, dürfen laut Abgasnorm nicht mehr als 80 mg Stickoxide pro Kilometer ausstoßen.",
     "bundestagsid": "019-086-01",
-    "moreinfo":[
-      "Die Abstimmung fand am 19. Oktober 2018 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=548)",
+    "moreinfo": [
+      "Die Abstimmung fand am 19. Oktober 2018 statt.",
       "[Der ADAC](https://www.stromseite.de/gas-nachrichten/stickoxid-ausstoss-adac-vergleicht-diesel-pkw_213308.html) hat mal nachgemessen, wie viel mg/km Stickoxide moderne und alte Autos unter realen Bedingungen ausstoßen.",
-      "[Das Umwelbundesamt zu Stickoxid-Emissionen](https://www.umweltbundesamt.de/daten/luft/luftschadstoff-emissionen-in-deutschland/stickstoffoxid-emissionen#erfullungsstand-der-emissionsminderungsbeschlusse)"
+      "[Das Umwelbundesamt zu Stickoxid-Emissionen](https://www.umweltbundesamt.de/daten/luft/luftschadstoff-emissionen-in-deutschland/stickstoffoxid-emissionen#erfullungsstand-der-emissionsminderungsbeschlusse).",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=548)."
     ]
 
   },
@@ -178,12 +185,13 @@ claims = [
     "category": "natur_umwelt",
     "description": "Laut Umweltbundesamt verursacht der Ausstoß von einer Tonne CO<sub>2</sub> Schäden in Höhe von etwa 180 €.",
     "bundestagsid": "019-137-03",
-    "shorttitle":"CO2-Steuer",
-    "moreinfo":[
+    "shorttitle": "CO2-Steuer",
+    "moreinfo": [
+      "Die Abstimmung fand am 19. Dezember 2019 statt.",
       "[Kostenschätzung](https://www.umweltbundesamt.de/presse/pressemitteilungen/hohe-kosten-durch-unterlassenen-umweltschutz) des Umweltbundesamtes.",
-      "Bereits 2019 musste eine [CO2 Abgabe](https://de.wikipedia.org/wiki/CO2-Steuer#Deutschland) in Höhe von etwa 19 € pro Tonne gezahlt werden",
-      "Die Abstimmung fand am 19. Dezember 2019 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=647)"
+      "Bereits 2019 musste eine [CO2 Abgabe (Wikipedia)](https://de.wikipedia.org/wiki/CO2-Steuer#Deutschland) in Höhe von etwa 19 € pro Tonne gezahlt werden.",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=647).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/umsetzung-des-klimaschutzprogramms-2030)."
     ]
 
   },
@@ -211,10 +219,10 @@ claims = [
     "category": "gesellschaft",
     "description": "Diese Abstimmung fand 2019 und damit vor der Coronapandemie statt.",
     "bundestagsid": "019-127-05",
-    "shorttitle":"Masernimpfung Pflicht",
-    "moreinfo":[
-      "Die Abstimmung fand am 14. November 2019 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=636)"
+    "shorttitle": "Masernimpfung Pflicht",
+    "moreinfo": [
+      "Die Abstimmung fand am 14. November 2019 statt.",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=636)."
     ]
 
   },
@@ -226,11 +234,12 @@ claims = [
     "category": "gesellschaft",
     "description": "Eine Kastration sollte ab 2019 nur noch mit Betäubung zulässig sein. Jedoch wurde dies nicht umgesetzt.",
     "bundestagsid": "019-068-06",
-    "shorttitle":"Ferkelkastration erlauben",
-    "moreinfo":[
+    "shorttitle": "Ferkelkastration erlauben",
+    "moreinfo": [
+      "Die Abstimmung fand am 29. November 2018 statt.",
       "Seit Januar 2021 dürfen Ferkel tatsächlich nicht mehr ohne Betäubung kastriert werden."
-      "Die Abstimmung fand am 29. November 2018 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=569)"
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=569).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/verlaengerung-der-ferkelkastration-ohne-betaeubung)."
     ]
   },
   {
@@ -241,10 +250,11 @@ claims = [
     "category": "gesellschaft",
     "description": "Das Transsexuellen-Gesetz (von 1980) stellt hohe Anforderungen für die Änderungen des Vornamens und des amtlich dokumentierten Geschlechts.",
     "bundestagsid": "019-229-02",
-    "shorttitle":"Sexuelle Selbstbestimmung",
-    "moreinfo":[
-      "Die Abstimmung fand am 19. Mai 2021 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=737)"
+    "shorttitle": "Sexuelle Selbstbestimmung",
+    "moreinfo": [
+      "Die Abstimmung fand am 19. Mai 2021 statt.",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=737).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/aufhebung-des-transsexuellengesetzes-und-einfuehrung-des-selbstbestimmungsgesetzes)."
     ]
 
   },
@@ -256,12 +266,13 @@ claims = [
     "category": "gesellschaft",
     "description": "",
     "bundestagsid": "019-140-01",
-    "shorttitle":"Organspende",
-    "moreinfo":[
+    "shorttitle": "Organspende",
+    "moreinfo": [
+      "Die Abstimmung fand am 16. Januar 2020 statt.",
       "Obwohl laut Umfragen 84% der Deutschen Organspenden positiv gegenüberstehen, besitzen nur 36% einen Organspendeausweis.",
-      "[Wikipedia](https://de.wikipedia.org/wiki/Organspendeausweis)",
-      "Die Abstimmung fand am 16. Januar 2020 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=656)"
+      "[Informationen zum Organspendeausweis (Wikipedia)](https://de.wikipedia.org/wiki/Organspendeausweis).",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=656).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/organspenden-reform-widerspruchsloesung)."
     ]
 
   },
@@ -273,12 +284,14 @@ claims = [
     "category": "gesellschaft",
     "description": "",
     "bundestagsid": "019-233-02",
-    "shorttitle":"Staatstrojaner",
-    "moreinfo":[
-      "In den Medien ist auch von [Staatstrojanern](https://www.tagesschau.de/inland/innenpolitik/staatstrojaner-bundestag-101.html) die Rede.",
-      "[Wikipedia QuellenTKÜ](https://de.wikipedia.org/wiki/Telekommunikations%C3%BCberwachung#Quellen-Telekommunikations%C3%BCberwachung), [Wikipedia Staatstrojaner](https://de.wikipedia.org/wiki/Staatstrojaner)",
-      "Diese Abstimmung fand am 10. Juni 2021 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=742)"
+    "shorttitle": "Staatstrojaner",
+    "moreinfo": [
+      "Diese Abstimmung fand am 10. Juni 2021 statt.",
+      "In den Medien ist auch von [Staatstrojanern (Tagesschau)](https://www.tagesschau.de/inland/innenpolitik/staatstrojaner-bundestag-101.html) die Rede.",
+      "[Wikipedia zu QuellenTKÜ](https://de.wikipedia.org/wiki/Telekommunikations%C3%BCberwachung#Quellen-Telekommunikations%C3%BCberwachung).",
+      "[Wikipedia zu Staatstrojaner](https://de.wikipedia.org/wiki/Staatstrojaner).",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=742).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/mehr-rechte-fuer-den-verfassungsschutz)."
     ]
   },
   {
@@ -289,12 +302,13 @@ claims = [
     "category": "gesellschaft",
     "description": "",
     "bundestagsid": "019-218-02",
-    "shorttitle":"Geheimdienstkontrolle",
-    "moreinfo":[
+    "shorttitle": "Geheimdienstkontrolle",
+    "moreinfo": [
+      "Die Abstimmung fand am 25. März 2021 statt.",
       "Dieses Amt würde von Bundestagsabgeordneten geleitet und etwa 100 Mitarbeiter umfassen.",
       "Bislang hat der Bundestag nur in Ausnahmefällen (z.B. nach Skandalen) in Untersuchungsausschüssen Einsicht in geheime Dokumente.",
-      "Die Abstimmung fand am 25. März 2021 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=718)"
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=718).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/aenderung-des-bnd-gesetzes)."
     ]
   },
   {
@@ -305,11 +319,11 @@ claims = [
     "category": "gesellschaft",
     "description": "Die Bundesregierung schlägt im April 2021 Corona-Infektionsschutzmaßnahmen vor, besser bekannt als \"Bundesnotbremse\".",
     "bundestagsid": "019-223-06",
-    "shorttitle":"Corona Bundesnotbremse",
-    "moreinfo":[
+    "shorttitle": "Corona Bundesnotbremse",
+    "moreinfo": [
+      "Die Abstimmung fand am 21. April 2021 statt.",
       "Das Gesetz enthält sehr viele verschiedene Maßnahmen zur Eindämmung der Corona-Pandemie.",
-      "Die Abstimmung fand am 21. April 2021 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=726)"
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=726)."
     ]
 
   },
@@ -321,11 +335,13 @@ claims = [
     "category": "gesellschaft",
     "description": "Es ist in Deutschland verboten für Abtreibungen zu werben. Unter das Verbot fällt auch eine sachliche Information der Allgemeinheit. Ärzte die Abtreibungen durchführen, dürfen das nicht auf ihrer Internetseite angeben oder Informationen zum Ablauf und Nebenwirkungen darstellen.",
     "bundestagsid": "019-083-05",
-    "shorttitle":"Abtreibungswerbeverbot kippen",
-    "moreinfo":[
-      "[Wikipedia](https://de.wikipedia.org/wiki/Werbung_f%C3%BCr_den_Abbruch_der_Schwangerschaft) und [Tagesschau](https://www.tagesschau.de/inland/abtreibung-werbeverbot-105.html) zum Thema.",
-      "Die Abstimmung fand am 21. Februar 2019 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=582)"
+    "shorttitle": "Abtreibungswerbeverbot kippen",
+    "moreinfo": [
+      "Die Abstimmung fand am 21. Februar 2019 statt.",
+      "[Informationen zu Schwangerschaftsabbruch (Wikipedia)](https://de.wikipedia.org/wiki/Werbung_f%C3%BCr_den_Abbruch_der_Schwangerschaft).",
+      "[Tagesschau](https://www.tagesschau.de/inland/abtreibung-werbeverbot-105.html) zum Thema.",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=582).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/aufhebung-von-ss-219a-stgb)."
     ]
 
   },
@@ -337,11 +353,12 @@ claims = [
     "category": "gesellschaft",
     "description": "",
     "bundestagsid": "019-127-02",
-    "shorttitle":"Solidaritätszuschlag abschaffen",
-    "moreinfo":[
-      "[Wikipedia Solidaritätszuschlag](https://de.wikipedia.org/wiki/Solidarit%C3%A4tszuschlag)",
-      "Die Abstimmung fand am 14. November 2019 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=633)"
+    "shorttitle": "Solidaritätszuschlag abschaffen",
+    "moreinfo": [
+      "Die Abstimmung fand am 14. November 2019 statt.",
+      "[Informationen zum Solidaritätszuschlag (Wikipedia)](https://de.wikipedia.org/wiki/Solidarit%C3%A4tszuschlag).",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=633).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/abschaffung-des-solidaritaetszuschlags)."
     ]
 
   },
@@ -353,11 +370,13 @@ claims = [
     "category": "gesellschaft",
     "description": "",
     "bundestagsid": "019-118-02",
-    "shorttitle":"Tempo 130",
-    "moreinfo":[
-      "Die Abstimmung fand am 17. Oktober 2019 statt",
-      "[Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=622#debatte)",
-      "Tagesschau.de zum Thema [Tempolimit](https://www.tagesschau.de/thema/tempolimit/)"]
+    "shorttitle": "Tempo 130",
+    "moreinfo": [
+      "Die Abstimmung fand am 17. Oktober 2019 statt.",
+      "Tagesschau.de zum Thema [Tempolimit](https://www.tagesschau.de/thema/tempolimit/).",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=622#debatte).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/tempolimit-auf-deutschen-autobahnen)."
+    ]
 
   },
   #
@@ -384,11 +403,12 @@ claims = [
     "category": "wirtschaft_finanzen",
     "description": "Nach Corona-Ausbrüchen kamen die vorherrschenden Arbeitsbedingungen in fleischverarbeitenden Betrieben an die Öffentlichkeit.",
     "bundestagsid": "019-201-01",
-    "shorttitle":"Arbeitsbedingungen Fleischindustrie",
-    "moreinfo":[
-      "[Webseite des zuständigen Bundesamtes](https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/arbeitsschutzkontrollgesetz.html) und des [Bundestags](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=707#debatte)",
-      "Die Abstimmung fand am 16. Dezember 2020 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=707)"
+    "shorttitle": "Arbeitsbedingungen Fleischindustrie",
+    "moreinfo": [
+      "Die Abstimmung fand am 16. Dezember 2020 statt.",
+      "[Webseite des zuständigen Bundesamtes](https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/arbeitsschutzkontrollgesetz.html) und des [Bundestags](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=707#debatte).",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=707).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/arbeitsschutzkontrollgesetz)."
     ]
   },
   {
@@ -399,12 +419,13 @@ claims = [
     "category": "wirtschaft_finanzen",
     "description": "",
     "bundestagsid": "019-127-04",
-    "shorttitle":"Unternehmenssteuern senken",
-    "moreinfo":[
+    "shorttitle": "Unternehmenssteuern senken",
+    "moreinfo": [
+      "Die Abstimmung fand am 14. November 2019 statt.",
       "Dieser Antrag enthält mehrere Maßnahmen wie zum Beispiel die Abschaffung der Gewerbesteuer, eine Senkung der Körperschaftssteuer und schnellere Abschreibungsfristen.",
-      "[Wikipedia Unternehmenssteuern](https://de.wikipedia.org/wiki/Unternehmensbesteuerung)",
-      "Die Abstimmung fand am 14. November 2019 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=635)"
+      "[Informationen zu Unternehmenssteuern (Wikipedia)](https://de.wikipedia.org/wiki/Unternehmensbesteuerung).",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=635).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/gewerbesteuer-abschaffen-und-koerperschaftssteuer-senken)."
              ]
 
   },
@@ -416,10 +437,11 @@ claims = [
     "category": "wirtschaft_finanzen",
     "description": "International operierende Konzerne verschieben ihre Gewinne in Länder mit niedrigen Unternehmenssteuern, um Steuern zu vermeiden.",
     "bundestagsid": "019-098-04",
-    "shorttitle":"Transparenz gegen Steuerflucht",
-    "moreinfo":[
-      "Die Abstimmung fand am 9. Mai 2019 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=600)"
+    "shorttitle": "Transparenz gegen Steuerflucht",
+    "moreinfo": [
+      "Die Abstimmung fand am 9. Mai 2019 statt.",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=600).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/konzerntransparenz-gegen-steuerflucht-einfuehren)."
     ]
 
   },
@@ -431,11 +453,12 @@ claims = [
     "category": "wirtschaft_finanzen",
     "description": "",
     "bundestagsid": "019-227-04",
-    "shorttitle":"Patente freigeben",
-    "moreinfo":[
+    "shorttitle": "Patente freigeben",
+    "moreinfo": [
+      "Die Abstimmung fand am 6. Mai 2021 statt.",
       "Durch die Freigabe soll die Impstoffproduktion in anderen Ländern vergünstigt werden.",
-      "Die Abstimmung fand am 6. Mai 2021 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=734)"
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=734).",
+      "Abstimmung auf [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/bundestag/19/abstimmungen/patente-fuer-impfstoffe-freigeben)."
     ]
 
   },
@@ -447,10 +470,10 @@ claims = [
     "category": "wirtschaft_finanzen",
     "description": "Die Grundsteuer richtet sich nach dem Wert von Grundstücken und deren Immobilien.",
     "bundestagsid": "019-119-02",
-    "shorttitle":"Grundsteuer umlegen",
-    "moreinfo":[
-      "Die Abstimmung fand am 18. Oktober 2019 statt",
-      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=624)"
+    "shorttitle": "Grundsteuer umlegen",
+    "moreinfo": [
+      "Die Abstimmung fand am 18. Oktober 2019 statt.",
+      "Abstimmung auf [Bundestag.de](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=624)."
     ]
 
   },
@@ -518,5 +541,12 @@ for i in bundeswehr:
 
 claim_bundestagsids = []
 for c in claims:
+  if "moreinfo" not in c:
+    c["moreinfo"] = []
+  c["moreinfo"].append ("Abstimmung auf [WahlBilanz.de](https://wahlbilanz.de/abstimmungen/"+c["bundestagsid"]+").")
   claim_bundestagsids.append(c["bundestagsid"])
+  print (c["title"])
+  for i in c["moreinfo"]:
+    print ("\t" + i)
+    assert (i[-1] == ".")
 

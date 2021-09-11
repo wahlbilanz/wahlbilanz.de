@@ -422,6 +422,9 @@ candidates = {}
 # claims = []
 # n2 = 0
 
+n_votes = 0
+n_missed = 0
+
 
 def candidate_id(row, rowids):
   return replace_non_alphanum(
@@ -526,6 +529,9 @@ for f in listdir(csv_path):
         "vote": optionally_invert_result(int(row[rowids["ja"]]) - int(row[rowids["nein"]]), claim["invert"])
       }
 
+      n_votes += 1
+      if int(row[rowids["nichtabgegeben"]]) > 0:
+        n_missed += 1
 
 
 
@@ -733,6 +739,7 @@ for candidate in candidates:
 
 cs = []
 for c in candidates:
+  candidates[c]['party'] = re.sub('[^0-9a-zA-Z]+', '-', candidates[c]['party'])
   cs.append(candidates[c])
 
 
@@ -821,7 +828,8 @@ party_map = {}
 for f in fraktionen:
   if f["kuerzel"] == 'fraktionslos':
     continue
-  f["id"] = f["kuerzel"]
+  f["id"] = re.sub('[^0-9a-zA-Z]+', '-', f["kuerzel"])
+  f["shortName"] = f["kuerzel"]
   party_map[f["id"]] = f
 
 politicalData = {
@@ -837,9 +845,13 @@ with open('personal.json', 'w') as json_file:
     json.dump(personal_candidates, json_file)
 
 with open('political.json', 'w') as json_file:
-    # json.dump(politicalData, json_file, indent=2, sort_keys=True)
-    json.dump(politicalData, json_file)
+    json.dump(politicalData, json_file, indent=2, sort_keys=True)
+    # json.dump(politicalData, json_file)
 
 
-
+print (
+'n_votes',
+n_votes,
+'n_missed',
+n_missed)
 

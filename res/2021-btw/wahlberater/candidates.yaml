@@ -2,7 +2,7 @@ candidates:
 - id: Abercron-Michael-cdu-csu
   publishPersonalInfo: true
   name: Dr. Michael von Abercron
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: 0
@@ -57,7 +57,7 @@ candidates:
 - id: Albani-Stephan-cdu-csu
   publishPersonalInfo: true
   name: Stephan Albani
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -112,7 +112,7 @@ candidates:
 - id: Altenkamp-Norbert-Maria-cdu-csu
   publishPersonalInfo: true
   name: Norbert Maria Altenkamp
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -167,7 +167,7 @@ candidates:
 - id: Altmaier-Peter-cdu-csu
   publishPersonalInfo: true
   name: Peter Altmaier
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -222,7 +222,7 @@ candidates:
 - id: Amthor-Philipp-cdu-csu
   publishPersonalInfo: true
   name: Philipp Amthor
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -277,7 +277,7 @@ candidates:
 - id: Auernhammer-Artur-cdu-csu
   publishPersonalInfo: true
   name: Artur Auernhammer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -332,7 +332,7 @@ candidates:
 - id: Aumer-Peter-cdu-csu
   publishPersonalInfo: true
   name: Peter Aumer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -387,7 +387,7 @@ candidates:
 - id: B-r-Dorothee-cdu-csu
   publishPersonalInfo: true
   name: "Dorothee B\xE4r"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -442,7 +442,7 @@ candidates:
 - id: Barei-Thomas-cdu-csu
   publishPersonalInfo: true
   name: "Thomas Barei\xDF"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -497,7 +497,7 @@ candidates:
 - id: Barthle-Norbert-cdu-csu
   publishPersonalInfo: true
   name: Norbert Barthle
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -552,7 +552,7 @@ candidates:
 - id: Beermann-Maik-cdu-csu
   publishPersonalInfo: true
   name: Maik Beermann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -607,7 +607,7 @@ candidates:
 - id: Behrens-B-rde-Manfred-cdu-csu
   publishPersonalInfo: true
   name: "Manfred Behrens (B\xF6rde)"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -662,7 +662,7 @@ candidates:
 - id: Bellmann-Veronika-cdu-csu
   publishPersonalInfo: true
   name: Veronika Bellmann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -717,7 +717,7 @@ candidates:
 - id: Benning-Sybille-cdu-csu
   publishPersonalInfo: true
   name: Sybille Benning
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -772,7 +772,7 @@ candidates:
 - id: Berghegger-Andr-cdu-csu
   publishPersonalInfo: true
   name: "Dr. Andr\xE9 Berghegger"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -827,7 +827,7 @@ candidates:
 - id: Bernstein-Melanie-cdu-csu
   publishPersonalInfo: true
   name: Melanie Bernstein
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -882,7 +882,7 @@ candidates:
 - id: Bernstiel-Christoph-cdu-csu
   publishPersonalInfo: true
   name: Christoph Bernstiel
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -937,7 +937,7 @@ candidates:
 - id: Beyer-Peter-cdu-csu
   publishPersonalInfo: true
   name: Peter Beyer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -992,7 +992,7 @@ candidates:
 - id: Biadacz-Marc-cdu-csu
   publishPersonalInfo: true
   name: Marc Biadacz
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1047,7 +1047,7 @@ candidates:
 - id: Bilger-Steffen-cdu-csu
   publishPersonalInfo: true
   name: Steffen Bilger
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1102,7 +1102,7 @@ candidates:
 - id: Bleser-Peter-cdu-csu
   publishPersonalInfo: true
   name: Peter Bleser
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1157,7 +1157,7 @@ candidates:
 - id: Brackmann-Norbert-cdu-csu
   publishPersonalInfo: true
   name: Norbert Brackmann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1212,7 +1212,7 @@ candidates:
 - id: Brand-Fulda-Michael-cdu-csu
   publishPersonalInfo: true
   name: Michael Brand (Fulda)
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1267,7 +1267,7 @@ candidates:
 - id: Brandl-Reinhard-cdu-csu
   publishPersonalInfo: true
   name: Dr. Reinhard Brandl
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1322,7 +1322,7 @@ candidates:
 - id: Brauksiepe-Ralf-cdu-csu
   publishPersonalInfo: true
   name: Dr. Ralf Brauksiepe
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1333,7 +1333,7 @@ candidates:
 - id: Braun-Helge-cdu-csu
   publishPersonalInfo: true
   name: Dr. Helge Braun
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1388,7 +1388,7 @@ candidates:
 - id: Breher-Silvia-cdu-csu
   publishPersonalInfo: true
   name: Silvia Breher
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1443,7 +1443,7 @@ candidates:
 - id: Brehm-Sebastian-cdu-csu
   publishPersonalInfo: true
   name: Sebastian Brehm
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1498,7 +1498,7 @@ candidates:
 - id: Brehmer-Heike-cdu-csu
   publishPersonalInfo: true
   name: Heike Brehmer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1553,7 +1553,7 @@ candidates:
 - id: Brinkhaus-Ralph-cdu-csu
   publishPersonalInfo: true
   name: Ralph Brinkhaus
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1608,7 +1608,7 @@ candidates:
 - id: Brodesser-Carsten-cdu-csu
   publishPersonalInfo: true
   name: Dr. Carsten Brodesser
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1663,7 +1663,7 @@ candidates:
 - id: Connemann-Gitta-cdu-csu
   publishPersonalInfo: true
   name: Gitta Connemann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1718,7 +1718,7 @@ candidates:
 - id: Damerow-Astrid-cdu-csu
   publishPersonalInfo: true
   name: Astrid Damerow
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1773,7 +1773,7 @@ candidates:
 - id: Dobrindt-Alexander-cdu-csu
   publishPersonalInfo: true
   name: Alexander Dobrindt
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1828,7 +1828,7 @@ candidates:
 - id: Donth-Michael-cdu-csu
   publishPersonalInfo: true
   name: Michael Donth
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1883,7 +1883,7 @@ candidates:
 - id: D-tt-Marie-Luise-cdu-csu
   publishPersonalInfo: true
   name: "Marie-Luise D\xF6tt"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1938,7 +1938,7 @@ candidates:
 - id: Durz-Hansj-rg-cdu-csu
   publishPersonalInfo: true
   name: "Hansj\xF6rg Durz"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -1993,7 +1993,7 @@ candidates:
 - id: Erndl-Thomas-cdu-csu
   publishPersonalInfo: true
   name: Thomas Erndl
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2048,7 +2048,7 @@ candidates:
 - id: F-rber-Hermann-cdu-csu
   publishPersonalInfo: true
   name: "Hermann F\xE4rber"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2103,7 +2103,7 @@ candidates:
 - id: Feiler-Uwe-cdu-csu
   publishPersonalInfo: true
   name: Uwe Feiler
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2158,7 +2158,7 @@ candidates:
 - id: Ferlemann-Enak-cdu-csu
   publishPersonalInfo: true
   name: Enak Ferlemann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2213,7 +2213,7 @@ candidates:
 - id: Fischer-Karlsruhe-Land-Axel-E-cdu-csu
   publishPersonalInfo: true
   name: Axel E. Fischer (Karlsruhe-Land)
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2268,7 +2268,7 @@ candidates:
 - id: Flachsbarth-Maria-cdu-csu
   publishPersonalInfo: true
   name: Dr. Maria Flachsbarth
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2323,7 +2323,7 @@ candidates:
 - id: Frei-Thorsten-cdu-csu
   publishPersonalInfo: true
   name: Thorsten Frei
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2378,7 +2378,7 @@ candidates:
 - id: Friedrich-Hof-Hans-Peter-cdu-csu
   publishPersonalInfo: true
   name: Dr. Hans-Peter Friedrich (Hof)
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2433,7 +2433,7 @@ candidates:
 - id: Frieser-Michael-cdu-csu
   publishPersonalInfo: true
   name: Michael Frieser
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2488,7 +2488,7 @@ candidates:
 - id: Fuchtel-Hans-Joachim-cdu-csu
   publishPersonalInfo: true
   name: Hans-Joachim Fuchtel
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2543,7 +2543,7 @@ candidates:
 - id: G-dechens-Ingo-cdu-csu
   publishPersonalInfo: true
   name: "Ingo G\xE4dechens"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2598,7 +2598,7 @@ candidates:
 - id: Gebhart-Thomas-cdu-csu
   publishPersonalInfo: true
   name: Dr. Thomas Gebhart
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2653,7 +2653,7 @@ candidates:
 - id: Gerig-Alois-cdu-csu
   publishPersonalInfo: true
   name: Alois Gerig
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2708,7 +2708,7 @@ candidates:
 - id: Gienger-Eberhard-cdu-csu
   publishPersonalInfo: true
   name: Eberhard Gienger
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2763,7 +2763,7 @@ candidates:
 - id: Gnodtke-Eckhard-cdu-csu
   publishPersonalInfo: true
   name: Eckhard Gnodtke
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2818,7 +2818,7 @@ candidates:
 - id: Groden-Kranich-Ursula-cdu-csu
   publishPersonalInfo: true
   name: Ursula Groden-Kranich
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2873,7 +2873,7 @@ candidates:
 - id: Gr-he-Hermann-cdu-csu
   publishPersonalInfo: true
   name: "Hermann Gr\xF6he"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2928,7 +2928,7 @@ candidates:
 - id: Gr-hler-Klaus-Dieter-cdu-csu
   publishPersonalInfo: true
   name: "Klaus-Dieter Gr\xF6hler"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -2983,7 +2983,7 @@ candidates:
 - id: Grosse-Br-mer-Michael-cdu-csu
   publishPersonalInfo: true
   name: "Michael Grosse-Br\xF6mer"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3038,7 +3038,7 @@ candidates:
 - id: Grotel-schen-Astrid-cdu-csu
   publishPersonalInfo: true
   name: "Astrid Grotel\xFCschen"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3093,7 +3093,7 @@ candidates:
 - id: Gr-bel-Markus-cdu-csu
   publishPersonalInfo: true
   name: "Markus Gr\xFCbel"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3148,7 +3148,7 @@ candidates:
 - id: Grund-Manfred-cdu-csu
   publishPersonalInfo: true
   name: Manfred Grund
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3203,7 +3203,7 @@ candidates:
 - id: Grundmann-Oliver-cdu-csu
   publishPersonalInfo: true
   name: Oliver Grundmann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3258,7 +3258,7 @@ candidates:
 - id: Gr-tters-Monika-cdu-csu
   publishPersonalInfo: true
   name: "Monika Gr\xFCtters"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3313,7 +3313,7 @@ candidates:
 - id: G-ntzler-Fritz-cdu-csu
   publishPersonalInfo: true
   name: "Fritz G\xFCntzler"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3368,7 +3368,7 @@ candidates:
 - id: Gutting-Olav-cdu-csu
   publishPersonalInfo: true
   name: Olav Gutting
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3423,7 +3423,7 @@ candidates:
 - id: Haase-Christian-cdu-csu
   publishPersonalInfo: true
   name: Christian Haase
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3478,7 +3478,7 @@ candidates:
 - id: Hahn-Florian-cdu-csu
   publishPersonalInfo: true
   name: Florian Hahn
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3533,7 +3533,7 @@ candidates:
 - id: Harbarth-Stephan-cdu-csu
   publishPersonalInfo: true
   name: Dr. Stephan Harbarth
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3548,7 +3548,7 @@ candidates:
 - id: Hardt-J-rgen-cdu-csu
   publishPersonalInfo: true
   name: "J\xFCrgen Hardt"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3603,7 +3603,7 @@ candidates:
 - id: Hauer-Matthias-cdu-csu
   publishPersonalInfo: true
   name: Matthias Hauer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3658,7 +3658,7 @@ candidates:
 - id: Hauptmann-Mark-cdu-csu
   publishPersonalInfo: true
   name: Mark Hauptmann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3701,7 +3701,7 @@ candidates:
 - id: Heider-Matthias-cdu-csu
   publishPersonalInfo: true
   name: Dr. Matthias Heider
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3756,7 +3756,7 @@ candidates:
 - id: Heil-Mechthild-cdu-csu
   publishPersonalInfo: true
   name: Mechthild Heil
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3811,7 +3811,7 @@ candidates:
 - id: Heilmann-Thomas-cdu-csu
   publishPersonalInfo: true
   name: Thomas Heilmann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: 0
@@ -3866,7 +3866,7 @@ candidates:
 - id: Heinrich-Chemnitz-Frank-cdu-csu
   publishPersonalInfo: true
   name: Frank Heinrich (Chemnitz)
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3921,7 +3921,7 @@ candidates:
 - id: Helfrich-Mark-cdu-csu
   publishPersonalInfo: true
   name: Mark Helfrich
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -3976,7 +3976,7 @@ candidates:
 - id: Henke-Rudolf-cdu-csu
   publishPersonalInfo: true
   name: Rudolf Henke
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4031,7 +4031,7 @@ candidates:
 - id: Hennrich-Michael-cdu-csu
   publishPersonalInfo: true
   name: Michael Hennrich
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4086,7 +4086,7 @@ candidates:
 - id: Henrichmann-Marc-cdu-csu
   publishPersonalInfo: true
   name: Marc Henrichmann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4141,7 +4141,7 @@ candidates:
 - id: Heveling-Ansgar-cdu-csu
   publishPersonalInfo: true
   name: Ansgar Heveling
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4196,7 +4196,7 @@ candidates:
 - id: Hirte-Christian-cdu-csu
   publishPersonalInfo: true
   name: Christian Hirte
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4251,7 +4251,7 @@ candidates:
 - id: Hirte-Heribert-cdu-csu
   publishPersonalInfo: true
   name: Dr. Heribert Hirte
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4306,7 +4306,7 @@ candidates:
 - id: Hoffmann-Alexander-cdu-csu
   publishPersonalInfo: true
   name: Alexander Hoffmann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4361,7 +4361,7 @@ candidates:
 - id: Holmeier-Karl-cdu-csu
   publishPersonalInfo: true
   name: Karl Holmeier
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4416,7 +4416,7 @@ candidates:
 - id: Hoppenstedt-Hendrik-cdu-csu
   publishPersonalInfo: true
   name: Dr. Hendrik Hoppenstedt
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4471,7 +4471,7 @@ candidates:
 - id: Irlstorfer-Erich-cdu-csu
   publishPersonalInfo: true
   name: Erich Irlstorfer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4526,7 +4526,7 @@ candidates:
 - id: Irmer-Hans-J-rgen-cdu-csu
   publishPersonalInfo: true
   name: "Hans-J\xFCrgen Irmer"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4581,7 +4581,7 @@ candidates:
 - id: Jarzombek-Thomas-cdu-csu
   publishPersonalInfo: true
   name: Thomas Jarzombek
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4636,7 +4636,7 @@ candidates:
 - id: Jung-Andreas-cdu-csu
   publishPersonalInfo: true
   name: Andreas Jung
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4691,7 +4691,7 @@ candidates:
 - id: Jung-Ingmar-cdu-csu
   publishPersonalInfo: true
   name: Ingmar Jung
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4746,7 +4746,7 @@ candidates:
 - id: Karl-Alois-cdu-csu
   publishPersonalInfo: true
   name: Alois Karl
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4801,7 +4801,7 @@ candidates:
 - id: Karliczek-Anja-cdu-csu
   publishPersonalInfo: true
   name: Anja Karliczek
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4856,7 +4856,7 @@ candidates:
 - id: Kartes-Torbj-rn-cdu-csu
   publishPersonalInfo: true
   name: "Torbj\xF6rn Kartes"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4911,7 +4911,7 @@ candidates:
 - id: Kauder-Volker-cdu-csu
   publishPersonalInfo: true
   name: Volker Kauder
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -4966,7 +4966,7 @@ candidates:
 - id: Kaufmann-Stefan-cdu-csu
   publishPersonalInfo: true
   name: Dr. Stefan Kaufmann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5021,7 +5021,7 @@ candidates:
 - id: Kemmer-Ronja-cdu-csu
   publishPersonalInfo: true
   name: Ronja Kemmer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5076,7 +5076,7 @@ candidates:
 - id: Kiesewetter-Roderich-cdu-csu
   publishPersonalInfo: true
   name: Roderich Kiesewetter
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5131,7 +5131,7 @@ candidates:
 - id: Kie-ling-Michael-cdu-csu
   publishPersonalInfo: true
   name: "Michael Kie\xDFling"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5186,7 +5186,7 @@ candidates:
 - id: Kippels-Georg-cdu-csu
   publishPersonalInfo: true
   name: Dr. Georg Kippels
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5241,7 +5241,7 @@ candidates:
 - id: Klein-Volkmar-cdu-csu
   publishPersonalInfo: true
   name: Volkmar Klein
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5296,7 +5296,7 @@ candidates:
 - id: Knoerig-Axel-cdu-csu
   publishPersonalInfo: true
   name: Axel Knoerig
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5351,7 +5351,7 @@ candidates:
 - id: Koeppen-Jens-cdu-csu
   publishPersonalInfo: true
   name: Jens Koeppen
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5406,7 +5406,7 @@ candidates:
 - id: Koob-Markus-cdu-csu
   publishPersonalInfo: true
   name: Markus Koob
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5461,7 +5461,7 @@ candidates:
 - id: K-rber-Carsten-cdu-csu
   publishPersonalInfo: true
   name: "Carsten K\xF6rber"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5516,7 +5516,7 @@ candidates:
 - id: Krau-Alexander-cdu-csu
   publishPersonalInfo: true
   name: "Alexander Krau\xDF"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5571,7 +5571,7 @@ candidates:
 - id: Krichbaum-Gunther-cdu-csu
   publishPersonalInfo: true
   name: Gunther Krichbaum
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5626,7 +5626,7 @@ candidates:
 - id: Krings-G-nter-cdu-csu
   publishPersonalInfo: true
   name: "Dr. G\xFCnter Krings"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5681,7 +5681,7 @@ candidates:
 - id: Kruse-R-diger-cdu-csu
   publishPersonalInfo: true
   name: "R\xFCdiger Kruse"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5736,7 +5736,7 @@ candidates:
 - id: Kuffer-Michael-cdu-csu
   publishPersonalInfo: true
   name: Michael Kuffer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5791,7 +5791,7 @@ candidates:
 - id: K-hne-Roy-cdu-csu
   publishPersonalInfo: true
   name: "Dr. Roy K\xFChne"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5846,7 +5846,7 @@ candidates:
 - id: Lamers-Karl-A-cdu-csu
   publishPersonalInfo: true
   name: Dr. Dr. h.c. Karl A. Lamers
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5901,7 +5901,7 @@ candidates:
 - id: L-mmel-Andreas-G-cdu-csu
   publishPersonalInfo: true
   name: "Andreas G. L\xE4mmel"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -5956,7 +5956,7 @@ candidates:
 - id: Landgraf-Katharina-cdu-csu
   publishPersonalInfo: true
   name: Katharina Landgraf
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6011,7 +6011,7 @@ candidates:
 - id: Lange-Ulrich-cdu-csu
   publishPersonalInfo: true
   name: Ulrich Lange
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6066,7 +6066,7 @@ candidates:
 - id: Launert-Silke-cdu-csu
   publishPersonalInfo: true
   name: Dr. Silke Launert
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6121,7 +6121,7 @@ candidates:
 - id: Lehmann-Jens-cdu-csu
   publishPersonalInfo: true
   name: Jens Lehmann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6176,7 +6176,7 @@ candidates:
 - id: Lehrieder-Paul-cdu-csu
   publishPersonalInfo: true
   name: Paul Lehrieder
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6231,7 +6231,7 @@ candidates:
 - id: Leikert-Katja-cdu-csu
   publishPersonalInfo: true
   name: Dr. Katja Leikert
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6286,7 +6286,7 @@ candidates:
 - id: Lenz-Andreas-cdu-csu
   publishPersonalInfo: true
   name: Dr. Andreas Lenz
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6341,7 +6341,7 @@ candidates:
 - id: Leyen-Ursula-cdu-csu
   publishPersonalInfo: true
   name: Dr. Ursula von der Leyen
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6366,7 +6366,7 @@ candidates:
 - id: Lezius-Antje-cdu-csu
   publishPersonalInfo: true
   name: Antje Lezius
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6421,7 +6421,7 @@ candidates:
 - id: Lindholz-Andrea-cdu-csu
   publishPersonalInfo: true
   name: Andrea Lindholz
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6476,7 +6476,7 @@ candidates:
 - id: Linnemann-Carsten-cdu-csu
   publishPersonalInfo: true
   name: Dr. Carsten Linnemann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6531,7 +6531,7 @@ candidates:
 - id: Lips-Patricia-cdu-csu
   publishPersonalInfo: true
   name: Patricia Lips
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6586,7 +6586,7 @@ candidates:
 - id: L-bel-Nikolas-cdu-csu
   publishPersonalInfo: true
   name: "Nikolas L\xF6bel"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6629,7 +6629,7 @@ candidates:
 - id: Loos-Bernhard-cdu-csu
   publishPersonalInfo: true
   name: Bernhard Loos
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6684,7 +6684,7 @@ candidates:
 - id: Luczak-Jan-Marco-cdu-csu
   publishPersonalInfo: true
   name: Dr. Jan-Marco Luczak
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6739,7 +6739,7 @@ candidates:
 - id: Ludwig-Daniela-cdu-csu
   publishPersonalInfo: true
   name: Daniela Ludwig
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6794,7 +6794,7 @@ candidates:
 - id: Maag-Karin-cdu-csu
   publishPersonalInfo: true
   name: Karin Maag
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6849,7 +6849,7 @@ candidates:
 - id: Magwas-Yvonne-cdu-csu
   publishPersonalInfo: true
   name: Yvonne Magwas
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6904,7 +6904,7 @@ candidates:
 - id: Maizi-re-Thomas-cdu-csu
   publishPersonalInfo: true
   name: "Dr. Thomas de Maizi\xE8re"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -6959,7 +6959,7 @@ candidates:
 - id: Mannes-Astrid-cdu-csu
   publishPersonalInfo: true
   name: Dr. Astrid Mannes
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7014,7 +7014,7 @@ candidates:
 - id: Marschall-Matern-cdu-csu
   publishPersonalInfo: true
   name: Matern von Marschall
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7069,7 +7069,7 @@ candidates:
 - id: Marwitz-Hans-Georg-cdu-csu
   publishPersonalInfo: true
   name: Hans-Georg von der Marwitz
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7124,7 +7124,7 @@ candidates:
 - id: Mattfeldt-Andreas-cdu-csu
   publishPersonalInfo: true
   name: Andreas Mattfeldt
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7179,7 +7179,7 @@ candidates:
 - id: Mayer-Alt-tting-Stephan-cdu-csu
   publishPersonalInfo: true
   name: "Stephan Mayer (Alt\xF6tting)"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7234,7 +7234,7 @@ candidates:
 - id: Meister-Michael-cdu-csu
   publishPersonalInfo: true
   name: Dr. Michael Meister
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7289,7 +7289,7 @@ candidates:
 - id: Merkel-Angela-cdu-csu
   publishPersonalInfo: true
   name: Dr. Angela Merkel
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7344,7 +7344,7 @@ candidates:
 - id: Metzler-Jan-cdu-csu
   publishPersonalInfo: true
   name: Jan Metzler
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7399,7 +7399,7 @@ candidates:
 - id: Michelbach-Hans-cdu-csu
   publishPersonalInfo: true
   name: Dr. h.c. Hans Michelbach
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7454,7 +7454,7 @@ candidates:
 - id: Middelberg-Mathias-cdu-csu
   publishPersonalInfo: true
   name: Dr. Mathias Middelberg
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7509,7 +7509,7 @@ candidates:
 - id: Monstadt-Dietrich-cdu-csu
   publishPersonalInfo: true
   name: Dietrich Monstadt
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7564,7 +7564,7 @@ candidates:
 - id: M-ring-Karsten-cdu-csu
   publishPersonalInfo: true
   name: "Karsten M\xF6ring"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7619,7 +7619,7 @@ candidates:
 - id: Mortler-Marlene-cdu-csu
   publishPersonalInfo: true
   name: Marlene Mortler
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7644,7 +7644,7 @@ candidates:
 - id: Motschmann-Elisabeth-cdu-csu
   publishPersonalInfo: true
   name: Elisabeth Motschmann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7699,7 +7699,7 @@ candidates:
 - id: M-ller-Axel-cdu-csu
   publishPersonalInfo: true
   name: "Axel M\xFCller"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7754,7 +7754,7 @@ candidates:
 - id: M-ller-Gerd-cdu-csu
   publishPersonalInfo: true
   name: "Dr. Gerd M\xFCller"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7809,7 +7809,7 @@ candidates:
 - id: M-ller-Sepp-cdu-csu
   publishPersonalInfo: true
   name: "Sepp M\xFCller"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7864,7 +7864,7 @@ candidates:
 - id: M-ller-Braunschweig-Carsten-cdu-csu
   publishPersonalInfo: true
   name: "Carsten M\xFCller (Braunschweig)"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7919,7 +7919,7 @@ candidates:
 - id: M-ller-Erlangen-Stefan-cdu-csu
   publishPersonalInfo: true
   name: "Stefan M\xFCller (Erlangen)"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -7974,7 +7974,7 @@ candidates:
 - id: Nick-Andreas-cdu-csu
   publishPersonalInfo: true
   name: Dr. Andreas Nick
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8029,7 +8029,7 @@ candidates:
 - id: Nicolaisen-Petra-cdu-csu
   publishPersonalInfo: true
   name: Petra Nicolaisen
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8084,7 +8084,7 @@ candidates:
 - id: Noll-Michaela-cdu-csu
   publishPersonalInfo: true
   name: Michaela Noll
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8139,7 +8139,7 @@ candidates:
 - id: N-lein-Georg-cdu-csu
   publishPersonalInfo: true
   name: "Dr. Georg N\xFC\xDFlein"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8182,7 +8182,7 @@ candidates:
 - id: Oellers-Wilfried-cdu-csu
   publishPersonalInfo: true
   name: Wilfried Oellers
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8237,7 +8237,7 @@ candidates:
 - id: O-ner-Florian-cdu-csu
   publishPersonalInfo: true
   name: "Florian O\xDFner"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8292,7 +8292,7 @@ candidates:
 - id: Oster-Josef-cdu-csu
   publishPersonalInfo: true
   name: Josef Oster
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8347,7 +8347,7 @@ candidates:
 - id: Otte-Henning-cdu-csu
   publishPersonalInfo: true
   name: Henning Otte
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8402,7 +8402,7 @@ candidates:
 - id: Pantel-Sylvia-cdu-csu
   publishPersonalInfo: true
   name: Sylvia Pantel
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8457,7 +8457,7 @@ candidates:
 - id: Patzelt-Martin-cdu-csu
   publishPersonalInfo: true
   name: Martin Patzelt
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8512,7 +8512,7 @@ candidates:
 - id: Pfeiffer-Joachim-cdu-csu
   publishPersonalInfo: true
   name: Dr. Joachim Pfeiffer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8567,7 +8567,7 @@ candidates:
 - id: Pilsinger-Stephan-cdu-csu
   publishPersonalInfo: true
   name: Stephan Pilsinger
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8622,7 +8622,7 @@ candidates:
 - id: Plo-Christoph-cdu-csu
   publishPersonalInfo: true
   name: "Dr. Christoph Plo\xDF"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8677,7 +8677,7 @@ candidates:
 - id: Pols-Eckhard-cdu-csu
   publishPersonalInfo: true
   name: Eckhard Pols
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8732,7 +8732,7 @@ candidates:
 - id: Rachel-Thomas-cdu-csu
   publishPersonalInfo: true
   name: Thomas Rachel
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8787,7 +8787,7 @@ candidates:
 - id: Radomski-Kerstin-cdu-csu
   publishPersonalInfo: true
   name: Kerstin Radomski
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8842,7 +8842,7 @@ candidates:
 - id: Radwan-Alexander-cdu-csu
   publishPersonalInfo: true
   name: Alexander Radwan
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8897,7 +8897,7 @@ candidates:
 - id: Rainer-Alois-cdu-csu
   publishPersonalInfo: true
   name: Alois Rainer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -8952,7 +8952,7 @@ candidates:
 - id: Ramsauer-Peter-cdu-csu
   publishPersonalInfo: true
   name: Dr. Peter Ramsauer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9007,7 +9007,7 @@ candidates:
 - id: Rehberg-Eckhardt-cdu-csu
   publishPersonalInfo: true
   name: Eckhardt Rehberg
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9062,7 +9062,7 @@ candidates:
 - id: Riebsamen-Lothar-cdu-csu
   publishPersonalInfo: true
   name: Lothar Riebsamen
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9117,7 +9117,7 @@ candidates:
 - id: Rief-Josef-cdu-csu
   publishPersonalInfo: true
   name: Josef Rief
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9172,7 +9172,7 @@ candidates:
 - id: R-ring-Johannes-cdu-csu
   publishPersonalInfo: true
   name: "Johannes R\xF6ring"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9227,7 +9227,7 @@ candidates:
 - id: R-ttgen-Norbert-cdu-csu
   publishPersonalInfo: true
   name: "Dr. Norbert R\xF6ttgen"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9282,7 +9282,7 @@ candidates:
 - id: Rouenhoff-Stefan-cdu-csu
   publishPersonalInfo: true
   name: Stefan Rouenhoff
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9337,7 +9337,7 @@ candidates:
 - id: R-ddel-Erwin-cdu-csu
   publishPersonalInfo: true
   name: "Erwin R\xFCddel"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9392,7 +9392,7 @@ candidates:
 - id: Rupprecht-Albert-cdu-csu
   publishPersonalInfo: true
   name: Albert Rupprecht
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9447,7 +9447,7 @@ candidates:
 - id: Sauer-Stefan-cdu-csu
   publishPersonalInfo: true
   name: Stefan Sauer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9502,7 +9502,7 @@ candidates:
 - id: Sch-fer-Saalstadt-Anita-cdu-csu
   publishPersonalInfo: true
   name: "Anita Sch\xE4fer (Saalstadt)"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9557,7 +9557,7 @@ candidates:
 - id: Sch-uble-Wolfgang-cdu-csu
   publishPersonalInfo: true
   name: "Dr. Wolfgang Sch\xE4uble"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9612,7 +9612,7 @@ candidates:
 - id: Scheuer-Andreas-cdu-csu
   publishPersonalInfo: true
   name: Andreas Scheuer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9667,7 +9667,7 @@ candidates:
 - id: Schimke-Jana-cdu-csu
   publishPersonalInfo: true
   name: Jana Schimke
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9722,7 +9722,7 @@ candidates:
 - id: Schipanski-Tankred-cdu-csu
   publishPersonalInfo: true
   name: Tankred Schipanski
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9777,7 +9777,7 @@ candidates:
 - id: Schmidt-F-rth-Christian-cdu-csu
   publishPersonalInfo: true
   name: "Christian Schmidt (F\xFCrth)"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9832,7 +9832,7 @@ candidates:
 - id: Schmidtke-Claudia-cdu-csu
   publishPersonalInfo: true
   name: Dr. Claudia Schmidtke
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9887,7 +9887,7 @@ candidates:
 - id: Schnieder-Patrick-cdu-csu
   publishPersonalInfo: true
   name: Patrick Schnieder
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9942,7 +9942,7 @@ candidates:
 - id: Sch-n-Nadine-cdu-csu
   publishPersonalInfo: true
   name: "Nadine Sch\xF6n"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -9997,7 +9997,7 @@ candidates:
 - id: Schreiner-Felix-cdu-csu
   publishPersonalInfo: true
   name: Felix Schreiner
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10052,7 +10052,7 @@ candidates:
 - id: Schulze-Klaus-Peter-cdu-csu
   publishPersonalInfo: true
   name: Dr. Klaus-Peter Schulze
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10107,7 +10107,7 @@ candidates:
 - id: Schummer-Uwe-cdu-csu
   publishPersonalInfo: true
   name: Uwe Schummer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10162,7 +10162,7 @@ candidates:
 - id: Schuster-Weil-am-Rhein-Armin-cdu-csu
   publishPersonalInfo: true
   name: Armin Schuster (Weil am Rhein)
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10203,7 +10203,7 @@ candidates:
 - id: Schweiger-Torsten-cdu-csu
   publishPersonalInfo: true
   name: Torsten Schweiger
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10258,7 +10258,7 @@ candidates:
 - id: Seif-Detlef-cdu-csu
   publishPersonalInfo: true
   name: Detlef Seif
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10313,7 +10313,7 @@ candidates:
 - id: Selle-Johannes-cdu-csu
   publishPersonalInfo: true
   name: Johannes Selle
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10368,7 +10368,7 @@ candidates:
 - id: Sendker-Reinhold-cdu-csu
   publishPersonalInfo: true
   name: Reinhold Sendker
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10423,7 +10423,7 @@ candidates:
 - id: Sensburg-Patrick-cdu-csu
   publishPersonalInfo: true
   name: Dr. Patrick Sensburg
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10478,7 +10478,7 @@ candidates:
 - id: Silberhorn-Thomas-cdu-csu
   publishPersonalInfo: true
   name: Thomas Silberhorn
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10533,7 +10533,7 @@ candidates:
 - id: Simon-Bj-rn-cdu-csu
   publishPersonalInfo: true
   name: "Bj\xF6rn Simon"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: 0
@@ -10588,7 +10588,7 @@ candidates:
 - id: Sorge-Tino-cdu-csu
   publishPersonalInfo: true
   name: Tino Sorge
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10643,7 +10643,7 @@ candidates:
 - id: Spahn-Jens-cdu-csu
   publishPersonalInfo: true
   name: Jens Spahn
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10698,7 +10698,7 @@ candidates:
 - id: Staffler-Katrin-cdu-csu
   publishPersonalInfo: true
   name: Katrin Staffler
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10753,7 +10753,7 @@ candidates:
 - id: Steffel-Frank-cdu-csu
   publishPersonalInfo: true
   name: Dr. Frank Steffel
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10808,7 +10808,7 @@ candidates:
 - id: Stefinger-Wolfgang-cdu-csu
   publishPersonalInfo: true
   name: Dr. Wolfgang Stefinger
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10863,7 +10863,7 @@ candidates:
 - id: Stegemann-Albert-cdu-csu
   publishPersonalInfo: true
   name: Albert Stegemann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10918,7 +10918,7 @@ candidates:
 - id: Steier-Andreas-cdu-csu
   publishPersonalInfo: true
   name: Andreas Steier
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -10973,7 +10973,7 @@ candidates:
 - id: Stein-Rostock-Peter-cdu-csu
   publishPersonalInfo: true
   name: Peter Stein (Rostock)
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11028,7 +11028,7 @@ candidates:
 - id: Steineke-Sebastian-cdu-csu
   publishPersonalInfo: true
   name: Sebastian Steineke
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11083,7 +11083,7 @@ candidates:
 - id: Steiniger-Johannes-cdu-csu
   publishPersonalInfo: true
   name: Johannes Steiniger
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11138,7 +11138,7 @@ candidates:
 - id: Stetten-Christian-cdu-csu
   publishPersonalInfo: true
   name: Christian Frhr. von Stetten
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11193,7 +11193,7 @@ candidates:
 - id: Stier-Dieter-cdu-csu
   publishPersonalInfo: true
   name: Dieter Stier
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11248,7 +11248,7 @@ candidates:
 - id: Storjohann-Gero-cdu-csu
   publishPersonalInfo: true
   name: Gero Storjohann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11303,7 +11303,7 @@ candidates:
 - id: Stracke-Stephan-cdu-csu
   publishPersonalInfo: true
   name: Stephan Stracke
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11358,7 +11358,7 @@ candidates:
 - id: Straubinger-Max-cdu-csu
   publishPersonalInfo: true
   name: Max Straubinger
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11413,7 +11413,7 @@ candidates:
 - id: Strenz-Karin-cdu-csu
   publishPersonalInfo: true
   name: Karin Strenz
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11456,7 +11456,7 @@ candidates:
 - id: St-bgen-Michael-cdu-csu
   publishPersonalInfo: true
   name: "Michael St\xFCbgen"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11491,7 +11491,7 @@ candidates:
 - id: Tauber-Peter-cdu-csu
   publishPersonalInfo: true
   name: Dr. Peter Tauber
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: 0
@@ -11542,7 +11542,7 @@ candidates:
 - id: Tebroke-Hermann-Josef-cdu-csu
   publishPersonalInfo: true
   name: Dr. Hermann-Josef Tebroke
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11597,7 +11597,7 @@ candidates:
 - id: Thies-Hans-J-rgen-cdu-csu
   publishPersonalInfo: true
   name: "Hans-J\xFCrgen Thies"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11652,7 +11652,7 @@ candidates:
 - id: Throm-Alexander-cdu-csu
   publishPersonalInfo: true
   name: Alexander Throm
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11707,7 +11707,7 @@ candidates:
 - id: Tiemann-Dietlind-cdu-csu
   publishPersonalInfo: true
   name: Dr. Dietlind Tiemann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11762,7 +11762,7 @@ candidates:
 - id: Tillmann-Antje-cdu-csu
   publishPersonalInfo: true
   name: Antje Tillmann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11817,7 +11817,7 @@ candidates:
 - id: Uhl-Markus-cdu-csu
   publishPersonalInfo: true
   name: Markus Uhl
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11872,7 +11872,7 @@ candidates:
 - id: Ullrich-Volker-cdu-csu
   publishPersonalInfo: true
   name: Dr. Volker Ullrich
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11927,7 +11927,7 @@ candidates:
 - id: Vaatz-Arnold-cdu-csu
   publishPersonalInfo: true
   name: Arnold Vaatz
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -11982,7 +11982,7 @@ candidates:
 - id: Veith-Oswin-cdu-csu
   publishPersonalInfo: true
   name: Oswin Veith
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12023,7 +12023,7 @@ candidates:
 - id: Vieregge-Kerstin-cdu-csu
   publishPersonalInfo: true
   name: Kerstin Vieregge
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12078,7 +12078,7 @@ candidates:
 - id: Vogel-Kleinsaara-Volkmar-cdu-csu
   publishPersonalInfo: true
   name: Volkmar Vogel (Kleinsaara)
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12133,7 +12133,7 @@ candidates:
 - id: Vries-Christoph-cdu-csu
   publishPersonalInfo: true
   name: Christoph de Vries
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: 0
@@ -12188,7 +12188,7 @@ candidates:
 - id: Vries-Kees-cdu-csu
   publishPersonalInfo: true
   name: Kees de Vries
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: 0
@@ -12243,7 +12243,7 @@ candidates:
 - id: Wadephul-Johann-David-cdu-csu
   publishPersonalInfo: true
   name: Dr. Johann David Wadephul
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12298,7 +12298,7 @@ candidates:
 - id: Wanderwitz-Marco-cdu-csu
   publishPersonalInfo: true
   name: Marco Wanderwitz
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12353,7 +12353,7 @@ candidates:
 - id: Wegner-Kai-cdu-csu
   publishPersonalInfo: true
   name: Kai Wegner
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12408,7 +12408,7 @@ candidates:
 - id: Weiler-Albert-cdu-csu
   publishPersonalInfo: true
   name: Dr. h.c. Albert Weiler
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12421,7 +12421,7 @@ candidates:
 - id: Weinberg-Hamburg-Marcus-cdu-csu
   publishPersonalInfo: true
   name: Marcus Weinberg (Hamburg)
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12476,7 +12476,7 @@ candidates:
 - id: Weisgerber-Anja-cdu-csu
   publishPersonalInfo: true
   name: Dr. Anja Weisgerber
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12531,7 +12531,7 @@ candidates:
 - id: Wei-Emmendingen-Peter-cdu-csu
   publishPersonalInfo: true
   name: "Peter Wei\xDF (Emmendingen)"
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12586,7 +12586,7 @@ candidates:
 - id: Weiss-Wesel-I-Sabine-cdu-csu
   publishPersonalInfo: true
   name: Sabine Weiss (Wesel I)
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12641,7 +12641,7 @@ candidates:
 - id: Wellenreuther-Ingo-cdu-csu
   publishPersonalInfo: true
   name: Ingo Wellenreuther
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: 0
@@ -12696,7 +12696,7 @@ candidates:
 - id: Wendt-Marian-cdu-csu
   publishPersonalInfo: true
   name: Marian Wendt
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12751,7 +12751,7 @@ candidates:
 - id: Whittaker-Kai-cdu-csu
   publishPersonalInfo: true
   name: Kai Whittaker
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12806,7 +12806,7 @@ candidates:
 - id: Widmann-Mauz-Annette-cdu-csu
   publishPersonalInfo: true
   name: Annette Widmann-Mauz
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12861,7 +12861,7 @@ candidates:
 - id: Wiesmann-Bettina-Margarethe-cdu-csu
   publishPersonalInfo: true
   name: Bettina Margarethe Wiesmann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12916,7 +12916,7 @@ candidates:
 - id: Willsch-Klaus-Peter-cdu-csu
   publishPersonalInfo: true
   name: Klaus-Peter Willsch
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -12971,7 +12971,7 @@ candidates:
 - id: Winkelmeier-Becker-Elisabeth-cdu-csu
   publishPersonalInfo: true
   name: Elisabeth Winkelmeier-Becker
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -13026,7 +13026,7 @@ candidates:
 - id: Wittke-Oliver-cdu-csu
   publishPersonalInfo: true
   name: Oliver Wittke
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -13075,7 +13075,7 @@ candidates:
 - id: Zeulner-Emmi-cdu-csu
   publishPersonalInfo: true
   name: Emmi Zeulner
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -13130,7 +13130,7 @@ candidates:
 - id: Ziemiak-Paul-cdu-csu
   publishPersonalInfo: true
   name: Paul Ziemiak
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -13185,7 +13185,7 @@ candidates:
 - id: Zimmer-Matthias-cdu-csu
   publishPersonalInfo: true
   name: Dr. Matthias Zimmer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-011-02:
       vote: -1
@@ -30321,7 +30321,7 @@ candidates:
 - id: Achelwilm-Doris-die-linke
   publishPersonalInfo: true
   name: Doris Achelwilm
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -30376,7 +30376,7 @@ candidates:
 - id: Akbulut-G-kay-die-linke
   publishPersonalInfo: true
   name: "G\xF6kay Akbulut"
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: 0
@@ -30431,7 +30431,7 @@ candidates:
 - id: Barrientos-Simone-die-linke
   publishPersonalInfo: true
   name: Simone Barrientos
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -30486,7 +30486,7 @@ candidates:
 - id: Bartsch-Dietmar-die-linke
   publishPersonalInfo: true
   name: Dr. Dietmar Bartsch
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -30541,7 +30541,7 @@ candidates:
 - id: Beutin-Lorenz-G-sta-die-linke
   publishPersonalInfo: true
   name: "Lorenz G\xF6sta Beutin"
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -30596,7 +30596,7 @@ candidates:
 - id: Birkwald-Matthias-W-die-linke
   publishPersonalInfo: true
   name: Matthias W. Birkwald
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -30651,7 +30651,7 @@ candidates:
 - id: Bluhm-Heidrun-die-linke
   publishPersonalInfo: true
   name: Heidrun Bluhm
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -30674,7 +30674,7 @@ candidates:
 - id: Brandt-Michel-die-linke
   publishPersonalInfo: true
   name: Michel Brandt
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -30729,7 +30729,7 @@ candidates:
 - id: Buchholz-Christine-die-linke
   publishPersonalInfo: true
   name: Christine Buchholz
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -30784,7 +30784,7 @@ candidates:
 - id: Bull-Bischoff-Birke-die-linke
   publishPersonalInfo: true
   name: Birke Bull-Bischoff
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -30839,7 +30839,7 @@ candidates:
 - id: Cezanne-J-rg-die-linke
   publishPersonalInfo: true
   name: "J\xF6rg Cezanne"
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -30894,7 +30894,7 @@ candidates:
 - id: Dagdelen-Sevim-die-linke
   publishPersonalInfo: true
   name: Sevim Dagdelen
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: 0
@@ -30949,7 +30949,7 @@ candidates:
 - id: De-Masi-Fabio-die-linke
   publishPersonalInfo: true
   name: Fabio De Masi
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31004,7 +31004,7 @@ candidates:
 - id: Dehm-Diether-die-linke
   publishPersonalInfo: true
   name: Dr. Diether Dehm
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31059,7 +31059,7 @@ candidates:
 - id: Domscheit-Berg-Anke-die-linke
   publishPersonalInfo: true
   name: Anke Domscheit-Berg
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31114,7 +31114,7 @@ candidates:
 - id: Ernst-Klaus-die-linke
   publishPersonalInfo: true
   name: Klaus Ernst
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: 0
@@ -31169,7 +31169,7 @@ candidates:
 - id: Ferschl-Susanne-die-linke
   publishPersonalInfo: true
   name: Susanne Ferschl
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31224,7 +31224,7 @@ candidates:
 - id: Freihold-Brigitte-die-linke
   publishPersonalInfo: true
   name: Brigitte Freihold
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31279,7 +31279,7 @@ candidates:
 - id: Gabelmann-Sylvia-die-linke
   publishPersonalInfo: true
   name: Sylvia Gabelmann
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31334,7 +31334,7 @@ candidates:
 - id: Gohlke-Nicole-die-linke
   publishPersonalInfo: true
   name: Nicole Gohlke
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31389,7 +31389,7 @@ candidates:
 - id: Gysi-Gregor-die-linke
   publishPersonalInfo: true
   name: Dr. Gregor Gysi
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: 0
@@ -31444,7 +31444,7 @@ candidates:
 - id: Hahn-Andr-die-linke
   publishPersonalInfo: true
   name: "Dr. Andr\xE9 Hahn"
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31499,7 +31499,7 @@ candidates:
 - id: H-nsel-Heike-die-linke
   publishPersonalInfo: true
   name: "Heike H\xE4nsel"
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: 0
@@ -31554,7 +31554,7 @@ candidates:
 - id: H-hn-Matthias-die-linke
   publishPersonalInfo: true
   name: "Matthias H\xF6hn"
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31609,7 +31609,7 @@ candidates:
 - id: Hunko-Andrej-die-linke
   publishPersonalInfo: true
   name: Andrej Hunko
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31664,7 +31664,7 @@ candidates:
 - id: Jelpke-Ulla-die-linke
   publishPersonalInfo: true
   name: Ulla Jelpke
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31719,7 +31719,7 @@ candidates:
 - id: Kassner-Kerstin-die-linke
   publishPersonalInfo: true
   name: Kerstin Kassner
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31774,7 +31774,7 @@ candidates:
 - id: Kessler-Achim-die-linke
   publishPersonalInfo: true
   name: Dr. Achim Kessler
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: 0
@@ -31829,7 +31829,7 @@ candidates:
 - id: Kipping-Katja-die-linke
   publishPersonalInfo: true
   name: Katja Kipping
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31884,7 +31884,7 @@ candidates:
 - id: Korte-Jan-die-linke
   publishPersonalInfo: true
   name: Jan Korte
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31939,7 +31939,7 @@ candidates:
 - id: Krellmann-Jutta-die-linke
   publishPersonalInfo: true
   name: Jutta Krellmann
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -31994,7 +31994,7 @@ candidates:
 - id: Lay-Caren-die-linke
   publishPersonalInfo: true
   name: Caren Lay
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32049,7 +32049,7 @@ candidates:
 - id: Leidig-Sabine-die-linke
   publishPersonalInfo: true
   name: Sabine Leidig
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: 0
@@ -32104,7 +32104,7 @@ candidates:
 - id: Lenkert-Ralph-die-linke
   publishPersonalInfo: true
   name: Ralph Lenkert
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32159,7 +32159,7 @@ candidates:
 - id: Leutert-Michael-die-linke
   publishPersonalInfo: true
   name: Michael Leutert
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32202,7 +32202,7 @@ candidates:
 - id: Liebich-Stefan-die-linke
   publishPersonalInfo: true
   name: Stefan Liebich
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: 0
@@ -32257,7 +32257,7 @@ candidates:
 - id: L-tzsch-Gesine-die-linke
   publishPersonalInfo: true
   name: "Dr. Gesine L\xF6tzsch"
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32312,7 +32312,7 @@ candidates:
 - id: Lutze-Thomas-die-linke
   publishPersonalInfo: true
   name: Thomas Lutze
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32367,7 +32367,7 @@ candidates:
 - id: Meiser-Pascal-die-linke
   publishPersonalInfo: true
   name: Pascal Meiser
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32422,7 +32422,7 @@ candidates:
 - id: Mohamed-Ali-Amira-die-linke
   publishPersonalInfo: true
   name: Amira Mohamed Ali
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32477,7 +32477,7 @@ candidates:
 - id: M-hring-Cornelia-die-linke
   publishPersonalInfo: true
   name: "Cornelia M\xF6hring"
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32532,7 +32532,7 @@ candidates:
 - id: Movassat-Niema-die-linke
   publishPersonalInfo: true
   name: Niema Movassat
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32587,7 +32587,7 @@ candidates:
 - id: M-ller-Potsdam-Norbert-die-linke
   publishPersonalInfo: true
   name: "Norbert M\xFCller (Potsdam)"
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32642,7 +32642,7 @@ candidates:
 - id: Nastic-Zaklin-die-linke
   publishPersonalInfo: true
   name: Zaklin Nastic
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: 0
@@ -32697,7 +32697,7 @@ candidates:
 - id: Neu-Alexander-S-die-linke
   publishPersonalInfo: true
   name: Dr. Alexander S. Neu
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32752,7 +32752,7 @@ candidates:
 - id: Nord-Thomas-die-linke
   publishPersonalInfo: true
   name: Thomas Nord
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: 0
@@ -32807,7 +32807,7 @@ candidates:
 - id: Pau-Petra-die-linke
   publishPersonalInfo: true
   name: Petra Pau
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32862,7 +32862,7 @@ candidates:
 - id: Pellmann-S-ren-die-linke
   publishPersonalInfo: true
   name: "S\xF6ren Pellmann"
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32917,7 +32917,7 @@ candidates:
 - id: Perli-Victor-die-linke
   publishPersonalInfo: true
   name: Victor Perli
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -32972,7 +32972,7 @@ candidates:
 - id: Pfl-ger-Tobias-die-linke
   publishPersonalInfo: true
   name: "Tobias Pfl\xFCger"
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33027,7 +33027,7 @@ candidates:
 - id: Remmers-Ingrid-die-linke
   publishPersonalInfo: true
   name: Ingrid Remmers
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33082,7 +33082,7 @@ candidates:
 - id: Renner-Martina-die-linke
   publishPersonalInfo: true
   name: Martina Renner
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33137,7 +33137,7 @@ candidates:
 - id: Riexinger-Bernd-die-linke
   publishPersonalInfo: true
   name: Bernd Riexinger
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33192,7 +33192,7 @@ candidates:
 - id: Schreiber-Eva-Maria-Elisabeth-die-linke
   publishPersonalInfo: true
   name: Eva-Maria Elisabeth Schreiber
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33203,7 +33203,7 @@ candidates:
 - id: Sitte-Petra-die-linke
   publishPersonalInfo: true
   name: Dr. Petra Sitte
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33258,7 +33258,7 @@ candidates:
 - id: Sommer-Helin-Evrim-die-linke
   publishPersonalInfo: true
   name: Helin Evrim Sommer
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: 0
@@ -33313,7 +33313,7 @@ candidates:
 - id: Steinke-Kersten-die-linke
   publishPersonalInfo: true
   name: Kersten Steinke
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33368,7 +33368,7 @@ candidates:
 - id: Straetmanns-Friedrich-die-linke
   publishPersonalInfo: true
   name: Friedrich Straetmanns
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33423,7 +33423,7 @@ candidates:
 - id: Tackmann-Kirsten-die-linke
   publishPersonalInfo: true
   name: Dr. Kirsten Tackmann
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33478,7 +33478,7 @@ candidates:
 - id: Tatti-Jessica-die-linke
   publishPersonalInfo: true
   name: Jessica Tatti
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: 0
@@ -33533,7 +33533,7 @@ candidates:
 - id: Ulrich-Alexander-die-linke
   publishPersonalInfo: true
   name: Alexander Ulrich
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33588,7 +33588,7 @@ candidates:
 - id: Vogler-Kathrin-die-linke
   publishPersonalInfo: true
   name: Kathrin Vogler
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33643,7 +33643,7 @@ candidates:
 - id: Wagenknecht-Sahra-die-linke
   publishPersonalInfo: true
   name: Dr. Sahra Wagenknecht
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33698,7 +33698,7 @@ candidates:
 - id: Wagner-Andreas-die-linke
   publishPersonalInfo: true
   name: Andreas Wagner
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33753,7 +33753,7 @@ candidates:
 - id: Weinberg-Harald-die-linke
   publishPersonalInfo: true
   name: Harald Weinberg
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33808,7 +33808,7 @@ candidates:
 - id: Werner-Katrin-die-linke
   publishPersonalInfo: true
   name: Katrin Werner
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33863,7 +33863,7 @@ candidates:
 - id: Zdebel-Hubertus-die-linke
   publishPersonalInfo: true
   name: Hubertus Zdebel
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -33918,7 +33918,7 @@ candidates:
 - id: Zimmermann-Pia-die-linke
   publishPersonalInfo: true
   name: Pia Zimmermann
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: 0
@@ -33973,7 +33973,7 @@ candidates:
 - id: Zimmermann-Zwickau-Sabine-die-linke
   publishPersonalInfo: true
   name: Sabine Zimmermann (Zwickau)
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-011-02:
       vote: -1
@@ -34028,7 +34028,7 @@ candidates:
 - id: Amtsberg-Luise-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Luise Amtsberg
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34083,7 +34083,7 @@ candidates:
 - id: Andreae-Kerstin-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Kerstin Andreae
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34112,7 +34112,7 @@ candidates:
 - id: Badum-Lisa-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Lisa Badum
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34167,7 +34167,7 @@ candidates:
 - id: Baerbock-Annalena-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Annalena Baerbock
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34222,7 +34222,7 @@ candidates:
 - id: Bause-Margarete-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Margarete Bause
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34277,7 +34277,7 @@ candidates:
 - id: Bayaz-Danyal-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Danyal Bayaz
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34330,7 +34330,7 @@ candidates:
 - id: Bayram-Canan-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Canan Bayram
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34385,7 +34385,7 @@ candidates:
 - id: Brantner-Franziska-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Franziska Brantner
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34440,7 +34440,7 @@ candidates:
 - id: Brugger-Agnieszka-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Agnieszka Brugger
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34495,7 +34495,7 @@ candidates:
 - id: Christmann-Anna-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Anna Christmann
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34550,7 +34550,7 @@ candidates:
 - id: Delig-z-Ekin-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "Ekin Delig\xF6z"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34605,7 +34605,7 @@ candidates:
 - id: D-rner-Katja-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "Katja D\xF6rner"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34646,7 +34646,7 @@ candidates:
 - id: Dr-ge-Katharina-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "Katharina Dr\xF6ge"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34701,7 +34701,7 @@ candidates:
 - id: Ebner-Harald-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Harald Ebner
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34756,7 +34756,7 @@ candidates:
 - id: Gastel-Matthias-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Matthias Gastel
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34811,7 +34811,7 @@ candidates:
 - id: Gehring-Kai-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Kai Gehring
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34866,7 +34866,7 @@ candidates:
 - id: Gelbhaar-Stefan-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Stefan Gelbhaar
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34921,7 +34921,7 @@ candidates:
 - id: G-ring-Eckardt-Katrin-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "Katrin G\xF6ring-Eckardt"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -34976,7 +34976,7 @@ candidates:
 - id: Grundl-Erhard-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Erhard Grundl
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35031,7 +35031,7 @@ candidates:
 - id: Hajduk-Anja-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Anja Hajduk
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35086,7 +35086,7 @@ candidates:
 - id: Ha-elmann-Britta-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "Britta Ha\xDFelmann"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35141,7 +35141,7 @@ candidates:
 - id: Hoffmann-Bettina-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Bettina Hoffmann
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35196,7 +35196,7 @@ candidates:
 - id: Hofreiter-Anton-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Anton Hofreiter
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35251,7 +35251,7 @@ candidates:
 - id: Holtz-Ottmar-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Ottmar von Holtz
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35306,7 +35306,7 @@ candidates:
 - id: Janecek-Dieter-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dieter Janecek
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35361,7 +35361,7 @@ candidates:
 - id: Kappert-Gonther-Kirsten-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Kirsten Kappert-Gonther
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35416,7 +35416,7 @@ candidates:
 - id: Kekeritz-Uwe-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Uwe Kekeritz
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35471,7 +35471,7 @@ candidates:
 - id: Keul-Katja-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Katja Keul
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35526,7 +35526,7 @@ candidates:
 - id: Kindler-Sven-Christian-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Sven-Christian Kindler
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35581,7 +35581,7 @@ candidates:
 - id: Klein-Schmeink-Maria-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Maria Klein-Schmeink
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35636,7 +35636,7 @@ candidates:
 - id: Kotting-Uhl-Sylvia-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Sylvia Kotting-Uhl
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35691,7 +35691,7 @@ candidates:
 - id: Krischer-Oliver-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Oliver Krischer
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35746,7 +35746,7 @@ candidates:
 - id: K-hn-Dresden-Stephan-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "Stephan K\xFChn (Dresden)"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35787,7 +35787,7 @@ candidates:
 - id: K-hn-T-bingen-Christian-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "Christian K\xFChn (T\xFCbingen)"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35842,7 +35842,7 @@ candidates:
 - id: K-nast-Renate-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "Renate K\xFCnast"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: 0
@@ -35897,7 +35897,7 @@ candidates:
 - id: Kurth-Markus-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Markus Kurth
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -35952,7 +35952,7 @@ candidates:
 - id: Lazar-Monika-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Monika Lazar
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36007,7 +36007,7 @@ candidates:
 - id: Lehmann-Sven-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Sven Lehmann
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36062,7 +36062,7 @@ candidates:
 - id: Lemke-Steffi-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Steffi Lemke
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36117,7 +36117,7 @@ candidates:
 - id: Lindner-Tobias-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Tobias Lindner
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36172,7 +36172,7 @@ candidates:
 - id: Mihalic-Irene-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Irene Mihalic
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36227,7 +36227,7 @@ candidates:
 - id: M-ller-Claudia-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "Claudia M\xFCller"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36282,7 +36282,7 @@ candidates:
 - id: M-ller-Gemmeke-Beate-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "Beate M\xFCller-Gemmeke"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36337,7 +36337,7 @@ candidates:
 - id: Nestle-Ingrid-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Ingrid Nestle
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: 0
@@ -36392,7 +36392,7 @@ candidates:
 - id: Notz-Konstantin-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Konstantin von Notz
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36447,7 +36447,7 @@ candidates:
 - id: Nouripour-Omid-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Omid Nouripour
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36502,7 +36502,7 @@ candidates:
 - id: Ostendorff-Friedrich-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Friedrich Ostendorff
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36557,7 +36557,7 @@ candidates:
 - id: -zdemir-Cem-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "Cem \xD6zdemir"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36612,7 +36612,7 @@ candidates:
 - id: Paus-Lisa-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Lisa Paus
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36667,7 +36667,7 @@ candidates:
 - id: Polat-Filiz-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Filiz Polat
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36722,7 +36722,7 @@ candidates:
 - id: R-ner-Tabea-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "Tabea R\xF6\xDFner"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36777,7 +36777,7 @@ candidates:
 - id: Roth-Augsburg-Claudia-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Claudia Roth (Augsburg)
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36832,7 +36832,7 @@ candidates:
 - id: Rottmann-Manuela-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Manuela Rottmann
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36887,7 +36887,7 @@ candidates:
 - id: R-ffer-Corinna-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "Corinna R\xFCffer"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36942,7 +36942,7 @@ candidates:
 - id: Sarrazin-Manuel-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Manuel Sarrazin
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -36997,7 +36997,7 @@ candidates:
 - id: Schauws-Ulle-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Ulle Schauws
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: 0
@@ -37052,7 +37052,7 @@ candidates:
 - id: Schick-Gerhard-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Gerhard Schick
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -37067,7 +37067,7 @@ candidates:
 - id: Schmidt-Frithjof-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Frithjof Schmidt
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -37122,7 +37122,7 @@ candidates:
 - id: Schmidt-Stefan-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Stefan Schmidt
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -37177,7 +37177,7 @@ candidates:
 - id: Schulz-Asche-Kordula-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Kordula Schulz-Asche
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -37232,7 +37232,7 @@ candidates:
 - id: Strengmann-Kuhn-Wolfgang-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Wolfgang Strengmann-Kuhn
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -37287,7 +37287,7 @@ candidates:
 - id: Stumpp-Margit-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Margit Stumpp
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -37342,7 +37342,7 @@ candidates:
 - id: Tressel-Markus-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Markus Tressel
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -37397,7 +37397,7 @@ candidates:
 - id: Trittin-J-rgen-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: "J\xFCrgen Trittin"
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -37452,7 +37452,7 @@ candidates:
 - id: Verlinden-Julia-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Julia Verlinden
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -37507,7 +37507,7 @@ candidates:
 - id: Wagner-Daniela-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Daniela Wagner
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -37562,7 +37562,7 @@ candidates:
 - id: Walter-Rosenheimer-Beate-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Beate Walter-Rosenheimer
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-011-02:
       vote: -1
@@ -37982,7 +37982,7 @@ candidates:
 - id: Schreiber-Eva-Maria-die-linke
   publishPersonalInfo: true
   name: Eva-Maria Schreiber
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-061-02:
       vote: 1
@@ -38033,7 +38033,7 @@ candidates:
 - id: Manderla-Gisela-cdu-csu
   publishPersonalInfo: true
   name: Gisela Manderla
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-061-02:
       vote: -1
@@ -38084,7 +38084,7 @@ candidates:
 - id: Weiler-Albert-H-cdu-csu
   publishPersonalInfo: true
   name: Dr. h. c. (NUACA) Albert H. Weiler
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-068-06:
       vote: 1
@@ -38133,7 +38133,7 @@ candidates:
 - id: Warken-Nina-cdu-csu
   publishPersonalInfo: true
   name: Nina Warken
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-075-01:
       vote: 0
@@ -38227,7 +38227,7 @@ candidates:
 - id: Zickenheiner-Gerhard-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Gerhard Zickenheiner
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-075-01:
       vote: -1
@@ -38274,7 +38274,7 @@ candidates:
 - id: Bluhm-F-rster-Heidrun-die-linke
   publishPersonalInfo: true
   name: "Heidrun Bluhm-F\xF6rster"
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-108-03:
       vote: 0
@@ -38313,7 +38313,7 @@ candidates:
 - id: Freudenstein-Astrid-cdu-csu
   publishPersonalInfo: true
   name: Dr. Astrid Freudenstein
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-118-02:
       vote: -1
@@ -38336,7 +38336,7 @@ candidates:
 - id: Pahlmann-Ingrid-cdu-csu
   publishPersonalInfo: true
   name: Ingrid Pahlmann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-118-02:
       vote: -1
@@ -38581,7 +38581,7 @@ candidates:
 - id: Schneidewind-Hartnagel-Charlotte-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Charlotte Schneidewind-Hartnagel
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-127-02:
       vote: 0
@@ -38614,7 +38614,7 @@ candidates:
 - id: Ludwig-Saskia-cdu-csu
   publishPersonalInfo: true
   name: Dr. Saskia Ludwig
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-137-03:
       vote: -1
@@ -38722,7 +38722,7 @@ candidates:
 - id: Siebert-Bernd-cdu-csu
   publishPersonalInfo: true
   name: Bernd Siebert
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-201-01:
       vote: 1
@@ -38785,7 +38785,7 @@ candidates:
 - id: Zech-Tobias-cdu-csu
   publishPersonalInfo: true
   name: Tobias Zech
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-201-01:
       vote: 1
@@ -38836,7 +38836,7 @@ candidates:
 - id: Natterer-Christian-cdu-csu
   publishPersonalInfo: true
   name: Christian Natterer
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-201-01:
       vote: 1
@@ -38878,7 +38878,7 @@ candidates:
 - id: Dahmen-Janosch-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Dr. Janosch Dahmen
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-201-01:
       vote: 1
@@ -38899,7 +38899,7 @@ candidates:
 - id: Wetzel-Wolfgang-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Wolfgang Wetzel
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-201-01:
       vote: 1
@@ -38920,7 +38920,7 @@ candidates:
 - id: Troost-Axel-die-linke
   publishPersonalInfo: true
   name: Dr. Axel Troost
-  party: DIE LINKE
+  party: DIE-LINKE
   positions:
     019-218-02:
       vote: 0
@@ -38939,7 +38939,7 @@ candidates:
 - id: Fabritius-Bernd-cdu-csu
   publishPersonalInfo: true
   name: Dr. Dr. h. c. Bernd Fabritius
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-218-02:
       vote: -1
@@ -38958,7 +38958,7 @@ candidates:
 - id: Kovac-Kordula-cdu-csu
   publishPersonalInfo: true
   name: Kordula Kovac
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-218-02:
       vote: -1
@@ -38977,7 +38977,7 @@ candidates:
 - id: Nordt-Kristina-cdu-csu
   publishPersonalInfo: true
   name: Kristina Nordt
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-218-02:
       vote: -1
@@ -38996,7 +38996,7 @@ candidates:
 - id: Friemann-Jennert-Maika-cdu-csu
   publishPersonalInfo: true
   name: Maika Friemann-Jennert
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-220-01:
       vote: -1
@@ -39013,7 +39013,7 @@ candidates:
 - id: Ostermann-Tim-cdu-csu
   publishPersonalInfo: true
   name: Dr. Tim Ostermann
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-227-04:
       vote: -1
@@ -39039,7 +39039,7 @@ candidates:
 - id: Viesehon-Thomas-cdu-csu
   publishPersonalInfo: true
   name: Thomas Viesehon
-  party: CDU/CSU
+  party: CDU-CSU
   positions:
     019-229-02:
       vote: -1
@@ -39059,7 +39059,7 @@ candidates:
 - id: Emmerich-Marcel-buendnis-90-die-gruenen
   publishPersonalInfo: true
   name: Marcel Emmerich
-  party: "Gr\xFCne"
+  party: Gr-ne
   positions:
     019-233-02:
       vote: -1
