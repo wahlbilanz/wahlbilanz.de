@@ -514,6 +514,22 @@ for f in listdir(csv_path):
       abst_dict[abst_key][fraktionsid]["gesamt"] += 1
 
       cid = candidate_id(row, rowids)
+
+      if cid == "Schreiber-Eva-Maria-die-linke":
+        cid = 'Schreiber-Eva-Maria-Elisabeth-die-linke'
+      if cid == "Bluhm-Heidrun-die-linke":
+        cid = 'Bluhm-F-rster-Heidrun-die-linke'
+      if cid == "Link-Heilbronn-Michael-fdp":
+        cid = 'Link-Heilbronn-Michael-Georg-fdp'
+      if cid == "Vogel-L-denscheid-Johannes-fdp":
+        cid = 'Vogel-Olpe-Johannes-fdp'
+      if cid == "Mackensen-Isabel-spd":
+        cid = 'Mackensen-Geis-Isabel-spd'
+      if cid == "Korkmaz-Elvan-spd":
+        cid = 'Korkmaz-Emre-Elvan-spd'
+      if cid == "Glaser-Albrecht-afd":
+        cid = 'Glaser-Albrecht-Heinz-Erhard-afd'
+
       if cid not in candidates:
         candidates[cid] = {
           "id": candidate_id(row, rowids),
@@ -845,8 +861,8 @@ with open('personal.json', 'w') as json_file:
     json.dump(personal_candidates, json_file)
 
 with open('political.json', 'w') as json_file:
-    json.dump(politicalData, json_file, indent=2, sort_keys=True)
-    # json.dump(politicalData, json_file)
+    # json.dump(politicalData, json_file, indent=2, sort_keys=True)
+    json.dump(politicalData, json_file)
 
 
 print (

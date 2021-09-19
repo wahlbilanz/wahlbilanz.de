@@ -16655,6 +16655,36 @@ candidates:
       vote: -1
     019-108-03:
       vote: -1
+    019-118-02:
+      vote: 0
+    019-119-02:
+      vote: 1
+    019-127-02:
+      vote: -1
+    019-127-04:
+      vote: -1
+    019-127-05:
+      vote: 1
+    019-137-03:
+      vote: 1
+    019-137-06:
+      vote: -1
+    019-140-01:
+      vote: -1
+    019-201-01:
+      vote: 1
+    019-218-02:
+      vote: -1
+    019-220-01:
+      vote: -1
+    019-223-06:
+      vote: 0
+    019-227-04:
+      vote: -1
+    019-229-02:
+      vote: -1
+    019-233-02:
+      vote: -1
     bundeswehr:
       vote: 1
 - id: Kramme-Anette-spd
@@ -22578,6 +22608,52 @@ candidates:
   positions:
     019-011-02:
       vote: 1
+    019-021-01:
+      vote: 1
+    019-061-02:
+      vote: -1
+    019-068-06:
+      vote: 1
+    019-075-01:
+      vote: 1
+    019-083-05:
+      vote: -1
+    019-086-01:
+      vote: 1
+    019-098-04:
+      vote: -1
+    019-108-03:
+      vote: -1
+    019-118-02:
+      vote: -1
+    019-119-02:
+      vote: 1
+    019-127-02:
+      vote: 0
+    019-127-04:
+      vote: 1
+    019-127-05:
+      vote: -1
+    019-137-03:
+      vote: -1
+    019-137-06:
+      vote: 1
+    019-140-01:
+      vote: -1
+    019-201-01:
+      vote: -1
+    019-218-02:
+      vote: -1
+    019-220-01:
+      vote: 1
+    019-223-06:
+      vote: -1
+    019-227-04:
+      vote: -1
+    019-229-02:
+      vote: -1
+    019-233-02:
+      vote: -1
     bundeswehr:
       vote: 0
 - id: Gminder-Franziska-afd
@@ -28526,6 +28602,50 @@ candidates:
       vote: 0
     019-021-01:
       vote: 0
+    019-061-02:
+      vote: -1
+    019-068-06:
+      vote: 0
+    019-075-01:
+      vote: 1
+    019-083-05:
+      vote: 0
+    019-086-01:
+      vote: 0
+    019-098-04:
+      vote: 0
+    019-108-03:
+      vote: 0
+    019-118-02:
+      vote: -1
+    019-119-02:
+      vote: 1
+    019-127-02:
+      vote: 1
+    019-127-04:
+      vote: 1
+    019-127-05:
+      vote: 1
+    019-137-03:
+      vote: -1
+    019-137-06:
+      vote: 1
+    019-140-01:
+      vote: 1
+    019-201-01:
+      vote: -1
+    019-218-02:
+      vote: 1
+    019-220-01:
+      vote: -1
+    019-223-06:
+      vote: -1
+    019-227-04:
+      vote: -1
+    019-229-02:
+      vote: 0
+    019-233-02:
+      vote: -1
     bundeswehr:
       vote: 1
 - id: Luksic-Oliver-fdp
@@ -30206,6 +30326,52 @@ candidates:
   positions:
     019-011-02:
       vote: -1
+    019-021-01:
+      vote: -1
+    019-061-02:
+      vote: -1
+    019-068-06:
+      vote: 0
+    019-075-01:
+      vote: 1
+    019-083-05:
+      vote: 1
+    019-086-01:
+      vote: 0
+    019-098-04:
+      vote: -1
+    019-108-03:
+      vote: 0
+    019-118-02:
+      vote: -1
+    019-119-02:
+      vote: 1
+    019-127-02:
+      vote: 1
+    019-127-04:
+      vote: 1
+    019-127-05:
+      vote: 1
+    019-137-03:
+      vote: -1
+    019-137-06:
+      vote: 1
+    019-140-01:
+      vote: -1
+    019-201-01:
+      vote: -1
+    019-218-02:
+      vote: 1
+    019-220-01:
+      vote: 0
+    019-223-06:
+      vote: -1
+    019-227-04:
+      vote: -1
+    019-229-02:
+      vote: 1
+    019-233-02:
+      vote: -1
     bundeswehr:
       vote: 1
 - id: Weeser-Sandra-fdp
@@ -30669,6 +30835,38 @@ candidates:
       vote: -1
     019-098-04:
       vote: 1
+    019-108-03:
+      vote: 0
+    019-118-02:
+      vote: 1
+    019-119-02:
+      vote: -1
+    019-127-02:
+      vote: -1
+    019-127-04:
+      vote: -1
+    019-127-05:
+      vote: 1
+    019-137-03:
+      vote: -1
+    019-137-06:
+      vote: 0
+    019-140-01:
+      vote: 0
+    019-201-01:
+      vote: 1
+    019-218-02:
+      vote: 0
+    019-220-01:
+      vote: -1
+    019-223-06:
+      vote: -1
+    019-227-04:
+      vote: 1
+    019-229-02:
+      vote: 0
+    019-233-02:
+      vote: -1
     bundeswehr:
       vote: -1
 - id: Brandt-Michel-die-linke
@@ -33197,6 +33395,50 @@ candidates:
     019-011-02:
       vote: -1
     019-021-01:
+      vote: -1
+    019-061-02:
+      vote: 1
+    019-068-06:
+      vote: -1
+    019-075-01:
+      vote: -1
+    019-083-05:
+      vote: 1
+    019-086-01:
+      vote: 0
+    019-098-04:
+      vote: 1
+    019-108-03:
+      vote: 0
+    019-118-02:
+      vote: 1
+    019-119-02:
+      vote: -1
+    019-127-02:
+      vote: -1
+    019-127-04:
+      vote: -1
+    019-127-05:
+      vote: -1
+    019-137-03:
+      vote: -1
+    019-137-06:
+      vote: -1
+    019-140-01:
+      vote: -1
+    019-201-01:
+      vote: 1
+    019-218-02:
+      vote: 0
+    019-220-01:
+      vote: -1
+    019-223-06:
+      vote: -1
+    019-227-04:
+      vote: 1
+    019-229-02:
+      vote: 1
+    019-233-02:
       vote: -1
     bundeswehr:
       vote: -1
@@ -37667,59 +37909,6 @@ candidates:
       vote: 0
     bundeswehr:
       vote: 0
-- id: Glaser-Albrecht-afd
-  publishPersonalInfo: true
-  name: Albrecht Glaser
-  party: AfD
-  positions:
-    019-021-01:
-      vote: 1
-    019-061-02:
-      vote: -1
-    019-068-06:
-      vote: 1
-    019-075-01:
-      vote: 1
-    019-083-05:
-      vote: -1
-    019-086-01:
-      vote: 1
-    019-098-04:
-      vote: -1
-    019-108-03:
-      vote: -1
-    019-118-02:
-      vote: -1
-    019-119-02:
-      vote: 1
-    019-127-02:
-      vote: 0
-    019-127-04:
-      vote: 1
-    019-127-05:
-      vote: -1
-    019-137-03:
-      vote: -1
-    019-137-06:
-      vote: 1
-    019-140-01:
-      vote: -1
-    019-201-01:
-      vote: -1
-    019-218-02:
-      vote: -1
-    019-220-01:
-      vote: 1
-    019-223-06:
-      vote: -1
-    019-227-04:
-      vote: -1
-    019-229-02:
-      vote: -1
-    019-233-02:
-      vote: -1
-    bundeswehr:
-      vote: 0
 - id: Kuhle-Konstantin-fdp
   publishPersonalInfo: true
   name: Konstantin Kuhle
@@ -37763,59 +37952,6 @@ candidates:
       vote: 1
     019-220-01:
       vote: -1
-    019-223-06:
-      vote: -1
-    019-227-04:
-      vote: -1
-    019-229-02:
-      vote: 1
-    019-233-02:
-      vote: -1
-    bundeswehr:
-      vote: 1
-- id: Vogel-Olpe-Johannes-fdp
-  publishPersonalInfo: true
-  name: Johannes Vogel (Olpe)
-  party: FDP
-  positions:
-    019-021-01:
-      vote: -1
-    019-061-02:
-      vote: -1
-    019-068-06:
-      vote: 0
-    019-075-01:
-      vote: 1
-    019-083-05:
-      vote: 1
-    019-086-01:
-      vote: 0
-    019-098-04:
-      vote: -1
-    019-108-03:
-      vote: 0
-    019-118-02:
-      vote: -1
-    019-119-02:
-      vote: 1
-    019-127-02:
-      vote: 1
-    019-127-04:
-      vote: 1
-    019-127-05:
-      vote: 1
-    019-137-03:
-      vote: -1
-    019-137-06:
-      vote: 1
-    019-140-01:
-      vote: -1
-    019-201-01:
-      vote: -1
-    019-218-02:
-      vote: 1
-    019-220-01:
-      vote: 0
     019-223-06:
       vote: -1
     019-227-04:
@@ -37877,57 +38013,6 @@ candidates:
       vote: -1
     bundeswehr:
       vote: 1
-- id: Link-Heilbronn-Michael-Georg-fdp
-  publishPersonalInfo: true
-  name: Michael Georg Link (Heilbronn)
-  party: FDP
-  positions:
-    019-061-02:
-      vote: -1
-    019-068-06:
-      vote: 0
-    019-075-01:
-      vote: 1
-    019-083-05:
-      vote: 0
-    019-086-01:
-      vote: 0
-    019-098-04:
-      vote: 0
-    019-108-03:
-      vote: 0
-    019-118-02:
-      vote: -1
-    019-119-02:
-      vote: 1
-    019-127-02:
-      vote: 1
-    019-127-04:
-      vote: 1
-    019-127-05:
-      vote: 1
-    019-137-03:
-      vote: -1
-    019-137-06:
-      vote: 1
-    019-140-01:
-      vote: 1
-    019-201-01:
-      vote: -1
-    019-218-02:
-      vote: 1
-    019-220-01:
-      vote: -1
-    019-223-06:
-      vote: -1
-    019-227-04:
-      vote: -1
-    019-229-02:
-      vote: 0
-    019-233-02:
-      vote: -1
-    bundeswehr:
-      vote: 1
 - id: Willkomm-Katharina-fdp
   publishPersonalInfo: true
   name: Katharina Willkomm
@@ -37979,57 +38064,6 @@ candidates:
       vote: -1
     bundeswehr:
       vote: 1
-- id: Schreiber-Eva-Maria-die-linke
-  publishPersonalInfo: true
-  name: Eva-Maria Schreiber
-  party: DIE-LINKE
-  positions:
-    019-061-02:
-      vote: 1
-    019-068-06:
-      vote: -1
-    019-075-01:
-      vote: -1
-    019-083-05:
-      vote: 1
-    019-086-01:
-      vote: 0
-    019-098-04:
-      vote: 1
-    019-108-03:
-      vote: 0
-    019-118-02:
-      vote: 1
-    019-119-02:
-      vote: -1
-    019-127-02:
-      vote: -1
-    019-127-04:
-      vote: -1
-    019-127-05:
-      vote: -1
-    019-137-03:
-      vote: -1
-    019-137-06:
-      vote: -1
-    019-140-01:
-      vote: -1
-    019-201-01:
-      vote: 1
-    019-218-02:
-      vote: 0
-    019-220-01:
-      vote: -1
-    019-223-06:
-      vote: -1
-    019-227-04:
-      vote: 1
-    019-229-02:
-      vote: 1
-    019-233-02:
-      vote: -1
-    bundeswehr:
-      vote: -1
 - id: Manderla-Gisela-cdu-csu
   publishPersonalInfo: true
   name: Gisela Manderla
@@ -38271,45 +38305,6 @@ candidates:
       vote: -1
     bundeswehr:
       vote: 0
-- id: Bluhm-F-rster-Heidrun-die-linke
-  publishPersonalInfo: true
-  name: "Heidrun Bluhm-F\xF6rster"
-  party: DIE-LINKE
-  positions:
-    019-108-03:
-      vote: 0
-    019-118-02:
-      vote: 1
-    019-119-02:
-      vote: -1
-    019-127-02:
-      vote: -1
-    019-127-04:
-      vote: -1
-    019-127-05:
-      vote: 1
-    019-137-03:
-      vote: -1
-    019-137-06:
-      vote: 0
-    019-140-01:
-      vote: 0
-    019-201-01:
-      vote: 1
-    019-218-02:
-      vote: 0
-    019-220-01:
-      vote: -1
-    019-223-06:
-      vote: -1
-    019-227-04:
-      vote: 1
-    019-229-02:
-      vote: 0
-    019-233-02:
-      vote: -1
-    bundeswehr:
-      vote: -1
 - id: Freudenstein-Astrid-cdu-csu
   publishPersonalInfo: true
   name: Dr. Astrid Freudenstein
@@ -38370,43 +38365,6 @@ candidates:
       vote: 1
     bundeswehr:
       vote: 1
-- id: Korkmaz-Emre-Elvan-spd
-  publishPersonalInfo: true
-  name: Elvan Korkmaz-Emre
-  party: SPD
-  positions:
-    019-118-02:
-      vote: 0
-    019-119-02:
-      vote: 1
-    019-127-02:
-      vote: -1
-    019-127-04:
-      vote: -1
-    019-127-05:
-      vote: 1
-    019-137-03:
-      vote: 1
-    019-137-06:
-      vote: -1
-    019-140-01:
-      vote: -1
-    019-201-01:
-      vote: 1
-    019-218-02:
-      vote: -1
-    019-220-01:
-      vote: -1
-    019-223-06:
-      vote: 0
-    019-227-04:
-      vote: -1
-    019-229-02:
-      vote: -1
-    019-233-02:
-      vote: -1
-    bundeswehr:
-      vote: 0
 - id: Mackensen-Isabel-spd
   publishPersonalInfo: true
   name: Isabel Mackensen
@@ -38440,6 +38398,8 @@ candidates:
       vote: -1
     019-229-02:
       vote: -1
+    019-233-02:
+      vote: 0
     bundeswehr:
       vote: 1
 - id: Heidt-Peter-fdp
@@ -39045,15 +39005,6 @@ candidates:
       vote: -1
     019-233-02:
       vote: 1
-    bundeswehr:
-      vote: 1
-- id: Mackensen-Geis-Isabel-spd
-  publishPersonalInfo: true
-  name: Isabel Mackensen-Geis
-  party: SPD
-  positions:
-    019-233-02:
-      vote: 0
     bundeswehr:
       vote: 1
 - id: Emmerich-Marcel-buendnis-90-die-gruenen
