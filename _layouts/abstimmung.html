@@ -2,29 +2,29 @@
 layout: default
 ---
 
-  <div id="page">
-    <header class="page-header">
-      <h2>{{ page.title }}</h2>
-    </header>
+<div id="page">
+	<header class="page-header">
+		<h2>{{ page.title }}</h2>
+	</header>
 
-    <article class="page-content abstimmung">
-			
-			
-			
-			<div class="abstimmung-left">
-			
-			<div class="abstimmungs-id">
+	<article class="page-content abstimmung">
+
+
+
+		<div class="abstimmung-left">
+
+			<div class="abstimmungs-id abstimmungs-meta-widget">
 				<ul>
 					<li>Legislaturperiode: <strong>{{ page.abstimmung.legislaturperiode }}</strong></li>
 					<li>Bundestagssitzung: <strong>{{ page.abstimmung.bundestagssitzung }}</strong></li>
 					<li>Abstimmung: <strong>{{ page.abstimmung.abstimmung }}</strong></li>
-					<li>Datum: <strong>{{ page.abstimmung.datum }}</strong></li>
+					<li>{{ page.abstimmung.datum | datum_display}}</li>
 				</ul>
 			</div>
-			
-			
-			
-			
+
+
+
+
 			{% if page.ergebnis %}
 			<div class="ergebnis">
 				<h3>Abstimmungsergebnis</h3>
@@ -34,105 +34,123 @@ layout: default
 							<th>Partei</th>
 							<th>Ja</th>
 							<th>Nein</th>
-							<th>Enthaltungen</th>
+							<th>Enthalten</th>
 							<th>Ungültig</th>
 							<th>Nicht Abgegeben</th>
 						</tr>
 					</thead>
 					<tbody>
-					{% for party in page.ergebnis %}
+						{% for party in page.ergebnis %}
 						{% unless party[0] == "file" %}
-						<tr class="party-ergebnis party-{{party[0] | slugify }} party-ergebnis-{% if party[1].ja > party[1].nein %}ja{% else %}nein{% endif %}">
+						{% assign max = party[1] | ergebnis_max %}
+						<tr
+							class="party-ergebnis party-{{party[0] | slugify }} party-ergebnis-{% if party[1].ja > party[1].nein %}ja{% else %}nein{% endif %}">
 							<td class="partyname"><span class="party-name">{{party[0] | party_name}}</span></td>
-							<td {% if party[1].ja > party[1].nein %}class="party-ergebnis-decision"{% endif %}><span class="party-ja">{{party[1].ja}}</span>
-							<td {% if party[1].ja < party[1].nein %}class="party-ergebnis-decision"{% endif %}><span class="party-nein">{{party[1].nein}}</span>
-							<td><span class="party-enthaltung">{{party[1].enthaltung}}</span>
-							<td><span class="party-ungueltig">{{party[1].ungueltig}}</span>
-							<td><span class="party-nichtabgegeben">{{party[1].nichtabgegeben}}</span>
+							<td {% if party[1].ja==max %}class="party-ergebnis-decision" {% endif %}><span
+									class="party-ja">{{party[1].ja}}</span>
+							<td {% if party[1].nein==max %}class="party-ergebnis-decision" {% endif %}><span
+									class="party-nein">{{party[1].nein}}</span>
+							<td {% if party[1].enthaltung==max %}class="party-ergebnis-decision" {% endif %}><span
+									class="party-enthaltung">{{party[1].enthaltung}}</span>
+							<td {% if party[1].ungueltig==max %}class="party-ergebnis-decision" {% endif %}><span
+									class="party-ungueltig">{{party[1].ungueltig}}</span>
+							<td {% if party[1].nichtabgegeben==max %}class="party-ergebnis-decision" {% endif %}><span
+									class="party-nichtabgegeben">{{party[1].nichtabgegeben}}</span>
 						</tr>
 						{% endunless %}
-					{% endfor %}
+						{% endfor %}
 					</tbody>
 				</table>
-				
+
 				{% if page.data %}
 				<div class="ergebnis-docs">
 					<h4>Offizielle Dokumente zur Abstimmung</h4>
 					<ul>
-					{% for d in page.data %}
+						{% for d in page.data %}
 						<li>
 							<a href="{{ d.url }}" title="{{d.title}}">
 								{{d.title}}
 							</a>
 						</li>
-					{% endfor %}
+						{% endfor %}
 					</ul>
 				</div>
 				{% endif %}
-				
+
 			</div>
 			{% endif %}
-			
+
 			{% if page.links %}
 			<div class="external-links">
 				<h3>Weiterführendes Material</h3>
 				<ul>
-				{% for link in page.links%}
+					{% for link in page.links%}
 					<li>
 						<a href="{{ link.url }}" title="{{link.title}}">
 							{{link.title}}
 						</a>
 					</li>
-				{% endfor %}
+					{% endfor %}
 				</ul>
 			</div>
 			{% endif %}
-			
-			{% if page.documents %}
-			<div class="documents">
-				<h3>Dokumente</h3>
-				<ul>
-				{% for doc in page.documents%}
-					<li>
-						<a href="{{ doc.url }}" title="{{doc.title}}">
-							{{doc.title}}
-						</a>
-						
-						{% if doc.local %}
-						(<a href="{{ doc.local }}" title="local version of {{doc.title}}">lokale Kopie</a>)
-						{% endif %}
-						
-					</li>
-				{% endfor %}
-				</ul>
-			</div>
-			{% endif %}
-			
-			</div>
-			
-			
+
+		</div>
+
+
+		{% if page.preview or page.documents %}
+		<div class="abstimmung-right">
 			{% if page.preview %}
 			<div class="preview">
 				<h3>Vorschau</h3>
 				<blockquote>
-				{{ page.preview | markdownify }}
+					{{ page.preview | markdownify }}
 				</blockquote>
 			</div>
 			{% endif %}
-			
-			
-    </article>
-    <div style="clear:both"></div>
 
-    {% include categories.html %}
+			{% if page.documents %}
+			<div class="documents">
+				<h3>Dokumente</h3>
+				<ul>
+					{% for doc in page.documents%}
+					<li>
+						<a href="{{ doc.url }}" title="{{doc.title}}">
+							{{doc.title}}
+						</a>
 
-  
-  </div><!-- end page content -->
+						{% if doc.local %}
+						(<a href="{{ doc.local }}" title="local version of {{doc.title}}">lokale Kopie</a>)
+						{% endif %}
+
+						{% if doc.summary %}
+						<blockquote data-ai-generated="true" class="ai-generated">
+							<img src="/img/robot_thumb.png" title="Mit künstlicher 'Intelligenz' erstellt."
+								alt="Icon von einem Roboterkopf" class="ai-robohead">
+							{{doc.summary | markdownify}}
+						</blockquote>
+						{% endif %}
+					</li>
+					{% endfor %}
+				</ul>
+			</div>
+			{% endif %}
+		</div>
+		{% endif %}
+
+
+	</article>
+	<div style="clear:both"></div>
+
+	{% include categories.html %}
+
+
+</div><!-- end page content -->
 
 
 {% include share.html %}
 
-  {% if site.owner.disqus-shortname and page.comments == true %}
-  <div id="disqus_thread"></div>
-  {% include disqus.html %}
-  {% endif %}
+{% if site.owner.disqus-shortname and page.comments == true %}
+<div id="disqus_thread"></div>
+{% include disqus.html %}
+{% endif %}
