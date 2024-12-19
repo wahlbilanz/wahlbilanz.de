@@ -22,3 +22,17 @@ steps:
       from_secret: docker_repo
     registry:
       from_secret: docker_registry
+
+- name: notify
+  image: drillster/drone-email
+  settings:
+    host:
+      from_secret: drone_mail_host
+    username:
+      from_secret: drone_mail_user
+    password:
+      from_secret: drone_mail_password
+    from: drone-noreply@binfalse.de
+  when:
+    status: [ success, failure ]
+
