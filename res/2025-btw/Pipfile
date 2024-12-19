@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+beautifulsoup4 = "*"
+requests = "*"
+html5lib = "*"
+pandas = "*"
+openpyxl = "*"
+python-magic = "*"
+argparse = "*"
+dataclasses-json = "*"
+duckdb = "*"
+google-generativeai = "*"
+pyyaml = "*"
+
+[dev-packages]
+ipython = "*"
+
+[requires]
+python_version = "3.12"

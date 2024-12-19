@@ -1,43 +1,60 @@
-
 .ergebnis-table {
+
 	// width: auto;
-  td
-  {
-    padding: 15px;
-    text-align: center;
-    border-radius: 0;
-    &.party-ergebnis-decision {
-      font-weight: bold;
-      background-color: lighten($primary, 25%);
-    }
-    &.partyname {
-      text-align: left
-    }
-  }
+	td {
+		padding: 15px;
+		text-align: center;
+		border-radius: 0;
+
+		&.party-ergebnis-decision {
+			font-weight: bold;
+			background-color: lighten($primary, 25%);
+		}
+
+		&.partyname {
+			text-align: left
+		}
+	}
 }
 
 
-.abstimmung-left > div,
-.abstimmung .preview
-{
+.abstimmung-left>div,
+.abstimmung-right>div {
 	background-color: #fafafa;
 	border: 1px solid;
 	border-radius: 20px;
 	padding: 10px 25px;
 	margin: 10px;
+
+	time {
+		font-weight: bold;
+	}
+
+	img.ai-robohead {
+		background: #fafafa;
+	}
+
 }
 
-.abstimmung-left
-{
+.abstimmung-left {
 	@include media-query($larger-screen) {
 		width: 50%;
 		float: left;
 	}
 }
-.abstimmung > .preview
-{
+
+.abstimmung-right {
 	@include media-query($larger-screen) {
 		float: right;
 		width: 45%;
+	}
+}
+
+blockquote.ai-generated {
+	img.ai-robohead {
+		height: 50px;
+		margin-left: -42px;
+		padding: 5px;
+		position: absolute;
 	}
 }
