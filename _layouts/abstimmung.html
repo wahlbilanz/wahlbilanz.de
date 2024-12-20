@@ -19,6 +19,10 @@ layout: default
 					<li>Bundestagssitzung: <strong>{{ page.abstimmung.bundestagssitzung }}</strong></li>
 					<li>Abstimmung: <strong>{{ page.abstimmung.abstimmung }}</strong></li>
 					<li>{{ page.abstimmung.datum | datum_display}}</li>
+					<li>ID: <strong>{{ page.abstimmung.legislaturperiode | prepend: "000" | slice: -3, 3 }}-{{
+							page.abstimmung.bundestagssitzung | prepend: "000" | slice: -3, 3 }}-{{
+							page.abstimmung.abstimmung |
+							prepend: "000" | slice: -2, 2 }}</strong></li>
 				</ul>
 			</div>
 
