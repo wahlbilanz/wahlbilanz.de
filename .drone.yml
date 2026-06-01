@@ -10,7 +10,7 @@ steps:
 
 - name: docker
   pull: if-not-exists
-  image: plugins/docker
+  image: plugins/kaniko
   settings:
     pull: false
     pull_image: false
